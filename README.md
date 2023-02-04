@@ -30,7 +30,8 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Facebook](https://www.facebook.com/42Network/)
 - [Linkedin](https://www.linkedin.com/school/42network/)
 - [GitHub](https://github.com/42School/)
-- [Discord](https://discord.com/invite/42/)
+- [Official Discord](https://discord.com/invite/42/)
+- [Unofficial Discord](https://discord.gg/wsrkKE4/)
 
 ## CHEATSHEET
 
@@ -41,7 +42,10 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Devhints](https://devhints.io/) - Collection of various cheat sheets.
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheat sheets, blogs, hacks, one-liners, cli/web tools and more. 
-- [All Subjects of 42 School](https://github.com/agavrel/42_Subjects) - 2016 (Paris)
+
+## SUBJECTS
+- [Paris - 2016 | All Subjects](https://github.com/agavrel/42_Subjects/) - Agavrel
+- [Paris - 2017 | All Subjects](https://github.com/Binary-Hackers/) - Binary Hackers
 
 ## TOOLS
 
@@ -68,11 +72,13 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Explain Shell](https://explainshell.com/) - Explains shell commands.
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
 
+## CLUBS & ASSOCIATIONS
+- [[FR]42 AI - Association](https://www.42ai.fr/) - For Artificial Intelligence enthusiasts.
+- [[FR]La Contre-Voie](https://lacontrevoie.fr/) - Promotion of free culture and ethics. 
+
 ### AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
-
-
 
 ### Fun
 - https://fakeupdate.net/
