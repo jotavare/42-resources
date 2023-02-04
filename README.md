@@ -39,7 +39,7 @@ AI
 - [Programming Notes for Professionals Books](https://books.goalkicker.com/)
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
-- [Lucidchart](https://www.lucidchart.com/pages/) - Lucidchart is a web-based diagramming application 
+- [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application. 
 
 ## CAMPUSES
 
