@@ -32,6 +32,7 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet/)
 - [Markdown Cheat Sheet](https://github.com/tchapi/markdown-cheatsheet/)
 - [Devhints](https://devhints.io/) - Collection of various cheat sheets.
+- [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) Awesome cheatsheets for popular programming languages, frameworks and development tools.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheat sheets, blogs, hacks, one-liners, cli/web tools and more. 
 
 ## TOOLS
