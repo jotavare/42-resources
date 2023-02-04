@@ -21,7 +21,6 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 
 ### TOOLS
 
-42
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
 - [42 XP Calculator](https://42.tbailleu.dev/) - Calculate how much exp you need for the next level.
 - [42 Stupidity](https://github.com/mirror12k/42us-stupidity/) - A tool for quickly test solutions for the piscine exercises.
@@ -32,7 +31,7 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 - [42 CTF](https://www.42ctf.org/en/) - Cybersecurity competition, solve challenges of various categories to gain points and progress on the scoreboard.
 
 GDB
-- [GDB online Debugger](https://www.onlinegdb.com/) - Compiler & Debugger for a lot of programming languages.
+- [GDB Online Debugger](https://www.onlinegdb.com/) - Compiler & Debugger for a lot of programming languages.
 - [Python Tutor](https://pythontutor.com/) - Compiler & Debugger for Python, JavaScript, C, C++, and Java.
 
 Shell
