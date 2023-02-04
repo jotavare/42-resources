@@ -33,13 +33,16 @@ AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
 
+Others
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
 - [Piscine Exam Questions & Solutions](http://nigal.freeshell.org/42/)
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
 - [Programming Notes for Professionals Books](https://books.goalkicker.com/)
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
-- [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application. 
+- [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application.
+- [YayText](https://yaytext.com/) Generate a variety of cool unicode font styles that you can copy and paste almost anywhere.
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
 
 ## CAMPUSES
 
