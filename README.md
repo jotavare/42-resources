@@ -47,7 +47,7 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [42 Holygraph - 2021](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
 - [Paris - 2016](https://github.com/agavrel/42_Subjects/) - Agavrel
 - [Paris - 2017](https://github.com/Binary-Hackers/) - Binary Hackers
-- 
+
 ## CHEATSHEET
 
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheat sheet for C and 42 in general.
