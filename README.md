@@ -122,12 +122,13 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 
 ## MOOCS & BOOKS
 ### Plataforms
-- [Wikipedia](https://www.wikipedia.org/)
+- [Wikipedia](https://www.wikipedia.org/) - Did he really just post the Wikipedia link?!
 - [Udemy](https://www.udemy.com/) `free` `paid`
 - [Google Codelabs](https://codelabs.developers.google.com/)
 - [Codecademy](https://www.codecademy.com/)
 - [Coursera](https://www.coursera.org/) `7 day trial` `free` `paid` 
 - [edX](https://www.edx.org/)
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
 
 ### Courses
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/) `free`
@@ -141,14 +142,13 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
 - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles that you can copy and paste almost anywhere.
-- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 - [Spicetify](https://spicetify.app/)
 
 ## FUN & MEMES
 - [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `Enter - BSOD`
 - [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) `youtube`
-- [Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) `youtube`
+- [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) `youtube`
 - [[FR] Memes](https://www.instagram.com/duoquadra_meme/) `instagram`
 
 ## CAMPUSES
