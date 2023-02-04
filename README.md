@@ -100,9 +100,17 @@ For a specific 42 School social media, check the website in the section **['CAMP
 ## EXTENSIONS AND APPS
 
 ### VScode
-Norminette v3.x highlighter for VScode
-Header 42 for VScode
-
+- [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header/)
+- [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42/)
+- [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3/)
+- [42 Norminette](https://marketplace.visualstudio.com/items?itemName=dalexhd.42-norminette/)
+- [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format/)
+- [42 Header (Long)](https://marketplace.visualstudio.com/items?itemName=secondfry.42header-long/)
+- [42 Snippets](https://marketplace.visualstudio.com/items?itemName=ColeHughes.42-snippets/)
+- [42 Comment](https://marketplace.visualstudio.com/items?itemName=nasanov.42-comment/)
+- [42 Header OneShot](https://marketplace.visualstudio.com/items?itemName=nakamo326.42-header-oneshot/)
+- [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line/)
+- 
 ### Apps
 - [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Android, written in Java.
 - [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - iOS, written in Swift.
