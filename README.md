@@ -10,7 +10,8 @@
 
 ### Campuses 
 
-[All 42 Campuses](https://www.42network.org/42-schools/)
+- [All 42 Campuses](https://www.42network.org/42-schools/)
+- [42 World Map](https://github.com/jotavare/42-resources/blob/main/42-campuses-world-map.jpg/)
 
 Europe
 - [42 Yerevan](https://42yerevan.am/) - Armenia
