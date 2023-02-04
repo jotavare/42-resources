@@ -19,6 +19,13 @@
 
 For a specific 42 School social media, check the website in the section 'CAMPUSES' of your choice.
 
+### TOOLS
+
+Compiler & Debugger 
+- [Python Tutor](https://pythontutor.com/) -  Python, JavaScript, C, C++, and Java.
+- [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
+- [GradeMe](https://explainshell.com/) - Explains shell commands.
+
 ## CAMPUSES
 
 - [All 42 Campuses](https://www.42network.org/42-schools/)
