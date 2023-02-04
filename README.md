@@ -58,7 +58,7 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - https://spicetify.app/
 
 ### Extensions
-I recommend only instaling improved intra because its a all in one extension for both chrome and firefox.
+I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox.
 
 - [Improved Intra 42](https://github.com/FreekBes/improved_intra) `firefox` `chrome`
 - [42 Logtime & Darkmode](https://chrome.google.com/webstore/detail/42-logtime-darkmode/kkcjiilcfieknbpdhihhhncdbligjplg) `chrome`
