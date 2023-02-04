@@ -11,6 +11,7 @@
 ### SOCIAL
 
 - [42 Network](https://www.42network.org/)
+- [Instagram](https://www.instagram.com/42_network/)
 - [Twitter](https://twitter.com/42Network/)
 - [Facebook](https://www.facebook.com/42Network/)
 - [Linkedin](https://www.linkedin.com/school/42network/)
