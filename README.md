@@ -114,10 +114,10 @@ For a specific 42 School social media, check the website in the section **['CAMP
 ### BROWSER
 I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox.
 - [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
+- [Better Black Hole](https://github.com/jkctech/BetterBlackHole) `chrome` `firefox`
 - [42 Logtime & Darkmode](https://chrome.google.com/webstore/detail/42-logtime-darkmode/kkcjiilcfieknbpdhihhhncdbligjplg) `chrome`
 - [42 Log time](https://chrome.google.com/webstore/detail/42logtime/fkcfecmfcfmealjioddcpgghpmdgbeag) `chrome`
 - [ft_logtime](https://chrome.google.com/webstore/detail/ftlogtime/mnohnflacgkmhaocfhhmjeeciibiciep) `chrome`
-- [Better Black Hole](https://github.com/jkctech/BetterBlackHole) `chrome` `firefox`
 - [ft_blackhole](https://chrome.google.com/webstore/detail/ftblackhole/pofhnleglcpmmkkaohhadcmombagfeie) `chrome`
 - [Intra Friends 42](https://chrome.google.com/webstore/detail/intrafriends42/baehliedggippdholddgbdlhhmiaoioc) `chrome`
 - [42 Assistant](https://chrome.google.com/webstore/detail/42assistant/nadppnpnlnbcihgpaacbibidcdigdllh) `chrome`
