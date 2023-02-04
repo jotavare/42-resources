@@ -153,11 +153,11 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [Spicetify](https://spicetify.app/)
 
 ## FUN, GAMES & MEMES
-- [Reeborg's World](https://reeborg.ca/reeborg.html/) - Website designed to help people learn programming. `recommend`
+- [Reeborg's World](https://reeborg.ca/reeborg.html/) - Website designed to help people learn programming. `Recommended`
 - [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `Enter - BSOD`
-- [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) `youtube`
-- [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) `youtube`
-- [[FR] Memes](https://www.instagram.com/duoquadra_meme/) `instagram`
+- [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) - `Youtube`
+- [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) - `Youtube`
+- [[FR] Memes](https://www.instagram.com/duoquadra_meme/) - `Instagram`
 
 ## CAMPUSES
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools/)
