@@ -2,10 +2,13 @@
 
 ### INDEX
 
-| <!-- --> | <!-- --> |
-| :-------------: | :-------------: |
-| **[NETWORK](#network)**  | **[TOOLS](#tools)** |
-| **[SOCIAL](#social)**  | **[CAMPUSES](#campuses)** |
+| **[CAMPUSES](#campuses)** | **[NETWORK](#network)** | **[TOOLS](#tools)** | **[SOCIAL](#social)** |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| **[Europe](#europe)** | **[NETWORK](#network)** | **[TOOLS](#tools)** | **[SOCIAL](#social)** |
+| **[Asia](#asia)** | **[NETWORK](#network)** | **[TOOLS](#tools)** | **[SOCIAL](#social)** |
+| **[Americas](#americas)** | **[NETWORK](#network)** | **[TOOLS](#tools)** | **[SOCIAL](#social)** |
+| **[Africa](#africa)** | **[NETWORK](#network)** | **[TOOLS](#tools)** | **[SOCIAL](#social)** |
+| **[Oceania](#oceania)** | **[NETWORK](#network)** | **[TOOLS](#tools)** | **[SOCIAL](#social)** |
 
 ### NETWORK
 
