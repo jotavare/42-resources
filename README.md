@@ -87,10 +87,6 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Thonny](https://thonny.org/) - Thonny is an IDE for Python that is designed for beginners.
 - [Replit](https://replit.com/login) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
 
-###### **IDE** - Integrated Development Environment is a software application that provides comprehensive facilities to computer programmers for software development.
-###### **Compiler** - Is a computer program that translates computer code written in one programming language into another language.
-###### **DEBUGGERS** - A debugger or debugging tool is a computer program used to test and debug other programs.
-
 ## Shell
 - [Explain Shell](https://explainshell.com/) - Explains shell commands.
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
@@ -156,7 +152,8 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 - [Spicetify](https://spicetify.app/)
 
-## FUN & MEMES
+## FUN, GAMES & MEMES
+- [Reeborg's World](https://reeborg.ca/reeborg.html/) - Website designed to help people learn programming. `recommend`
 - [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `Enter - BSOD`
 - [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) `youtube`
 - [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) `youtube`
