@@ -22,10 +22,14 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 ### TOOLS
 
 42
-- [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at @42School
-- [42 XP Calculator](https://42.tbailleu.dev/)
+- [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
+- [42 XP Calculator](https://42.tbailleu.dev/) - Tool for quickly test solutions for the piscine exercises.
+- [42 Stupidity](https://github.com/mirror12k/42us-stupidity/)
+- [RP42](https://github.com/alexandregv/RP42/) - Discord Rich Presence integration for 42 School.
 - [Find Peers](https://find-peers.codam.nl/) - Website meant to help students to find peers that are working on the same project.
 - [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr/) and still in beta. You can check clusters from 🇫🇮 Helsinki, 🇪🇸 Malaga, 🇫🇷 Paris, 🇰🇷 Seoul and 🇦🇹 Vienna.
+- [42 Evaluators](https://42evaluators.com/) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
+- [42 CTF](https://www.42ctf.org/en/) - CTF stands for Capture The Flag. It's a cybersecurity competition, where 42 students solve challenges of various categories to gain points and progress on the scoreboard.
 
 GDB
 - [GDB online Debugger](https://www.onlinegdb.com/) - Compiler & Debugger for a lot of programming languages.
@@ -53,6 +57,7 @@ Others
 - [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application.
 - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles that you can copy and paste almost anywhere.
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
+- [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 
 ## CAMPUSES
 
