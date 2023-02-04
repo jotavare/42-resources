@@ -7,3 +7,10 @@
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Oficial 42 forum.
 - [GitHub Student Pack Portal](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. (Includes Github Pro)
 - [Alumni](https://alumni.42.fr/) - 42Alumni Network
+
+### Campus
+
+Africa
+- [Morocco][1337 – Ben Guerir](https://1337.ma/en/benguerir/)
+- [Morocco][1337 – Khouribga](https://1337.ma/en/khouribga/)
+- [Morocco][1337 – Med](https://1337.ma/en/campuses/)
