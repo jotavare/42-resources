@@ -10,10 +10,11 @@
 
 ### SOCIAL
 
-- [Website](https://www.42network.org/)
+- [42 Network](https://www.42network.org/)
 - [Twitter](https://twitter.com/42Network/)
 - [Facebook](https://www.facebook.com/42Network/)
 - [Linkedin](https://www.linkedin.com/school/42network/)
+- [GitHub](https://github.com/42School)
 
 For a specific 42 School social media, check the website in the section 'CAMPUSES' of your choice.
 
