@@ -8,7 +8,9 @@
 - [GitHub Student Pack Portal](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. (Includes Github Pro)
 - [Alumni](https://alumni.42.fr/) - 42Alumni Network
 
-### Campus
+### Campuses 
+
+[All 42 Campuses](https://www.42network.org/42-schools/)
 
 Europe
 - [42 Yerevan](https://42yerevan.am/) - Armenia
