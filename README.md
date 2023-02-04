@@ -41,7 +41,7 @@ Others
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
 - [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application.
-- [YayText](https://yaytext.com/) Generate a variety of cool unicode font styles that you can copy and paste almost anywhere.
+- [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles that you can copy and paste almost anywhere.
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
 
 ## CAMPUSES
