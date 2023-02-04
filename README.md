@@ -54,7 +54,7 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Paris - 2016](https://github.com/agavrel/42_Subjects/) - Agavrel
 - [Paris - 2017](https://github.com/Binary-Hackers/) - Binary Hackers
 
-## CHEATSHEETS
+### CHEATSHEETS
 - [42 School CheatSheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
 - [Git CheatSheet](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
