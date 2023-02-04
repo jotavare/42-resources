@@ -29,8 +29,7 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Piscine Exam Questions & Solutions](http://nigal.freeshell.org/42/)
-- [ASCII Table](https://www.asciitable.com/)
-  ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code
+- [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
 
 ## CAMPUSES
 
