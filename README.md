@@ -12,12 +12,12 @@ All contributtions are welcome.
 | **[GDB](#gdb)** | **[SHELL](#shell)** | **[AI](#ai)** | **[MOOCS](#moocs)** |
 | **[FUN](#fun)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
 
-## REWARDS
+## REWARDS (still testing)
 
-- [Office 365](https://www.microsoft.com/en-us/education/products/office) - Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. Use your 42 student email.
-- [GitHub Student Pack](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. Use your 42 student email.
-- [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application. Use your 42 student email.
-- [JetBrains](https://www.jetbrains.com/community/education/) : Integrated development environment Software (IDE). Use your 42 student email.
+- [Office 365](https://www.microsoft.com/en-us/education/products/office) - Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. `use 42 student email`
+- [GitHub Student Pack](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. `use 42 student email`
+- [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application. `use 42 student email`
+- [JetBrains](https://www.jetbrains.com/community/education/) - Integrated development environment Software (IDE). `use 42 student email`
 
 ## NETWORK
 
