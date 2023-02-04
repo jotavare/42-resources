@@ -76,11 +76,11 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - badge42 	[🚀 Dynamically generated 42 badge for your git readmes.](https://github.com/JaeSeoKim/badge42)
 - 1337 https://github.com/mohouyizme/1337-readme
 
-### GDB
+## GDB
 - [GDB Online Debugger](https://www.onlinegdb.com/) - Compiler & Debugger for a lot of programming languages.
 - [Python Tutor](https://pythontutor.com/) - Compiler & Debugger for Python, JavaScript, C, C++, and Java.
 
-### Shell
+## Shell
 - [Explain Shell](https://explainshell.com/) - Explains shell commands.
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
 
@@ -89,16 +89,11 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [[FR] La Contre-Voie](https://lacontrevoie.fr/) - Free culture and ethics.
 - [[FR] APT42](https://apt42.fr) Security.
 
-### AI
+## AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
 
-### Fun
-- https://fakeupdate.net/
-- https://spicetify.app/
-
 ## EXTENSIONS AND APPS
-
 ### VSCODE
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header/)
 - [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42/)
@@ -130,19 +125,7 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Written in Java. `Android`
 - [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - Written in Swift. `iOS`
 
-## MISC
-
-- [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
-- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
-- [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
-- [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles that you can copy and paste almost anywhere.
-- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
-- [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
-
-## Books
-- [Programming Notes for Professionals Books](https://books.goalkicker.com/)
-
-## MOOCS
+## MOOCS & BOOKS
 ### Plataforms
 
 - [Wikipedia](https://www.wikipedia.org/)
@@ -157,11 +140,17 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/) `free`
 - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 day trial`
 
-## MEMES
+### Books
+- [Programming Notes for Professionals Books](https://books.goalkicker.com/)
 
-- [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) `youtube`
-- [Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) `youtube`
-- [[FR] Memes](https://www.instagram.com/duoquadra_meme/) `isntagram`
+## MISC
+
+- [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
+- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
+- [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
+- [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles that you can copy and paste almost anywhere.
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
+- [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 
 ## CAMPUSES
 
@@ -224,3 +213,13 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 
 ### Oceania
 - 🇦🇺 [42 Adelaide](https://www.42adel.org.au/) - Australia
+
+### FUN
+- https://fakeupdate.net/
+- https://spicetify.app/
+
+## MEMES
+
+- [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) `youtube`
+- [Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) `youtube`
+- [[FR] Memes](https://www.instagram.com/duoquadra_meme/) `isntagram`
