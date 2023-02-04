@@ -4,8 +4,8 @@
 
 | <!-- --> | <!-- --> |
 | ------------- | ------------- |
-| [NETWORK](#network)  | [TOOLS](#tools) |
-| [SOCIAL](#social)  | [CAMPUSES](#campuses) |
+| **[NETWORK](#network)**  | **[TOOLS](#tools)** |
+| **[SOCIAL](#social)**  | **[CAMPUSES](#campuses)** |
 
 ### NETWORK
 
