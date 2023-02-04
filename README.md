@@ -82,8 +82,13 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 
 ## MOOCS
 ### Plataforms
+
+- https://www.udemy.com/
+- https://codelabs.developers.google.com/
+- https://www.codecademy.com/
+- https://www.wikipedia.org/
 - [Coursera](https://www.coursera.org/) -  Global online learning platform that offers access to online courses and degrees from universities and companies.
-- [edX](https://www.edx.org/) - Mission-driven, massive open online course (MOOC) provider
+- [edX](https://www.edx.org/) - Mission-driven, massive open online course (MOOC) provider.
 
 ### Courses
 
