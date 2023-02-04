@@ -3,7 +3,7 @@
 | First Header  | Second Header |
 | ------------- | ------------- |
 | [NETWORK](#network)  | [TOOLS](#tools) |
-| [SOCIAL](#social)  | CAMPUSES(#campuses) |
+| [SOCIAL](#social)  | [CAMPUSES](#campuses) |
 
 ### NETWORK
 
