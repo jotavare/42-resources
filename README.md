@@ -33,6 +33,10 @@ AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
 
+Courses
+- [Coursera](https://www.coursera.org/) -  Global online learning platform that offers access to online courses and degrees from universities and companies.
+- [edX](https://www.edx.org/) - Mission-driven, massive open online course (MOOC) provider
+
 Others
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
 - [Piscine Exam Questions & Solutions](http://nigal.freeshell.org/42/)
