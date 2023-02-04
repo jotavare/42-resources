@@ -60,6 +60,7 @@ For a specific 42 School social media, check the website in the section **['CAMP
 
 ### Extensions
 - Better Black Hole 
+- [Improved Intra 42](https://github.com/FreekBes/improved_intra) `firefox` `chrome`
 
 ### Misc
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
