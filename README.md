@@ -24,7 +24,7 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 42
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at @42School
 - [42 XP Calculator](https://42.tbailleu.dev/)
-- [Find Peers](https://find-peers.codam.nl/ - Website meant to help students to find peers that are working on the same project.
+- [Find Peers](https://find-peers.codam.nl/) - Website meant to help students to find peers that are working on the same project.
 - [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr/) and still in beta. You can check clusters from 🇫🇮 Helsinki, 🇪🇸 Malaga, 🇫🇷 Paris, 🇰🇷 Seoul and 🇦🇹 Vienna.
 
 GDB
