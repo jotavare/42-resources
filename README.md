@@ -8,6 +8,15 @@
 - [GitHub Student Pack Portal](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. (Includes Github Pro)
 - [Alumni](https://alumni.42.fr/) - 42Alumni Network
 
+### SOCIAL
+
+- [Website](https://www.42network.org/)
+- [Twitter](https://twitter.com/42Network/)
+- [Facebook](https://www.facebook.com/42Network/)
+- [Linkedin](https://www.linkedin.com/school/42network/)
+
+For specific a specific 42 School social media, check the website in the section 'CAMPUSES'.
+
 ### CAMPUSES
 
 - [All 42 Campuses](https://www.42network.org/42-schools/)
