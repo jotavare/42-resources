@@ -4,13 +4,11 @@
 
 | **[CAMPUSES](#campuses)** | **[NETWORK](#network)** | **[TOOLS](#tools)** | **[SOCIAL](#social)** |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| **[Europe](#europe)** | **[NETWORK](#network)** | **[TOOLS](#tools)** | **[SOCIAL](#social)** |
-| **[Asia](#asia)** | **[NETWORK](#network)** | **[TOOLS](#tools)** | **[SOCIAL](#social)** |
-| **[Americas](#americas)** | **[NETWORK](#network)** | **[TOOLS](#tools)** | **[SOCIAL](#social)** |
-| **[Africa](#africa)** | **[NETWORK](#network)** | **[TOOLS](#tools)** | **[SOCIAL](#social)** |
-| **[Oceania](#oceania)** | **[NETWORK](#network)** | **[TOOLS](#tools)** | **[SOCIAL](#social)** |
+| **[GDB](#gdb)** | **[SHELL](#shell)** | **[AI](#ai)** | **[COURSES](#courses)** |
+| **[FUN](#fun)** | **[EXTENSIONS](#extensions)** | **[OTHERS](#others)** | **[APPS](#apps)** |
 
-### NETWORK
+
+## NETWORK
 
 - [42 Intra](https://intra.42.fr/) - Oficial portal for everything related with 42.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Oficial slack channel for 42 students. (After Piscine)
@@ -18,7 +16,7 @@
 - [GitHub Student Pack Portal](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. (Includes Github Pro)
 - [Alumni](https://alumni.42.fr/) - 42Alumni Network
 
-### SOCIAL
+## SOCIAL
 
 - [42 Network](https://www.42network.org/)
 - [Instagram](https://www.instagram.com/42_network/)
@@ -29,7 +27,7 @@
 
 For a specific 42 School social media, check the website in the section 'CAMPUSES' of your choice.
 
-### TOOLS
+## TOOLS
 
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
 - [42 XP Calculator](https://42.tbailleu.dev/) - Calculate how much exp you need for the next level.
@@ -41,30 +39,30 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 - [42 CTF](https://www.42ctf.org/en/) - Cybersecurity competition, solve challenges of various categories to gain points and progress on the scoreboard.
 - [42 Holygraph](https://github.com/akaylee/42-holygraph) - Contains a graph with attached links to all subjects that are available in the Intra.
 
-GDB
+### GDB
 - [GDB Online Debugger](https://www.onlinegdb.com/) - Compiler & Debugger for a lot of programming languages.
 - [Python Tutor](https://pythontutor.com/) - Compiler & Debugger for Python, JavaScript, C, C++, and Java.
 
-Shell
+### Shell
 - [Explain Shell](https://explainshell.com/) - Explains shell commands.
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
 
-AI
+### AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
 
-Courses
+### Courses
 - [Coursera](https://www.coursera.org/) -  Global online learning platform that offers access to online courses and degrees from universities and companies.
 - [edX](https://www.edx.org/) - Mission-driven, massive open online course (MOOC) provider
 
-Fun
+### Fun
 - https://fakeupdate.net/
 - https://spicetify.app/
 
-Extensions
+### Extensions
 - Better Black Hole 
 
-Others
+### Others
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
 - [Piscine Exam Questions & Solutions](http://nigal.freeshell.org/42/)
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
@@ -76,9 +74,9 @@ Others
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 
-Books
+### Books
 
-Apps
+### Apps
 
 - [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Android, written in Java.
 - [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - iOS, written in Swift.
