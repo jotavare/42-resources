@@ -45,16 +45,16 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Paris - 2016](https://github.com/agavrel/42_Subjects/) - Agavrel
 - [Paris - 2017](https://github.com/Binary-Hackers/) - Binary Hackers
 
-## CHEATSHEET
-- [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheat sheet for C and 42 in general.
+## CHEATSHEETS
+- [42 School CheatSheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
-- [Git](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
-- [Bash](https://github.com/RehanSaeed/Bash-Cheat-Sheet/)
-- [Python](https://github.com/gto76/python-cheatsheet/)
-- [Markdown](https://github.com/tchapi/markdown-cheatsheet/)
+- [Git CheatSheet](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
+- [Bash CheatSheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet/)
+- [Python CheatSheet](https://github.com/gto76/python-cheatsheet/)
+- [Markdown CheatSheet](https://github.com/tchapi/markdown-cheatsheet/)
 - [Devhints](https://devhints.io/) - Collection of various cheat sheets.
-- [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheat sheets, blogs, hacks, one-liners, cli/web tools and more. 
+- [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheatsheets for popular programming languages, frameworks and development tools.
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. 
 
 ## TOOLS
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
