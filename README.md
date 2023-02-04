@@ -1,6 +1,6 @@
 ## 🛠️ 42 RESOURCES
 
-| First Header  | Second Header |
+| INDEX |
 | ------------- | ------------- |
 | [NETWORK](#network)  | [TOOLS](#tools) |
 | [SOCIAL](#social)  | [CAMPUSES](#campuses) |
