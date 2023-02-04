@@ -11,58 +11,58 @@
 ### Campus
 
 Europe
-- 42 Yerevan - Armenia 
-- 42 Vienna - Austria 
-- Belgium 19 – Antwerp
-- Belgium 19 – Brussels
-- Czech Republic 42 Prague
-- Finland Hive
-- France 42 Angoulême
-- France 42 Le Havre
-- France 42 Lyon
-- France 42 Mulhouse
-- France 42 Nice
-- France 42 Paris
-- France 42 Perpignan
-- Germany 42 Berlin
-- Germany 42 Heilbronn
-- Germany 42 Wolfsburg
-- Italy 42 Firenze
-- Italy 42 Roma
-- Luxembourg 42 Luxembourg
-- Netherlands Codam
-- Portugal 42 Lisboa
-- Portugal 42 Porto
-- Russia School 21 – Kazan
-- Russia School 21 - Moscow
-- Spain 42 Alicante
-- Spain 42 Barcelona
-- Spain 42 Madrid
-- Spain 42 Málaga
-- Spain 42 Urduliz
-- Switzerland 42 Lausanne
-- Turkey 42 Istanbul
-- United Kingdom 42 London
+- 42 Yerevan - Armenia
+- 42 Vienna - Austria
+- 19 – Antwerp - Belgium
+- 19 – Brussels - Belgium
+- 42 Prague - Czech Republic
+- Hive - Finland
+- 42 Angoulême - France
+- 42 Le Havre - France
+- 42 Lyon - France
+- 42 Mulhouse - France
+- 42 Nice - France
+- 42 Paris - France
+- 42 Perpignan - France
+- 42 Berlin - Germany
+- 42 Heilbronn - Germany
+- 42 Wolfsburg - Germany
+- 42 Firenze - Italy
+- 42 Roma - Italy
+- 42 Luxembourg - Luxembourg
+- Codam - Netherlands
+- 42 Lisboa - Portugal
+- 42 Porto - Portugal
+- School 21 – Kazan - Russia
+- School 21 - Moscow - Russia
+- 42 Alicante - Spain
+- 42 Barcelona - Spain
+- 42 Madrid - Spain
+- 42 Málaga - Spain
+- 42 Urduliz - Spain
+- 42 Lausanne - Switzerland
+- 42 Istanbul - Turkey
+- 42 London - United Kingdom
 
 Asia
-- Japan 42 Tokyo
-- Jordan 42 Amman
-- Malaysia 42 Kuala
-- South Korea 42 Séoul
-- Thailand 42 Bangkok
-- Turkey 42 Kocaeli
-- United Arab Emirates 42 Abu Dhabi
+- 42 Tokyo - Japan
+- 42 Amman - Jordan
+- 42 Kuala - Malaysia
+- 42 Séoul - South Korea
+- 42 Bangkok - Thailand
+- 42 Kocaeli - Turkey
+- 42 Abu Dhabi - United Arab Emirates
 
 Americas
-- Brazil 42 Belo Horizonte
-- Brazil 42 Rio
-- Brazil 42 São Paulo
-- Canada 42 Québec
+- 42 Belo Horizonte - Brazil
+- 42 Rio - Brazil
+- 42 São Paulo - Brazil
+- 42 Québec - Canada
 
 Africa
-- Morocco 1337 – Ben Guerir
-- Morocco 1337 – Khouribga
-- Morocco 1337 – Med
+- 1337 – Ben Guerir - Morocco
+- 1337 – Khouribga - Morocco
+- 1337 – Med - Morocco
 
 Oceania
-- Australia 42 Adelaide
+- [42 Adelaide](https://www.42adel.org.au/) - Australia
