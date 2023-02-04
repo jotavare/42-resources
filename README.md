@@ -69,10 +69,8 @@ Books
 
 Native applications
 
-    Intra 42 - Android, written in Java.
-        source code
-    Intra 42 - iOS, written in Swift.
-        source code
+    [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Android, written in Java.
+    [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - iOS, written in Swift.
 
 
 ## CAMPUSES
