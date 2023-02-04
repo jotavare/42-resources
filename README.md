@@ -53,6 +53,10 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [42 Holygraph](https://github.com/akaylee/42-holygraph) - Contains a graph with attached links to all subjects that are available in the Intra.
 - https://github.com/Binary-Hackers/42_Subjects
 
+## Badge 	
+- badge42 	[🚀 Dynamically generated 42 badge for your git readmes.](https://github.com/JaeSeoKim/badge42)
+- 1337 https://github.com/mohouyizme/1337-readme
+
 ### GDB
 - [GDB Online Debugger](https://www.onlinegdb.com/) - Compiler & Debugger for a lot of programming languages.
 - [Python Tutor](https://pythontutor.com/) - Compiler & Debugger for Python, JavaScript, C, C++, and Java.
@@ -74,11 +78,11 @@ For a specific 42 School social media, check the website in the section **['CAMP
 ### Extensions
 I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox.
 
-- [Improved Intra 42](https://github.com/FreekBes/improved_intra) `firefox` `chrome`
+- [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
 - [42 Logtime & Darkmode](https://chrome.google.com/webstore/detail/42-logtime-darkmode/kkcjiilcfieknbpdhihhhncdbligjplg) `chrome`
 - [42 Log time](https://chrome.google.com/webstore/detail/42logtime/fkcfecmfcfmealjioddcpgghpmdgbeag) `chrome`
 - [ft_logtime](https://chrome.google.com/webstore/detail/ftlogtime/mnohnflacgkmhaocfhhmjeeciibiciep) `chrome`
-- [Better Black Hole](https://chrome.google.com/webstore/detail/better-black-hole-42-intr/oimhggembfdoaimpkppcpdjnfejiakbf) `chrome`
+- [Better Black Hole](https://github.com/jkctech/BetterBlackHole) `chrome` `firefox`
 - [ft_blackhole](https://chrome.google.com/webstore/detail/ftblackhole/pofhnleglcpmmkkaohhadcmombagfeie) `chrome`
 - [Intra Friends 42](https://chrome.google.com/webstore/detail/intrafriends42/baehliedggippdholddgbdlhhmiaoioc) `chrome`
 - [42 Assistant](https://chrome.google.com/webstore/detail/42assistant/nadppnpnlnbcihgpaacbibidcdigdllh) `chrome`
