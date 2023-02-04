@@ -221,6 +221,6 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - 🇦🇺 [42 Adelaide](https://www.42adel.org.au/) - Australia
 
 ### GLOSSARY
-[^1]: An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development.
-[^2]: In computing, a compiler is a computer program that translates computer code written in one programming language into another language.
-[^3]: A debugger or debugging tool is a computer program used to test and debug other programs.
+[^1]: **IDE** - An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development.
+[^2]: **COMPILER** - In computing, a compiler is a computer program that translates computer code written in one programming language into another language.
+[^3]: **DEBUGGER** - A debugger or debugging tool is a computer program used to test and debug other programs.
