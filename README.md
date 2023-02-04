@@ -1,9 +1,9 @@
 ## 🛠️ 42 RESOURCES
 
-###INDEX
+### INDEX
 
 | <!-- --> | <!-- --> |
-| ------------- | ------------- |
+| :-------------: | :-------------: |
 | **[NETWORK](#network)**  | **[TOOLS](#tools)** |
 | **[SOCIAL](#social)**  | **[CAMPUSES](#campuses)** |
 
