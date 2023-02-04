@@ -21,8 +21,7 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 
 ### TOOLS
 
-Compiler & Debugger 
-- [Python Tutor](https://pythontutor.com/) -  Python, JavaScript, C, C++, and Java.
+- [Python Tutor](https://pythontutor.com/) - Compiler & Debugger for Python, JavaScript, C, C++, and Java.
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
 - [GradeMe](https://explainshell.com/) - Explains shell commands.
 
