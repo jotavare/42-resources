@@ -149,7 +149,7 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `Enter - BSOD`
 - [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) `youtube`
 - [Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) `youtube`
-- [[FR] Memes](https://www.instagram.com/duoquadra_meme/) `isntagram`
+- [[FR] Memes](https://www.instagram.com/duoquadra_meme/) `instagram`
 
 ## CAMPUSES
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools/)
