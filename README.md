@@ -7,21 +7,18 @@ Feel free to contact me in slack, linkedin or do a pull request.
 All contributtions are welcome.
 
 ### INDEX
-
 | **[CAMPUSES](#campuses)** | **[NETWORK](#network)** | **[TOOLS](#tools)** | **[SOCIAL](#social)** |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | **[GDB](#gdb)** | **[SHELL](#shell)** | **[AI](#ai)** | **[MOOCS](#moocs)** |
 | **[FUN](#fun)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
 
 ## REWARDS (still testing)
-
 - [Office 365](https://www.microsoft.com/en-us/education/products/office) - Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. `use 42 student email`
 - [GitHub Student Pack](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. `use 42 student email`
 - [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application. `use 42 student email`
 - [JetBrains](https://www.jetbrains.com/community/education/) - Integrated development environment Software (IDE). `use 42 student email`
 
 ## NETWORK
-
 - [42 Intra](https://intra.42.fr/) - Official portal for everything related with 42.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students. (After Piscine)
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum.
@@ -49,7 +46,6 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Paris - 2017](https://github.com/Binary-Hackers/) - Binary Hackers
 
 ## CHEATSHEET
-
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheat sheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
 - [Git](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
@@ -61,7 +57,6 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheat sheets, blogs, hacks, one-liners, cli/web tools and more. 
 
 ## TOOLS
-
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
 - [42 XP Calculator](https://42.tbailleu.dev/) - Calculate how much exp you need for the next level.
 - [42 Stupidity](https://github.com/mirror12k/42us-stupidity/) - A tool for quickly test solutions for the piscine exercises.
@@ -127,7 +122,6 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 
 ## MOOCS & BOOKS
 ### Plataforms
-
 - [Wikipedia](https://www.wikipedia.org/)
 - [Udemy](https://www.udemy.com/) `free` `paid`
 - [Google Codelabs](https://codelabs.developers.google.com/)
@@ -136,7 +130,6 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [edX](https://www.edx.org/)
 
 ### Courses
-
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/) `free`
 - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 day trial`
 
@@ -144,7 +137,6 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [Programming Notes for Professionals Books](https://books.goalkicker.com/)
 
 ## MISC
-
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
@@ -160,7 +152,6 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [[FR] Memes](https://www.instagram.com/duoquadra_meme/) `isntagram`
 
 ## CAMPUSES
-
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools/)
 - 🗺️ [42 World Map](https://github.com/jotavare/42-resources/blob/main/42-campuses-world-map.jpg/)
 
