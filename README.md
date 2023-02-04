@@ -49,8 +49,9 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheat sheets, blogs, hacks, one-liners, cli/web tools and more. 
 
 ## SUBJECTS
-- [Paris - 2016 | All Subjects](https://github.com/agavrel/42_Subjects/) - Agavrel
-- [Paris - 2017 | All Subjects](https://github.com/Binary-Hackers/) - Binary Hackers
+- [42 Holygraph - 2021](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
+- [Paris - 2016](https://github.com/agavrel/42_Subjects/) - Agavrel
+- [Paris - 2017](https://github.com/Binary-Hackers/) - Binary Hackers
 
 ## TOOLS
 
@@ -62,8 +63,7 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr/) and still in beta. You can check clusters from 🇫🇮 Helsinki, 🇪🇸 Malaga, 🇫🇷 Paris, 🇰🇷 Seoul and 🇦🇹 Vienna.
 - [42 Evaluators](https://42evaluators.com/) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
 - [42 CTF](https://www.42ctf.org/en/) - Cybersecurity competition, solve challenges of various categories to gain points and progress on the scoreboard.
-- [42 Holygraph](https://github.com/akaylee/42-holygraph) - Contains a graph with attached links to all subjects that are available in the Intra.
-- https://github.com/Binary-Hackers/42_Subjects
+
 
 ## Badge 	
 - badge42 	[🚀 Dynamically generated 42 badge for your git readmes.](https://github.com/JaeSeoKim/badge42)
