@@ -127,8 +127,8 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [Legion 42](https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb) `chrome`
 
 ### APPS
-- [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Android, written in Java.
-- [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - iOS, written in Swift.
+- [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Written in Java. `Android`
+- [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - Written in Swift. `iOS`
 
 ## MISC
 
