@@ -97,9 +97,18 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - https://fakeupdate.net/
 - https://spicetify.app/
 
-### Extensions
-I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox.
+## EXTENSIONS AND APPS
 
+### VScode
+Norminette v3.x highlighter for VScode
+Header 42 for VScode
+
+### Apps
+- [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Android, written in Java.
+- [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - iOS, written in Swift.
+
+### Browser
+I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox.
 - [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
 - [42 Logtime & Darkmode](https://chrome.google.com/webstore/detail/42-logtime-darkmode/kkcjiilcfieknbpdhihhhncdbligjplg) `chrome`
 - [42 Log time](https://chrome.google.com/webstore/detail/42logtime/fkcfecmfcfmealjioddcpgghpmdgbeag) `chrome`
@@ -113,22 +122,17 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [42 Launcher](https://chrome.google.com/webstore/detail/42-launcher/ilfaiabliekooeinlfonleniaeaijabe) `chrome`
 - [Legion 42](https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb) `chrome`
 
-### Misc
+## Misc
 
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
-- [Programming Notes for Professionals Books](https://books.goalkicker.com/)
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
 - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles that you can copy and paste almost anywhere.
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 
-### Books
-
-### Apps
-
-- [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Android, written in Java.
-- [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - iOS, written in Swift.
+## Books
+- [Programming Notes for Professionals Books](https://books.goalkicker.com/)
 
 ## MOOCS
 ### Plataforms
@@ -144,6 +148,12 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/) `free`
 - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 day trial`
+
+## MEMES
+
+- [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) `youtube`
+- [Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) `youtube`
+- [[FR] Memes](https://www.instagram.com/duoquadra_meme/) `isntagram`
 
 ## CAMPUSES
 
