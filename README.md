@@ -23,7 +23,7 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 
 42
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
-- [42 XP Calculator](https://42.tbailleu.dev/) - Tool for quickly test solutions for the piscine exercises.
+- [42 XP Calculator](https://42.tbailleu.dev/) - Calculate how much exp you need for the next level.
 - [42 Stupidity](https://github.com/mirror12k/42us-stupidity/) - A tool for quickly test solutions for the piscine exercises.
 - [RP42](https://github.com/alexandregv/RP42/) - Discord Rich Presence integration for 42 School.
 - [Find Peers](https://find-peers.codam.nl/) - Website meant to help students to find peers that are working on the same project.
