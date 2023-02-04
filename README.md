@@ -38,6 +38,15 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Official Discord](https://discord.com/invite/42/)
 - [Unofficial Discord](https://discord.gg/wsrkKE4/)
 
+## EXAMS & SOLUTIONS
+- [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
+- [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
+
+## SUBJECTS
+- [42 Holygraph - 2021](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
+- [Paris - 2016](https://github.com/agavrel/42_Subjects/) - Agavrel
+- [Paris - 2017](https://github.com/Binary-Hackers/) - Binary Hackers
+- 
 ## CHEATSHEET
 
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheat sheet for C and 42 in general.
@@ -47,11 +56,6 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Devhints](https://devhints.io/) - Collection of various cheat sheets.
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheat sheets, blogs, hacks, one-liners, cli/web tools and more. 
-
-## SUBJECTS
-- [42 Holygraph - 2021](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
-- [Paris - 2016](https://github.com/agavrel/42_Subjects/) - Agavrel
-- [Paris - 2017](https://github.com/Binary-Hackers/) - Binary Hackers
 
 ## TOOLS
 
@@ -107,8 +111,7 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [Legion 42](https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb) `chrome`
 
 ### Misc
-- [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
-- [Piscine Exam Questions & Solutions](http://nigal.freeshell.org/42/)
+
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
 - [Programming Notes for Professionals Books](https://books.goalkicker.com/)
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
