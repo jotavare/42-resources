@@ -76,11 +76,7 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [42 Evaluators](https://42evaluators.com/) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
 - [42 CTF](https://www.42ctf.org/en/) - Cybersecurity competition, solve challenges of various categories to gain points and progress on the scoreboard.
 
-## Badge 	
-- badge42 	[🚀 Dynamically generated 42 badge for your git readmes.](https://github.com/JaeSeoKim/badge42)
-- 1337 https://github.com/mohouyizme/1337-readme
-
-## IDE[^1] & COMPILERS[^2] & DEBUGGERS[^3]
+## IDE[^1], COMPILERS[^2] & DEBUGGERS[^3]
 
 - [GDB Online Debugger](https://www.onlinegdb.com/) - Online compiler & debugger for a lot of programming languages.
 - [Python Tutor](https://pythontutor.com/) - Online compiler & debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.
@@ -126,6 +122,10 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 ### APPS
 - [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Written in Java. `Android`
 - [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - Written in Swift. `iOS`
+
+### Badge 	
+- [Badge 42](https://github.com/JaeSeoKim/badge42) - Dynamically generated 42 badge for your git readmes.
+- 1337 https://github.com/mohouyizme/1337-readme
 
 ## MOOCS & BOOKS
 ### Plataforms
