@@ -80,7 +80,7 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - badge42 	[🚀 Dynamically generated 42 badge for your git readmes.](https://github.com/JaeSeoKim/badge42)
 - 1337 https://github.com/mohouyizme/1337-readme
 
-## IDE & COMPILERS & DEBUGGERS
+## IDE[^1] & COMPILERS & DEBUGGERS
 
 - [GDB Online Debugger](https://www.onlinegdb.com/) - Online compiler & debugger for a lot of programming languages.
 - [Python Tutor](https://pythontutor.com/) - Online compiler & debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.
@@ -219,3 +219,5 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 
 ### Oceania
 - 🇦🇺 [42 Adelaide](https://www.42adel.org.au/) - Australia
+
+[^1]: An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development.
