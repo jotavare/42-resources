@@ -58,20 +58,20 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - https://spicetify.app/
 
 ### Extensions
-I recommend only instaling improved intra because its a all in one extension.
+I recommend only instaling improved intra because its a all in one extension for both chrome and firefox.
 
 - [Improved Intra 42](https://github.com/FreekBes/improved_intra) `firefox` `chrome`
-- 42 Logtime & Darkmode https://chrome.google.com/webstore/detail/42-logtime-darkmode/kkcjiilcfieknbpdhihhhncdbligjplg
-- 42 Log time https://chrome.google.com/webstore/detail/42logtime/fkcfecmfcfmealjioddcpgghpmdgbeag
-- ft_logtime https://chrome.google.com/webstore/detail/ftlogtime/mnohnflacgkmhaocfhhmjeeciibiciep
-- Better Black Hole (42 Intra) https://chrome.google.com/webstore/detail/better-black-hole-42-intr/oimhggembfdoaimpkppcpdjnfejiakbf
-- ft_blackhole https://chrome.google.com/webstore/detail/ftblackhole/pofhnleglcpmmkkaohhadcmombagfeie
-- https://chrome.google.com/webstore/detail/intrafriends42/baehliedggippdholddgbdlhhmiaoioc
-- https://chrome.google.com/webstore/detail/42assistant/nadppnpnlnbcihgpaacbibidcdigdllh
-- https://chrome.google.com/webstore/detail/42-subject-mirror/ongjcdapbojoapngcpkfbhabflfikcej
-- https://chrome.google.com/webstore/detail/remove-intra-42-red-butto/njmhifmlnfnpemhnfkbmmlemjgbleleh
-- https://chrome.google.com/webstore/detail/42-launcher/ilfaiabliekooeinlfonleniaeaijabe
-- https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb
+- [42 Logtime & Darkmode](https://chrome.google.com/webstore/detail/42-logtime-darkmode/kkcjiilcfieknbpdhihhhncdbligjplg `chrome`
+- [42 Log time](https://chrome.google.com/webstore/detail/42logtime/fkcfecmfcfmealjioddcpgghpmdgbeag `chrome`
+- [ft_logtime](https://chrome.google.com/webstore/detail/ftlogtime/mnohnflacgkmhaocfhhmjeeciibiciep `chrome`
+- [Better Black Hole](https://chrome.google.com/webstore/detail/better-black-hole-42-intr/oimhggembfdoaimpkppcpdjnfejiakbf `chrome`
+- [ft_blackhole](https://chrome.google.com/webstore/detail/ftblackhole/pofhnleglcpmmkkaohhadcmombagfeie `chrome`
+- [Intra Friends 42](https://chrome.google.com/webstore/detail/intrafriends42/baehliedggippdholddgbdlhhmiaoioc `chrome`
+- [42 Assistant](https://chrome.google.com/webstore/detail/42assistant/nadppnpnlnbcihgpaacbibidcdigdllh `chrome`
+- [42 Subject Mirror](https://chrome.google.com/webstore/detail/42-subject-mirror/ongjcdapbojoapngcpkfbhabflfikcej `chrome`
+- [Remove Intra 42 Red Button](https://chrome.google.com/webstore/detail/remove-intra-42-red-butto/njmhifmlnfnpemhnfkbmmlemjgbleleh `chrome`
+- [42 Launcher](https://chrome.google.com/webstore/detail/42-launcher/ilfaiabliekooeinlfonleniaeaijabe `chrome`
+- [Legion 42](https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb `chrome`
 
 ### Misc
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
