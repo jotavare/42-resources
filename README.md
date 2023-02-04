@@ -65,6 +65,16 @@ Others
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 
+Books
+
+Native applications
+
+    Intra 42 - Android, written in Java.
+        source code
+    Intra 42 - iOS, written in Swift.
+        source code
+
+
 ## CAMPUSES
 
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools/)
