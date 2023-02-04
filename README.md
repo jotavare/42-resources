@@ -73,8 +73,8 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
 
 ## CLUBS & ASSOCIATIONS
-- [[FR]42 AI - Association](https://www.42ai.fr/) - For Artificial Intelligence enthusiasts.
-- [[FR]La Contre-Voie](https://lacontrevoie.fr/) - Promotion of free culture and ethics. 
+- [[FR] 42 AI - Association](https://www.42ai.fr/) - For Artificial Intelligence enthusiasts.
+- [[FR] La Contre-Voie](https://lacontrevoie.fr/) - Promotion of free culture and ethics. 
 
 ### AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
