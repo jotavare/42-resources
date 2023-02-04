@@ -151,6 +151,7 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles that you can copy and paste almost anywhere.
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
+- [Spicetify](https://spicetify.app/)
 
 ## CAMPUSES
 
@@ -214,12 +215,9 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 ### Oceania
 - 🇦🇺 [42 Adelaide](https://www.42adel.org.au/) - Australia
 
-### FUN
-- https://fakeupdate.net/
-- https://spicetify.app/
+## FUN & MEMES
 
-## MEMES
-
+- [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `Enter - BSOD`
 - [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) `youtube`
 - [Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) `youtube`
 - [[FR] Memes](https://www.instagram.com/duoquadra_meme/) `isntagram`
