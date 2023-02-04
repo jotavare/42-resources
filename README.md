@@ -1,5 +1,10 @@
 ## 🛠️ 42 RESOURCES
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| [NETWORK](#network)  | [TOOLS](#tools) |
+| [SOCIAL](#social)  | CAMPUSES(#campuses) |
+
 ### NETWORK
 
 - [42 Intra](https://intra.42.fr/) - Oficial portal for everything related with 42.
