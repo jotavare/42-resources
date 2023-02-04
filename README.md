@@ -84,7 +84,12 @@ For a specific 42 School social media, check the website in the section **['CAMP
 
 - [GDB Online Debugger](https://www.onlinegdb.com/) - Online compiler & debugger for a lot of programming languages.
 - [Python Tutor](https://pythontutor.com/) - Online compiler & debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.
-- [Thonny](https://thonny.org/)
+- [Thonny](https://thonny.org/) - Thonny is an IDE for Python that is designed for beginners.
+- [Replit](https://replit.com/login) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
+
+**IDE** - Integrated Development Environment is a software application that provides comprehensive facilities to computer programmers for software development.
+**Compiler** - Is a computer program that translates computer code written in one programming language into another language.
+**DEBUGGERS** - A debugger or debugging tool is a computer program used to test and debug other programs.
 
 ## Shell
 - [Explain Shell](https://explainshell.com/) - Explains shell commands.
