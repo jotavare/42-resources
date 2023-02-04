@@ -63,7 +63,8 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Markdown CheatSheet](https://github.com/tchapi/markdown-cheatsheet/)
 - [Devhints](https://devhints.io/) - Collection of various cheat sheets.
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheatsheets for popular programming languages, frameworks and development tools.
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. 
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## TOOLS
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
@@ -74,7 +75,6 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr/) and still in beta. You can check clusters from 🇫🇮 Helsinki, 🇪🇸 Malaga, 🇫🇷 Paris, 🇰🇷 Seoul and 🇦🇹 Vienna.
 - [42 Evaluators](https://42evaluators.com/) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
 - [42 CTF](https://www.42ctf.org/en/) - Cybersecurity competition, solve challenges of various categories to gain points and progress on the scoreboard.
-
 
 ## Badge 	
 - badge42 	[🚀 Dynamically generated 42 badge for your git readmes.](https://github.com/JaeSeoKim/badge42)
@@ -87,11 +87,9 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Thonny](https://thonny.org/) - Thonny is an IDE for Python that is designed for beginners.
 - [Replit](https://replit.com/login) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
 
-**IDE** - Integrated Development Environment is a software application that provides comprehensive facilities to computer programmers for software development.
-
-**Compiler** - Is a computer program that translates computer code written in one programming language into another language.
-
-**DEBUGGERS** - A debugger or debugging tool is a computer program used to test and debug other programs.
+######**IDE** - Integrated Development Environment is a software application that provides comprehensive facilities to computer programmers for software development.
+######**Compiler** - Is a computer program that translates computer code written in one programming language into another language.
+######**DEBUGGERS** - A debugger or debugging tool is a computer program used to test and debug other programs.
 
 ## Shell
 - [Explain Shell](https://explainshell.com/) - Explains shell commands.
