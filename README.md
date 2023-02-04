@@ -92,6 +92,9 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 
 ### Courses
 
+- [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/) `free`
+- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 day trial`
+
 ## CAMPUSES
 
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools/)
