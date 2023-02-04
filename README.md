@@ -1,6 +1,6 @@
 ## 🛠️ 42 RESOURCES
 
-### NETWORK 🖧
+### NETWORK
 
 - [42 Intra](https://intra.42.fr/) - Oficial portal for everything related with 42.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Oficial slack channel for 42 students. (After Piscine)
@@ -8,7 +8,7 @@
 - [GitHub Student Pack Portal](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. (Includes Github Pro)
 - [Alumni](https://alumni.42.fr/) - 42Alumni Network
 
-### CAMPUSES 🏫
+### CAMPUSES
 
 - [All 42 Campuses](https://www.42network.org/42-schools/)
 - [42 World Map](https://github.com/jotavare/42-resources/blob/main/42-campuses-world-map.jpg/)
