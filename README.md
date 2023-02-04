@@ -71,9 +71,11 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - badge42 	[🚀 Dynamically generated 42 badge for your git readmes.](https://github.com/JaeSeoKim/badge42)
 - 1337 https://github.com/mohouyizme/1337-readme
 
-## GDB
-- [GDB Online Debugger](https://www.onlinegdb.com/) - Compiler & Debugger for a lot of programming languages.
-- [Python Tutor](https://pythontutor.com/) - Compiler & Debugger for Python, JavaScript, C, C++, and Java.
+## IDE & COMPILERS & DEBUGGERS
+
+- [GDB Online Debugger](https://www.onlinegdb.com/) - Online compiler & debugger for a lot of programming languages.
+- [Python Tutor](https://pythontutor.com/) - Online compiler & debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.
+- [Thonny](https://thonny.org/)
 
 ## Shell
 - [Explain Shell](https://explainshell.com/) - Explains shell commands.
