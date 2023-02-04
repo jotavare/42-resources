@@ -99,7 +99,7 @@ For a specific 42 School social media, check the website in the section **['CAMP
 
 ## EXTENSIONS AND APPS
 
-### VScode
+### VSCODE
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header/)
 - [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42/)
 - [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3/)
@@ -110,12 +110,8 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [42 Comment](https://marketplace.visualstudio.com/items?itemName=nasanov.42-comment/)
 - [42 Header OneShot](https://marketplace.visualstudio.com/items?itemName=nakamo326.42-header-oneshot/)
 - [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line/)
-- 
-### Apps
-- [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Android, written in Java.
-- [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - iOS, written in Swift.
 
-### Browser
+### BROWSER
 I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox.
 - [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
 - [42 Logtime & Darkmode](https://chrome.google.com/webstore/detail/42-logtime-darkmode/kkcjiilcfieknbpdhihhhncdbligjplg) `chrome`
@@ -130,7 +126,11 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [42 Launcher](https://chrome.google.com/webstore/detail/42-launcher/ilfaiabliekooeinlfonleniaeaijabe) `chrome`
 - [Legion 42](https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb) `chrome`
 
-## Misc
+### APPS
+- [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Android, written in Java.
+- [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - iOS, written in Swift.
+
+## MISC
 
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
