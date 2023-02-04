@@ -19,24 +19,27 @@ All contributtions are welcome.
 - [JetBrains](https://www.jetbrains.com/community/education/) - Integrated development environment Software (IDE). `use 42 student email`
 
 ## NETWORK
+### IMPORTANT?
 - [42 Intra](https://intra.42.fr/) - Official portal for everything related with 42.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students. (After Piscine)
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum.
 - [Alumni](https://alumni.42.fr/) - 42Alumni Network.
 
-## SOCIAL
+### SOCIAL
 For a specific 42 School social media, check the website in the section **['CAMPUSES'](#campuses)** of your choice.
-
 - [42 Network](https://www.42network.org/)
 - [Instagram](https://www.instagram.com/42_network/)
+- [Youtube](https://www.youtube.com/c/42thenetwork/)
 - [Twitter](https://twitter.com/42Network/)
 - [Facebook](https://www.facebook.com/42Network/)
 - [Linkedin](https://www.linkedin.com/school/42network/)
 - [GitHub](https://github.com/42School/)
 - [Official Discord](https://discord.com/invite/42/)
+
+### UNOFFICIAL SOCIAL
 - [Unofficial Discord](https://discord.gg/wsrkKE4/)
 
-## CLUBS & ASSOCIATIONS
+### CLUBS & ASSOCIATIONS
 - [[FR] 42AI - Association](https://www.42ai.fr/) - Artificial Intelligence.
 - [[FR] La Contre-Voie](https://lacontrevoie.fr/) - Free culture and ethics.
 - [[FR] APT42](https://apt42.fr) Security.
@@ -133,7 +136,7 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [edX](https://www.edx.org/)
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
 
-### Courses
+### Online Courses
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/) `free`
 - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 day trial`
 
