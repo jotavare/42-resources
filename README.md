@@ -15,7 +15,7 @@
 - [Facebook](https://www.facebook.com/42Network/)
 - [Linkedin](https://www.linkedin.com/school/42network/)
 
-For specific a specific 42 School social media, check the website in the section 'CAMPUSES'.
+For a specific 42 School social media, check the website in the section 'CAMPUSES'.
 
 ### CAMPUSES
 
