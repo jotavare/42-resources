@@ -1,4 +1,9 @@
 ## 🛠️ 42 RESOURCES
+In this repository, you will find various resources that will help you in your 42 journey.
+
+Want to make a correction or add a link that you think is usefull for a 42 Students?
+Feel free to contact me in slack, linkedin or do a pull request.
+All contributtions are welcome.
 
 ### INDEX
 
