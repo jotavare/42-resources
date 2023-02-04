@@ -36,11 +36,17 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Official Discord](https://discord.com/invite/42/)
 - [Unofficial Discord](https://discord.gg/wsrkKE4/)
 
-## EXAMS & SOLUTIONS
+## CLUBS & ASSOCIATIONS
+- [[FR] 42AI - Association](https://www.42ai.fr/) - Artificial Intelligence.
+- [[FR] La Contre-Voie](https://lacontrevoie.fr/) - Free culture and ethics.
+- [[FR] APT42](https://apt42.fr) Security.
+
+## PISCINE, COMMON CORE & SPECIALIZATIONS
+### EXAMS
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
 
-## SUBJECTS
+### SUBJECTS
 - [42 Holygraph - 2021](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
 - [Paris - 2016](https://github.com/agavrel/42_Subjects/) - Agavrel
 - [Paris - 2017](https://github.com/Binary-Hackers/) - Binary Hackers
@@ -80,11 +86,6 @@ For a specific 42 School social media, check the website in the section **['CAMP
 ## Shell
 - [Explain Shell](https://explainshell.com/) - Explains shell commands.
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
-
-## CLUBS & ASSOCIATIONS
-- [[FR] 42AI - Association](https://www.42ai.fr/) - Artificial Intelligence.
-- [[FR] La Contre-Voie](https://lacontrevoie.fr/) - Free culture and ethics.
-- [[FR] APT42](https://apt42.fr) Security.
 
 ## AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
