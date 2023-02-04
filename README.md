@@ -17,6 +17,7 @@
 - [Alumni](https://alumni.42.fr/) - 42Alumni Network
 
 ## SOCIAL
+For a specific 42 School social media, check the website in the section **['CAMPUSES'](#campuses)** of your choice.
 
 - [42 Network](https://www.42network.org/)
 - [Instagram](https://www.instagram.com/42_network/)
@@ -24,8 +25,6 @@
 - [Facebook](https://www.facebook.com/42Network/)
 - [Linkedin](https://www.linkedin.com/school/42network/)
 - [GitHub](https://github.com/42School)
-
-For a specific 42 School social media, check the website in the section **['CAMPUSES'](#campuses)** of your choice.
 
 ## TOOLS
 
@@ -59,8 +58,20 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - https://spicetify.app/
 
 ### Extensions
-- Better Black Hole 
+I recommend only instaling improved intra because its a all in one extension.
+
 - [Improved Intra 42](https://github.com/FreekBes/improved_intra) `firefox` `chrome`
+- 42 Logtime & Darkmode https://chrome.google.com/webstore/detail/42-logtime-darkmode/kkcjiilcfieknbpdhihhhncdbligjplg
+- 42 Log time https://chrome.google.com/webstore/detail/42logtime/fkcfecmfcfmealjioddcpgghpmdgbeag
+- ft_logtime https://chrome.google.com/webstore/detail/ftlogtime/mnohnflacgkmhaocfhhmjeeciibiciep
+- Better Black Hole (42 Intra) https://chrome.google.com/webstore/detail/better-black-hole-42-intr/oimhggembfdoaimpkppcpdjnfejiakbf
+- ft_blackhole https://chrome.google.com/webstore/detail/ftblackhole/pofhnleglcpmmkkaohhadcmombagfeie
+- https://chrome.google.com/webstore/detail/intrafriends42/baehliedggippdholddgbdlhhmiaoioc
+- https://chrome.google.com/webstore/detail/42assistant/nadppnpnlnbcihgpaacbibidcdigdllh
+- https://chrome.google.com/webstore/detail/42-subject-mirror/ongjcdapbojoapngcpkfbhabflfikcej
+- https://chrome.google.com/webstore/detail/remove-intra-42-red-butto/njmhifmlnfnpemhnfkbmmlemjgbleleh
+- https://chrome.google.com/webstore/detail/42-launcher/ilfaiabliekooeinlfonleniaeaijabe
+- https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb
 
 ### Misc
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
