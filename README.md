@@ -25,7 +25,7 @@
 - [Linkedin](https://www.linkedin.com/school/42network/)
 - [GitHub](https://github.com/42School)
 
-For a specific 42 School social media, check the website in the section 'CAMPUSES' of your choice.
+For a specific 42 School social media, check the website in the section **['CAMPUSES'](#campuses)** of your choice.
 
 ## TOOLS
 
