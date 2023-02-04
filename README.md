@@ -51,9 +51,9 @@ For a specific 42 School social media, check the website in the section **['CAMP
 ## CHEATSHEET
 
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheat sheet for C and 42 in general.
-- [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators in daily coding.
-- [Git](https://github.com/RehanSaeed/Git-Cheat-Sheet/) - Cheat sheet for uncommon Git commands.
-- [Bash](https://github.com/RehanSaeed/Bash-Cheat-Sheet/) - A cheat sheet for bash commands.
+- [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
+- [Git](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
+- [Bash](https://github.com/RehanSaeed/Bash-Cheat-Sheet/)
 - [Python](https://github.com/gto76/python-cheatsheet/)
 - [Markdown](https://github.com/tchapi/markdown-cheatsheet/)
 - [Devhints](https://devhints.io/) - Collection of various cheat sheets.
