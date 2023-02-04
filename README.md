@@ -88,7 +88,7 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 - [Google Codelabs](https://codelabs.developers.google.com/)
 - [Codecademy](https://www.codecademy.com/)
 - [Coursera](https://www.coursera.org/) `7 day trial` `free` `paid` 
-- [edX](https://www.edx.org/) - Mission-driven, massive open online course (MOOC) provider.
+- [edX](https://www.edx.org/)
 
 ### Courses
 
