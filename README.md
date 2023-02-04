@@ -27,6 +27,7 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
 - [GradeMe](https://explainshell.com/) - Explains shell commands.
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
+- [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 
 ## CAMPUSES
 
