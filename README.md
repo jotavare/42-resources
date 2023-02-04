@@ -4,8 +4,8 @@
 
 | **[CAMPUSES](#campuses)** | **[NETWORK](#network)** | **[TOOLS](#tools)** | **[SOCIAL](#social)** |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| **[GDB](#gdb)** | **[SHELL](#shell)** | **[AI](#ai)** | **[COURSES](#courses)** |
-| **[FUN](#fun)** | **[EXTENSIONS](#extensions)** | **[OTHERS](#others)** | **[APPS](#apps)** |
+| **[GDB](#gdb)** | **[SHELL](#shell)** | **[AI](#ai)** | **[MOOCS](#moocs)** |
+| **[FUN](#fun)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
 
 
 ## NETWORK
@@ -38,6 +38,7 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 - [42 Evaluators](https://42evaluators.com/) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
 - [42 CTF](https://www.42ctf.org/en/) - Cybersecurity competition, solve challenges of various categories to gain points and progress on the scoreboard.
 - [42 Holygraph](https://github.com/akaylee/42-holygraph) - Contains a graph with attached links to all subjects that are available in the Intra.
+- https://github.com/Binary-Hackers/42_Subjects
 
 ### GDB
 - [GDB Online Debugger](https://www.onlinegdb.com/) - Compiler & Debugger for a lot of programming languages.
@@ -51,9 +52,7 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
 
-### Courses
-- [Coursera](https://www.coursera.org/) -  Global online learning platform that offers access to online courses and degrees from universities and companies.
-- [edX](https://www.edx.org/) - Mission-driven, massive open online course (MOOC) provider
+
 
 ### Fun
 - https://fakeupdate.net/
@@ -62,7 +61,7 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 ### Extensions
 - Better Black Hole 
 
-### Others
+### Misc
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
 - [Piscine Exam Questions & Solutions](http://nigal.freeshell.org/42/)
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
@@ -81,6 +80,12 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 - [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Android, written in Java.
 - [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - iOS, written in Swift.
 
+## MOOCS
+### Plataforms
+- [Coursera](https://www.coursera.org/) -  Global online learning platform that offers access to online courses and degrees from universities and companies.
+- [edX](https://www.edx.org/) - Mission-driven, massive open online course (MOOC) provider
+
+### Courses
 
 ## CAMPUSES
 
