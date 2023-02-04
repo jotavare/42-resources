@@ -84,10 +84,10 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 ### Plataforms
 
 - [Wikipedia](https://www.wikipedia.org/)
-- [Udemy](https://www.udemy.com/)
+- [Udemy](https://www.udemy.com/) `free` `paid`
 - [Google Codelabs](https://codelabs.developers.google.com/)
 - [Codecademy](https://www.codecademy.com/)
-- [Coursera](https://www.coursera.org/) -  Global online learning platform that offers access to online courses and degrees from universities and companies.
+- [Coursera](https://www.coursera.org/) `7 day trial` `free` `paid` 
 - [edX](https://www.edx.org/) - Mission-driven, massive open online course (MOOC) provider.
 
 ### Courses
