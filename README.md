@@ -1,4 +1,4 @@
-## 🛠️ 42 RESOURCES
+## 🛠️ 42 RESOURCES (Under Construction)
 In this repository, you will find various resources that will help you in your 42 journey.
 
 Want to make a correction or add a link that you think is usefull for a 42 Students?
