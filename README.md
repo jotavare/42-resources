@@ -48,11 +48,11 @@ Courses
 - [edX](https://www.edx.org/) - Mission-driven, massive open online course (MOOC) provider
 
 Fun
-https://fakeupdate.net/
-https://spicetify.app/
+- https://fakeupdate.net/
+- https://spicetify.app/
 
 Extensions
-Better Black Hole 
+- Better Black Hole 
 
 Others
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
