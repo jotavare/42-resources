@@ -29,7 +29,7 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 - [Find Peers](https://find-peers.codam.nl/) - Website meant to help students to find peers that are working on the same project.
 - [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr/) and still in beta. You can check clusters from 🇫🇮 Helsinki, 🇪🇸 Malaga, 🇫🇷 Paris, 🇰🇷 Seoul and 🇦🇹 Vienna.
 - [42 Evaluators](https://42evaluators.com/) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
-- [42 CTF](https://www.42ctf.org/en/) - CTF stands for Capture The Flag. It's a cybersecurity competition, where 42 students solve challenges of various categories to gain points and progress on the scoreboard.
+- [42 CTF](https://www.42ctf.org/en/) - Cybersecurity competition, where 42 students solve challenges of various categories to gain points and progress on the scoreboard.
 
 GDB
 - [GDB online Debugger](https://www.onlinegdb.com/) - Compiler & Debugger for a lot of programming languages.
