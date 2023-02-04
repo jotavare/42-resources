@@ -11,8 +11,8 @@
 ### Campus
 
 Europe
-- Armenia 42 Yerevan
-- Austria 42 Vienna
+- 42 Yerevan - Armenia 
+- 42 Vienna - Austria 
 - Belgium 19 – Antwerp
 - Belgium 19 – Brussels
 - Czech Republic 42 Prague
