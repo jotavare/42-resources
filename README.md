@@ -12,14 +12,22 @@ All contributtions are welcome.
 | **[GDB](#gdb)** | **[SHELL](#shell)** | **[AI](#ai)** | **[MOOCS](#moocs)** |
 | **[FUN](#fun)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
 
+## REWARDS
+
+- [Office 365](https://www.microsoft.com/en-us/education/products/office) - Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. Use your 42 student email.
+- [GitHub Student Pack](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. Use your 42 student email.
+- [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application. Use your 42 student email.
+- [JetBrains](https://www.jetbrains.com/community/education/) : Integrated development environment Software (IDE). Use your 42 student email.
 
 ## NETWORK
 
 - [42 Intra](https://intra.42.fr/) - Oficial portal for everything related with 42.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Oficial slack channel for 42 students. (After Piscine)
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Oficial 42 forum.
-- [GitHub Student Pack Portal](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. (Includes Github Pro)
+
 - [Alumni](https://alumni.42.fr/) - 42Alumni Network
+- 
+
 
 ## SOCIAL
 For a specific 42 School social media, check the website in the section **['CAMPUSES'](#campuses)** of your choice.
@@ -73,8 +81,9 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
 
 ## CLUBS & ASSOCIATIONS
-- [[FR] 42 AI - Association](https://www.42ai.fr/) - For Artificial Intelligence enthusiasts.
-- [[FR] La Contre-Voie](https://lacontrevoie.fr/) - Promotion of free culture and ethics. 
+- [[FR] 42AI - Association](https://www.42ai.fr/) - Artificial Intelligence.
+- [[FR] La Contre-Voie](https://lacontrevoie.fr/) - Free culture and ethics.
+- [[FR] APT42](https://apt42.fr) Security.
 
 ### AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
@@ -107,7 +116,6 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [Programming Notes for Professionals Books](https://books.goalkicker.com/)
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
-- [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application.
 - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles that you can copy and paste almost anywhere.
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
