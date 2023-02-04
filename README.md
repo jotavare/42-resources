@@ -21,15 +21,24 @@ For a specific 42 School social media, check the website in the section 'CAMPUSE
 
 ### TOOLS
 
-- GDB
+GDB
 - [GDB online Debugger](https://www.onlinegdb.com/) - Compiler & Debugger for a lot of programming languages.
 - [Python Tutor](https://pythontutor.com/) - Compiler & Debugger for Python, JavaScript, C, C++, and Java.
-- [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
-- [GradeMe](https://explainshell.com/) - Explains shell commands.
+
+Shell
+- [Explain Shell](https://explainshell.com/) - Explains shell commands.
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
+
+AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
+- [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
+
+- [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
 - [Piscine Exam Questions & Solutions](http://nigal.freeshell.org/42/)
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
+- [Programming Notes for Professionals Books](https://books.goalkicker.com/)
+- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
+- [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
 
 ## CAMPUSES
 
