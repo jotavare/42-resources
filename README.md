@@ -40,8 +40,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ### NETWORK
 - [42 Intra](https://intra.42.fr/) - Official portal for everything related with 42.
-- [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students (access only after Piscine).
-- [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum (access only after Piscine).
+- [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students (after Piscine).
+- [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum (after Piscine).
 - [Alumni](https://alumni.42.fr/) - 42Alumni Network (only for alumni students).
 - [Clusters](https://meta.intra.42.fr/clusters/) - Check who is online in your 42 school clusters.
 - [F.A.Q](https://meta.intra.42.fr/articles/) - Common questions about your school.
