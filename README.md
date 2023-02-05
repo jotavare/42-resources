@@ -26,18 +26,18 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - - - -
 
 ## 42 SCHOOL
-#### TRIVIA
+### TRIVIA
 - [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy/) - `Wikipedia` `Book`
 - [Why 42?](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy) - `Wikipedia`
 - [42 and Douglas Adams](https://www.youtube.com/watch?v=D6tINlNluuY/) - `Youtube`
 
-#### REWARDS
+### REWARDS
 - [Office 365](https://www.microsoft.com/en-us/education/products/office) - Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. `Sign up with 42 student email`
 - [GitHub Student Pack](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. `Sign up with 42 student email`
 - [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application. `Sign up with 42 student email`
 - [JetBrains](https://www.jetbrains.com/community/education/) - Integrated development environment Software (IDE). `Sign up with 42 student email`
 
-#### NETWORK
+### NETWORK
 - [42 Intra](https://intra.42.fr/) - Official portal for everything related with 42.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students (access only after Piscine).
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum (access only after Piscine).
@@ -46,7 +46,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [F.A.Q](https://meta.intra.42.fr/articles/) - Common questions about your school.
 - [42 API](https://api.intra.42.fr/apidoc/) - The API is RESTful, uses JSON over HTTPS and lets you authenticate users with OAuth 2.0. 
 
-#### SOCIAL
+### SOCIAL
 - [42 Network](https://www.42network.org/)
 - [Instagram](https://www.instagram.com/42_network/)
 - [Youtube](https://www.youtube.com/c/42thenetwork/)
@@ -58,7 +58,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Unofficial Discord](https://discord.gg/wsrkKE4/)
 ###### For a specific 42 School social media, check the section **['CAMPUSES'](#campuses)** and pick a school of your choice.
 
-#### ASSOCIATIONS
+### ASSOCIATIONS
 - [[FR] 42AI - Association](https://www.42ai.fr/) - Artificial Intelligence.
 - [[FR] La Contre-Voie](https://lacontrevoie.fr/) - Free culture and ethics.
 - [[FR] APT42](https://apt42.fr) - Security.
