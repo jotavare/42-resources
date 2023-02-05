@@ -9,10 +9,10 @@ All contributtions are welcome.
 ### INDEX
 | **[42 SCHOOL](#42school)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| **[REWARDS](#rewards)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
-| **[NETWORK](#network)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
-| **[SOCIAL](#social)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
-| **[CLUBS & ASSOCIATIONS](#clubs&associations)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| [REWARDS](#rewards) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| [NETWORK](#network) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| [SOCIAL](#social) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| [ASSOCIATIONS](#associations) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
 
 ## 42 SCHOOL
 
@@ -43,7 +43,7 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Official Discord](https://discord.com/invite/42/)
 - [Unofficial Discord](https://discord.gg/wsrkKE4/)
 
-#### CLUBS & ASSOCIATIONS
+#### ASSOCIATIONS
 - [[FR] 42AI - Association](https://www.42ai.fr/) - Artificial Intelligence.
 - [[FR] La Contre-Voie](https://lacontrevoie.fr/) - Free culture and ethics.
 - [[FR] APT42](https://apt42.fr) Security.
