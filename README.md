@@ -1,4 +1,4 @@
-## 🛠️ 42 RESOURCES (Under Construction)
+## 🛠️ 42 RESOURCES
 ```
 Welcome to the 42 RESOURCES repository!
 Here, you will find a collection of resources that have been helpful to me during my time at 42 School.
@@ -260,6 +260,9 @@ Python for Programmers
 - [Reshot](https://www.reshot.com/) - `Free`
 - [unDraw](https://undraw.co/) - `Open Source`
 - [Emojipedia](https://emojipedia.org/) - Emoji search engine with options to browse every emoji by name, category, or platform. `Open Source`
+- [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [GitHub Emoji API](https://api.github.com/emojis)
+- [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)
 
 #### IMAGES
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos. `Free`
