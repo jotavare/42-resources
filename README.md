@@ -7,12 +7,12 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ```
 
 ## INDEX
-42 SCHOOL
-- Trivia
-- Rewards
-- Network
-- Social
-- Associations
+[42 SCHOOL](#42school)
+- [Trivia](#trivia) 
+- [Rewards](#rewards)  
+- [Network](#network) 
+- [Social](#social) 
+- [Associations](#associations)
 ## INDEX
 | **[42 SCHOOL](#42school)**    | **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,commoncore&specializations)** | **[MISC](#misc)** | **[APPS](#apps)** |
 | :-------------:               | :-------------: | :-------------: | :-------------: |
