@@ -362,27 +362,32 @@ https://www.similarsites.com/
 - [Phabricator](https://phabricator.wikimedia.org/) – Not a wiki, but a global ticketing system for tracking issues and feature requests.
 
 ## MISCELLANEOUS
-#### GAMES 
-- [Reeborg's World](https://reeborg.ca/reeborg.html/) - Website designed to help people learn programming. `Recommended` `Game`
-- [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! <kbd>F11</kbd> - `Fullscreen` <kbd>ESC</kbd> - `Exit` <kbd>ENTER</kbd> - `Blue Screen of Death`
-- https://www.speedsolving.com/wiki/index.php/Main_Page
-- https://www.keybr.com/
-Chess
+#### GAMES
+###### Attencion! Depending on your 42 school rules you may or may not play games on school computers. Ask a lifeguard first and avoid getting -420 and community service.
+- [Reeborg's World](https://reeborg.ca/reeborg.html/) - Website designed to help people learn programming. `Recommended`
+- [Sudoku](https://sudoku.com/)
+- [2048](https://play2048.co/)
+- [Keybr](https://www.keybr.com/) - Take a typing test, practice typing lessons, learn to type faster.
 
-    Lichess (Source)
-    Chess.com
-    chess24.com
-    Kasparovchess
-    ChessBase
-    Chessgames.com
-        Notable Chess games of all time
-    Chess tactics explained
-    Who will win in this riveting game of Math.random() vs Math.random()?
+###### Rubik's Cube
+- [SpeedSolving](https://www.speedsolving.com/wiki/index.php/Main_Page) - Community focused on speed-solving puzzles, particularly the Rubik's cube and alike.
+- [Ruwix](https://ruwix.com/) - Website to learn about the Rubik's Cube™ and other twisty puzzles.
 
-    https://sudoku.com/
-    https://play2048.co/
+###### Chess
+- [Chess](https://www.chess.com/) - Chess online. `Freemium`
+- [Lichess](https://lichess.org/) - Free and open-source chess server. Clean interface, no registration, no ads, no plugin required.
+- [Chess24](https://chess24.com/) - Chess news.
+- [Kasparovchess](https://kasparovchess.com/) - Elevate your chess game with Garry Kasparov masterclass, lessons from grandmasters, entertaining documentaries and interviews.
+- [ChessBase](https://en.chessbase.com/) - Chess news and stand-alone database that has become the standard throughout the world.
+- [Chessgames](https://www.chessgames.com/) - Database of chess games combined with discussion forums, forming the internet's oldest and best chess learning community.
+- [Notable Chess games of all time](https://www.chessgames.com/perl/goat.pl/)
+- [Chess Tactics](https://www.chesstactics.org/) - Learn chess tactics taught in plain English. The most complete body of instruction on the subject yet written.
+- [Chessboard.js](https://chessboardjs.com/examples#5002) - Who will win in this chess game of Math.random() vs Math.random()?
+- [Britannica](https://www.britannica.com/topic/chess) - What is chess?
+- [Chess Wikipedia](https://en.wikipedia.org/wiki/Chess)
 
-
+###### Others
+- [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`
 
 #### MEMES
 - [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) - `Youtube`
