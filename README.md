@@ -50,11 +50,12 @@ For a specific 42 School social media, check the website in the section **['CAMP
 
 ## PISCINE, COMMON CORE & SPECIALIZATIONS
 #### PEER TO PEER EVALUATION
-- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE/) - Before the evaluation (as evaluated student)
-- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY/) - Before the evaluation (as evaluator)
-- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ/) - During the evaluation
-- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug/) - After the evaluation (as evaluated student)
-- [The Art Of Peer Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation/) - This short PDF describes the state of mind one should have when starting a peer-evaluation, as well as a few mandatory rules for the few student who wouldn’t fully understand this state of mind.
+- [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8/) - `Youtube`
+- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE/) - Before the evaluation (as evaluated student) `Youtube`
+- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY/) - Before the evaluation (as evaluator) `Youtube`
+- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ/) - During the evaluation `Youtube`
+- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug/) - After the evaluation (as evaluated student) `Youtube`
+- [The Art Of Peer Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation/) - This `PDF` describes the state of mind one should have when starting a peer-evaluation and a few mandatory rules.
 
 ### EXAMS
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
