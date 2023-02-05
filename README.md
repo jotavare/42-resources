@@ -146,6 +146,11 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [Coursera](https://www.coursera.org/) `7 day trial` `free` `paid` 
 - [edX](https://www.edx.org/)
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
+- https://www.linkedin.com/learning/
+- https://www.datacamp.com/
+- hackr.io
+- https://upskillcourses.com/
+- https://developers.google.com/certification
 
 ### Online Courses
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/) `free`
