@@ -249,6 +249,7 @@ Python for Programmers
 - [Lorem Ipsum](https://lipsum.com/) - Dummy text for printing and typesetting industry.
 - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles.
 - [Tables Generator](https://www.tablesgenerator.com/) - LaTeX, ConTeXt, Plain TeX, PreTeXt, EPlain, Markdown, Textile, CSV and HTML table editor and Generator.
+- https://duplicateword.com/
 
 #### ICONS & IllUSTRATIONS
 - [Flaticon](https://www.flaticon.com/) - Wide catalogue of icons. `Free` `PNG` `Paid` `SVG` `EPS` `PSD`
