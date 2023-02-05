@@ -44,8 +44,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [GitHub](https://github.com/42School/)
 - [Official Discord](https://discord.com/invite/42/)
 - [Unofficial Discord](https://discord.gg/wsrkKE4/)
-
-For a specific 42 School social media, check the section **['CAMPUSES'](#campuses)** and pick a school of your choice.
+###### For a specific 42 School social media, check the section **['CAMPUSES'](#campuses)** and pick a school of your choice.
 
 #### ASSOCIATIONS
 - [[FR] 42AI - Association](https://www.42ai.fr/) - Artificial Intelligence.
