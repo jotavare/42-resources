@@ -54,11 +54,12 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ## PISCINE, COMMON CORE & SPECIALIZATIONS
 #### PEER-TO-PEER EVALUATION
 - [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8/) - `Youtube`
-- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE/) - Before the evaluation (as evaluated student) `Youtube`
-- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY/) - Before the evaluation (as evaluator) `Youtube`
-- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ/) - During the evaluation `Youtube`
-- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug/) - After the evaluation (as evaluated student) `Youtube`
+- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE/) - What to do before the evaluation? (as evaluated student) `Youtube`
+- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY/) - What to do before the evaluation? (as evaluator) `Youtube`
+- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ/) - What to do during the evaluation? `Youtube`
+- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug/) - What to do after the evaluation? (as evaluated student) `Youtube`
 - [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation/) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF`
+
 #### EXAMS
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
