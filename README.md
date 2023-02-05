@@ -158,7 +158,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - Git
     - [Git Cheat Sheet (RehanSaeed)](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
     - [Git Cheat Sheet (Atlassian)](https://github.com/jotavare/42-resources/files/10611245/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) - `PDF`
-Markdown
+- Markdown
     - [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet/)
     - [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/)
 - [Cheat Sheets](https://cheat-sheets.org/) - Collection of various cheat sheets. All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
