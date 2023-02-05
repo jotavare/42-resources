@@ -176,6 +176,7 @@ https://www.wordnik.com/
 - hackr.io
 - https://upskillcourses.com/
 - https://developers.google.com/certification
+- https://tutsplus.com/
 
 My vision here:
 
@@ -243,49 +244,55 @@ Python for Non-Programmers
 Python for Programmers
 
 ## TOOLS
-###### GENERATORS
+#### GENERATORS
 - [Lorem Ipsum](https://lipsum.com/) - Dummy text for printing and typesetting industry.
 - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles.
 - https://www.tablesgenerator.com/
 
-##### ICONS
-- [Flaticon](https://www.flaticon.com/) - Wide catalogue of free icons. Free: `PNG` Paid: `SVG` `EPS` `PSD`
-- [unDraw](https://undraw.co/) - Open-source illustrations.
-- https://emojipedia.org/
-- https://getemoji.com/
+#### ICONS & IllUSTRATIONS
+- [Flaticon](https://www.flaticon.com/) - Wide catalogue of free icons. Free `PNG` Paid `SVG` `EPS` `PSD`
+- [Reshot](https://www.reshot.com/) - `Free`
+- [unDraw](https://undraw.co/) - `Open Source`
+- [Emojipedia](https://emojipedia.org/) - Emoji search engine with options to browse every emoji by name, category, or platform.
 
-#### IAMGES
+#### IMAGES
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
 - [Unsplash](https://unsplash.com/) - Free images and photos that you can download and use for any project.
 - [TinEye](https://tineye.com/) - Reverse image search.
 - [Google Images](https://www.google.com/imghp/) - Reverse image search from google.
 
-### COLORS
+#### COLORS
 - [Flat UI Colors](https://flatuicolors.com/) - A total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs.
 - [ColorSpace](https://mycolor.space/) - Generate color palettes, color gradients and find the perfect matching color scheme for your project.
 
-### Design
+#### Design
+- [Placeit](https://placeit.net/) - Online mockups, videos, and design templates.
 - [Canva](https://www.canva.com/) - Free-to-use online graphic design tool.
-- https://pitch.com/
-- https://prezi.com/
-- https://www.google.com/slides/about/
-- envato
+- [Pitch](https://pitch.com/) - Complete platform for presentations.
+- [Prezi](https://prezi.com/) - Presentation software that uses motion, zoom, and spatial relationships.
+- [Google Slides](https://www.google.com/slides/about/)
+- [Envato Market](https://themeforest.net) - `Paid` `Web Themes & Templates` `Code` `Video` `Audio` `Graphics` `Photos` `3D Files`
+- [Elements Envato](https://elements.envato.com/) - `7 Day Trial` `Paid` Stock Video
 
+#### VIDEO
+- [Mixkit](https://mixkit.co/) - Free assets for your next video project. `Free`
 
-Commons Fotos de uso livre e mais
-Wikivoyage O guia de viagens livre
-Wikcionário O dicionário livre
-Wikilivros Livros abertos por um mundo aberto
-Wikinotícias A fonte de notícias livre que todos podem editar
-Wikidata A base de conhecimentos livre
-Wikiversidade A universidade livre
-Wikiquote Coletânea de citações livre
-MediaWiki A aplicação para wikis, livre e aberta
-Wikisource a biblioteca livre
-Wikispecies O diretório de espécies livre
-Meta-Wiki Coordenação e documentação comunitária
-
-
+#### WIKIMEDIA
+- [Wikipedia](https://en.wikipedia.org/) – online encyclopedia
+- [Wiktionary](https://www.wiktionary.org/) – online dictionary and thesaurus
+- [Wikibooks](https://en.wikibooks.org/) – collection of books, mostly textbooks
+- [Wikiquote](https://www.wikiquote.org/) – collection of quotations
+- [Wikivoyage](https://www.wikivoyage.org/) – travel guide
+- [Wikisource](https://wikisource.org/) – digital library
+- [Wikimedia Commons](https://commons.wikimedia.org/) – repository of images, sounds, videos, and general media
+- [Wikispecies](https://species.wikimedia.org/) – taxonomic catalog of species
+- [Wikinews](https://www.wikinews.org/) – online newspaper
+- [Wikiversity](https://www.wikiversity.org/) – collection of tutorials and courses, also a hosting point to coordinate research
+- [Wikidata](https://www.wikidata.org/) – knowledge base
+- [Meta-Wiki](https://meta.wikimedia.org/) – central site for coordinating all projects and the Wikimedia community
+- [MediaWiki](https://www.mediawiki.org/) – site for coordinating work on MediaWiki software
+- [Wikitech](https://wikitech.wikimedia.org/) – including Wikimedia Cloud Services, Data Services, Toolforge, and other technical projects and infrastructure
+- [Phabricator](https://phabricator.wikimedia.org/) – not a wiki, but a global ticketing system for tracking issues and feature requests
 
 ## CURIOUS
 https://monitor.firefox.com/
