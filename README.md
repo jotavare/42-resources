@@ -154,7 +154,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - https://cheat-sheets.org/
 
 #### TESTERS
-- [Francinette](https://github.com/xicodomingues/francinette)
+- [Francinette](https://github.com/xicodomingues/francinette) `libft` `ft_printf` `get_next_line` `minitalk` `pipex`
 - [Libft Tester](https://github.com/Tripouille/libftTester)
 - [Printf Tester](https://github.com/Tripouille/printfTester)
 - [GNL Tester](https://github.com/Tripouille/gnlTester)
