@@ -8,7 +8,7 @@ All contributtions are welcome.
 
 ## INDEX
 | **[42 SCHOOL](#42school)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
-| :-------------: | :-------------: | :-------------: | :-------------: |
+| :------------- | :-------------: | :-------------: | :-------------: |
 | [Rewards](#rewards) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
 | [Network](#network) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
 | [Social](#social) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
