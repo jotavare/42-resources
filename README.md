@@ -9,10 +9,10 @@ All contributtions are welcome.
 ### INDEX
 | **[42 SCHOOL](#42school)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| [REWARDS](#rewards) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
-| [NETWORK](#network) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
-| [SOCIAL](#social) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
-| [ASSOCIATIONS](#associations) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| [Rewards](#rewards) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| [Network](#network) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| [Social](#social) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| [Associations](#associations) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
 
 ## 42 SCHOOL
 
