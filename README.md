@@ -22,6 +22,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - **[Cheat Sheets](#cheat-sheets)**
 - **[Testers](#testers)**
 
+- - - -
+
 ## 42 SCHOOL
 #### TRIVIA
 - [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy/) - `Wikipedia` `Book`
@@ -120,6 +122,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ### Oceania
 - 🇦🇺 [42 Adelaide](https://www.42adel.org.au/) - Australia
+
+- - - -
 
 ## PISCINE, COMMON CORE & SPECIALIZATIONS
 #### TOOLS
