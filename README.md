@@ -383,38 +383,47 @@ Chess
 - [Wikitech](https://wikitech.wikimedia.org/) – Including Wikimedia Cloud Services, Data Services, Toolforge, and other technical projects and infrastructure.
 - [Phabricator](https://phabricator.wikimedia.org/) – Not a wiki, but a global ticketing system for tracking issues and feature requests.
 
-## CURIOUS
-https://monitor.firefox.com/
-https://haveibeenpwned.com/
-https://htwins.net/scale2/ - sCALE OF THE UNIVERSE
-https://time.is/
-http://cyber.dabamos.de/88x31/
-https://www.thiswebsitewillselfdestruct.com/
-https://startyourownisp.com/
-https://www.whereisroadster.com/
-https://www.thispersondoesnotexist.com/
-https://isthisprime.com/game/
-https://books.google.com/ngrams/
-https://www.keanuisimmortal.com/
-https://youglish.com/
-http://txti.es/
-https://pagespeed.web.dev/
-https://testmysite.io/
-https://www.worldometers.info/
-https://postcardmailer.herokuapp.com/
-https://unawaz.github.io/stochastic-hill-climbing/tasks/
-https://hackernewstitles.netlify.app/
-https://sketchywebsite.net/
-https://www.timeanddate.com/
-http://makeanddo4d.com/spreadsheet/
-https://ctf101.org/
-https://quickdraw.withgoogle.com/
-https://random.country
-https://radiooooo.com/
-https://tvchart.benmiz.com/
-https://www.famousscientists.org/
-https://knowyourmeme.com/
-https://www.bellingcat.com/
+## MISCELLANEOUS
+###### PACKAGE MANAGEMENT
+- [Chocolatey](https://chocolatey.org/) - Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
+- [Ninite](https://ninite.com/) - Package management system that enables users to automatically install popular applications for their Windows operating system.
+- [FOSSHUB](https://www.fosshub.com/) - Website and also a platform where people can download for free many popular free and *clean* software titles.
+#### DIGITAL PRINT
+- [Firefox Monitor](https://monitor.firefox.com/) - Check if you've been victim of an online data breach.
+- [Have I Been Pwned](https://haveibeenpwned.com/) -  search across multiple data breaches to see if your email address or phone number has been compromised.
+- [00000](https://www.dehashed.com/) - DeHashed provides free deep-web scans and protection against credential leaks.
+- [00000](https://leakcheck.io/) - Data breach search engine, low price starting from $2.99/day, one free email address, unlimited API, 7B+ records.
+- [00000](https://intelx.io/) - Intelligence X is a search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
+#### OTHERS
+- [The Scale of the Universe](https://htwins.net/scale2/) - Educational game in which you are shown the sizes of different things in our universe in relation to other different things.
+- [Time.is](https://time.is/) - 7 million locations, 57 languages, synchronized with atomic clock time.
+- [00000](http://cyber.dabamos.de/88x31/) - 
+- [00000](https://www.thiswebsitewillselfdestruct.com/) - 
+- [00000](https://startyourownisp.com/) - 
+- [00000](https://www.whereisroadster.com/) - 
+- [00000](https://www.thispersondoesnotexist.com/) - 
+- [00000](https://isthisprime.com/game/) - 
+- [00000](https://books.google.com/ngrams/) - 
+- [00000](https://www.keanuisimmortal.com/) - 
+- [00000](https://youglish.com/) - 
+- [00000](http://txti.es/) - 
+- [00000](https://pagespeed.web.dev/) - 
+- [00000](https://testmysite.io/) - 
+- [00000](https://www.worldometers.info/) - 
+- [00000](https://postcardmailer.herokuapp.com/) - 
+- [00000](https://unawaz.github.io/stochastic-hill-climbing/tasks/) - 
+- [00000](https://hackernewstitles.netlify.app/) - 
+- [00000](https://sketchywebsite.net/) - 
+- [00000](https://www.timeanddate.com/) - 
+- [00000](http://makeanddo4d.com/spreadsheet/) - 
+- [00000](https://ctf101.org/) - 
+- [00000](https://quickdraw.withgoogle.com/) - 
+- [00000](https://random.country/) - 
+- [00000](https://radiooooo.com/) - 
+- [00000](https://tvchart.benmiz.com/) - 
+- [00000](https://www.famousscientists.org/) - 
+- [00000](https://knowyourmeme.com/) - 
+- [00000](https://www.bellingcat.com/) - 
 
 https://artvee.com
 http://www.lightyear.fm/
@@ -424,10 +433,7 @@ https://elgoog.im/
 https://everynoise.com
 https://www.animatedknots.com/
 
-Package Management
-- [Chocolatey](https://chocolatey.org/) - Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
-- [Ninite](https://ninite.com/) - Package management system that enables users to automatically install popular applications for their Windows operating system.
-- [FOSSHUB](https://www.fosshub.com/) - Website and also a platform where people can download for free many popular free and *clean* software titles.
+
 
 
 
