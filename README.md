@@ -12,8 +12,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 | [Rewards](#rewards) | **[Peer-To-Peer Evaluation](#peer-to-peerevaluation)** | **[MISC](#misc)** | **[APPS](#apps)** |
 | [Network](#network) | **[Exams](#exams)** | **[MISC](#misc)** | **[APPS](#apps)** |
 | [Social](#social) | **[Subjects](#subjects)** | **[MISC](#misc)** | **[APPS](#apps)** |
-| [Associations](#associations) | **[Testers](#testers)** | **[MISC](#misc)** | **[APPS](#apps)** |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| [Associations](#associations) | **[CHEAT SHEETS](#cheatsheets)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| &nbsp; | **[Testers](#testers)** | &nbsp; | &nbsp; |
 
 ## 42 SCHOOL
 - [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy/) - `Wikipedia` `Book`
@@ -70,7 +70,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers/)
 - [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects/)
 
-#### CHEATSHEETS
+#### CHEAT SHEETS
 - [42 School CheatSheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
 - [Git CheatSheet](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
