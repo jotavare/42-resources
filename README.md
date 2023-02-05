@@ -2,7 +2,7 @@
 ```
 Welcome to the 42 RESOURCES repository!
 Here, you will find a collection of resources that have been helpful to me during my time at 42 School.
-If you would like to make a correction or add a useful link for fellow 42 students, please feel free to reach out to me via Slack, LinkedIn, or submit a pull request.
+If you would like to make a correction or add a useful link for fellow 42 students, please feel free to contact me.
 All contributions are greatly appreciated and will be evaluated for inclusion in the repository.
 ```
 
