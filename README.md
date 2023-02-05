@@ -30,8 +30,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students (access only after Piscine).
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum (access only after Piscine).
 - [Alumni](https://alumni.42.fr/) - 42Alumni Network (only for alumni students).
-- [CLUSTERS](https://meta.intra.42.fr/clusters/) - Check who is online in your 42 school clusters.
-- [F.A.Q](https://meta.intra.42.fr/articles/) - Commons questions about your school.
+- [Clusters](https://meta.intra.42.fr/clusters/) - Check who is online in your 42 school clusters.
+- [F.A.Q](https://meta.intra.42.fr/articles/) - Common questions about your school.
 - [42 API](https://api.intra.42.fr/apidoc/) - The API is RESTful, uses JSON over HTTPS and lets you authenticate users with OAuth 2.0. 
 
 #### SOCIAL
