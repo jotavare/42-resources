@@ -23,6 +23,7 @@ All contributtions are welcome.
 - [JetBrains](https://www.jetbrains.com/community/education/) - Integrated development environment Software (IDE). `Sign up with 42 student email`
 
 #### NETWORK
+- [Why 42?](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy/) `101010`
 - [42 Intra](https://intra.42.fr/) - Official portal for everything related with 42.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students (acess only after Piscine).
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum (acess only after Piscine).
@@ -203,7 +204,7 @@ My vision here:
 
 ### Books
 - [Programming Notes for Professionals Books](https://books.goalkicker.com/)
-- https://en.wikibooks.org
+- https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy
 
 ## MISC
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
