@@ -14,7 +14,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - **[SOCIAL](#social)**
 - **[ASSOCIATIONS](#associations)**
 
-**[CAMPUSES](#campuses)**
+**[42 CAMPUSES](#42-campuses)**
 
 **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,-common-core-&-specializations)**
 - **[TOOLS](#tools)**
@@ -66,7 +66,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 - - - -
 
-## CAMPUSES
+## 42 CAMPUSES
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools/)
 - 🗺️ [42 World Map](https://github.com/jotavare/42-resources/blob/main/42-campuses-world-map.jpg/)
 
