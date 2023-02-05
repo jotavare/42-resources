@@ -7,12 +7,12 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ```
 
 ## INDEX
-| **[42 SCHOOL](#42school)** | **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,commoncore&specializations)** | **[MISC](#misc)** | **[APPS](#apps)** |
-| :-------------: | :-------------: | :-------------: | :-------------: |
-| [Trivia](#trivia) | [Peer-To-Peer Evaluation](#peer-to-peerevaluation) | **[MISC](#misc)** | **[APPS](#apps)** |
-| [Rewards](#rewards) | [Exams](#exams) | **[MISC](#misc)** | **[APPS](#apps)** |
-| [Network](#network) | [Subjects](#subjects) | **[MISC](#misc)** | **[APPS](#apps)** |
-| [Social](#social) | [Cheat Sheets](#cheatsheets) | **[MISC](#misc)** | **[APPS](#apps)** |
+| **[42 SCHOOL](#42school)**    | **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,commoncore&specializations)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| :-------------:               | :-------------: | :-------------: | :-------------: |
+| [Trivia](#trivia)             | [Peer-To-Peer Evaluation](#peer-to-peerevaluation) | **[MISC](#misc)** | **[APPS](#apps)** |
+| [Rewards](#rewards)           | [Exams](#exams) | **[MISC](#misc)** | **[APPS](#apps)** |
+| [Network](#network)           | [Subjects](#subjects) | **[MISC](#misc)** | **[APPS](#apps)** |
+| [Social](#social)             | [Cheat Sheets](#cheatsheets) | **[MISC](#misc)** | **[APPS](#apps)** |
 | [Associations](#associations) | [Testers](#testers) | &nbsp; | &nbsp; |
 
 ## 42 SCHOOL
@@ -243,13 +243,6 @@ Chess
     
     https://sudoku.com/
     https://play2048.co/
-
-## PROGRAMMING
-### PYTHON
-Official Python docs
-Python Wiki
-Python for Non-Programmers
-Python for Programmers
 
 ## TOOLS
 #### GENERATORS
