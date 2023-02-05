@@ -13,8 +13,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - **[Network](#network)**
 - **[Social](#social)**
 - **[Associations](#associations)**
-- **[Campuses](#campuses)**
-
+**[Campuses](#campuses)**
 **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,commoncore&specializations)**
 - **[Peer-To-Peer](#peer-to-peer)**
 - **[Exams](#exams)**
@@ -62,11 +61,13 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [[FR] La Contre-Voie](https://lacontrevoie.fr/) - Free culture and ethics.
 - [[FR] APT42](https://apt42.fr) - Security.
 
-#### CAMPUSES
+- - - -
+
+## CAMPUSES
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools/)
 - 🗺️ [42 World Map](https://github.com/jotavare/42-resources/blob/main/42-campuses-world-map.jpg/)
 
-##### Europe
+### Europe
 - 🇦🇲 [42 Yerevan](https://42yerevan.am/) - Armenia
 - 🇦🇹 [42 Vienna](https://www.42vienna.com/) - Austria
 - 🇧🇪 [19 – Antwerp](https://campus19.be/) - Belgium
@@ -100,7 +101,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - 🇹🇷 [42 Istanbul](https://42istanbul.com.tr/) - Turkey
 - 🇬🇧 [42 London](https://42london.com/) - United Kingdom
 
-##### Asia
+### Asia
 - 🇯🇵 [42 Tokyo](https://42tokyo.jp/) - Japan
 - 🇯🇴 [42 Amman](https://www.42network.org/campuses/42-amman/) - Jordan
 - 🇲🇾 [42 Kuala](https://42kl.edu.my/) - Malaysia
@@ -109,18 +110,18 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - 🇹🇷 [42 Kocaeli](https://42kocaeli.com.tr/) - Turkey
 - 🇦🇪 [42 Abu Dhabi](https://42abudhabi.ae/) - United Arab Emirates
 
-##### Americas
+### Americas
 - 🇧🇷 [42 Belo Horizonte](https://www.42bh.org.br/) - Brazil
 - 🇧🇷 [42 Rio](https://42.rio/) - Brazil
 - 🇧🇷 [42 São Paulo](https://www.42sp.org.br/) - Brazil
 - 🇨🇦 [42 Québec](https://42quebec.com/) - Canada
 
-##### Africa
+### Africa
 - 🇲🇦 [1337 – Ben Guerir](https://1337.ma/en/campuses/) - Morocco
 - 🇲🇦 [1337 – Khouribga](https://1337.ma/en/campuses/) - Morocco
 - 🇲🇦 [1337 – Med](https://1337.ma/en/campuses/) - Morocco
 
-##### Oceania
+### Oceania
 - 🇦🇺 [42 Adelaide](https://www.42adel.org.au/) - Australia
 
 - - - -
