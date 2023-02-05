@@ -250,16 +250,16 @@ Python for Programmers
 - [Tables Generator](https://www.tablesgenerator.com/) - LaTeX, ConTeXt, Plain TeX, PreTeXt, EPlain, Markdown, Textile, CSV and HTML table editor and Generator.
 
 #### ICONS & IllUSTRATIONS
-- [Flaticon](https://www.flaticon.com/) - Wide catalogue of free icons. Free `PNG` Paid `SVG` `EPS` `PSD`
+- [Flaticon](https://www.flaticon.com/) - Wide catalogue of icons. `Free` `PNG` `Paid` `SVG` `EPS` `PSD`
 - [Reshot](https://www.reshot.com/) - `Free`
 - [unDraw](https://undraw.co/) - `Open Source`
-- [Emojipedia](https://emojipedia.org/) - Emoji search engine with options to browse every emoji by name, category, or platform.
+- [Emojipedia](https://emojipedia.org/) - Emoji search engine with options to browse every emoji by name, category, or platform. `Open Source`
 
 #### IMAGES
-- [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
-- [Unsplash](https://unsplash.com/) - Free images and photos that you can download and use for any project.
-- [TinEye](https://tineye.com/) - Reverse image search.
-- [Google Images](https://www.google.com/imghp/) - Reverse image search from google.
+- [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos. `Free`
+- [Unsplash](https://unsplash.com/) - Free images and photos that you can download and use for any project. `Free` `Paid`
+- [TinEye](https://tineye.com/) - Reverse image search. `Free`
+- [Google Images](https://www.google.com/imghp/) - Reverse image search from google. `Free`
 
 #### COLORS
 - [Flat UI Colors](https://flatuicolors.com/) - A total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs.
