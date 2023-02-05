@@ -1,10 +1,5 @@
 ## 🛠️ 42 RESOURCES (Under Construction)
-In this repository, you will find various resources that will help you in your 42 journey.
-
-Want to make a correction or add a link that you think is usefull for a 42 Students?
-
-Feel free to contact me in slack, linkedin or do a pull request.
-All contributtions are welcome.
+Welcome to the 42 RESOURCES repository! Here, you will find a collection of resources that have been helpful to me during my time at 42 School. If you would like to make a correction or add a useful link for fellow 42 students, please feel free to reach out to me via Slack, LinkedIn, or submit a pull request. All contributions are greatly appreciated and will be evaluated for inclusion in the repository."
 
 ## INDEX
 | **[42 SCHOOL](#42school)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
@@ -15,6 +10,9 @@ All contributtions are welcome.
 | [Associations](#associations) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
 
 ## 42 SCHOOL
+- [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy/) - `Wikipedia`
+- [Why 42?](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy/) - `Wikipedia`
+- [42 and Douglas Adams](https://www.youtube.com/watch?v=D6tINlNluuY/) - `Youtube`
 
 #### REWARDS (still testing)
 - [Office 365](https://www.microsoft.com/en-us/education/products/office) - Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. `Sign up with 42 student email`
@@ -23,7 +21,6 @@ All contributtions are welcome.
 - [JetBrains](https://www.jetbrains.com/community/education/) - Integrated development environment Software (IDE). `Sign up with 42 student email`
 
 #### NETWORK
-- [Why 42?](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy/) - `101010`
 - [42 Intra](https://intra.42.fr/) - Official portal for everything related with 42.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students (access only after Piscine).
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum (access only after Piscine).
@@ -204,7 +201,6 @@ My vision here:
 
 ### Books
 - [Programming Notes for Professionals Books](https://books.goalkicker.com/)
-- https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy
 
 ## MISC
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
