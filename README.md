@@ -277,22 +277,23 @@ Python for Programmers
 #### VIDEO
 - [Mixkit](https://mixkit.co/) - Free assets for your next video project. `Free`
 
-#### WIKIMEDIA
-- [Wikipedia](https://en.wikipedia.org/) – online encyclopedia
-- [Wiktionary](https://www.wiktionary.org/) – online dictionary and thesaurus
-- [Wikibooks](https://en.wikibooks.org/) – collection of books, mostly textbooks
-- [Wikiquote](https://www.wikiquote.org/) – collection of quotations
-- [Wikivoyage](https://www.wikivoyage.org/) – travel guide
-- [Wikisource](https://wikisource.org/) – digital library
-- [Wikimedia Commons](https://commons.wikimedia.org/) – repository of images, sounds, videos, and general media
-- [Wikispecies](https://species.wikimedia.org/) – taxonomic catalog of species
-- [Wikinews](https://www.wikinews.org/) – online newspaper
-- [Wikiversity](https://www.wikiversity.org/) – collection of tutorials and courses, also a hosting point to coordinate research
-- [Wikidata](https://www.wikidata.org/) – knowledge base
-- [Meta-Wiki](https://meta.wikimedia.org/) – central site for coordinating all projects and the Wikimedia community
-- [MediaWiki](https://www.mediawiki.org/) – site for coordinating work on MediaWiki software
-- [Wikitech](https://wikitech.wikimedia.org/) – including Wikimedia Cloud Services, Data Services, Toolforge, and other technical projects and infrastructure
-- [Phabricator](https://phabricator.wikimedia.org/) – not a wiki, but a global ticketing system for tracking issues and feature requests
+#### WIKIMEDIA FOUNDATION
+- [Wikipedia](https://en.wikipedia.org/) – Online encyclopedia.
+- [Wiktionary](https://www.wiktionary.org/) – Online dictionary and thesaurus.
+- [Wikibooks](https://en.wikibooks.org/) – Collection of books, mostly textbooks.
+- [Wikiquote](https://www.wikiquote.org/) – Collection of quotations.
+- [Wikivoyage](https://www.wikivoyage.org/) – Travel guide.
+- [Wikisource](https://wikisource.org/) – Digital library.
+- [Wikimedia Commons](https://commons.wikimedia.org/) – Repository of images, sounds, videos, and general media.
+- [Wikispecies](https://species.wikimedia.org/) – Taxonomic catalog of species.
+- [Wikinews](https://www.wikinews.org/) – Online newspaper.
+- [Wikiversity](https://www.wikiversity.org/) – Collection of tutorials and courses, also a hosting point to coordinate research.
+- [Wikidata](https://www.wikidata.org/) – Knowledge base.
+- [Meta-Wiki](https://meta.wikimedia.org/) – Central site for coordinating all projects and the Wikimedia community.
+- [Wikimedia Incubator](https://incubator.wikimedia.org/) – A single wiki for drafting the core pages of new language-editions in development.
+- [MediaWiki](https://www.mediawiki.org/) – Site for coordinating work on MediaWiki software.
+- [Wikitech](https://wikitech.wikimedia.org/) – Including Wikimedia Cloud Services, Data Services, Toolforge, and other technical projects and infrastructure.
+- [Phabricator](https://phabricator.wikimedia.org/) – Not a wiki, but a global ticketing system for tracking issues and feature requests.
 
 ## CURIOUS
 https://monitor.firefox.com/
