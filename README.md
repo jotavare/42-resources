@@ -15,11 +15,11 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - **[Associations](#associations)**
 
 **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,commoncore&specializations)**
-- [Peer-To-Peer Evaluation](#peer-to-peerevaluation)
-- [Exams](#exams)
-- [Subjects](#subjects)
-- [Cheat Sheets](#cheatsheets)
-- [Testers](#testers)
+- **[Peer-To-Peer Evaluation](#peer-to-peerevaluation)**
+- **[Exams](#exams)**
+- **[Subjects](#subjects)**
+- **[Cheat Sheets](#cheatsheets)**
+- **[Testers](#testers)**
 
 ## 42 SCHOOL
 #### TRIVIA
