@@ -13,19 +13,20 @@ All contributtions are welcome.
 | **[FUN](#fun)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
 
 ## REWARDS (still testing)
-- [Office 365](https://www.microsoft.com/en-us/education/products/office) - Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. `use 42 student email`
-- [GitHub Student Pack](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. `use 42 student email`
-- [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application. `use 42 student email`
-- [JetBrains](https://www.jetbrains.com/community/education/) - Integrated development environment Software (IDE). `use 42 student email`
+- [Office 365](https://www.microsoft.com/en-us/education/products/office) - Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. `Sign up with 42 student email`
+- [GitHub Student Pack](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. `Sign up with 42 student email`
+- [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application. `Sign up with 42 student email`
+- [JetBrains](https://www.jetbrains.com/community/education/) - Integrated development environment Software (IDE). `Sign up with 42 student email`
 
 ## NETWORK
 ### IMPORTANT?
 - [42 Intra](https://intra.42.fr/) - Official portal for everything related with 42.
-- [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students. (After Piscine)
-- [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum.
-- [Alumni](https://alumni.42.fr/) - 42Alumni Network.
-- Cluster
-- Guide
+- [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students (acess only after Piscine).
+- [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum (acess only after Piscine).
+- [Alumni](https://alumni.42.fr/) - 42Alumni Network (only for alumni students).
+- [CLUSTERS](https://meta.intra.42.fr/clusters/) - Check who is online in your 42 school clusters.
+- [F.A.Q](https://meta.intra.42.fr/articles/) - Commons questions about your school.
+- [42 API](https://api.intra.42.fr/apidoc/) - The API is RESTful, uses JSON over HTTPS and lets you authenticate users with OAuth 2.0. 
 
 peer to peer evaluation
 https://www.youtube.com/watch?v=CF0lx9o1RCE&list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8&index=18&t=8s
