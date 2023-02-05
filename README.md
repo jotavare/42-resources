@@ -364,11 +364,25 @@ https://www.similarsites.com/
 ## MISCELLANEOUS
 #### GAMES 
 - [Reeborg's World](https://reeborg.ca/reeborg.html/) - Website designed to help people learn programming. `Recommended` `Game`
-- [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! `<kbd>F11</kbd> - Fullscreen` `<kbd>ESC</kbd> - Exit` `<kbd>ENTER</kbd> - Blue Screen of Death`
-
-
+- [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! <kbd>F11</kbd> - `Fullscreen` <kbd>ESC</kbd> - `Exit` <kbd>ENTER</kbd> - `Blue Screen of Death`
 - https://www.speedsolving.com/wiki/index.php/Main_Page
 - https://www.keybr.com/
+Chess
+
+    Lichess (Source)
+    Chess.com
+    chess24.com
+    Kasparovchess
+    ChessBase
+    Chessgames.com
+        Notable Chess games of all time
+    Chess tactics explained
+    Who will win in this riveting game of Math.random() vs Math.random()?
+
+    https://sudoku.com/
+    https://play2048.co/
+
+
 
 #### MEMES
 - [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) - `Youtube`
