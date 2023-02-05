@@ -305,15 +305,6 @@ My vision here:
 https://thimbleby.gitlab.io/algorithm-wiki-site/
 https://www.similarsites.com/
 
-## FUN, GAMES & MEMES
-- [Reeborg's World](https://reeborg.ca/reeborg.html/) - Website designed to help people learn programming. `Recommended`
-- [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `Enter - BSOD`
-- [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) - `Youtube`
-- [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) - `Youtube`
-- [[FR] Memes](https://www.instagram.com/duoquadra_meme/) - `Instagram`
-- https://www.speedsolving.com/wiki/index.php/Main_Page
-- https://www.keybr.com/
-
 ## TOOLS
 #### GENERATORS
 - [Lorem Ipsum](https://lipsum.com/) - Dummy text for printing and typesetting industry.
@@ -371,6 +362,20 @@ https://www.similarsites.com/
 - [Phabricator](https://phabricator.wikimedia.org/) – Not a wiki, but a global ticketing system for tracking issues and feature requests.
 
 ## MISCELLANEOUS
+#### GAMES 
+- [Reeborg's World](https://reeborg.ca/reeborg.html/) - Website designed to help people learn programming. `Recommended` `Game`
+- [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! `<kbd>F11</kbd> - Fullscreen` `<kbd>ESC</kbd> - Exit` `<kbd>ENTER</kbd> - Blue Screen of Death`
+
+
+- https://www.speedsolving.com/wiki/index.php/Main_Page
+- https://www.keybr.com/
+
+#### MEMES
+- [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) - `Youtube`
+- [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) - `Youtube`
+- [[FR] Memes](https://www.instagram.com/duoquadra_meme/) - `Instagram`
+- [Know Your Meme](https://knowyourmeme.com/) - Website dedicated to documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
+
 #### PACKAGE MANAGEMENT
 - [Chocolatey](https://chocolatey.org/) - Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
 - [Ninite](https://ninite.com/) - Package management system that enables users to automatically install popular applications for their Windows operating system.
@@ -414,7 +419,7 @@ https://www.similarsites.com/
 - [Radiooooo](https://radiooooo.com/) - The Musical Time Machine. `Music`
 - [TV Chart](https://tvchart.benmiz.com/) - View a graph of any TV show's ratings, by episode.
 - [Famous Scientists](https://www.famousscientists.org/) -  Lives and achievements of the most famous scientists and inventors in history.
-- [Know Your Meme](https://knowyourmeme.com/) - Website dedicated to documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
+
 - [bellingcat](https://www.bellingcat.com/) - Netherlands-based investigative journalism group that specialises in fact-checking and open-source intelligence.
 - [Artvee](https://artvee.com/) -Browse and download high-resolution, public domain Paintings, Drawings, Illustrations and Posters.
 - [Lightyear.fm](http://www.lightyear.fm/) - A journey through space, time, & music. Radio broadcasts leave Earth at the speed of light.
