@@ -363,7 +363,11 @@ https://www.similarsites.com/
 
 ## MISCELLANEOUS
 #### GAMES
-###### Attencion! Depending on your 42 school rules you may or may not play games on school computers. Ask a lifeguard first and avoid getting -420 and community service.
+
+###### Attencion!
+###### Depending on your 42 school rules you may or may not play games on school computers.
+###### Ask a lifeguard first and avoid getting -420 and community service.
+
 - [Reeborg's World](https://reeborg.ca/reeborg.html/) - Website designed to help people learn programming. `Recommended`
 - [Sudoku](https://sudoku.com/) - Fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9.
 - [2048](https://play2048.co/) - Slide numbered tiles on a grid to combine them to create a tile with the number 2048.
