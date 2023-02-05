@@ -57,7 +57,7 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug/) - After the evaluation (as evaluated student) `Youtube`
 - [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation/) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF`
 ### EXAMS
-- [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
+- [GradeMe](https://grademe.fr/) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
 
 ### SUBJECTS
