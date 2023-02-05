@@ -66,6 +66,7 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheatsheets for popular programming languages, frameworks and development tools.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- https://cheat-sheets.org/
 
 ## TOOLS
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
@@ -129,6 +130,12 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [42 Launcher](https://chrome.google.com/webstore/detail/42-launcher/ilfaiabliekooeinlfonleniaeaijabe) `chrome`
 - [Legion 42](https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb) `chrome`
 
+https://languagetool.org
+https://www.grammarly.com/
+https://en.wiktionary.org
+https://www.urbandictionary.com/
+https://www.wordnik.com/
+
 ### APPS
 - [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Written in Java. `Android`
 - [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - Written in Swift. `iOS`
@@ -173,6 +180,22 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) - `Youtube`
 - [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) - `Youtube`
 - [[FR] Memes](https://www.instagram.com/duoquadra_meme/) - `Instagram`
+- https://www.speedsolving.com/wiki/index.php/Main_Page
+
+Chess
+
+    Lichess (Source)
+    Chess.com
+    chess24.com
+    Kasparovchess
+    ChessBase
+    Chessgames.com
+        Notable Chess games of all time
+    Chess tactics explained
+    Who will win in this riveting game of Math.random() vs Math.random()?
+    
+    https://sudoku.com/
+    https://play2048.co/
 
 ## PROGRAMMING
 ### PYTHON
@@ -181,25 +204,74 @@ Python Wiki
 Python for Non-Programmers
 Python for Programmers
 
-### Text Generators
+### Generators
 - [Lorem Ipsum](https://lipsum.com/) - Dummy text for printing and typesetting industry.
 - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles.
+- https://www.tablesgenerator.com/
 
 ### Icons
-- [Flaticon](https://www.flaticon.com/) - Wide catalogue of free icons. Free formats: `PNG` Paid: `SVG` `EPS` `PSD`
-- [unDraw](https://undraw.co/)
+- [Flaticon](https://www.flaticon.com/) - Wide catalogue of free icons. Free: `PNG` Paid: `SVG` `EPS` `PSD`
+- [unDraw](https://undraw.co/) - Open-source illustrations.
+- https://emojipedia.org/
+- https://getemoji.com/
 
 ### Images
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
-- [Unsplash](https://unsplash.com/) 
+- [Unsplash](https://unsplash.com/) - Free images and photos that you can download and use for any project.
 
 ### Colors
-- [Flat UI Colors](https://flatuicolors.com/)
-- [ColorSpace](https://mycolor.space/)
+- [Flat UI Colors](https://flatuicolors.com/) - A total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs.
+- [ColorSpace](https://mycolor.space/) - Generate color palettes, color gradients and find the perfect matching color scheme for your project.
 
-### Design Templates
-- [Canva](https://www.canva.com/)
+### Design
+- [Canva](https://www.canva.com/) - Free-to-use online graphic design tool.
+- envato
 
+## CURIOUS
+https://monitor.firefox.com/
+https://haveibeenpwned.com/
+https://htwins.net/scale2/ - sCALE OF THE UNIVERSE
+https://time.is/
+http://cyber.dabamos.de/88x31/
+https://www.thiswebsitewillselfdestruct.com/
+https://startyourownisp.com/
+https://www.whereisroadster.com/
+https://www.thispersondoesnotexist.com/
+https://isthisprime.com/game/
+https://books.google.com/ngrams/
+https://www.keanuisimmortal.com/
+https://youglish.com/
+http://txti.es/
+https://pagespeed.web.dev/
+https://testmysite.io/
+https://www.worldometers.info/
+https://postcardmailer.herokuapp.com/
+https://unawaz.github.io/stochastic-hill-climbing/tasks/
+https://hackernewstitles.netlify.app/
+https://sketchywebsite.net/
+https://www.timeanddate.com/
+http://makeanddo4d.com/spreadsheet/
+https://ctf101.org/
+https://quickdraw.withgoogle.com/
+https://random.country
+https://radiooooo.com/
+https://tvchart.benmiz.com/
+https://www.famousscientists.org/
+https://knowyourmeme.com/
+https://www.bellingcat.com/
+https://tineye.com/
+google imagens
+https://artvee.com
+http://www.lightyear.fm/
+https://www.deceptive.design/
+https://duckduckgo.com
+https://elgoog.im/
+https://everynoise.com
+https://www.animatedknots.com/
+
+https://www.fosshub.com/
+ninite
+chocolatey
 
 ## CAMPUSES
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools/)
