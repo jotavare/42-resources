@@ -390,12 +390,12 @@ Chess
 - [FOSSHUB](https://www.fosshub.com/) - Website and also a platform where people can download for free many popular free and *clean* software titles.
 #### DIGITAL PRINT
 - [Firefox Monitor](https://monitor.firefox.com/) - Check if you've been victim of an online data breach.
-- [Have I Been Pwned](https://haveibeenpwned.com/) -  search across multiple data breaches to see if your email address or phone number has been compromised.
+- [Have I Been Pwned](https://haveibeenpwned.com/) - Search across multiple data breaches to see if your email address or phone number has been compromised.
 - [00000](https://www.dehashed.com/) - DeHashed provides free deep-web scans and protection against credential leaks.
 - [00000](https://leakcheck.io/) - Data breach search engine, low price starting from $2.99/day, one free email address, unlimited API, 7B+ records.
 - [00000](https://intelx.io/) - Intelligence X is a search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
 #### OTHERS
-- [The Scale of the Universe](https://htwins.net/scale2/) - Educational game in which you are shown the sizes of different things in our universe in relation to other different things. `Game`
+- [The Scale of the Universe](https://htwins.net/scale2/) - This game showns the sizes of different things in our universe in relation to other different things. `Game`
 - [Time.is](https://time.is/) - 7 million locations, 57 languages, synchronized with atomic clock time.
 - [The 88x31 GIF Collection](http://cyber.dabamos.de/88x31/) - A collection of 4161 classic 88x31 buttons from the 1990s, 2000s, and today in GIF format.
 - [Cool, but obscure X11 tools](http://cyber.dabamos.de/unix/x11/#xmgrace/) - Small collection of soem obscure tools for the X Window System.
