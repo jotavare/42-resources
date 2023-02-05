@@ -58,6 +58,7 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [42 School CheatSheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
 - [Git CheatSheet](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
+- file:///C:/Users/swoky/Downloads/SWTM-2088_Atlassian-Git-Cheatsheet.pdf
 - [Bash CheatSheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet/)
 - [Python CheatSheet](https://github.com/gto76/python-cheatsheet/)
 - [Markdown CheatSheet](https://github.com/tchapi/markdown-cheatsheet/)
@@ -82,6 +83,15 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Python Tutor](https://pythontutor.com/) - Online compiler & debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.
 - [Thonny](https://thonny.org/) - Thonny is an IDE for Python that is designed for beginners.
 - [Replit](https://replit.com/login) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
+
+## Text editors
+    Sublime Text
+    Interactive online code editors
+        repl.it
+        Scrimba
+        JSFiddle
+        CodePen
+        SoloLearn
 
 ## Shell
 - [Explain Shell](https://explainshell.com/) - Explains shell commands.
@@ -148,7 +158,7 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
-- [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles that you can copy and paste almost anywhere.
+
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 - [Spicetify](https://spicetify.app/)
 
@@ -158,6 +168,26 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) - `Youtube`
 - [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) - `Youtube`
 - [[FR] Memes](https://www.instagram.com/duoquadra_meme/) - `Instagram`
+
+## PROGRAMMING
+### PYTHON
+Official Python docs
+Python Wiki
+Python for Non-Programmers
+Python for Programmers
+
+### TEXT GENARATORS
+- [Lorem Ipsum](https://lipsum.com/) - Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles that you can copy and paste almost anywhere.
+
+### ICONS, COLORS AND IMAGES
+- [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
+https://undraw.co/
+https://www.flaticon.com/
+https://flatuicolors.com/
+[https://mycolor.space/](https://mycolor.space/)
+https://www.canva.com/
+https://unsplash.com/
 
 ## CAMPUSES
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools/)
