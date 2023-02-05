@@ -7,10 +7,12 @@ Feel free to contact me in slack, linkedin or do a pull request.
 All contributtions are welcome.
 
 ### INDEX
-| **[CAMPUSES](#campuses)** | **[NETWORK](#network)** | **[TOOLS](#tools)** | **[SOCIAL](#social)** |
+| **[42 SCHOOL](#42school)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| **[GDB](#gdb)** | **[SHELL](#shell)** | **[AI](#ai)** | **[MOOCS](#moocs)** |
-| **[FUN](#fun)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| **[REWARDS](#rewards)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| **[NETWORK](#network)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| **[SOCIAL](#social)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| **[CLUBS & ASSOCIATIONS](#clubs&associations)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
 
 ## 42 SCHOOL
 
