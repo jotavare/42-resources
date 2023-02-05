@@ -8,21 +8,21 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ## INDEX
 **[42 SCHOOL](#42-school)**
-- **[Trivia](#trivia)**
-- **[Rewards](#rewards)**
-- **[Network](#network)**
-- **[Social](#social)**
-- **[Associations](#associations)**
+- **[TRIVIA](#trivia)**
+- **[REWARDS](#rewards)**
+- **[NETWORK](#network)**
+- **[SOCIAL](#social)**
+- **[ASSOCIATIONS](#associations)**
 
 **[CAMPUSES](#campuses)**
 
 **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,-common-core-&-specializations)**
-- **[Tools](#tools)**
-- **[Subjects](#subjects)**
-- **[Testers](#testers)**
-- **[Exams](#exams)**
-- **[Cheat Sheets](#cheat-sheets)**
-- **[Peer-To-Peer](#peer-to-peer)**
+- **[TOOLS](#tools)**
+- **[SUBJECTS](#subjects)**
+- **[TESTERS](#testers)**
+- **[EXAMS](#exams)**
+- **[CHEAT SHEETS](#cheat-sheets)**
+- **[PEER-TO-PEER](#peer-to-peer)**
 
 - - - -
 
