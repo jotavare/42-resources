@@ -186,7 +186,7 @@ Python for Programmers
 - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles.
 
 ### Icons
-- [Flaticon](https://www.flaticon.com/) - Wide catalogue of free icons. Formats: `Free PNG` `Paid SVG EPS PSD`
+- [Flaticon](https://www.flaticon.com/) - Wide catalogue of free icons. Free formats: `PNG` Paid: `SVG` `EPS` `PSD`
 - [unDraw](https://undraw.co/)
 
 ### Images
