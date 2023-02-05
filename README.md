@@ -19,7 +19,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - **[Peer-To-Peer](#peer-to-peer)**
 - **[Exams](#exams)**
 - **[Subjects](#subjects)**
-- **[Cheat Sheets](#cheatsheets)**
+- **[Cheat Sheets](#cheat-sheets)**
 - **[Testers](#testers)**
 
 ## 42 SCHOOL
