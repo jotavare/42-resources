@@ -32,7 +32,6 @@ All contributtions are welcome.
 - [42 API](https://api.intra.42.fr/apidoc/) - The API is RESTful, uses JSON over HTTPS and lets you authenticate users with OAuth 2.0. 
 
 #### SOCIAL
-For a specific 42 School social media, check the website in the section **['CAMPUSES'](#campuses)** of your choice.
 - [42 Network](https://www.42network.org/)
 - [Instagram](https://www.instagram.com/42_network/)
 - [Youtube](https://www.youtube.com/c/42thenetwork/)
@@ -42,6 +41,7 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [GitHub](https://github.com/42School/)
 - [Official Discord](https://discord.com/invite/42/)
 - [Unofficial Discord](https://discord.gg/wsrkKE4/)
+For a specific 42 School social media, check the section **['CAMPUSES'](#campuses)** and pick a school of your choice.
 
 #### ASSOCIATIONS
 - [[FR] 42AI - Association](https://www.42ai.fr/) - Artificial Intelligence.
