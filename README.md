@@ -15,7 +15,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - **[Associations](#associations)**
 
 **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,commoncore&specializations)**
-- **[Peer-To-Peer Evaluation](#peer-to-peerevaluation)**
+- **[Peer-To-Peer](#peer-to-peer)**
 - **[Exams](#exams)**
 - **[Subjects](#subjects)**
 - **[Cheat Sheets](#cheatsheets)**
@@ -60,7 +60,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [[FR] APT42](https://apt42.fr) - Security.
 
 ## PISCINE, COMMON CORE & SPECIALIZATIONS
-#### PEER-TO-PEER EVALUATION
+#### PEER-TO-PEER
 - [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8/) - `Youtube`
 - [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE/) - What to do before the evaluation? (as evaluated student) `Youtube`
 - [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY/) - What to do before the evaluation? (as evaluator) `Youtube`
