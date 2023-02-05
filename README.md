@@ -9,13 +9,14 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ## INDEX
 | **[42 SCHOOL](#42school)** | **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,commoncore&specializations)** | **[MISC](#misc)** | **[APPS](#apps)** |
 | :------------- | :------------- | :------------- | :------------- |
-| [Rewards](#rewards) | [Peer-To-Peer Evaluation](#peer-to-peerevaluation) | **[MISC](#misc)** | **[APPS](#apps)** |
-| [Network](#network) | [Exams](#exams) | **[MISC](#misc)** | **[APPS](#apps)** |
-| [Social](#social) | [Subjects](#subjects) | **[MISC](#misc)** | **[APPS](#apps)** |
-| [Associations](#associations) | [Cheat Sheets](#cheatsheets) | **[MISC](#misc)** | **[APPS](#apps)** |
-| &nbsp; | [Testers](#testers) | &nbsp; | &nbsp; |
+| [Trivia](#trivia) | [Peer-To-Peer Evaluation](#peer-to-peerevaluation) | **[MISC](#misc)** | **[APPS](#apps)** |
+| [Rewards](#rewards) | [Exams](#exams) | **[MISC](#misc)** | **[APPS](#apps)** |
+| [Network](#network) | [Subjects](#subjects) | **[MISC](#misc)** | **[APPS](#apps)** |
+| [Social](#social) | [Cheat Sheets](#cheatsheets) | **[MISC](#misc)** | **[APPS](#apps)** |
+| [Associations](#associations) | [Testers](#testers) | &nbsp; | &nbsp; |
 
 ## 42 SCHOOL
+#### TRIVIA
 - [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy/) - `Wikipedia` `Book`
 - [Why 42?](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy) - `Wikipedia`
 - [42 and Douglas Adams](https://www.youtube.com/watch?v=D6tINlNluuY/) - `Youtube`
