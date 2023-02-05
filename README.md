@@ -13,7 +13,9 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - **[Network](#network)**
 - **[Social](#social)**
 - **[Associations](#associations)**
+
 **[Campuses](#campuses)**
+
 **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,commoncore&specializations)**
 - **[Peer-To-Peer](#peer-to-peer)**
 - **[Exams](#exams)**
