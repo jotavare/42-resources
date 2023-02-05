@@ -153,17 +153,17 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### CHEAT SHEETS
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
-##### BASH
+##### Bash
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet/)
-##### PYTHON
+##### Python
 - [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet/)
-##### GIT
+##### Git
 - [Git Cheat Sheet (RehanSaeed)](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
 - [Git Cheat Sheet (Atlassian)](https://github.com/jotavare/42-resources/files/10611245/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) - `PDF`
-##### MARKDOWN
+###### Markdown
 - [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet/)
 - [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/)
-##### OTHERS
+###### Others
 - [Cheat Sheets](https://cheat-sheets.org/) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 - [Devhints](https://devhints.io/) - Collection of various cheat sheets.
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheatsheets for popular programming languages, frameworks and development tools.
