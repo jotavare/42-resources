@@ -1,5 +1,8 @@
 ## 🛠️ 42 RESOURCES (Under Construction)
-Welcome to the 42 RESOURCES repository! Here, you will find a collection of resources that have been helpful to me during my time at 42 School. If you would like to make a correction or add a useful link for fellow 42 students, please feel free to reach out to me via Slack, LinkedIn, or submit a pull request. All contributions are greatly appreciated and will be evaluated for inclusion in the repository."
+Welcome to the 42 RESOURCES repository!
+Here, you will find a collection of resources that have been helpful to me during my time at 42 School.
+If you would like to make a correction or add a useful link for fellow 42 students, please feel free to reach out to me via Slack, LinkedIn, or submit a pull request.
+All contributions are greatly appreciated and will be evaluated for inclusion in the repository.
 
 ## INDEX
 | **[42 SCHOOL](#42school)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
@@ -39,6 +42,7 @@ Welcome to the 42 RESOURCES repository! Here, you will find a collection of reso
 - [GitHub](https://github.com/42School/)
 - [Official Discord](https://discord.com/invite/42/)
 - [Unofficial Discord](https://discord.gg/wsrkKE4/)
+
 For a specific 42 School social media, check the section **['CAMPUSES'](#campuses)** and pick a school of your choice.
 
 #### ASSOCIATIONS
