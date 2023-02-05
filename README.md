@@ -247,7 +247,7 @@ Python for Programmers
 #### GENERATORS
 - [Lorem Ipsum](https://lipsum.com/) - Dummy text for printing and typesetting industry.
 - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles.
-- https://www.tablesgenerator.com/
+- [Tables Generator](https://www.tablesgenerator.com/) - LaTeX, ConTeXt, Plain TeX, PreTeXt, EPlain, Markdown, Textile, CSV and HTML table editor and Generator.
 
 #### ICONS & IllUSTRATIONS
 - [Flaticon](https://www.flaticon.com/) - Wide catalogue of free icons. Free `PNG` Paid `SVG` `EPS` `PSD`
@@ -265,7 +265,7 @@ Python for Programmers
 - [Flat UI Colors](https://flatuicolors.com/) - A total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs.
 - [ColorSpace](https://mycolor.space/) - Generate color palettes, color gradients and find the perfect matching color scheme for your project.
 
-#### Design
+#### DESIGN
 - [Placeit](https://placeit.net/) - Online mockups, videos, and design templates.
 - [Canva](https://www.canva.com/) - Free-to-use online graphic design tool.
 - [Pitch](https://pitch.com/) - Complete platform for presentations.
@@ -277,7 +277,7 @@ Python for Programmers
 #### VIDEO
 - [Mixkit](https://mixkit.co/) - Free assets for your next video project. `Free`
 
-#### WIKIMEDIA FOUNDATION
+## WIKIMEDIA FOUNDATION
 - [Wikipedia](https://en.wikipedia.org/) – Online encyclopedia.
 - [Wiktionary](https://www.wiktionary.org/) – Online dictionary and thesaurus.
 - [Wikibooks](https://en.wikibooks.org/) – Collection of books, mostly textbooks.
