@@ -314,21 +314,6 @@ https://www.similarsites.com/
 - https://www.speedsolving.com/wiki/index.php/Main_Page
 - https://www.keybr.com/
 
-Chess
-
-    Lichess (Source)
-    Chess.com
-    chess24.com
-    Kasparovchess
-    ChessBase
-    Chessgames.com
-        Notable Chess games of all time
-    Chess tactics explained
-    Who will win in this riveting game of Math.random() vs Math.random()?
-    
-    https://sudoku.com/
-    https://play2048.co/
-
 ## TOOLS
 #### GENERATORS
 - [Lorem Ipsum](https://lipsum.com/) - Dummy text for printing and typesetting industry.
