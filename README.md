@@ -6,6 +6,12 @@ If you would like to make a correction or add a useful link for fellow 42 studen
 All contributions are greatly appreciated and will be evaluated for inclusion in the repository.
 ```
 
+- 42 SCHOOL
+    - Trivia
+    - Rewards
+    - Network
+    - Social
+    - Associations
 ## INDEX
 | **[42 SCHOOL](#42school)**    | **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,commoncore&specializations)** | **[MISC](#misc)** | **[APPS](#apps)** |
 | :-------------:               | :-------------: | :-------------: | :-------------: |
