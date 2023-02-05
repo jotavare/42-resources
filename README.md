@@ -253,6 +253,8 @@ https://www.wordnik.com/
 - [Badge 42](https://github.com/JaeSeoKim/badge42) - Dynamically generated 42 badge for your git readmes.
 - 1337 https://github.com/mohouyizme/1337-readme
 
+ADDONS SPOTIFY DISCORD
+
 ## MOOCS & BOOKS
 ### Plataforms
 - [Wikipedia](https://www.wikipedia.org/) - Did he really just post the Wikipedia link?!
@@ -388,15 +390,18 @@ Chess
 - [Chocolatey](https://chocolatey.org/) - Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
 - [Ninite](https://ninite.com/) - Package management system that enables users to automatically install popular applications for their Windows operating system.
 - [FOSSHUB](https://www.fosshub.com/) - Website and also a platform where people can download for free many popular free and *clean* software titles.
-#### DIGITAL PRINT
+
+#### DIGITAL FOOTPRINT
 - [Firefox Monitor](https://monitor.firefox.com/) - Check if you've been victim of an online data breach.
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Search across multiple data breaches to see if your email address or phone number has been compromised.
 - [DeHashed](https://www.dehashed.com/) - Free deep-web scans and protection against credential leaks.
 - [LeakCheck](https://leakcheck.io/) - Data breach search engine.
 - [Intelligence X](https://intelx.io/) - Search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
+
 #### OTHERS
 - [The Scale of the Universe](https://htwins.net/scale2/) - This game showns the sizes of different things in our universe in relation to other different things. `Game`
 - [Time.is](https://time.is/) - 7 million locations, 57 languages, synchronized with atomic clock time.
+- [Time and Date](https://www.timeanddate.com/) - Current Time (World Clock) and online and printable Calendars for countries worldwide.
 - [The 88x31 GIF Collection](http://cyber.dabamos.de/88x31/) - A collection of 4161 classic 88x31 buttons from the 1990s, 2000s, and today in GIF format.
 - [Cool, but obscure X11 tools](http://cyber.dabamos.de/unix/x11/#xmgrace/) - Small collection of soem obscure tools for the X Window System.
 - [Cool, but obscure UNIX tools](https://kkovacs.eu/cool-but-obscure-unix-tools/) - A little collection of cool unix terminal/console/curses tools.
@@ -412,32 +417,28 @@ Chess
 - [PageSpeed Insights](https://pagespeed.web.dev/) - Analyze score and use PageSpeed Insights suggestions to make your web site faster.
 - [Testmysite.io](https://testmysite.io/) - Is your site as fast and secure as it could be?
 - [Worldometer](https://www.worldometers.info/) - Live world statistics on population, government and economics, society and media, environment, food, water, energy and health.
-- [00000](https://postcardmailer.herokuapp.com/) - 
-- [00000](https://unawaz.github.io/stochastic-hill-climbing/tasks/) - 
-- [00000](https://hackernewstitles.netlify.app/) - 
-- [00000](https://sketchywebsite.net/) - 
-- [00000](https://www.timeanddate.com/) - 
-- [00000](http://makeanddo4d.com/spreadsheet/) - 
-- [00000](https://ctf101.org/) - 
-- [00000](https://quickdraw.withgoogle.com/) - 
-- [00000](https://random.country/) - 
-- [00000](https://radiooooo.com/) - 
-- [00000](https://tvchart.benmiz.com/) - 
-- [00000](https://www.famousscientists.org/) - 
-- [00000](https://knowyourmeme.com/) - 
-- [00000](https://www.bellingcat.com/) - 
+- [Free Postcard](https://postcardmailer.herokuapp.com/) - Send a free postcard with a photo to anyone on USA.
+- [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
+- [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.app/) - Hacker News whose titles have been edited since they were first posted.
+- [Sketchy Website](https://sketchywebsite.net/) - You can trust this website.
+- [CloudConvert](https://cloudconvert.com/) Online file converter that support nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats.
+- [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Upload a photo and instantly download it as a real spreadsheet!
+- [Capture The Flag 101](https://ctf101.org/) - What is CTFs?
+- [Quick, Draw!](https://quickdraw.withgoogle.com/) - Can a neural network learn to recognize squiggles? `Game`
+- [Random Country Generator](https://random.country/) - Ever wanted to learn about all the countries in the world? `Game`
+- [Radiooooo](https://radiooooo.com/) - The Musical Time Machine. `Music`
+- [TV Chart](https://tvchart.benmiz.com/) - View a graph of any TV show's ratings, by episode.
+- [Famous Scientists](https://www.famousscientists.org/) -  Lives and achievements of the most famous scientists and inventors in history.
+- [Know Your Meme](https://knowyourmeme.com/) - Website dedicated to documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
+- [bellingcat](https://www.bellingcat.com/) - Netherlands-based investigative journalism group that specialises in fact-checking and open-source intelligence.
 
-https://artvee.com
-http://www.lightyear.fm/
-https://www.deceptive.design/
-https://duckduckgo.com
-https://elgoog.im/
-https://everynoise.com
-https://www.animatedknots.com/
-
-
-
-
+- [0000](https://artvee.com/) -
+- [0000](http://www.lightyear.fm/) -
+- [0000](https://www.deceptive.design/) -
+- [0000](https://duckduckgo.com/) -
+- [0000](https://elgoog.im/) -
+- [0000](https://everynoise.com/) -
+- [0000](https://www.animatedknots.com/) -
 
 ## GLOSSARY
 [^1]: **IDE** - An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development.
