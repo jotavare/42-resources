@@ -326,9 +326,10 @@ https://elgoog.im/
 https://everynoise.com
 https://www.animatedknots.com/
 
-https://www.fosshub.com/
-ninite
-chocolatey
+Package Management
+- [Chocolatey](https://chocolatey.org/) - Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
+- [Ninite](https://ninite.com/) - Package management system that enables users to automatically install popular applications for their Windows operating system.
+- [FOSSHUB](https://www.fosshub.com/) - Website and also a platform where people can download for free many popular free and *clean* software titles.
 
 ## CAMPUSES
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools/)
@@ -391,7 +392,7 @@ chocolatey
 ### Oceania
 - 🇦🇺 [42 Adelaide](https://www.42adel.org.au/) - Australia
 
-### GLOSSARY
+## GLOSSARY
 [^1]: **IDE** - An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development.
 [^2]: **COMPILER** - In computing, a compiler is a computer program that translates computer code written in one programming language into another language.
 [^3]: **DEBUGGER** - A debugger or debugging tool is a computer program used to test and debug other programs.
