@@ -19,7 +19,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Why 42?](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy/) - `Wikipedia`
 - [42 and Douglas Adams](https://www.youtube.com/watch?v=D6tINlNluuY/) - `Youtube`
 
-#### REWARDS (still testing)
+#### REWARDS
 - [Office 365](https://www.microsoft.com/en-us/education/products/office) - Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. `Sign up with 42 student email`
 - [GitHub Student Pack](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. `Sign up with 42 student email`
 - [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application. `Sign up with 42 student email`
