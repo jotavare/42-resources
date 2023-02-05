@@ -12,14 +12,15 @@ All contributtions are welcome.
 | **[GDB](#gdb)** | **[SHELL](#shell)** | **[AI](#ai)** | **[MOOCS](#moocs)** |
 | **[FUN](#fun)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
 
-## REWARDS (still testing)
+## 42 SCHOOL
+
+#### REWARDS (still testing)
 - [Office 365](https://www.microsoft.com/en-us/education/products/office) - Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. `Sign up with 42 student email`
 - [GitHub Student Pack](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. `Sign up with 42 student email`
 - [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application. `Sign up with 42 student email`
 - [JetBrains](https://www.jetbrains.com/community/education/) - Integrated development environment Software (IDE). `Sign up with 42 student email`
-
-## NETWORK
-### IMPORTANT?
+- 
+#### NETWORK
 - [42 Intra](https://intra.42.fr/) - Official portal for everything related with 42.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students (acess only after Piscine).
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum (acess only after Piscine).
@@ -28,14 +29,7 @@ All contributtions are welcome.
 - [F.A.Q](https://meta.intra.42.fr/articles/) - Commons questions about your school.
 - [42 API](https://api.intra.42.fr/apidoc/) - The API is RESTful, uses JSON over HTTPS and lets you authenticate users with OAuth 2.0. 
 
-peer to peer evaluation
-https://www.youtube.com/watch?v=CF0lx9o1RCE&list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8&index=18&t=8s
-https://www.youtube.com/watch?v=eTt5NQUO3LY&list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8&index=19&t=6s
-https://www.youtube.com/watch?v=_GgfLzcgNvQ&list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8&index=20&t=3s
-https://www.youtube.com/watch?v=hzMe_CDM8ug&list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8&index=21&t=4s
-https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-p[…]ment-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation
-
-### SOCIAL
+#### SOCIAL
 For a specific 42 School social media, check the website in the section **['CAMPUSES'](#campuses)** of your choice.
 - [42 Network](https://www.42network.org/)
 - [Instagram](https://www.instagram.com/42_network/)
@@ -45,26 +39,31 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - [Linkedin](https://www.linkedin.com/school/42network/)
 - [GitHub](https://github.com/42School/)
 - [Official Discord](https://discord.com/invite/42/)
-
-### UNOFFICIAL SOCIAL
 - [Unofficial Discord](https://discord.gg/wsrkKE4/)
 
-### CLUBS & ASSOCIATIONS
+#### CLUBS & ASSOCIATIONS
 - [[FR] 42AI - Association](https://www.42ai.fr/) - Artificial Intelligence.
 - [[FR] La Contre-Voie](https://lacontrevoie.fr/) - Free culture and ethics.
 - [[FR] APT42](https://apt42.fr) Security.
 
 ## PISCINE, COMMON CORE & SPECIALIZATIONS
+#### PEER TO PEER EVALUATION
+- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE/) - Before the evaluation (as evaluated student)
+- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY/) - Before the evaluation (as evaluator)
+- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ/) - During the evaluation
+- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug/) - After the evaluation (as evaluated student)
+- [The Art Of Peer Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation/) - This short PDF describes the state of mind one should have when starting a peer-evaluation, as well as a few mandatory rules for the few student who wouldn’t fully understand this state of mind.
+
 ### EXAMS
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common-Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
 
 ### SUBJECTS
-- [42 Holygraph - 2021](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
-- [Paris - 2016](https://github.com/agavrel/42_Subjects/) - Agavrel
-- [Paris - 2017](https://github.com/Binary-Hackers/) - Binary Hackers
+- [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
+- [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers/)
+- [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects/)
 
-### CHEATSHEETS
+#### CHEATSHEETS
 - [42 School CheatSheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
 - [Git CheatSheet](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
@@ -78,7 +77,7 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - https://cheat-sheets.org/
 
-## TESTERS
+#### TESTERS
 https://github.com/xicodomingues/francinette
 https://github.com/IDC87/push_swap_leak_tester
 https://github.com/Pixailz/Born2BeRootTester
