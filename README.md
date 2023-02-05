@@ -243,24 +243,24 @@ Python for Non-Programmers
 Python for Programmers
 
 ## TOOLS
-###### Generators
+###### GENERATORS
 - [Lorem Ipsum](https://lipsum.com/) - Dummy text for printing and typesetting industry.
 - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles.
 - https://www.tablesgenerator.com/
 
-##### Icons
+##### ICONS
 - [Flaticon](https://www.flaticon.com/) - Wide catalogue of free icons. Free: `PNG` Paid: `SVG` `EPS` `PSD`
 - [unDraw](https://undraw.co/) - Open-source illustrations.
 - https://emojipedia.org/
 - https://getemoji.com/
 
-#### Images
+#### IAMGES
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
 - [Unsplash](https://unsplash.com/) - Free images and photos that you can download and use for any project.
 - [TinEye](https://tineye.com/) - Reverse image search.
 - [Google Images](https://www.google.com/imghp/) - Reverse image search from google.
 
-### Colors
+### COLORS
 - [Flat UI Colors](https://flatuicolors.com/) - A total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs.
 - [ColorSpace](https://mycolor.space/) - Generate color palettes, color gradients and find the perfect matching color scheme for your project.
 
