@@ -7,12 +7,13 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ```
 
 ## INDEX
-| **[42 SCHOOL](#42school)** | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| **[42 SCHOOL](#42school)** | **[Piscine, Common Core & Specializations](#piscine,commoncore&specializations)** | **[MISC](#misc)** | **[APPS](#apps)** |
 | :------------- | :-------------: | :-------------: | :-------------: |
-| [Rewards](#rewards) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
-| [Network](#network) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
-| [Social](#social) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
-| [Associations](#associations) | **[EXTENSIONS](#extensions)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| [Rewards](#rewards) | **[Peer-To-Peer Evaluation](#peer-to-peerevaluation)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| [Network](#network) | **[Exams](#exams)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| [Social](#social) | **[Subjects](#subjects)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| [Associations](#associations) | **[Testers](#testers)** | **[MISC](#misc)** | **[APPS](#apps)** |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
 ## 42 SCHOOL
 - [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy/) - `Wikipedia` `Book`
@@ -225,6 +226,7 @@ https://www.similarsites.com/
 - [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) - `Youtube`
 - [[FR] Memes](https://www.instagram.com/duoquadra_meme/) - `Instagram`
 - https://www.speedsolving.com/wiki/index.php/Main_Page
+- https://www.keybr.com/
 
 Chess
 
