@@ -47,7 +47,7 @@ For a specific 42 School social media, check the section **['CAMPUSES'](#campuse
 #### ASSOCIATIONS
 - [[FR] 42AI - Association](https://www.42ai.fr/) - Artificial Intelligence.
 - [[FR] La Contre-Voie](https://lacontrevoie.fr/) - Free culture and ethics.
-- [[FR] APT42](https://apt42.fr) Security.
+- [[FR] APT42](https://apt42.fr) - Security.
 
 ## PISCINE, COMMON CORE & SPECIALIZATIONS
 #### PEER-TO-PEER EVALUATION
