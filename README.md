@@ -24,6 +24,15 @@ All contributtions are welcome.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students. (After Piscine)
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum.
 - [Alumni](https://alumni.42.fr/) - 42Alumni Network.
+- Cluster
+- Guide
+
+peer to peer evaluation
+https://www.youtube.com/watch?v=CF0lx9o1RCE&list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8&index=18&t=8s
+https://www.youtube.com/watch?v=eTt5NQUO3LY&list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8&index=19&t=6s
+https://www.youtube.com/watch?v=_GgfLzcgNvQ&list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8&index=20&t=3s
+https://www.youtube.com/watch?v=hzMe_CDM8ug&list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8&index=21&t=4s
+https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-p[…]ment-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation
 
 ### SOCIAL
 For a specific 42 School social media, check the website in the section **['CAMPUSES'](#campuses)** of your choice.
@@ -245,6 +254,9 @@ Python for Programmers
 
 ### Design
 - [Canva](https://www.canva.com/) - Free-to-use online graphic design tool.
+- https://pitch.com/
+- https://prezi.com/
+- https://www.google.com/slides/about/
 - envato
 
 
