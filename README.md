@@ -165,6 +165,7 @@ https://www.wordnik.com/
 
 ### Books
 - [Programming Notes for Professionals Books](https://books.goalkicker.com/)
+- https://en.wikibooks.org
 
 ## MISC
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
@@ -226,6 +227,22 @@ Python for Programmers
 ### Design
 - [Canva](https://www.canva.com/) - Free-to-use online graphic design tool.
 - envato
+
+
+Commons Fotos de uso livre e mais
+Wikivoyage O guia de viagens livre
+Wikcionário O dicionário livre
+Wikilivros Livros abertos por um mundo aberto
+Wikinotícias A fonte de notícias livre que todos podem editar
+Wikidata A base de conhecimentos livre
+Wikiversidade A universidade livre
+Wikiquote Coletânea de citações livre
+MediaWiki A aplicação para wikis, livre e aberta
+Wikisource a biblioteca livre
+Wikispecies O diretório de espécies livre
+Meta-Wiki Coordenação e documentação comunitária
+
+
 
 ## CURIOUS
 https://monitor.firefox.com/
