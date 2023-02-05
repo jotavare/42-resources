@@ -122,28 +122,39 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - 🇦🇺 [42 Adelaide](https://www.42adel.org.au/) - Australia
 
 ## PISCINE, COMMON CORE & SPECIALIZATIONS
-#### PEER-TO-PEER
-- [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8/) - `Youtube`
-- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE/) - What to do before the evaluation? (as evaluated student) `Youtube`
-- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY/) - What to do before the evaluation? (as evaluator) `Youtube`
-- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ/) - What to do during the evaluation? `Youtube`
-- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug/) - What to do after the evaluation? (as evaluated student) `Youtube`
-- [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation/) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF`
-
-#### EXAMS
-- [GradeMe](https://grademe.fr/) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
-- [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
+#### TOOLS
+- [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
+- [42 XP Calculator](https://42.tbailleu.dev/) - Calculate how much exp you need for the next level.
+- [42 Stupidity](https://github.com/mirror12k/42us-stupidity/) - A tool for quickly test solutions for the piscine exercises.
+- [RP42](https://github.com/alexandregv/RP42/) - Discord Rich Presence integration for 42 School.
+- [Find Peers](https://find-peers.codam.nl/) - Website meant to help students to find peers that are working on the same project.
+- [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr/) and still in beta. You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul🇰🇷 and Vienna 🇦🇹.
+- [42 Evaluators](https://42evaluators.com/) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
+- [42 CTF](https://www.42ctf.org/en/) - Cybersecurity competition, solve challenges of various categories to gain points and progress on the scoreboard.
 
 #### SUBJECTS
 - [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
 - [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers/)
 - [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects/)
 
+#### TESTERS
+- [Francinette](https://github.com/xicodomingues/francinette) `libft` `ft_printf` `get_next_line` `minitalk` `pipex`
+- [libft Tester](https://github.com/Tripouille/libftTester)
+- [printf Tester](https://github.com/Tripouille/printfTester)
+- [gnl Tester](https://github.com/Tripouille/gnlTester)
+- [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester)
+- [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester)
+- [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester)
+
+#### EXAMS
+- [GradeMe](https://grademe.fr/) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
+- [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
+
 #### CHEAT SHEETS
-- [42 School CheatSheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
+- [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
-- [Git CheatSheet](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
-- file:///C:/Users/swoky/Downloads/SWTM-2088_Atlassian-Git-Cheatsheet.pdf
+- [Git Cheat Sheet](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
+- [Git Cheat Sheet Atlassian](https://github.com/jotavare/42-resources/files/10611245/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) - `PDF`
 - [Bash CheatSheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet/)
 - [Python CheatSheet](https://github.com/gto76/python-cheatsheet/)
 - [Markdown CheatSheet](https://github.com/tchapi/markdown-cheatsheet/)
@@ -153,24 +164,13 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - https://cheat-sheets.org/
 
-#### TESTERS
-- [Francinette](https://github.com/xicodomingues/francinette) `libft` `ft_printf` `get_next_line` `minitalk` `pipex`
-- [Libft Tester](https://github.com/Tripouille/libftTester)
-- [Printf Tester](https://github.com/Tripouille/printfTester)
-- [GNL Tester](https://github.com/Tripouille/gnlTester)
-- [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester)
-- [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester)
-- [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester)
-
-## TOOLS
-- [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
-- [42 XP Calculator](https://42.tbailleu.dev/) - Calculate how much exp you need for the next level.
-- [42 Stupidity](https://github.com/mirror12k/42us-stupidity/) - A tool for quickly test solutions for the piscine exercises.
-- [RP42](https://github.com/alexandregv/RP42/) - Discord Rich Presence integration for 42 School.
-- [Find Peers](https://find-peers.codam.nl/) - Website meant to help students to find peers that are working on the same project.
-- [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr/) and still in beta. You can check clusters from 🇫🇮 Helsinki, 🇪🇸 Malaga, 🇫🇷 Paris, 🇰🇷 Seoul and 🇦🇹 Vienna.
-- [42 Evaluators](https://42evaluators.com/) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
-- [42 CTF](https://www.42ctf.org/en/) - Cybersecurity competition, solve challenges of various categories to gain points and progress on the scoreboard.
+#### PEER-TO-PEER
+- [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8/) - `Youtube`
+- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE/) - What to do before the evaluation? (as evaluated student) `Youtube`
+- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY/) - What to do before the evaluation? (as evaluator) `Youtube`
+- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ/) - What to do during the evaluation? `Youtube`
+- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug/) - What to do after the evaluation? (as evaluated student) `Youtube`
+- [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation/) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF`
 
 ## IDE[^1], COMPILERS[^2] & DEBUGGERS[^3]
 
