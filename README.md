@@ -7,7 +7,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ```
 
 ## INDEX
-**[42 SCHOOL](#42school)**
+**[42 SCHOOL](#42-school)**
 - **[Trivia](#trivia)**
 - **[Rewards](#rewards)**
 - **[Network](#network)**
@@ -16,12 +16,13 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 **[CAMPUSES](#campuses)**
 
-**[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,commoncore&specializations)**
-- **[Peer-To-Peer](#peer-to-peer)**
-- **[Exams](#exams)**
+**[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,-common-core-&-specializations)**
+- **[Tools](#tools)**
 - **[Subjects](#subjects)**
-- **[Cheat Sheets](#cheat-sheets)**
 - **[Testers](#testers)**
+- **[Exams](#exams)**
+- **[Cheat Sheets](#cheat-sheets)**
+- **[Peer-To-Peer](#peer-to-peer)**
 
 - - - -
 
