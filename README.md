@@ -431,14 +431,13 @@ Chess
 - [Famous Scientists](https://www.famousscientists.org/) -  Lives and achievements of the most famous scientists and inventors in history.
 - [Know Your Meme](https://knowyourmeme.com/) - Website dedicated to documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
 - [bellingcat](https://www.bellingcat.com/) - Netherlands-based investigative journalism group that specialises in fact-checking and open-source intelligence.
-
-- [0000](https://artvee.com/) -
-- [0000](http://www.lightyear.fm/) -
-- [0000](https://www.deceptive.design/) -
-- [0000](https://duckduckgo.com/) -
-- [0000](https://elgoog.im/) -
-- [0000](https://everynoise.com/) -
-- [0000](https://www.animatedknots.com/) -
+- [Artvee](https://artvee.com/) -Browse and download high-resolution, public domain Paintings, Drawings, Illustrations and Posters.
+- [Lightyear.fm](http://www.lightyear.fm/) - A journey through space, time, & music. Radio broadcasts leave Earth at the speed of light.
+- [Deceptive Design](https://www.deceptive.design/) - What is deceptive design (also known as "dark patterns")?
+- [DuckDuckGo](https://duckduckgo.com/) -  Internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results.
+- [elgooG](https://elgoog.im/) - Create, restore, and discover interactive Google Easter Eggs.
+- [Every Noise at Once](https://everynoise.com/) - Ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space.
+- [Animated Knots](https://www.animatedknots.com/) - Animated Knots is the world's leading site for learning how to tie knots of any kind.
 
 ## GLOSSARY
 [^1]: **IDE** - An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development.
