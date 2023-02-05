@@ -1,7 +1,7 @@
 ## 🛠️ 42 RESOURCES
 ```
 Welcome to the 42 RESOURCES repository!
-Here, you will find a collection of resources that have been helpful to me during my time at 42 School.
+Here, you will find a collection of resources that have been helpful (or not) to me during my time at 42 School.
 If you would like to make a correction or add a useful link for fellow 42 students, please feel free to contact me.
 All contributions are greatly appreciated and will be evaluated for inclusion in the repository.
 ```
@@ -384,16 +384,16 @@ Chess
 - [Phabricator](https://phabricator.wikimedia.org/) – Not a wiki, but a global ticketing system for tracking issues and feature requests.
 
 ## MISCELLANEOUS
-###### PACKAGE MANAGEMENT
+#### PACKAGE MANAGEMENT
 - [Chocolatey](https://chocolatey.org/) - Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
 - [Ninite](https://ninite.com/) - Package management system that enables users to automatically install popular applications for their Windows operating system.
 - [FOSSHUB](https://www.fosshub.com/) - Website and also a platform where people can download for free many popular free and *clean* software titles.
 #### DIGITAL PRINT
 - [Firefox Monitor](https://monitor.firefox.com/) - Check if you've been victim of an online data breach.
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Search across multiple data breaches to see if your email address or phone number has been compromised.
-- [00000](https://www.dehashed.com/) - DeHashed provides free deep-web scans and protection against credential leaks.
-- [00000](https://leakcheck.io/) - Data breach search engine, low price starting from $2.99/day, one free email address, unlimited API, 7B+ records.
-- [00000](https://intelx.io/) - Intelligence X is a search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
+- [DeHashed](https://www.dehashed.com/) - Free deep-web scans and protection against credential leaks.
+- [LeakCheck](https://leakcheck.io/) - Data breach search engine.
+- [Intelligence X](https://intelx.io/) - Search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
 #### OTHERS
 - [The Scale of the Universe](https://htwins.net/scale2/) - This game showns the sizes of different things in our universe in relation to other different things. `Game`
 - [Time.is](https://time.is/) - 7 million locations, 57 languages, synchronized with atomic clock time.
@@ -402,16 +402,16 @@ Chess
 - [Cool, but obscure UNIX tools](https://kkovacs.eu/cool-but-obscure-unix-tools/) - A little collection of cool unix terminal/console/curses tools.
 - [This website will self destruct](https://www.thiswebsitewillselfdestruct.com/)
 - [Start Your Own ISP ](https://startyourownisp.com/) - This guide is about building a Wireless ISP (WISP).
-- [Where is Roadster?](https://www.whereisroadster.com/) - On February 6, 2018, at 20:45 UTC, the first Falcon Heavy was launched into space. It contained a very special payload, a Tesla Roadster with Starman.
-- [This person does not exist](https://www.thispersondoesnotexist.com/) - 
+- [Where is Roadster?](https://www.whereisroadster.com/) - 6 of February 2018, at 20:45 UTC, the first Falcon Heavy was launched into space. It contained a very special payload, a Tesla Roadster with Starman.
+- [This person does not exist](https://www.thispersondoesnotexist.com/)
 - [The Is This Prime?](https://isthisprime.com/game/) `Game`
-- [00000](https://books.google.com/ngrams/) - 
-- [00000](https://www.keanuisimmortal.com/) - 
-- [00000](https://youglish.com/) - 
-- [00000](http://txti.es/) - 
-- [00000](https://pagespeed.web.dev/) - 
-- [00000](https://testmysite.io/) - 
-- [00000](https://www.worldometers.info/) - 
+- [Google Books Ngram Viewer](https://books.google.com/ngrams/) - Online search engine that charts the frequency of terms used in books over time.
+- [Keanu is immortal](https://www.keanuisimmortal.com/) - Proof of Keany Reeves is immortal.
+- [YouGlish](https://youglish.com/) - Dont know how to pronouce a word? Use Youtube to improve your English pronunciation.
+- [txti](http://txti.es/) - Fast web pages for everybody.
+- [PageSpeed Insights](https://pagespeed.web.dev/) - Analyze score and use PageSpeed Insights suggestions to make your web site faster.
+- [Testmysite.io](https://testmysite.io/) - Is your site as fast and secure as it could be?
+- [Worldometer](https://www.worldometers.info/) - Live world statistics on population, government and economics, society and media, environment, food, water, energy and health.
 - [00000](https://postcardmailer.herokuapp.com/) - 
 - [00000](https://unawaz.github.io/stochastic-hill-climbing/tasks/) - 
 - [00000](https://hackernewstitles.netlify.app/) - 
