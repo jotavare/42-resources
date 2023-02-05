@@ -181,18 +181,25 @@ Python Wiki
 Python for Non-Programmers
 Python for Programmers
 
-### TEXT GENARATORS
-- [Lorem Ipsum](https://lipsum.com/) - Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles that you can copy and paste almost anywhere.
+### Text Generators
+- [Lorem Ipsum](https://lipsum.com/) - Dummy text for printing and typesetting industry.
+- [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles.
 
-### ICONS, COLORS AND IMAGES
+### Icons
+- [Flaticon](https://www.flaticon.com/) - Wide catalogue of free icons. Formats: `Free PNG` `Paid SVG EPS PSD`
+- [unDraw](https://undraw.co/)
+
+### Images
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
-https://undraw.co/
-https://www.flaticon.com/
-https://flatuicolors.com/
-[https://mycolor.space/](https://mycolor.space/)
-https://www.canva.com/
-https://unsplash.com/
+- [Unsplash](https://unsplash.com/) 
+
+### Colors
+- [Flat UI Colors](https://flatuicolors.com/)
+- [ColorSpace](https://mycolor.space/)
+
+### Design Templates
+- [Canva](https://www.canva.com/)
+
 
 ## CAMPUSES
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools/)
