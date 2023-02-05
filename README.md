@@ -395,14 +395,16 @@ Chess
 - [00000](https://leakcheck.io/) - Data breach search engine, low price starting from $2.99/day, one free email address, unlimited API, 7B+ records.
 - [00000](https://intelx.io/) - Intelligence X is a search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
 #### OTHERS
-- [The Scale of the Universe](https://htwins.net/scale2/) - Educational game in which you are shown the sizes of different things in our universe in relation to other different things.
+- [The Scale of the Universe](https://htwins.net/scale2/) - Educational game in which you are shown the sizes of different things in our universe in relation to other different things. `Game`
 - [Time.is](https://time.is/) - 7 million locations, 57 languages, synchronized with atomic clock time.
-- [00000](http://cyber.dabamos.de/88x31/) - 
-- [00000](https://www.thiswebsitewillselfdestruct.com/) - 
-- [00000](https://startyourownisp.com/) - 
-- [00000](https://www.whereisroadster.com/) - 
-- [00000](https://www.thispersondoesnotexist.com/) - 
-- [00000](https://isthisprime.com/game/) - 
+- [The 88x31 GIF Collection](http://cyber.dabamos.de/88x31/) - A collection of 4161 classic 88x31 buttons from the 1990s, 2000s, and today in GIF format.
+- [Cool, but obscure X11 tools](http://cyber.dabamos.de/unix/x11/#xmgrace/) - Small collection of soem obscure tools for the X Window System.
+- [Cool, but obscure UNIX tools](https://kkovacs.eu/cool-but-obscure-unix-tools/) - A little collection of cool unix terminal/console/curses tools.
+- [This website will self destruct](https://www.thiswebsitewillselfdestruct.com/)
+- [Start Your Own ISP ](https://startyourownisp.com/) - This guide is about building a Wireless ISP (WISP).
+- [Where is Roadster?](https://www.whereisroadster.com/) - On February 6, 2018, at 20:45 UTC, the first Falcon Heavy was launched into space. It contained a very special payload, a Tesla Roadster with Starman.
+- [This person does not exist](https://www.thispersondoesnotexist.com/) - 
+- [The Is This Prime?](https://isthisprime.com/game/) `Game`
 - [00000](https://books.google.com/ngrams/) - 
 - [00000](https://www.keanuisimmortal.com/) - 
 - [00000](https://youglish.com/) - 
