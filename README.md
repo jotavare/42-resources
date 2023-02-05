@@ -78,8 +78,13 @@ For a specific 42 School social media, check the website in the section **['CAMP
 - https://cheat-sheets.org/
 
 ## TESTERS
+https://github.com/xicodomingues/francinette
 https://github.com/IDC87/push_swap_leak_tester
 https://github.com/Pixailz/Born2BeRootTester
+https://github.com/gemartin99/Push-Swap-Tester
+https://github.com/Tripouille/libftTester
+https://github.com/Tripouille/gnlTester
+https://github.com/Tripouille/printfTester
 
 ## TOOLS
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
