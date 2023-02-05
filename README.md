@@ -69,7 +69,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools/)
 - 🗺️ [42 World Map](https://github.com/jotavare/42-resources/blob/main/42-campuses-world-map.jpg/)
 
-### Europe
+### EUROPE
 - 🇦🇲 [42 Yerevan](https://42yerevan.am/) - Armenia
 - 🇦🇹 [42 Vienna](https://www.42vienna.com/) - Austria
 - 🇧🇪 [19 – Antwerp](https://campus19.be/) - Belgium
@@ -103,7 +103,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - 🇹🇷 [42 Istanbul](https://42istanbul.com.tr/) - Turkey
 - 🇬🇧 [42 London](https://42london.com/) - United Kingdom
 
-### Asia
+### ASIA
 - 🇯🇵 [42 Tokyo](https://42tokyo.jp/) - Japan
 - 🇯🇴 [42 Amman](https://www.42network.org/campuses/42-amman/) - Jordan
 - 🇲🇾 [42 Kuala](https://42kl.edu.my/) - Malaysia
@@ -112,24 +112,24 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - 🇹🇷 [42 Kocaeli](https://42kocaeli.com.tr/) - Turkey
 - 🇦🇪 [42 Abu Dhabi](https://42abudhabi.ae/) - United Arab Emirates
 
-### Americas
+### AMERICA
 - 🇧🇷 [42 Belo Horizonte](https://www.42bh.org.br/) - Brazil
 - 🇧🇷 [42 Rio](https://42.rio/) - Brazil
 - 🇧🇷 [42 São Paulo](https://www.42sp.org.br/) - Brazil
 - 🇨🇦 [42 Québec](https://42quebec.com/) - Canada
 
-### Africa
+### AFRICA
 - 🇲🇦 [1337 – Ben Guerir](https://1337.ma/en/campuses/) - Morocco
 - 🇲🇦 [1337 – Khouribga](https://1337.ma/en/campuses/) - Morocco
 - 🇲🇦 [1337 – Med](https://1337.ma/en/campuses/) - Morocco
 
-### Oceania
+### OCEANIA
 - 🇦🇺 [42 Adelaide](https://www.42adel.org.au/) - Australia
 
 - - - -
 
 ## PISCINE, COMMON CORE & SPECIALIZATIONS
-#### TOOLS
+### TOOLS
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
 - [42 XP Calculator](https://42.tbailleu.dev/) - Calculate how much exp you need for the next level.
 - [42 Stupidity](https://github.com/mirror12k/42us-stupidity/) - A tool for quickly test solutions for the piscine exercises.
@@ -139,12 +139,12 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 Evaluators](https://42evaluators.com/) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
 - [42 CTF](https://www.42ctf.org/en/) - Cybersecurity competition, solve challenges of various categories to gain points and progress on the scoreboard.
 
-#### SUBJECTS
+### SUBJECTS
 - [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
 - [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers/)
 - [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects/)
 
-#### TESTERS
+### TESTERS
 - [Francinette](https://github.com/xicodomingues/francinette) `libft` `ft_printf` `get_next_line` `minitalk` `pipex`
 - [libft Tester](https://github.com/Tripouille/libftTester)
 - [printf Tester](https://github.com/Tripouille/printfTester)
@@ -153,11 +153,11 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester)
 - [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester)
 
-#### EXAMS
+### EXAMS
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
 
-#### CHEAT SHEETS
+### CHEAT SHEETS
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
 ###### Bash
@@ -176,7 +176,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheatsheets for popular programming languages, frameworks and development tools.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
-#### PEER-TO-PEER
+### PEER-TO-PEER
 - [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8/) - `Youtube`
 - [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE/) - What to do before the evaluation? (as evaluated student) `Youtube`
 - [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY/) - What to do before the evaluation? (as evaluator) `Youtube`
