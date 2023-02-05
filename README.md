@@ -256,6 +256,8 @@ Python for Programmers
 ### Images
 - [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos.
 - [Unsplash](https://unsplash.com/) - Free images and photos that you can download and use for any project.
+- [TinEye](https://tineye.com/) - Reverse image search.
+- [Google Images](https://www.google.com/imghp/) - Reverse image search from google.
 
 ### Colors
 - [Flat UI Colors](https://flatuicolors.com/) - A total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs.
@@ -316,8 +318,7 @@ https://tvchart.benmiz.com/
 https://www.famousscientists.org/
 https://knowyourmeme.com/
 https://www.bellingcat.com/
-https://tineye.com/
-google imagens
+
 https://artvee.com
 http://www.lightyear.fm/
 https://www.deceptive.design/
