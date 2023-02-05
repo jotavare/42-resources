@@ -174,6 +174,8 @@ https://www.wordnik.com/
 
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 - [Spicetify](https://spicetify.app/)
+https://thimbleby.gitlab.io/algorithm-wiki-site/
+https://www.similarsites.com/
 
 ## FUN, GAMES & MEMES
 - [Reeborg's World](https://reeborg.ca/reeborg.html/) - Website designed to help people learn programming. `Recommended`
