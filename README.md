@@ -152,6 +152,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
 
+- - - -
+
 ## RESOURCES
 ###### _Resources and cheat sheets for every ocasion._
 ##### FORTY-TWO
@@ -275,6 +277,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Spicetify](https://spicetify.app/) - Powerful CLI tool to take control of the Spotify client.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 
+- - - -
+
 ## MOOCS & BOOKS
 #### PLATAFORMS
 - [Wikipedia](https://www.wikipedia.org/) - Did he really just post the Wikipedia link?!
@@ -308,6 +312,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 #### BOOKS
 - [Programming Notes for Professionals Books](https://books.goalkicker.com/)
+
+- - - -
 
 ## OTHER TOOLS
 #### GENERATORS
@@ -349,6 +355,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### VIDEO
 - [Mixkit](https://mixkit.co/) - Free assets for your next video project. `Free`
 
+- - - -
+
 ## WIKIMEDIA FOUNDATION
 - [Wikipedia](https://en.wikipedia.org/) – Online encyclopedia.
 - [Wiktionary](https://www.wiktionary.org/) – Online dictionary and thesaurus.
@@ -366,6 +374,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [MediaWiki](https://www.mediawiki.org/) – Site for coordinating work on MediaWiki software.
 - [Wikitech](https://wikitech.wikimedia.org/) – Including Wikimedia Cloud Services, Data Services, Toolforge, and other technical projects and infrastructure.
 - [Phabricator](https://phabricator.wikimedia.org/) – Not a wiki, but a global ticketing system for tracking issues and feature requests.
+
+- - - -
 
 ## MISCELLANEOUS
 #### DIGITAL FOOTPRINT
