@@ -131,8 +131,10 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 #### PROJECTS
 ###### _Specific project information and resources._
-###### [Minilibx]
+###### Minilibx
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx/)
+###### FdF
+- [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm/)
 
 #### TESTERS
 ###### _Test your code with already made testers._
