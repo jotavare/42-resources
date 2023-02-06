@@ -440,7 +440,7 @@ https://www.similarsites.com/
 - [txti](http://txti.es/) - Fast web pages for everybody.
 - [PageSpeed Insights](https://pagespeed.web.dev/) - Analyze score and use PageSpeed Insights suggestions to make your web site faster.
 - [Testmysite.io](https://testmysite.io/) - Is your site as fast and secure as it could be?
-- [Worldometer](https://www.worldometers.info/) - Live world statistics on population, government and economics, society and media, environment, food, water, energy and health.
+- [Worldometer](https://www.worldometers.info/) - Live world statistics. `Population` `Government` `Economics` `Society` `Media` `Environment` `Food` `Water` `Energy` `Health`
 - [Free Postcard](https://postcardmailer.herokuapp.com/) - Send a free postcard with a photo to anyone on USA.
 - [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
 - [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.app/) - Hacker News whose titles have been edited since they were first posted.
