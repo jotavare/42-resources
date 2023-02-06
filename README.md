@@ -201,6 +201,10 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet/)
 - [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/)
 
+###### [C]
+- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
+- [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
+
 ###### [Python]
 - [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet/)
 
@@ -326,13 +330,9 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ### Books
 - [Programming Notes for Professionals Books](https://books.goalkicker.com/)
 
-## MISC
-- [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
-- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
-- [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
-
 ## TOOLS
 #### GENERATORS
+- [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
 - [Lorem Ipsum](https://lipsum.com/) - Dummy text for printing and typesetting industry.
 - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles.
 - [Tables Generator](https://www.tablesgenerator.com/) - Table editor and Generator. `LaTeX` `ConTeXt` `Plain TeX` `PreTeXt` `EPlain` `Markdown` `Textile` `CSV` `HTML` 
