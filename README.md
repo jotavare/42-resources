@@ -7,26 +7,22 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ```
 
 ## INDEX
-<details><summary>INDEX</summary>
-<p>
-- **[42 SCHOOL](#42-school)**
-  - **[TRIVIA](#trivia)**
-  - **[REWARDS](#rewards)**
-  - **[NETWORK](#network)**
-  - **[SOCIAL](#social)**
-  - **[ASSOCIATIONS](#associations)**
+**[42 SCHOOL](#42-school)**
+- **[TRIVIA](#trivia)**
+- **[REWARDS](#rewards)**
+- **[NETWORK](#network)**
+- **[SOCIAL](#social)**
+- **[ASSOCIATIONS](#associations)**
 
-- **[42 CAMPUSES](#42-campuses)**
+**[42 CAMPUSES](#42-campuses)**
 
-- **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,-common-core-&-specializations)**
-  - **[TOOLS](#tools)**
-  - **[SUBJECTS](#subjects)**
-  - **[TESTERS](#testers)**
-  - **[EXAMS](#exams)**
-  - **[CHEAT SHEETS](#cheat-sheets)**
-  - **[PEER-TO-PEER](#peer-to-peer)**
-</p>
-</details>
+**[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,-common-core-&-specializations)**
+- **[TOOLS](#tools)**
+- **[SUBJECTS](#subjects)**
+- **[TESTERS](#testers)**
+- **[EXAMS](#exams)**
+- **[CHEAT SHEETS](#cheat-sheets)**
+- **[PEER-TO-PEER](#peer-to-peer)**
   
 - - - -
 
