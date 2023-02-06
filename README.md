@@ -51,6 +51,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 API](https://api.intra.42.fr/apidoc/) - The API is RESTful, uses JSON over HTTPS and lets you authenticate users with OAuth 2.0. 
 
 ### SOCIAL
+###### Every 42 Network social media. For a specific 42 School social media, check the section **[CAMPUSES](#campuses)** and pick a school of your choice.
 - [42 Network](https://www.42network.org/)
 - [Instagram](https://www.instagram.com/42_network/)
 - [Youtube](https://www.youtube.com/c/42thenetwork/)
@@ -60,7 +61,6 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [GitHub](https://github.com/42School/)
 - [Official Discord](https://discord.com/invite/42/)
 - [Unofficial Discord](https://discord.gg/wsrkKE4/)
-###### For a specific 42 School social media, check the section **['CAMPUSES'](#campuses)** and pick a school of your choice.
 
 ### ASSOCIATIONS
 - [[FR] 42AI - Association](https://www.42ai.fr/) - Artificial Intelligence.
@@ -70,6 +70,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - - - -
 
 ## 42 CAMPUSES
+###### All 42 campuses arround the world and their information.
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools/)
 - 🗺️ [42 World Map](https://github.com/jotavare/42-resources/blob/main/42-campuses-world-map.jpg/)
 
@@ -134,6 +135,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ## PISCINE, COMMON CORE & SPECIALIZATIONS
 ### TOOLS
+###### Some usefull tools i used in my 42 journey.
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
 - [42 XP Calculator](https://42.tbailleu.dev/) - Calculate how much exp you need for the next level.
 - [42 Stupidity](https://github.com/mirror12k/42us-stupidity/) - A tool for quickly test solutions for the piscine exercises.
@@ -146,14 +148,17 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [PowerLevel10k](https://github.com/romkatv/powerlevel10k/) - Theme that i personally use for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 
 ### SUBJECTS
+###### Links with all current 42 subjects.
 - [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
 - [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers/)
 - [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects/)
 
 ### PROJECTS
+###### Usefull links for specific projects.
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx/)
 
 ### TESTERS
+###### Test your code with already made testers.
 - [Francinette](https://github.com/xicodomingues/francinette) `libft` `ft_printf` `get_next_line` `minitalk` `pipex`
 - [Libft File Checker (nuno_jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
 - [libft Tester](https://github.com/Tripouille/libftTester)
@@ -164,10 +169,12 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester)
 
 ### EXAMS
+###### Great websites to help you with 42 exams.
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
 
 ### CHEAT SHEETS
+###### Cheat Sheets for every ocasion.
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
 
@@ -201,6 +208,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site/) - This wiki is an experiment in making algorithms interactive on the web.
 
 ### PEER-TO-PEER
+###### Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git.
 - [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8/) - `Youtube`
 - [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE/) - What to do before the evaluation? (as evaluated student) `Youtube`
 - [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY/) - What to do before the evaluation? (as evaluator) `Youtube`
