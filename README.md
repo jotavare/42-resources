@@ -456,7 +456,7 @@ https://www.similarsites.com/
 - [Artvee](https://artvee.com/) -Browse and download high-resolution, public domain Paintings, Drawings, Illustrations and Posters.
 - [Lightyear.fm](http://www.lightyear.fm/) - A journey through space, time, & music. Radio broadcasts leave Earth at the speed of light.
 - [Deceptive Design](https://www.deceptive.design/) - What is deceptive design (also known as "dark patterns")?
-- [DuckDuckGo](https://duckduckgo.com/) -  Internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results.
+- [DuckDuckGo](https://duckduckgo.com/) -  Internet search engine that emphasizes protecting searchers' privacy.
 - [elgooG](https://elgoog.im/) - Create, restore, and discover interactive Google Easter Eggs.
 - [Every Noise at Once](https://everynoise.com/) - Algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space.
 - [Animated Knots](https://www.animatedknots.com/) - Learn how to tie knots of any kind.
