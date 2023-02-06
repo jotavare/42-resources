@@ -300,15 +300,15 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [Envato Tuts+](https://tutsplus.com/) - Learn creative skills with Envato Tuts+.
 
 ### CRACK THE CODE
-- [Sololearn](https://www.sololearn.com/) - The best way to learn to code ... Courses designed by experts with real-world practice.
+- [Sololearn](https://www.sololearn.com/) - Courses designed by experts with real-world practice.
 - [LeetCode](https://leetcode.com/) - Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews.
-- [GeeksforGeeks](https://www.geeksforgeeks.org/) - Similar to leetcode, but every problem usually starts from an explanatory article. Good for learning about algorithms and new techniques.
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) - Every problem usually starts from an explanatory article. Good for learning about algorithms and new techniques.
 - [HackerRank](https://www.hackerrank.com/) - Lot of programming problems, as well as math, AI, etc. Good to improve problem solving skills.
-- [Codeforces](https://codeforces.com/) - Similar to hackerrank, but with more focus on conducting programming contests, but it does have a huge problems archive and auto-tests.
-- [Topcoder](https://www.topcoder.com/) - for programming contests professionals.
-- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code/) - how to implement X in language Y. Very interesting compilation of standard problems and corresponding solutions.
-- [CodinGame](https://www.codingame.com/) - automated platform for writing game bots and alike. Can be very fun, with nice visualization and competitive features. Definitely improve your coding and math skills but solutions often are heuristic-based.
-- [Codewars](https://www.codewars.com/) - platform for software developers on which people can solve programming puzzles known also as “katas”
+- [Codeforces](https://codeforces.com/) - Similar to hackerrank, with more focus on conducting programming contests, has a huge problems archive and auto-tests.
+- [Topcoder](https://www.topcoder.com/) - For programming contests professionals.
+- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code/) - How to implement X in language Y.
+- [CodinGame](https://www.codingame.com/) - Automated platform for writing game bots and alike. Definitely improves your coding and math skills.
+- [Codewars](https://www.codewars.com/) - Platform for software developers on which people can solve programming puzzles known also as “katas”.
 
 ### Online Courses
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/) `free`
