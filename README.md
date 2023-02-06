@@ -330,15 +330,13 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
 
-
-https://www.similarsites.com/
-
 ## TOOLS
 #### GENERATORS
 - [Lorem Ipsum](https://lipsum.com/) - Dummy text for printing and typesetting industry.
 - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles.
 - [Tables Generator](https://www.tablesgenerator.com/) - LaTeX, ConTeXt, Plain TeX, PreTeXt, EPlain, Markdown, Textile, CSV and HTML table editor and Generator.
 - https://duplicateword.com/
+- 
 
 #### ICONS & IllUSTRATIONS
 - [Flaticon](https://www.flaticon.com/) - Wide catalogue of icons. `Free` `PNG` `Paid` `SVG` `EPS` `PSD`
@@ -438,6 +436,7 @@ https://www.similarsites.com/
 
 #### OTHERS
 - [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`
+- [Similarsites](https://www.similarsites.com/) - Explore competitor and related sites.
 - [Time.is](https://time.is/) - 7 million locations, 57 languages, synchronized with atomic clock time.
 - [Time and Date](https://www.timeanddate.com/) - Current Time (World Clock) and online and printable Calendars for countries worldwide.
 - [The 88x31 GIF Collection](http://cyber.dabamos.de/88x31/) - A collection of 4161 classic 88x31 buttons from the 1990s, 2000s, and today in GIF format.
@@ -453,7 +452,7 @@ https://www.similarsites.com/
 - [txti](http://txti.es/) - Fast web pages for everybody.
 - [PageSpeed Insights](https://pagespeed.web.dev/) - Analyze score and use PageSpeed Insights suggestions to make your web site faster.
 - [Testmysite.io](https://testmysite.io/) - Is your site as fast and secure as it could be?
-- [Worldometer](https://www.worldometers.info/) - Live world statistics. `Population` `Government` `Economics` `Society` `Media` `Environment` `Food` `Water` `Energy` `Health`
+- [Worldometer](https://www.worldometers.info/) - Live world statistics. `Population``Government` `Economics` `Society` `Media` `Environment` `Food` `Water` `Energy` `Health`
 - [Free Postcard](https://postcardmailer.herokuapp.com/) - Send a free postcard with a photo to anyone on USA.
 - [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
 - [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.app/) - Hacker News whose titles have been edited since they were first posted.
