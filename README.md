@@ -386,6 +386,12 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - - - -
 
 ## MISCELLANEOUS
+#### PRODUCTIVITY SOFTWARE
+- [Evernote](https://evernote.com/) – Note-taking and task management application. 
+- [Notion](https://www.notion.so/) – Freemium productivity and note-taking web application developed by Notion Labs Inc.
+- [Trello](https://trello.com/) – Ultimate project management tool.
+- [Motion](https://www.usemotion.com/) – Automatically prioritize tasks, schedule meetings, and resolve calendar conflicts. 
+
 #### DIGITAL FOOTPRINT
 - [Firefox Monitor](https://monitor.firefox.com/) - Check if you've been victim of an online data breach.
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Search across multiple data breaches to see if your email address or phone number has been compromised.
@@ -414,7 +420,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Ruwix](https://ruwix.com/) - Website to learn about the Rubik's Cube and other twisty puzzles.
 
 #### CHESS
-- [Chess](https://www.chess.com/) - Chess online. `Freemium`
+- [Chess](https://www.chess.com/) - Chess online.
 - [Lichess](https://lichess.org/) - Free and open-source chess server. Clean interface, no registration, no ads, no plugin required.
 - [Chess24](https://chess24.com/) - Chess news.
 - [Kasparovchess](https://kasparovchess.com/) - Garry Kasparov masterclass, lessons from grandmasters, entertaining documentaries and interviews.
