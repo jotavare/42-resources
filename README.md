@@ -41,7 +41,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [JetBrains](https://www.jetbrains.com/community/education/) - Integrated development environment Software (IDE). `Sign up with 42 student email`
 
 ### NETWORK
-###### Important websites for 42 students.
+###### _Important websites for 42 students._
 - [42 Intra](https://intra.42.fr/) - Official portal for everything related with 42.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students (after Piscine).
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum (after Piscine).
@@ -51,7 +51,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 API](https://api.intra.42.fr/apidoc/) - The API is RESTful, uses JSON over HTTPS and lets you authenticate users with OAuth 2.0. 
 
 ### SOCIAL
-###### Every 42 Network social media. For a specific 42 School social media, check the section **[CAMPUSES](#campuses)** and pick a school of your choice.
+###### _Every 42 Network social media. For a specific 42 School social media, check the section **[CAMPUSES](#campuses)** and pick a school of your choice._
 - [42 Network](https://www.42network.org/)
 - [Instagram](https://www.instagram.com/42_network/)
 - [Youtube](https://www.youtube.com/c/42thenetwork/)
@@ -63,7 +63,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Unofficial Discord](https://discord.gg/wsrkKE4/)
 
 ### ASSOCIATIONS
-###### All associations and groups made by 42 staff or students.
+###### _All associations and groups made by 42 staff or students._
 - [[FR] 42AI - Association](https://www.42ai.fr/) - Artificial Intelligence.
 - [[FR] La Contre-Voie](https://lacontrevoie.fr/) - Free culture and ethics.
 - [[FR] APT42](https://apt42.fr) - Security.
@@ -71,7 +71,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - - - -
 
 ## 42 CAMPUSES
-###### All 42 campuses arround the world and their information.
+###### _All 42 campuses arround the world and their information._
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools/)
 - 🗺️ [42 World Map](https://github.com/jotavare/42-resources/blob/main/42-campuses-world-map.jpg/)
 
@@ -136,7 +136,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ## PISCINE, COMMON CORE & SPECIALIZATIONS
 ### TOOLS
-###### Some usefull tools i used in my 42 journey.
+###### _Some usefull tools i used in my 42 journey._
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
 - [42 XP Calculator](https://42.tbailleu.dev/) - Calculate how much exp you need for the next level.
 - [42 Stupidity](https://github.com/mirror12k/42us-stupidity/) - A tool for quickly test solutions for the piscine exercises.
@@ -149,34 +149,46 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [PowerLevel10k](https://github.com/romkatv/powerlevel10k/) - Theme that i personally use for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 
 ### SUBJECTS
-###### All current 42 subjects.
+###### _All current 42 subjects._
 - [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
 - [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers/)
 - [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects/)
 
 ### PROJECTS
-###### Specific projects information and resources.
+###### _Specific projects information and resources._
 ###### [Minilibx]
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx/)
 
 ### TESTERS
-###### Test your code with already made testers.
+###### _Test your code with already made testers._
+
+###### [All-in-One]
 - [Francinette](https://github.com/xicodomingues/francinette) `libft` `ft_printf` `get_next_line` `minitalk` `pipex`
+
+###### [Libft]
 - [Libft File Checker (nuno_jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
 - [libft Tester](https://github.com/Tripouille/libftTester)
+
+###### [Printf]
 - [Printf Tester](https://github.com/Tripouille/printfTester/)
+
+###### [Get Next Line]
 - [GNL Tester](https://github.com/Tripouille/gnlTester)
+
+###### [Born2beroot]
 - [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester)
+
+###### [Push Swap]
 - [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester)
 - [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester)
 
 ### EXAMS
-###### Great websites to help you with 42 exams.
+###### _Great websites to help you with 42 exams._
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
 
 ### RESOURCES
-###### Resources and cheat sheets for every ocasion.
+###### _Resources and cheat sheets for every ocasion._
 ###### [Forty-Two]
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
@@ -215,7 +227,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ### PEER-TO-PEER
-###### Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git.
+###### _Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git._
 - [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8/) - `Youtube`
 - [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE/) - What to do before the evaluation? (as evaluated student) `Youtube`
 - [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY/) - What to do before the evaluation? (as evaluator) `Youtube`
@@ -263,7 +275,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line/)
 
 ###### [BROWSER]
-###### I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox.
+###### _I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox._
 - [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
 - [Better Black Hole](https://github.com/jkctech/BetterBlackHole) `chrome` `firefox`
 - [42 Logtime & Darkmode](https://chrome.google.com/webstore/detail/42-logtime-darkmode/kkcjiilcfieknbpdhihhhncdbligjplg) `chrome`
@@ -390,7 +402,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ## MISCELLANEOUS
 #### GAMES
-###### Attention, depending on your 42 school rules you may or may not play games on school computers. Avoid getting -420 and community service.
+###### _Attention, depending on your 42 school rules you may or may not play games on school computers. Avoid getting -420 and community service._
 - [Reeborg's World](https://reeborg.ca/reeborg.html/) - Website designed to help people learn programming. `Recommended`
 - [Sudoku](https://sudoku.com/) - Fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9.
 - [2048](https://play2048.co/) - Slide numbered tiles on a grid to combine them to create a tile with the number 2048.
