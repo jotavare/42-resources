@@ -162,8 +162,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Francinette](https://github.com/xicodomingues/francinette) `libft` `ft_printf` `get_next_line` `minitalk` `pipex`
 - [Libft File Checker (nuno_jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
 - [libft Tester](https://github.com/Tripouille/libftTester)
-- [printf Tester](https://github.com/Tripouille/printfTester)
-- [gnl Tester](https://github.com/Tripouille/gnlTester)
+- [Printf Tester](https://github.com/Tripouille/printfTester/)
+- [GNN Tester](https://github.com/Tripouille/gnlTester)
 - [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester)
 - [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester)
 - [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester)
@@ -195,7 +195,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ###### Others
 - [Cheat Sheets](https://cheat-sheets.org/) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 - [Devhints](https://devhints.io/) - Collection of various cheat sheets.
-- [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheatsheets for popular programming languages, frameworks and development tools.
+- [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ### Shell
@@ -223,7 +223,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [GDB Online Debugger](https://www.onlinegdb.com/) - Online compiler & debugger for a lot of programming languages.
 - [Python Tutor](https://pythontutor.com/) - Online compiler & debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.
 - [Thonny](https://thonny.org/) - Thonny is an IDE for Python that is designed for beginners.
-- [Sublime Text](https://www.sublimetext.com/) -
+- [Sublime Text](https://www.sublimetext.com/)
 
 ###### ONLINE IDE
 - [Replit](https://replit.com/login/) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
@@ -319,8 +319,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Codewars](https://www.codewars.com/) - Platform for software developers on which people can solve programming puzzles known also as “katas”.
 
 ### Online Courses
-- [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/) `free`
-- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 day trial`
+- [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/) `Free`
+- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 Day Trial`
 
 ### Books
 - [Programming Notes for Professionals Books](https://books.goalkicker.com/)
@@ -334,9 +334,9 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### GENERATORS
 - [Lorem Ipsum](https://lipsum.com/) - Dummy text for printing and typesetting industry.
 - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles.
-- [Tables Generator](https://www.tablesgenerator.com/) - LaTeX, ConTeXt, Plain TeX, PreTeXt, EPlain, Markdown, Textile, CSV and HTML table editor and Generator.
-- https://duplicateword.com/
-- 
+- [Tables Generator](https://www.tablesgenerator.com/) - Table editor and Generator. `LaTeX` `ConTeXt` `Plain TeX` `PreTeXt` `EPlain` `Markdown` `Textile` `CSV` `HTML` 
+- [Duplicate Word Finder](https://duplicateword.com/) - Find duplicate words and eliminate them from your writings, posts or emails. 
+- [Duplicate Word Finder - CodePen](https://codepen.io/finnhvman/pen/oPwXRa) - Duplicate Word Finder + `HTML` `CSS` `JS` visualization.
 
 #### ICONS & IllUSTRATIONS
 - [Flaticon](https://www.flaticon.com/) - Wide catalogue of icons. `Free` `PNG` `Paid` `SVG` `EPS` `PSD`
@@ -401,17 +401,17 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ###### Rubik's Cube
 - [SpeedSolving](https://www.speedsolving.com/wiki/index.php/Main_Page) - Community focused on speed-solving puzzles, particularly the Rubik's cube and alike.
-- [Ruwix](https://ruwix.com/) - Website to learn about the Rubik's Cube™ and other twisty puzzles.
+- [Ruwix](https://ruwix.com/) - Website to learn about the Rubik's Cube and other twisty puzzles.
 
 ###### Chess
 - [Chess](https://www.chess.com/) - Chess online. `Freemium`
 - [Lichess](https://lichess.org/) - Free and open-source chess server. Clean interface, no registration, no ads, no plugin required.
 - [Chess24](https://chess24.com/) - Chess news.
-- [Kasparovchess](https://kasparovchess.com/) - Elevate your chess game with Garry Kasparov masterclass, lessons from grandmasters, entertaining documentaries and interviews.
+- [Kasparovchess](https://kasparovchess.com/) - Garry Kasparov masterclass, lessons from grandmasters, entertaining documentaries and interviews.
 - [ChessBase](https://en.chessbase.com/) - Chess news and stand-alone database that has become the standard throughout the world.
-- [Chessgames](https://www.chessgames.com/) - Database of chess games combined with discussion forums, forming the internet's oldest and best chess learning community.
+- [Chessgames](https://www.chessgames.com/) - Database of chess games, discussion forums, forming the internet's oldest chess community.
 - [Notable Chess games of all time](https://www.chessgames.com/perl/goat.pl/)
-- [Chess Tactics](https://www.chesstactics.org/) - Learn chess tactics taught in plain English. The most complete body of instruction on the subject yet written.
+- [Chess Tactics](https://www.chesstactics.org/) - Chess tactics taught in plain English. The most complete body of instruction on the subject yet written.
 - [Chessboard.js](https://chessboardjs.com/examples#5002) - Who will win in this chess game of Math.random() vs Math.random()?
 - [Britannica](https://www.britannica.com/topic/chess) - What is chess?
 - [Chess Wikipedia](https://en.wikipedia.org/wiki/Chess)
@@ -420,12 +420,12 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) - `Youtube`
 - [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) - `Youtube`
 - [[FR] Memes](https://www.instagram.com/duoquadra_meme/) - `Instagram`
-- [Know Your Meme](https://knowyourmeme.com/) - Website dedicated to documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
+- [Know Your Meme](https://knowyourmeme.com/) - Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
 
 #### PACKAGE MANAGEMENT
 - [Chocolatey](https://chocolatey.org/) - Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
 - [Ninite](https://ninite.com/) - Package management system that enables users to automatically install popular applications for their Windows operating system.
-- [FOSSHUB](https://www.fosshub.com/) - Website and also a platform where people can download for free many popular free and *clean* software titles.
+- [FOSSHUB](https://www.fosshub.com/) - Website and also a platform where people can download for free many popular and *clean* software titles.
 
 #### DIGITAL FOOTPRINT
 - [Firefox Monitor](https://monitor.firefox.com/) - Check if you've been victim of an online data breach.
@@ -452,7 +452,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [txti](http://txti.es/) - Fast web pages for everybody.
 - [PageSpeed Insights](https://pagespeed.web.dev/) - Analyze score and use PageSpeed Insights suggestions to make your web site faster.
 - [Testmysite.io](https://testmysite.io/) - Is your site as fast and secure as it could be?
-- [Worldometer](https://www.worldometers.info/) - Live world statistics. `Population``Government` `Economics` `Society` `Media` `Environment` `Food` `Water` `Energy` `Health`
+- [Worldometer](https://www.worldometers.info/) - Live world statistics. `Population` `Government` `Economics` `Society` `Media` `Environment` `Food` `Water` `Energy` `Health`
 - [Free Postcard](https://postcardmailer.herokuapp.com/) - Send a free postcard with a photo to anyone on USA.
 - [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
 - [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.app/) - Hacker News whose titles have been edited since they were first posted.
