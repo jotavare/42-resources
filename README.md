@@ -256,27 +256,27 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 Launcher](https://chrome.google.com/webstore/detail/42-launcher/ilfaiabliekooeinlfonleniaeaijabe) `chrome`
 - [Legion 42](https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb) `chrome`
 
-##### [LANGUAGE CORRECTION]
+#### [LANGUAGE CORRECTION]
 - [LanguageTool](https://languagetool.org/)
 - [Grammarly](https://www.grammarly.com/)
 - [Wiktionary](https://en.wiktionary.org/)
 - [Urban Dictionary](https://www.urbandictionary.com/)
 - [Wordnik](https://www.wordnik.com/)
 
-##### [APPS]
+#### [APPS]
 - [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Written in Java. `Android`
 - [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - Written in Swift. `iOS`
 
-##### [BADGE]
+#### [BADGE]
 - [Badge 42](https://github.com/JaeSeoKim/badge42/) - Dynamically generated 42 badge for your git readmes.
 - [1337 Readme](https://github.com/mohouyizme/1337-readme/) - Share your progress with the world via GitHub README.md. `Not working?`
 
-##### [ADDONS]
+#### [ADDONS]
 - [Spicetify](https://spicetify.app/) - Powerful CLI tool to take control of the Spotify client.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 
 ## MOOCS & BOOKS
-### Plataforms
+#### Plataforms
 - [Wikipedia](https://www.wikipedia.org/) - Did he really just post the Wikipedia link?!
 - [Udemy](https://www.udemy.com/) `free` `paid`
 - [Google Codelabs](https://codelabs.developers.google.com/)
@@ -291,7 +291,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Google Developers Certification](https://developers.google.com/certification/) - Google Developers Certification lets you demonstrate your proficiency and skill. 
 - [Envato Tuts+](https://tutsplus.com/) - Learn creative skills with Envato Tuts+.
 
-### CRACK THE CODE
+#### CRACK THE CODE
 - [Sololearn](https://www.sololearn.com/) - Courses designed by experts with real-world practice.
 - [LeetCode](https://leetcode.com/) - Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews.
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) - Every problem usually starts from an explanatory article. Good for learning about algorithms and new techniques.
@@ -302,11 +302,11 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [CodinGame](https://www.codingame.com/) - Automated platform for writing game bots and alike. Definitely improves your coding and math skills.
 - [Codewars](https://www.codewars.com/) - Platform for software developers on which people can solve programming puzzles known also as “katas”.
 
-### Online Courses
+#### Online Courses
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/) `Free`
 - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 Day Trial`
 
-### Books
+#### Books
 - [Programming Notes for Professionals Books](https://books.goalkicker.com/)
 
 ## OTHER TOOLS
@@ -368,19 +368,19 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Phabricator](https://phabricator.wikimedia.org/) – Not a wiki, but a global ticketing system for tracking issues and feature requests.
 
 ## MISCELLANEOUS
-###### DIGITAL FOOTPRINT
+#### DIGITAL FOOTPRINT
 - [Firefox Monitor](https://monitor.firefox.com/) - Check if you've been victim of an online data breach.
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Search across multiple data breaches to see if your email address or phone number has been compromised.
 - [DeHashed](https://www.dehashed.com/) - Free deep-web scans and protection against credential leaks.
 - [LeakCheck](https://leakcheck.io/) - Data breach search engine.
 - [Intelligence X](https://intelx.io/) - Search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
 
-###### PACKAGE MANAGEMENT
+#### PACKAGE MANAGEMENT
 - [Chocolatey](https://chocolatey.org/) - Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
 - [Ninite](https://ninite.com/) - Package management system that enables users to automatically install popular applications for their Windows operating system.
 - [FOSSHUB](https://www.fosshub.com/) - Website and also a platform where people can download for free many popular and *clean* software titles.
 
-###### GAMES
+#### GAMES
 ###### _Attention, depending on your 42 school rules you may or may not play games on school computers. Avoid getting -420 and community service._
 - [Reeborg's World](https://reeborg.ca/reeborg.html/) - Website designed to help people learn programming. `Recommended`
 - [Sudoku](https://sudoku.com/) - Fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9.
@@ -391,11 +391,11 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Quick, Draw!](https://quickdraw.withgoogle.com/) - Can a neural network learn to recognize squiggles?
 - [Random Country Generator](https://random.country/) - Ever wanted to learn about all the countries in the world?
 
-###### Rubik's Cube
+#### Rubik's Cube
 - [SpeedSolving](https://www.speedsolving.com/wiki/index.php/Main_Page) - Community focused on speed-solving puzzles, particularly the Rubik's cube and alike.
 - [Ruwix](https://ruwix.com/) - Website to learn about the Rubik's Cube and other twisty puzzles.
 
-###### Chess
+#### Chess
 - [Chess](https://www.chess.com/) - Chess online. `Freemium`
 - [Lichess](https://lichess.org/) - Free and open-source chess server. Clean interface, no registration, no ads, no plugin required.
 - [Chess24](https://chess24.com/) - Chess news.
@@ -408,13 +408,13 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Britannica](https://www.britannica.com/topic/chess) - What is chess?
 - [Chess Wikipedia](https://en.wikipedia.org/wiki/Chess)
 
-###### MEMES
+#### MEMES
 - [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) - `Youtube`
 - [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) - `Youtube`
 - [[FR] Memes](https://www.instagram.com/duoquadra_meme/) - `Instagram`
 - [Know Your Meme](https://knowyourmeme.com/) - Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
 
-###### OTHERS
+#### OTHERS
 - [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`
 - [Similarsites](https://www.similarsites.com/) - Explore competitor and related sites.
 - [Time.is](https://time.is/) - 7 million locations, 57 languages, synchronized with atomic clock time.
@@ -459,7 +459,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools/)
 - 🗺️ [42 World Map](https://github.com/jotavare/42-resources/blob/main/42-campuses-world-map.jpg/)
 
-### EUROPE
+#### EUROPE
 - 🇦🇲 [42 Yerevan](https://42yerevan.am/) - Armenia
 - 🇦🇹 [42 Vienna](https://www.42vienna.com/) - Austria
 - 🇧🇪 [19 – Antwerp](https://campus19.be/) - Belgium
@@ -493,7 +493,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - 🇹🇷 [42 Istanbul](https://42istanbul.com.tr/) - Turkey
 - 🇬🇧 [42 London](https://42london.com/) - United Kingdom
 
-### ASIA
+#### ASIA
 - 🇯🇵 [42 Tokyo](https://42tokyo.jp/) - Japan
 - 🇯🇴 [42 Amman](https://www.42network.org/campuses/42-amman/) - Jordan
 - 🇲🇾 [42 Kuala](https://42kl.edu.my/) - Malaysia
@@ -502,18 +502,18 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - 🇹🇷 [42 Kocaeli](https://42kocaeli.com.tr/) - Turkey
 - 🇦🇪 [42 Abu Dhabi](https://42abudhabi.ae/) - United Arab Emirates
 
-### AMERICA
+#### AMERICA
 - 🇧🇷 [42 Belo Horizonte](https://www.42bh.org.br/) - Brazil
 - 🇧🇷 [42 Rio](https://42.rio/) - Brazil
 - 🇧🇷 [42 São Paulo](https://www.42sp.org.br/) - Brazil
 - 🇨🇦 [42 Québec](https://42quebec.com/) - Canada
 
-### AFRICA
+#### AFRICA
 - 🇲🇦 [1337 – Ben Guerir](https://1337.ma/en/campuses/) - Morocco
 - 🇲🇦 [1337 – Khouribga](https://1337.ma/en/campuses/) - Morocco
 - 🇲🇦 [1337 – Med](https://1337.ma/en/campuses/) - Morocco
 
-### OCEANIA
+#### OCEANIA
 - 🇦🇺 [42 Adelaide](https://www.42adel.org.au/) - Australia
 
 - - - -
