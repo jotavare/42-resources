@@ -485,6 +485,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [elgooG](https://elgoog.im/) - Create, restore, and discover interactive Google Easter Eggs.
 - [Every Noise at Once](https://everynoise.com/) - Algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space.
 - [Animated Knots](https://www.animatedknots.com/) - Learn how to tie knots of any kind.
+- [Docusaurus](https://docusaurus.io/) - An optimized site generator in React. Helps you to move fast and write content.
 
 - - - -
 
