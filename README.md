@@ -139,6 +139,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr/) and still in beta. You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul🇰🇷 and Vienna 🇦🇹.
 - [42 Evaluators](https://42evaluators.com/) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
 - [42 CTF](https://www.42ctf.org/en/) - Cybersecurity competition, solve challenges of various categories to gain points and progress on the scoreboard.
+- [Oh My Zsh](https://ohmyz.sh/) - Open source, community-driven framework for managing your Zsh configuration. [GitHub](https://github.com/ohmyzsh/ohmyzsh/).
+- [PowerLevel10k](https://github.com/romkatv/powerlevel10k/) - Theme that i personally use for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 
 ### SUBJECTS
 - [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
