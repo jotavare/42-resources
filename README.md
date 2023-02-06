@@ -138,17 +138,23 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ###### get_next_line
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/get_next_line.pdf)
 ###### Minitalk
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/minitalk.pdf)
 ###### Pipex
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/pipex.pdf)
 ###### Minilibx
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx/)
 ###### so_long
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/so_long.pdf)
 ###### fract-ol
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/fract-ol.pdf)
 ###### FdF
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/fdf.pdf)
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/fdf_evaluation.png/) - Scale for project FdF.
 - [Files](https://github.com/jotavare/42-resources/tree/main/projects/fdf) - `fdf` `fdf_linux` `maps` `minilibx-linux` `minilibx_macos_sierra` `minilibx_mms` `sources`
+- [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets/)
 - [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm/)
 ###### push_swap
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/push_swap.pdf)
 
 #### TESTERS
 ###### _Test your code with already made testers._
@@ -348,6 +354,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### GENERATORS
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
 - [Lorem Ipsum](https://lipsum.com/) - Dummy text for printing and typesetting industry.
+- [RANDOM.ORG](https://www.random.org/) - Website that produces random numbers based on atmospheric noise. 
 - [YayText](https://yaytext.com/) - Generate a variety of cool unicode font styles.
 - [Tables Generator](https://www.tablesgenerator.com/) - Table editor and Generator. `LaTeX` `ConTeXt` `Plain TeX` `PreTeXt` `EPlain` `Markdown` `Textile` `CSV` `HTML` 
 - [Duplicate Word Finder](https://duplicateword.com/) - Find duplicate words and eliminate them from your writings, posts or emails. 
