@@ -66,21 +66,21 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - - - -
 
 ## 42 SCHOOL
-### TRIVIA
+#### TRIVIA
 ###### _Some fun and interesting facts about 42._
 
 - [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy/) - `Wikipedia` `Book`
 - [Why 42?](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy) - `Wikipedia`
 - [42 and Douglas Adams](https://www.youtube.com/watch?v=D6tINlNluuY/) - `Youtube`
 
-### REWARDS
+#### REWARDS
 ###### _Rewards you have access as a 42 student. Still testing._
 - [Office 365](https://www.microsoft.com/en-us/education/products/office) - Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. `Sign up with 42 student email`
 - [GitHub Student Pack](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. `Sign up with 42 student email`
 - [Lucidchart](https://www.lucidchart.com/pages/) - Web-based diagramming application. `Sign up with 42 student email`
 - [JetBrains](https://www.jetbrains.com/community/education/) - Integrated development environment Software (IDE). `Sign up with 42 student email`
 
-### NETWORK
+#### NETWORK
 ###### _Important websites for 42 students._
 - [42 Intra](https://intra.42.fr/) - Official portal for everything related with 42.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students (after Piscine).
@@ -90,7 +90,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [F.A.Q](https://meta.intra.42.fr/articles/) - Common questions about your school.
 - [42 API](https://api.intra.42.fr/apidoc/) - The API is RESTful, uses JSON over HTTPS and lets you authenticate users with OAuth 2.0. 
 
-### SOCIAL
+#### SOCIAL
 ###### _Every 42 Network social media. For a specific 42 School social media, check the section **[CAMPUSES](#campuses)** and pick a school of your choice._
 - [42 Network](https://www.42network.org/)
 - [Instagram](https://www.instagram.com/42_network/)
@@ -102,7 +102,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Official Discord](https://discord.com/invite/42/)
 - [Unofficial Discord](https://discord.gg/wsrkKE4/)
 
-### ASSOCIATIONS
+#### ASSOCIATIONS
 ###### _All associations and groups made by 42 staff or students._
 - [[FR] 42AI - Association](https://www.42ai.fr/) - Artificial Intelligence.
 - [[FR] La Contre-Voie](https://lacontrevoie.fr/) - Free culture and ethics.
@@ -111,7 +111,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - - - -
 
 ## PISCINE, COMMON CORE & SPECIALIZATIONS
-### TOOLS
+#### TOOLS
 ###### _Some usefull tools i used in my 42 journey._
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
 - [42 XP Calculator](https://42.tbailleu.dev/) - Calculate how much exp you need for the next level.
@@ -124,18 +124,18 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Oh My Zsh](https://ohmyz.sh/) - Open source, community-driven framework for managing your Zsh configuration. [GitHub](https://github.com/ohmyzsh/ohmyzsh/).
 - [PowerLevel10k](https://github.com/romkatv/powerlevel10k/) - Theme that i personally use for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 
-### SUBJECTS
+#### SUBJECTS
 ###### _All current 42 subjects._
 - [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
 - [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers/)
 - [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects/)
 
-### PROJECTS
+#### PROJECTS
 ###### _Specific projects information and resources._
 ###### [Minilibx]
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx/)
 
-### TESTERS
+#### TESTERS
 ###### _Test your code with already made testers._
 - [Francinette](https://github.com/xicodomingues/francinette) `libft` `ft_printf` `get_next_line` `minitalk` `pipex`
 - [Libft File Checker (nuno_jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
@@ -147,51 +147,51 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester)
 - [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester)
 
-### EXAMS
+#### EXAMS
 ###### _Great websites to help you with 42 exams._
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
 
-### RESOURCES
+## RESOURCES
 ###### _Resources and cheat sheets for every ocasion._
 ###### [Forty-Two]
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
 
-###### [AI]
+#### [AI]
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site/) - This wiki is an experiment in making algorithms interactive on the web.
 
-###### [Bash]
+#### [Bash]
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet/)
 
-###### [Shell]
+#### [Shell]
 - [Explain Shell](https://explainshell.com/) - Explains shell commands.
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
 
-###### [Git]
+#### [Git]
 - [Git Cheat Sheet (RehanSaeed)](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
 - [Git Cheat Sheet (Atlassian)](https://github.com/jotavare/42-resources/files/10611245/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) - `PDF`
 
-###### [Markdown]
+#### [Markdown]
 - [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet/)
 - [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/)
 
-###### [C]
+#### [C]
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
 
-###### [Python]
+#### [Python]
 - [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet/)
 
-###### [Others]
+#### [Others]
 - [Cheat Sheets](https://cheat-sheets.org/) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 - [Devhints](https://devhints.io/) - Collection of various cheat sheets.
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
-### PEER-TO-PEER
+#### PEER-TO-PEER
 ###### _Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git._
 - [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8/) - `Youtube`
 - [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE/) - What to do before the evaluation? (as evaluated student) `Youtube`
@@ -209,7 +209,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Thonny](https://thonny.org/) - Thonny is an IDE for Python that is designed for beginners.
 - [Sublime Text](https://www.sublimetext.com/)
 
-###### ONLINE IDE
+#### ONLINE IDE
 - [Replit](https://replit.com/) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
 - [JSFiddle](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
 - [CodeSandbox](https://codesandbox.io/) - Cloud development platform that empowers developers to code, collaborate and ship projects of any size from any device in record time.
@@ -227,9 +227,9 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 - - - -
 
-### EXTENSIONS
+## EXTENSIONS
 ###### _Extensions, apps, addons... a bit of everything to enchance your experience at 42._
-##### [VSCODE]
+#### [VSCODE]
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header/)
 - [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42/)
 - [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3/)
@@ -241,7 +241,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 Header OneShot](https://marketplace.visualstudio.com/items?itemName=nakamo326.42-header-oneshot/)
 - [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line/)
 
-##### [BROWSER]
+#### [BROWSER]
 ###### _I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox._
 - [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
 - [Better Black Hole](https://github.com/jkctech/BetterBlackHole) `chrome` `firefox`
