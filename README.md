@@ -163,7 +163,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Libft File Checker (nuno_jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
 - [libft Tester](https://github.com/Tripouille/libftTester)
 - [Printf Tester](https://github.com/Tripouille/printfTester/)
-- [GNN Tester](https://github.com/Tripouille/gnlTester)
+- [GNL Tester](https://github.com/Tripouille/gnlTester)
 - [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester)
 - [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester)
 - [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester)
