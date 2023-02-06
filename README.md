@@ -464,5 +464,3 @@ https://www.similarsites.com/
 [^1]: **IDE** - An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development.
 [^2]: **COMPILER** - In computing, a compiler is a computer program that translates computer code written in one programming language into another language.
 [^3]: **DEBUGGER** - A debugger or debugging tool is a computer program used to test and debug other programs.
-
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&dark=true&leet_logo=hide&login=jotavare)](https://github.com/mohouyizme/1337-readme)
