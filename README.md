@@ -147,6 +147,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ### TESTERS
 - [Francinette](https://github.com/xicodomingues/francinette) `libft` `ft_printf` `get_next_line` `minitalk` `pipex`
+- [Libft File Checker (Nuno Jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
 - [libft Tester](https://github.com/Tripouille/libftTester)
 - [printf Tester](https://github.com/Tripouille/printfTester)
 - [gnl Tester](https://github.com/Tripouille/gnlTester)
