@@ -181,7 +181,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
 
-### AI
+###### AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site/) - This wiki is an experiment in making algorithms interactive on the web.
@@ -189,7 +189,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ###### Bash
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet/)
 
-### Shell
+###### Shell
 - [Explain Shell](https://explainshell.com/) - Explains shell commands.
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
 
