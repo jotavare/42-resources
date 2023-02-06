@@ -7,6 +7,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ```
 
 ## INDEX
+<details>
 **[42 SCHOOL](#42-school)**
 - **[TRIVIA](#trivia)**
 - **[REWARDS](#rewards)**
@@ -23,7 +24,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - **[EXAMS](#exams)**
 - **[CHEAT SHEETS](#cheat-sheets)**
 - **[PEER-TO-PEER](#peer-to-peer)**
-
+</details>
+  
 - - - -
 
 ## 42 SCHOOL
