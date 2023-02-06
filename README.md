@@ -199,6 +199,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - CodePen
 
 ### EXTENSIONS
+###### _Extensions, apps, addons... a bit of everything to enchance your experience at 42._
 ###### [VSCODE]
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header/)
 - [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42/)
@@ -279,7 +280,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ### Books
 - [Programming Notes for Professionals Books](https://books.goalkicker.com/)
 
-## TOOLS
+## OTHER TOOLS
 #### GENERATORS
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
 - [Lorem Ipsum](https://lipsum.com/) - Dummy text for printing and typesetting industry.
@@ -338,7 +339,19 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Phabricator](https://phabricator.wikimedia.org/) – Not a wiki, but a global ticketing system for tracking issues and feature requests.
 
 ## MISCELLANEOUS
-#### GAMES
+###### DIGITAL FOOTPRINT
+- [Firefox Monitor](https://monitor.firefox.com/) - Check if you've been victim of an online data breach.
+- [Have I Been Pwned](https://haveibeenpwned.com/) - Search across multiple data breaches to see if your email address or phone number has been compromised.
+- [DeHashed](https://www.dehashed.com/) - Free deep-web scans and protection against credential leaks.
+- [LeakCheck](https://leakcheck.io/) - Data breach search engine.
+- [Intelligence X](https://intelx.io/) - Search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
+
+###### PACKAGE MANAGEMENT
+- [Chocolatey](https://chocolatey.org/) - Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
+- [Ninite](https://ninite.com/) - Package management system that enables users to automatically install popular applications for their Windows operating system.
+- [FOSSHUB](https://www.fosshub.com/) - Website and also a platform where people can download for free many popular and *clean* software titles.
+
+###### GAMES
 ###### _Attention, depending on your 42 school rules you may or may not play games on school computers. Avoid getting -420 and community service._
 - [Reeborg's World](https://reeborg.ca/reeborg.html/) - Website designed to help people learn programming. `Recommended`
 - [Sudoku](https://sudoku.com/) - Fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9.
@@ -366,25 +379,13 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Britannica](https://www.britannica.com/topic/chess) - What is chess?
 - [Chess Wikipedia](https://en.wikipedia.org/wiki/Chess)
 
-#### MEMES
+###### MEMES
 - [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) - `Youtube`
 - [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) - `Youtube`
 - [[FR] Memes](https://www.instagram.com/duoquadra_meme/) - `Instagram`
 - [Know Your Meme](https://knowyourmeme.com/) - Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
 
-#### PACKAGE MANAGEMENT
-- [Chocolatey](https://chocolatey.org/) - Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
-- [Ninite](https://ninite.com/) - Package management system that enables users to automatically install popular applications for their Windows operating system.
-- [FOSSHUB](https://www.fosshub.com/) - Website and also a platform where people can download for free many popular and *clean* software titles.
-
-#### DIGITAL FOOTPRINT
-- [Firefox Monitor](https://monitor.firefox.com/) - Check if you've been victim of an online data breach.
-- [Have I Been Pwned](https://haveibeenpwned.com/) - Search across multiple data breaches to see if your email address or phone number has been compromised.
-- [DeHashed](https://www.dehashed.com/) - Free deep-web scans and protection against credential leaks.
-- [LeakCheck](https://leakcheck.io/) - Data breach search engine.
-- [Intelligence X](https://intelx.io/) - Search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
-
-#### OTHERS
+###### OTHERS
 - [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`
 - [Similarsites](https://www.similarsites.com/) - Explore competitor and related sites.
 - [Time.is](https://time.is/) - 7 million locations, 57 languages, synchronized with atomic clock time.
