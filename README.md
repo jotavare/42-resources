@@ -156,7 +156,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ### PROJECTS
 ###### Specific projects information and resources.
-###### Minilibx
+###### [Minilibx]
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx/)
 
 ### TESTERS
@@ -177,34 +177,34 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ### RESOURCES
 ###### Resources and cheat sheets for every ocasion.
-###### Forty-Two
+###### [Forty-Two]
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
 
-###### AI
+###### [AI]
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site/) - This wiki is an experiment in making algorithms interactive on the web.
 
-###### Bash
+###### [Bash]
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet/)
 
-###### Shell
+###### [Shell]
 - [Explain Shell](https://explainshell.com/) - Explains shell commands.
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
 
-###### Git
+###### [Git]
 - [Git Cheat Sheet (RehanSaeed)](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
 - [Git Cheat Sheet (Atlassian)](https://github.com/jotavare/42-resources/files/10611245/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) - `PDF`
 
-###### Markdown
+###### [Markdown]
 - [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet/)
 - [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/)
 
-###### Python
+###### [Python]
 - [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet/)
 
-###### Others
+###### [Others]
 - [Cheat Sheets](https://cheat-sheets.org/) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 - [Devhints](https://devhints.io/) - Collection of various cheat sheets.
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
@@ -246,7 +246,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - CodePen
 
 ### EXTENSIONS
-###### VSCODE
+###### [VSCODE]
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header/)
 - [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42/)
 - [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3/)
@@ -258,7 +258,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 Header OneShot](https://marketplace.visualstudio.com/items?itemName=nakamo326.42-header-oneshot/)
 - [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line/)
 
-###### BROWSER
+###### [BROWSER]
 ###### I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox.
 - [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
 - [Better Black Hole](https://github.com/jkctech/BetterBlackHole) `chrome` `firefox`
@@ -273,22 +273,22 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 Launcher](https://chrome.google.com/webstore/detail/42-launcher/ilfaiabliekooeinlfonleniaeaijabe) `chrome`
 - [Legion 42](https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb) `chrome`
 
-###### LANGUAGE CORRECTION
+###### [LANGUAGE CORRECTION]
 - [LanguageTool](https://languagetool.org/)
 - [Grammarly](https://www.grammarly.com/)
 - [Wiktionary](https://en.wiktionary.org/)
 - [Urban Dictionary](https://www.urbandictionary.com/)
 - [Wordnik](https://www.wordnik.com/)
 
-###### APPS
+###### [APPS]
 - [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Written in Java. `Android`
 - [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - Written in Swift. `iOS`
 
-###### BADGE
+###### [BADGE]
 - [Badge 42](https://github.com/JaeSeoKim/badge42/) - Dynamically generated 42 badge for your git readmes.
 - [1337 Readme](https://github.com/mohouyizme/1337-readme/) - Share your progress with the world via GitHub README.md. `Not working?`
 
-###### ADDONS
+###### [ADDONS]
 - [Spicetify](https://spicetify.app/) - Powerful CLI tool to take control of the Spotify client.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 
