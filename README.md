@@ -167,16 +167,21 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ### CHEAT SHEETS
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
+
 ###### Bash
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet/)
+
 ###### Python
 - [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet/)
+
 ###### Git
 - [Git Cheat Sheet (RehanSaeed)](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
 - [Git Cheat Sheet (Atlassian)](https://github.com/jotavare/42-resources/files/10611245/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) - `PDF`
+
 ###### Markdown
 - [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet/)
 - [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/)
+
 ###### Others
 - [Cheat Sheets](https://cheat-sheets.org/) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 - [Devhints](https://devhints.io/) - Collection of various cheat sheets.
@@ -200,7 +205,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Thonny](https://thonny.org/) - Thonny is an IDE for Python that is designed for beginners.
 - [Replit](https://replit.com/login) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
 
-## Text editors
+### TEXT EDITORS
     Sublime Text
     Interactive online code editors
         repl.it
@@ -209,16 +214,16 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
         CodePen
         SoloLearn
 
-## Shell
+### Shell
 - [Explain Shell](https://explainshell.com/) - Explains shell commands.
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
 
-## AI
+### AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
 
-## EXTENSIONS AND APPS
-### VSCODE
+### EXTENSIONS AND APPS
+###### VSCODE
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header/)
 - [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42/)
 - [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3/)
@@ -230,7 +235,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 Header OneShot](https://marketplace.visualstudio.com/items?itemName=nakamo326.42-header-oneshot/)
 - [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line/)
 
-### BROWSER
+###### BROWSER
 I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox.
 - [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
 - [Better Black Hole](https://github.com/jkctech/BetterBlackHole) `chrome` `firefox`
@@ -245,21 +250,22 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [42 Launcher](https://chrome.google.com/webstore/detail/42-launcher/ilfaiabliekooeinlfonleniaeaijabe) `chrome`
 - [Legion 42](https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb) `chrome`
 
-https://languagetool.org
-https://www.grammarly.com/
-https://en.wiktionary.org
-https://www.urbandictionary.com/
-https://www.wordnik.com/
+###### LANGUAGE CORRECTION
+- [LanguageTool](https://languagetool.org/)
+- [Grammarly](https://www.grammarly.com/)
+- [Wiktionary](https://en.wiktionary.org/)
+- [Urban Dictionary](https://www.urbandictionary.com/)
+- [Wordnik](https://www.wordnik.com/)
 
-### APPS
+###### APPS
 - [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Written in Java. `Android`
 - [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - Written in Swift. `iOS`
 
-### Badge 	
+###### Badge 	
 - [Badge 42](https://github.com/JaeSeoKim/badge42) - Dynamically generated 42 badge for your git readmes.
 - 1337 https://github.com/mohouyizme/1337-readme
 
-ADDONS SPOTIFY DISCORD
+###### ADDONS
 
 ## MOOCS & BOOKS
 ### Plataforms
@@ -370,14 +376,16 @@ https://www.similarsites.com/
 ## MISCELLANEOUS
 #### GAMES
 
-###### Attencion!
-###### Depending on your 42 school rules you may or may not play games on school computers.
-###### Ask a lifeguard first and avoid getting -420 and community service.
+###### Attention, depending on your 42 school rules you may or may not play games on school computers. Avoid getting -420 and community service.
 
 - [Reeborg's World](https://reeborg.ca/reeborg.html/) - Website designed to help people learn programming. `Recommended`
 - [Sudoku](https://sudoku.com/) - Fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9.
 - [2048](https://play2048.co/) - Slide numbered tiles on a grid to combine them to create a tile with the number 2048.
 - [Keybr](https://www.keybr.com/) - Take a typing test, practice typing lessons, learn to type faster.
+- [The Scale of the Universe](https://htwins.net/scale2/) - This game showns the sizes of different things in our universe in relation to other different things.
+- [The Is This Prime?](https://isthisprime.com/game/)
+- [Quick, Draw!](https://quickdraw.withgoogle.com/) - Can a neural network learn to recognize squiggles?
+- [Random Country Generator](https://random.country/) - Ever wanted to learn about all the countries in the world?
 
 ###### Rubik's Cube
 - [SpeedSolving](https://www.speedsolving.com/wiki/index.php/Main_Page) - Community focused on speed-solving puzzles, particularly the Rubik's cube and alike.
@@ -418,7 +426,6 @@ https://www.similarsites.com/
 - [Intelligence X](https://intelx.io/) - Search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
 
 #### OTHERS
-- [The Scale of the Universe](https://htwins.net/scale2/) - This game showns the sizes of different things in our universe in relation to other different things. `Game`
 - [Time.is](https://time.is/) - 7 million locations, 57 languages, synchronized with atomic clock time.
 - [Time and Date](https://www.timeanddate.com/) - Current Time (World Clock) and online and printable Calendars for countries worldwide.
 - [The 88x31 GIF Collection](http://cyber.dabamos.de/88x31/) - A collection of 4161 classic 88x31 buttons from the 1990s, 2000s, and today in GIF format.
@@ -428,7 +435,6 @@ https://www.similarsites.com/
 - [Start Your Own ISP ](https://startyourownisp.com/) - This guide is about building a Wireless ISP (WISP).
 - [Where is Roadster?](https://www.whereisroadster.com/) - 6 of February 2018, at 20:45 UTC, the first Falcon Heavy was launched into space. It contained a very special payload, a Tesla Roadster with Starman.
 - [This person does not exist](https://www.thispersondoesnotexist.com/)
-- [The Is This Prime?](https://isthisprime.com/game/) `Game`
 - [Google Books Ngram Viewer](https://books.google.com/ngrams/) - Online search engine that charts the frequency of terms used in books over time.
 - [Keanu is immortal](https://www.keanuisimmortal.com/) - Proof of Keany Reeves is immortal.
 - [YouGlish](https://youglish.com/) - Dont know how to pronouce a word? Use Youtube to improve your English pronunciation.
@@ -443,20 +449,17 @@ https://www.similarsites.com/
 - [CloudConvert](https://cloudconvert.com/) Online file converter that support nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats.
 - [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Upload a photo and instantly download it as a real spreadsheet!
 - [Capture The Flag 101](https://ctf101.org/) - What is CTFs?
-- [Quick, Draw!](https://quickdraw.withgoogle.com/) - Can a neural network learn to recognize squiggles? `Game`
-- [Random Country Generator](https://random.country/) - Ever wanted to learn about all the countries in the world? `Game`
 - [Radiooooo](https://radiooooo.com/) - The Musical Time Machine. `Music`
 - [TV Chart](https://tvchart.benmiz.com/) - View a graph of any TV show's ratings, by episode.
 - [Famous Scientists](https://www.famousscientists.org/) -  Lives and achievements of the most famous scientists and inventors in history.
-
 - [bellingcat](https://www.bellingcat.com/) - Netherlands-based investigative journalism group that specialises in fact-checking and open-source intelligence.
 - [Artvee](https://artvee.com/) -Browse and download high-resolution, public domain Paintings, Drawings, Illustrations and Posters.
 - [Lightyear.fm](http://www.lightyear.fm/) - A journey through space, time, & music. Radio broadcasts leave Earth at the speed of light.
 - [Deceptive Design](https://www.deceptive.design/) - What is deceptive design (also known as "dark patterns")?
 - [DuckDuckGo](https://duckduckgo.com/) -  Internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results.
 - [elgooG](https://elgoog.im/) - Create, restore, and discover interactive Google Easter Eggs.
-- [Every Noise at Once](https://everynoise.com/) - Ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space.
-- [Animated Knots](https://www.animatedknots.com/) - Animated Knots is the world's leading site for learning how to tie knots of any kind.
+- [Every Noise at Once](https://everynoise.com/) - Algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space.
+- [Animated Knots](https://www.animatedknots.com/) - Learn how to tie knots of any kind.
 
 ## GLOSSARY
 [^1]: **IDE** - An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development.
