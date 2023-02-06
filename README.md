@@ -27,7 +27,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - - - -
 
 ## 42 SCHOOL
-### TRIVIA&nbsp;###### _Some fun and interesting facts about 42._
+### TRIVIA
+###### _Some fun and interesting facts about 42._
 
 - [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy/) - `Wikipedia` `Book`
 - [Why 42?](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy) - `Wikipedia`
