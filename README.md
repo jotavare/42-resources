@@ -225,9 +225,11 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Scrimba](https://scrimba.com/) - Interactive courses and tutorials that will teach you React, Vue, Angular, JavaScript, HTML, CSS, etc.
 - [CodePen](https://codepen.io/) - Social development environment for front-end designers and developers.
 
+- - - -
+
 ### EXTENSIONS
 ###### _Extensions, apps, addons... a bit of everything to enchance your experience at 42._
-###### [VSCODE]
+##### [VSCODE]
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header/)
 - [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42/)
 - [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3/)
@@ -239,7 +241,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 Header OneShot](https://marketplace.visualstudio.com/items?itemName=nakamo326.42-header-oneshot/)
 - [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line/)
 
-###### [BROWSER]
+##### [BROWSER]
 ###### _I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox._
 - [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
 - [Better Black Hole](https://github.com/jkctech/BetterBlackHole) `chrome` `firefox`
@@ -254,22 +256,22 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 Launcher](https://chrome.google.com/webstore/detail/42-launcher/ilfaiabliekooeinlfonleniaeaijabe) `chrome`
 - [Legion 42](https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb) `chrome`
 
-###### [LANGUAGE CORRECTION]
+##### [LANGUAGE CORRECTION]
 - [LanguageTool](https://languagetool.org/)
 - [Grammarly](https://www.grammarly.com/)
 - [Wiktionary](https://en.wiktionary.org/)
 - [Urban Dictionary](https://www.urbandictionary.com/)
 - [Wordnik](https://www.wordnik.com/)
 
-###### [APPS]
+##### [APPS]
 - [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Written in Java. `Android`
 - [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - Written in Swift. `iOS`
 
-###### [BADGE]
+##### [BADGE]
 - [Badge 42](https://github.com/JaeSeoKim/badge42/) - Dynamically generated 42 badge for your git readmes.
 - [1337 Readme](https://github.com/mohouyizme/1337-readme/) - Share your progress with the world via GitHub README.md. `Not working?`
 
-###### [ADDONS]
+##### [ADDONS]
 - [Spicetify](https://spicetify.app/) - Powerful CLI tool to take control of the Spotify client.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 
