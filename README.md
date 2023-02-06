@@ -192,6 +192,9 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### PYTHON
 - [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet/)
 
+#### Web Servers
+- [Server World](https://www.server-world.info/en/) - Website for people who like to build Network Servers with CentOS, Ubuntu, Fedora, Debian, Windows Server.
+
 #### OTHERS
 - [Cheat Sheets](https://cheat-sheets.org/) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 - [Devhints](https://devhints.io/) - Collection of various cheat sheets.
