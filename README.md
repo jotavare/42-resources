@@ -207,20 +207,19 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ###### ONLINE IDE
 - [Replit](https://replit.com/) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
-- JSFiddle
-- CodeSandbox
-- CodeAnywhere
-- StackBlitz
-- AWS Cloud9
-- Gitpod
-- Theia
-- GitHub 
-- JetBrains IDE – Space
-- CodeTasty
-- Replit
-- PaizaCloud
-- Scrimba
-- CodePen
+- [JSFiddle](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
+- [CodeSandbox](https://codesandbox.io/) - Cloud development platform that empowers developers to code, collaborate and ship projects of any size from any device in record time.
+- [CodeAnywhere](https://codeanywhere.com/) - Cross Platform Cloud IDE and it has all the features of Desktop IDE but with additional features.
+- [StackBlitz](https://stackblitz.com/) - Instant fullstack web IDE for the JavaScript ecosystem. 
+- [AWS Cloud9](https://aws.amazon.com/pt/cloud9/) - Cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.
+- [Gitpod](https://www.gitpod.io/) - Cloud development environment for teams to efficiently and securely develop software. 
+- [Eclipse Theia](https://theia-ide.org/) - Framework for building tools and IDEs.
+- [GitHub Codespaces](https://github.com/features/codespaces/) - Use Visual Studio Code, Jupyter, or JetBrains with the editor, terminal, debugger, version control, settings sync, and all of your extensions.
+- [JetBrains Space](https://www.jetbrains.com/space/) - A complete software development platform, collaboration, and team and project management. 
+- [CodeTasty](https://codetasty.com/) - Powerful online code editor in the cloud. It supports over 40 languages, including PHP, Node.JS, Python, Java, Ruby, C.
+- [PaizaCloud](https://paiza.cloud/en/) - Cloud IDE. Supports programming languages, including C, C++, PHP, Ruby, Perl, Python, JavaScript com Node.js e Go.
+- [Scrimba](https://scrimba.com/) - Interactive courses and tutorials that will teach you React, Vue, Angular, JavaScript, HTML, CSS, etc.
+- [CodePen](https://codepen.io/) - Social development environment for front-end designers and developers.
 
 ### EXTENSIONS
 ###### _Extensions, apps, addons... a bit of everything to enchance your experience at 42._
