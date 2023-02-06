@@ -254,7 +254,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line/)
 
 #### BROWSER
-###### _I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox._
+###### _I recommend only instaling 'Improved Intra 42' because its a all-in-one extension for both chrome and firefox._
 - [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
 - [Better Black Hole](https://github.com/jkctech/BetterBlackHole) `chrome` `firefox`
 - [42 Logtime & Darkmode](https://chrome.google.com/webstore/detail/42-logtime-darkmode/kkcjiilcfieknbpdhihhhncdbligjplg) `chrome`
