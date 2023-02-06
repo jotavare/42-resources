@@ -281,7 +281,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Badge 42](https://github.com/JaeSeoKim/badge42/) - Dynamically generated 42 badge for your git readmes.
 - [1337 Readme](https://github.com/mohouyizme/1337-readme/) - Share your progress with the world via GitHub README.md. `Not working?`
 
-#### ADDONS
+#### ADD-ONS
 - [Spicetify](https://spicetify.app/) - Powerful CLI tool to take control of the Spotify client.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 
