@@ -120,7 +120,6 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Find Peers](https://find-peers.codam.nl/) - Website meant to help students to find peers that are working on the same project.
 - [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr/) and still in beta. You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul🇰🇷 and Vienna 🇦🇹.
 - [42 Evaluators](https://42evaluators.com/) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
-- [42 CTF](https://www.42ctf.org/en/) - Cybersecurity competition, solve challenges of various categories to gain points and progress on the scoreboard.
 - [Oh My Zsh](https://ohmyz.sh/) - Open source, community-driven framework for managing your Zsh configuration. [GitHub](https://github.com/ohmyzsh/ohmyzsh/).
 - [PowerLevel10k](https://github.com/romkatv/powerlevel10k/) - Theme that i personally use for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 
@@ -151,6 +150,12 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ###### _Great websites to help you with 42 exams._
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
+
+#### CTF
+###### _Websites and information about capture the flag._
+- [Capture The Flag 101](https://ctf101.org/) - What is CTFs?
+- [42 CTF](https://www.42ctf.org/en/) - Cybersecurity competition, solve challenges of various categories to gain points and progress on the scoreboard.
+- [Root Me](https://www.root-me.org/) - Root Me is a platform for everyone to test and improve knowledge in computer security and hacking.
 
 - - - -
 
@@ -449,7 +454,6 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Sketchy Website](https://sketchywebsite.net/) - You can trust this website.
 - [CloudConvert](https://cloudconvert.com/) - Online file converter. `Audio` `Video` `Document` `Ebook` `Archive` `Image` `Spreadsheet` `Presentation`.
 - [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Upload a photo and instantly download it as a real spreadsheet!
-- [Capture The Flag 101](https://ctf101.org/) - What is CTFs?
 - [Radiooooo](https://radiooooo.com/) - The Musical Time Machine. `Music`
 - [TV Chart](https://tvchart.benmiz.com/) - View a graph of any TV show's ratings, by episode.
 - [Famous Scientists](https://www.famousscientists.org/) -  Lives and achievements of the most famous scientists and inventors in history.
