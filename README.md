@@ -263,9 +263,10 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 
 ###### Badge 	
 - [Badge 42](https://github.com/JaeSeoKim/badge42) - Dynamically generated 42 badge for your git readmes.
-- 1337 https://github.com/mohouyizme/1337-readme
+- 1337 https://github.com/mohouyizme/1337-readme Share your progress with the world via GitHub README.md 
 
 ###### ADDONS
+- [Spicetify](https://spicetify.app/) - Powerful CLI tool to take control of the Spotify client.
 
 ## MOOCS & BOOKS
 ### Plataforms
@@ -311,9 +312,7 @@ My vision here:
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
-
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
-- [Spicetify](https://spicetify.app/)
 https://thimbleby.gitlab.io/algorithm-wiki-site/
 https://www.similarsites.com/
 
@@ -446,14 +445,14 @@ https://www.similarsites.com/
 - [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
 - [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.app/) - Hacker News whose titles have been edited since they were first posted.
 - [Sketchy Website](https://sketchywebsite.net/) - You can trust this website.
-- [CloudConvert](https://cloudconvert.com/) Online file converter. `Audio` `Video` `Document` `Ebook` `Archive` `Image` `Spreadsheet` `Presentation`.
+- [CloudConvert](https://cloudconvert.com/) - Online file converter. `Audio` `Video` `Document` `Ebook` `Archive` `Image` `Spreadsheet` `Presentation`.
 - [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Upload a photo and instantly download it as a real spreadsheet!
 - [Capture The Flag 101](https://ctf101.org/) - What is CTFs?
 - [Radiooooo](https://radiooooo.com/) - The Musical Time Machine. `Music`
 - [TV Chart](https://tvchart.benmiz.com/) - View a graph of any TV show's ratings, by episode.
 - [Famous Scientists](https://www.famousscientists.org/) -  Lives and achievements of the most famous scientists and inventors in history.
 - [bellingcat](https://www.bellingcat.com/) - Netherlands-based investigative journalism group that specialises in fact-checking and open-source intelligence.
-- [Artvee](https://artvee.com/) -Browse and download high-resolution, public domain Paintings, Drawings, Illustrations and Posters.
+- [Artvee](https://artvee.com/) - Browse and download high-resolution, public domain Paintings, Drawings, Illustrations and Posters.
 - [Lightyear.fm](http://www.lightyear.fm/) - A journey through space, time, & music. Radio broadcasts leave Earth at the speed of light.
 - [Deceptive Design](https://www.deceptive.design/) - What is deceptive design (also known as "dark patterns")?
 - [DuckDuckGo](https://duckduckgo.com/) -  Internet search engine that emphasizes protecting searchers' privacy.
@@ -465,3 +464,5 @@ https://www.similarsites.com/
 [^1]: **IDE** - An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development.
 [^2]: **COMPILER** - In computing, a compiler is a computer program that translates computer code written in one programming language into another language.
 [^3]: **DEBUGGER** - A debugger or debugging tool is a computer program used to test and debug other programs.
+
+[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&dark=true&leet_logo=hide&login=jotavare)](https://github.com/mohouyizme/1337-readme)
