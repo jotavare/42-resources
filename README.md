@@ -192,7 +192,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### PYTHON
 - [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet/)
 
-#### Web Servers
+#### WEB SERVERS
 - [Server World](https://www.server-world.info/en/) - Website for people who like to build Network Servers with CentOS, Ubuntu, Fedora, Debian, Windows Server.
 
 #### OTHERS
