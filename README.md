@@ -154,38 +154,38 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ## RESOURCES
 ###### _Resources and cheat sheets for every ocasion._
-###### [Forty-Two]
+###### FORTY-TWO
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
 
-#### [AI]
+#### AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site/) - This wiki is an experiment in making algorithms interactive on the web.
 
-#### [Bash]
+#### BASH
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet/)
 
-#### [Shell]
+#### SHELL
 - [Explain Shell](https://explainshell.com/) - Explains shell commands.
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
 
-#### [Git]
+#### GIT
 - [Git Cheat Sheet (RehanSaeed)](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
 - [Git Cheat Sheet (Atlassian)](https://github.com/jotavare/42-resources/files/10611245/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) - `PDF`
 
-#### [Markdown]
+#### MARKDOWN
 - [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet/)
 - [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/)
 
-#### [C]
+#### C
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
 
-#### [Python]
+#### PYTHON
 - [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet/)
 
-#### [Others]
+#### OTHERS
 - [Cheat Sheets](https://cheat-sheets.org/) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 - [Devhints](https://devhints.io/) - Collection of various cheat sheets.
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
@@ -229,7 +229,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ## EXTENSIONS
 ###### _Extensions, apps, addons... a bit of everything to enchance your experience at 42._
-#### [VSCODE]
+#### VSCODE
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header/)
 - [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42/)
 - [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3/)
@@ -241,7 +241,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 Header OneShot](https://marketplace.visualstudio.com/items?itemName=nakamo326.42-header-oneshot/)
 - [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line/)
 
-#### [BROWSER]
+#### BROWSER
 ###### _I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox._
 - [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
 - [Better Black Hole](https://github.com/jkctech/BetterBlackHole) `chrome` `firefox`
@@ -256,27 +256,27 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 Launcher](https://chrome.google.com/webstore/detail/42-launcher/ilfaiabliekooeinlfonleniaeaijabe) `chrome`
 - [Legion 42](https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb) `chrome`
 
-#### [LANGUAGE CORRECTION]
+#### LANGUAGE CORRECTION
 - [LanguageTool](https://languagetool.org/)
 - [Grammarly](https://www.grammarly.com/)
 - [Wiktionary](https://en.wiktionary.org/)
 - [Urban Dictionary](https://www.urbandictionary.com/)
 - [Wordnik](https://www.wordnik.com/)
 
-#### [APPS]
+#### APPS
 - [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Written in Java. `Android`
 - [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - Written in Swift. `iOS`
 
-#### [BADGE]
+#### BADGE
 - [Badge 42](https://github.com/JaeSeoKim/badge42/) - Dynamically generated 42 badge for your git readmes.
 - [1337 Readme](https://github.com/mohouyizme/1337-readme/) - Share your progress with the world via GitHub README.md. `Not working?`
 
-#### [ADDONS]
+#### ADDONS
 - [Spicetify](https://spicetify.app/) - Powerful CLI tool to take control of the Spotify client.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 
 ## MOOCS & BOOKS
-#### Plataforms
+#### PLATAFORMS
 - [Wikipedia](https://www.wikipedia.org/) - Did he really just post the Wikipedia link?!
 - [Udemy](https://www.udemy.com/) `free` `paid`
 - [Google Codelabs](https://codelabs.developers.google.com/)
@@ -302,11 +302,11 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [CodinGame](https://www.codingame.com/) - Automated platform for writing game bots and alike. Definitely improves your coding and math skills.
 - [Codewars](https://www.codewars.com/) - Platform for software developers on which people can solve programming puzzles known also as “katas”.
 
-#### Online Courses
+#### ONLINE COURSES
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/) `Free`
 - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 Day Trial`
 
-#### Books
+#### BOOKS
 - [Programming Notes for Professionals Books](https://books.goalkicker.com/)
 
 ## OTHER TOOLS
@@ -391,11 +391,11 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Quick, Draw!](https://quickdraw.withgoogle.com/) - Can a neural network learn to recognize squiggles?
 - [Random Country Generator](https://random.country/) - Ever wanted to learn about all the countries in the world?
 
-#### Rubik's Cube
+#### RUBIKS CUBE
 - [SpeedSolving](https://www.speedsolving.com/wiki/index.php/Main_Page) - Community focused on speed-solving puzzles, particularly the Rubik's cube and alike.
 - [Ruwix](https://ruwix.com/) - Website to learn about the Rubik's Cube and other twisty puzzles.
 
-#### Chess
+#### CHESS
 - [Chess](https://www.chess.com/) - Chess online. `Freemium`
 - [Lichess](https://lichess.org/) - Free and open-source chess server. Clean interface, no registration, no ads, no plugin required.
 - [Chess24](https://chess24.com/) - Chess news.
