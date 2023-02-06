@@ -120,8 +120,6 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Find Peers](https://find-peers.codam.nl/) - Website meant to help students to find peers that are working on the same project.
 - [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr/) and still in beta. You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul🇰🇷 and Vienna 🇦🇹.
 - [42 Evaluators](https://42evaluators.com/) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
-- [Oh My Zsh](https://ohmyz.sh/) - Open source, community-driven framework for managing your Zsh configuration. [GitHub](https://github.com/ohmyzsh/ohmyzsh/).
-- [PowerLevel10k](https://github.com/romkatv/powerlevel10k/) - Theme that i personally use for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 
 #### SUBJECTS
 ###### _All current 42 subjects._
@@ -241,6 +239,11 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ## EXTENSIONS
 ###### _Extensions, apps, addons... a bit of everything to enchance your experience at 42._
+#### SCRIPTS
+- [Installette (Kuninoto)](https://github.com/Kuninoto/installette/) - A Bash script to install Norminette, a Norminette Formatter, Vim and 42 Header for Vim.
+- [Oh My Zsh](https://ohmyz.sh/) - Open source, community-driven framework for managing your Zsh configuration. [GitHub](https://github.com/ohmyzsh/ohmyzsh/).
+- [PowerLevel10k](https://github.com/romkatv/powerlevel10k/) - Theme that i personally use for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
+
 #### VSCODE
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header/)
 - [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42/)
