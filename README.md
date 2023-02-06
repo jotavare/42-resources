@@ -154,7 +154,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ## RESOURCES
 ###### _Resources and cheat sheets for every ocasion._
-###### FORTY-TWO
+##### FORTY-TWO
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
 
