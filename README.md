@@ -150,9 +150,12 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers/)
 - [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects/)
 
+### PROJECTS
+- [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx/)
+
 ### TESTERS
 - [Francinette](https://github.com/xicodomingues/francinette) `libft` `ft_printf` `get_next_line` `minitalk` `pipex`
-- [Libft File Checker (Nuno Jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
+- [Libft File Checker (nuno_jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
 - [libft Tester](https://github.com/Tripouille/libftTester)
 - [printf Tester](https://github.com/Tripouille/printfTester)
 - [gnl Tester](https://github.com/Tripouille/gnlTester)
@@ -188,6 +191,15 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheatsheets for popular programming languages, frameworks and development tools.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
+### Shell
+- [Explain Shell](https://explainshell.com/) - Explains shell commands.
+- [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
+
+### AI
+- [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
+- [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
+- [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site/) - This wiki is an experiment in making algorithms interactive on the web.
+
 ### PEER-TO-PEER
 - [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8/) - `Youtube`
 - [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE/) - What to do before the evaluation? (as evaluated student) `Youtube`
@@ -203,26 +215,30 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [GDB Online Debugger](https://www.onlinegdb.com/) - Online compiler & debugger for a lot of programming languages.
 - [Python Tutor](https://pythontutor.com/) - Online compiler & debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.
 - [Thonny](https://thonny.org/) - Thonny is an IDE for Python that is designed for beginners.
-- [Replit](https://replit.com/login) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
+- [Sublime Text](https://www.sublimetext.com/) -
 
-### TEXT EDITORS
-    Sublime Text
-    Interactive online code editors
-        repl.it
-        Scrimba
-        JSFiddle
-        CodePen
-        SoloLearn
+###### ONLINE IDE
+- [Replit](https://replit.com/login/) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
+- Interactive online code editors
 
-### Shell
-- [Explain Shell](https://explainshell.com/) - Explains shell commands.
-- [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
+JSFiddle
+CodeSandbox
+CodeAnywhere
+StackBlitz
+AWS Cloud9
+Gitpod
+Theia
+GitHub 
+JetBrains IDE – Space
+CodeTasty
+Replit
+PaizaCloud
 
-### AI
-- [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
-- [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
+- Scrimba
+- CodePen
+- SoloLearn
 
-### EXTENSIONS AND APPS
+### EXTENSIONS
 ###### VSCODE
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header/)
 - [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42/)
@@ -267,6 +283,7 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 
 ###### ADDONS
 - [Spicetify](https://spicetify.app/) - Powerful CLI tool to take control of the Spotify client.
+- [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 
 ## MOOCS & BOOKS
 ### Plataforms
@@ -277,29 +294,23 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [Coursera](https://www.coursera.org/) `7 day trial` `free` `paid` 
 - [edX](https://www.edx.org/)
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
-- https://www.linkedin.com/learning/
-- https://www.datacamp.com/
-- hackr.io
-- https://upskillcourses.com/
-- https://developers.google.com/certification
-- https://tutsplus.com/
+- [LinkedIn Learning](https://www.linkedin.com/learning/) - Learn business, creative, and technology skills to achieve your personal and professional goals.
+- [Datacamp](https://www.datacamp.com/) - Learn the data skills you need online at your own pace—from non-coding essentials to data science and machine learning.
+- [Hackr](https://hackr.io/) - Google search shows you hundreds of Programming courses/tutorials, but Hackr.io tells you which is the best one.
+- [Upskill](https://upskillcourses.com/) - Learn how to code from scratch. · Upskill is a high-quality tech training platform. 
+- [Google Developers Certification](https://developers.google.com/certification/) - Google Developers Certification lets you demonstrate your proficiency and skill. 
+- [Envato Tuts+](https://tutsplus.com/) - Learn creative skills with Envato Tuts+.
 
-My vision here:
-
-    leetcode has a nice problem set to crack the coding interview, the problems can be hard to solve, but they are rare convoluted. Has nice auto-tests. Can be a fast lane to practice coding for interviews.
-
-    geekforgeeks has a very similar problem set to leetcode, but every problem usually starts from an explanatory article. Good for learning about algorithms and new techniques.
-
-    hackerrank - has a lot of programming problems, as well as math, AI, etc problems. But programming problems there are rather intentionally convoluted since they are primarily for the programming contests. People doing contests regularly are very good at pattern matching and can map a problem to a solution very fast, so they need to be distracted a bit by introducing some indirect problem statements. So, IMO hackerrank is not that helpful in cracking the coding interviews, but is very valuable just for improving problem solving skills.
-
-    codeforces - very similar to hackerrank, but with more focus on conducting programming contests. But it does have a huge problems archive and auto-tests.
-
-    topcoder - for programming contests professionals.
-
-    rosettacode - how to implement X in language Y. Very interesting compilation of standard problems and corresponding solutions.
-
-    codingame - automated platform for writing game bots and alike. Can be very fun, with nice visualization and competitive features. Definitely improve your coding and math skills but solutions often are heuristic-based.
-    codewars
+### CRACK THE CODE
+- [Sololearn](https://www.sololearn.com/) - The best way to learn to code ... Courses designed by experts with real-world practice.
+- [LeetCode](https://leetcode.com/) - Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews.
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) - Similar to leetcode, but every problem usually starts from an explanatory article. Good for learning about algorithms and new techniques.
+- [HackerRank](https://www.hackerrank.com/) - Lot of programming problems, as well as math, AI, etc. Good to improve problem solving skills.
+- [Codeforces](https://codeforces.com/) - Similar to hackerrank, but with more focus on conducting programming contests, but it does have a huge problems archive and auto-tests.
+- [Topcoder](https://www.topcoder.com/) - for programming contests professionals.
+- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code/) - how to implement X in language Y. Very interesting compilation of standard problems and corresponding solutions.
+- [CodinGame](https://www.codingame.com/) - automated platform for writing game bots and alike. Can be very fun, with nice visualization and competitive features. Definitely improve your coding and math skills but solutions often are heuristic-based.
+- [Codewars](https://www.codewars.com/) - platform for software developers on which people can solve programming puzzles known also as “katas”
 
 ### Online Courses
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/) `free`
@@ -312,8 +323,8 @@ My vision here:
 - [ASCII Table](https://www.asciitable.com/) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
-- [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
-https://thimbleby.gitlab.io/algorithm-wiki-site/
+
+
 https://www.similarsites.com/
 
 ## TOOLS
@@ -374,9 +385,7 @@ https://www.similarsites.com/
 
 ## MISCELLANEOUS
 #### GAMES
-
 ###### Attention, depending on your 42 school rules you may or may not play games on school computers. Avoid getting -420 and community service.
-
 - [Reeborg's World](https://reeborg.ca/reeborg.html/) - Website designed to help people learn programming. `Recommended`
 - [Sudoku](https://sudoku.com/) - Fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9.
 - [2048](https://play2048.co/) - Slide numbered tiles on a grid to combine them to create a tile with the number 2048.
@@ -403,9 +412,6 @@ https://www.similarsites.com/
 - [Britannica](https://www.britannica.com/topic/chess) - What is chess?
 - [Chess Wikipedia](https://en.wikipedia.org/wiki/Chess)
 
-###### Others
-- [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`
-
 #### MEMES
 - [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) - `Youtube`
 - [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) - `Youtube`
@@ -425,6 +431,7 @@ https://www.similarsites.com/
 - [Intelligence X](https://intelx.io/) - Search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
 
 #### OTHERS
+- [Fake Update](https://fakeupdate.net/) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`
 - [Time.is](https://time.is/) - 7 million locations, 57 languages, synchronized with atomic clock time.
 - [Time and Date](https://www.timeanddate.com/) - Current Time (World Clock) and online and printable Calendars for countries worldwide.
 - [The 88x31 GIF Collection](http://cyber.dabamos.de/88x31/) - A collection of 4161 classic 88x31 buttons from the 1990s, 2000s, and today in GIF format.
