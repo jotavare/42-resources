@@ -129,11 +129,26 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 #### PROJECTS
 ###### _Specific project information and resources._
+###### Libft
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/libft.pdf)
+###### Born2beroot
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/born2beroot.pdf)
+###### ft_printf
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/ft_printf.pdf)
+###### get_next_line
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/get_next_line.pdf)
+###### Minitalk
+###### Pipex
 ###### Minilibx
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx/)
+###### so_long
+###### fract-ol
 ###### FdF
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/fdf_evaluation.png/) - Scale for project FdF.
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/fdf.pdf)
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/fdf_evaluation.png/) - Scale for project FdF.
+- [Files](https://github.com/jotavare/42-resources/tree/main/projects/fdf) - `fdf` `fdf_linux` `maps` `minilibx-linux` `minilibx_macos_sierra` `minilibx_mms` `sources`
 - [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm/)
+###### push_swap
 
 #### TESTERS
 ###### _Test your code with already made testers._
