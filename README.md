@@ -6,7 +6,7 @@ If you would like to make a correction or add a useful link for fellow 42 studen
 All contributions are greatly appreciated and will be evaluated for inclusion in the repository.
 
 <details>
-  <summary>#INDEX</summary>
+  <summary>**INDEX**</summary>
 
 - **[42 SCHOOL](#42-school)**
 - **[TRIVIA](#trivia)**
