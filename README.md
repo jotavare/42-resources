@@ -386,6 +386,11 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - - - -
 
 ## MISCELLANEOUS
+#### BOOTABLE USB
+- [Rufus](https://rufus.ie/) – Open-source portable application for Microsoft Windows, can be used to format and create bootable USB flash drives or Live USBs.
+- [Ventoy](https://www.ventoy.net/) – Open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
+- [Etcher](https://www.balena.io/etcher/) – A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily.
+
 #### PRODUCTIVITY SOFTWARE
 - [Evernote](https://evernote.com/) – Note-taking and task management application. 
 - [Notion](https://www.notion.so/) – Freemium productivity and note-taking web application developed by Notion Labs Inc.
