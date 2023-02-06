@@ -41,7 +41,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [JetBrains](https://www.jetbrains.com/community/education/) - Integrated development environment Software (IDE). `Sign up with 42 student email`
 
 ### NETWORK
-###### 
+###### Important websites for 42 students.
 - [42 Intra](https://intra.42.fr/) - Official portal for everything related with 42.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students (after Piscine).
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum (after Piscine).
@@ -63,6 +63,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Unofficial Discord](https://discord.gg/wsrkKE4/)
 
 ### ASSOCIATIONS
+###### All associations and groups made by 42 staff or students.
 - [[FR] 42AI - Association](https://www.42ai.fr/) - Artificial Intelligence.
 - [[FR] La Contre-Voie](https://lacontrevoie.fr/) - Free culture and ethics.
 - [[FR] APT42](https://apt42.fr) - Security.
@@ -148,13 +149,14 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [PowerLevel10k](https://github.com/romkatv/powerlevel10k/) - Theme that i personally use for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 
 ### SUBJECTS
-###### Links with all current 42 subjects.
+###### All current 42 subjects.
 - [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
 - [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers/)
 - [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects/)
 
 ### PROJECTS
-###### Usefull links for specific projects.
+###### Specific projects information and resources.
+###### Minilibx
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx/)
 
 ### TESTERS
@@ -174,7 +176,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
 
 ### RESOURCES
-###### Cheat Sheets for every ocasion.
+###### Resources and cheat sheets for every ocasion.
+###### Forty-Two
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
 
@@ -220,8 +223,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ## IDE[^1], COMPILERS[^2] & DEBUGGERS[^3]
 
-- [GDB Online Debugger](https://www.onlinegdb.com/) - Online compiler & debugger for a lot of programming languages.
-- [Python Tutor](https://pythontutor.com/) - Online compiler & debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.
+- [GDB Online Debugger](https://www.onlinegdb.com/) - Online compiler and debugger for a lot of programming languages.
+- [Python Tutor](https://pythontutor.com/) - Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.
 - [Thonny](https://thonny.org/) - Thonny is an IDE for Python that is designed for beginners.
 - [Sublime Text](https://www.sublimetext.com/)
 
@@ -281,7 +284,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Written in Java. `Android`
 - [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - Written in Swift. `iOS`
 
-###### BADGE	
+###### BADGE
 - [Badge 42](https://github.com/JaeSeoKim/badge42/) - Dynamically generated 42 badge for your git readmes.
 - [1337 Readme](https://github.com/mohouyizme/1337-readme/) - Share your progress with the world via GitHub README.md. `Not working?`
 
