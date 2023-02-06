@@ -446,7 +446,7 @@ https://www.similarsites.com/
 - [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
 - [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.app/) - Hacker News whose titles have been edited since they were first posted.
 - [Sketchy Website](https://sketchywebsite.net/) - You can trust this website.
-- [CloudConvert](https://cloudconvert.com/) Online file converter that support nearly all audio, video, document, ebook, archive, image, spreadsheet, and presentation formats.
+- [CloudConvert](https://cloudconvert.com/) Online file converter. `Audio` `Video` `Document` `Ebook` `Archive` `Image` `Spreadsheet` `Presentation`.
 - [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet/) - Upload a photo and instantly download it as a real spreadsheet!
 - [Capture The Flag 101](https://ctf101.org/) - What is CTFs?
 - [Radiooooo](https://radiooooo.com/) - The Musical Time Machine. `Music`
