@@ -173,16 +173,22 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
 
-### CHEAT SHEETS
+### RESOURCES
 ###### Cheat Sheets for every ocasion.
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet/) - A awesome cheatsheet for C and 42 in general.
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators/) - Discover how to use bitwise operators.
 
+### AI
+- [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
+- [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
+- [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site/) - This wiki is an experiment in making algorithms interactive on the web.
+
 ###### Bash
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet/)
 
-###### Python
-- [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet/)
+### Shell
+- [Explain Shell](https://explainshell.com/) - Explains shell commands.
+- [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
 
 ###### Git
 - [Git Cheat Sheet (RehanSaeed)](https://github.com/RehanSaeed/Git-Cheat-Sheet/)
@@ -192,20 +198,14 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet/)
 - [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/)
 
+###### Python
+- [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet/)
+
 ###### Others
 - [Cheat Sheets](https://cheat-sheets.org/) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 - [Devhints](https://devhints.io/) - Collection of various cheat sheets.
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
-### Shell
-- [Explain Shell](https://explainshell.com/) - Explains shell commands.
-- [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
-
-### AI
-- [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
-- [Futurepedia](https://www.futurepedia.io/) - Largest AI tools directory.
-- [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site/) - This wiki is an experiment in making algorithms interactive on the web.
 
 ### PEER-TO-PEER
 ###### Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git.
@@ -226,8 +226,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Sublime Text](https://www.sublimetext.com/)
 
 ###### ONLINE IDE
-- [Replit](https://replit.com/login/) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
-- Interactive online code editors
+- [Replit](https://replit.com/) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
 - JSFiddle
 - CodeSandbox
 - CodeAnywhere
@@ -242,7 +241,6 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - PaizaCloud
 - Scrimba
 - CodePen
-- SoloLearn
 
 ### EXTENSIONS
 ###### VSCODE
