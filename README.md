@@ -220,20 +220,18 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ###### ONLINE IDE
 - [Replit](https://replit.com/login/) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
 - Interactive online code editors
-
-JSFiddle
-CodeSandbox
-CodeAnywhere
-StackBlitz
-AWS Cloud9
-Gitpod
-Theia
-GitHub 
-JetBrains IDE – Space
-CodeTasty
-Replit
-PaizaCloud
-
+- JSFiddle
+- CodeSandbox
+- CodeAnywhere
+- StackBlitz
+- AWS Cloud9
+- Gitpod
+- Theia
+- GitHub 
+- JetBrains IDE – Space
+- CodeTasty
+- Replit
+- PaizaCloud
 - Scrimba
 - CodePen
 - SoloLearn
