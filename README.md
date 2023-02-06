@@ -5,15 +5,16 @@ You will find a collection of resources that have been helpful (or not) during m
 If you would like to make a correction or add a useful link for fellow 42 students, please feel free to contact me.\
 All contributions are greatly appreciated and will be evaluated for inclusion in the repository.
 
-## INDEX
-**[42 SCHOOL](#42-school)**
+<details>
+  <summary>INDEX</summary>
+- **[42 SCHOOL](#42-school)**
 - **[TRIVIA](#trivia)**
 - **[REWARDS](#rewards)**
 - **[NETWORK](#network)**
 - **[SOCIAL](#social)**
 - **[ASSOCIATIONS](#associations)**
 
-**[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,-common-core-&-specializations)**
+- **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,-common-core-&-specializations)**
 - **[TOOLS](#tools)**
 - **[SUBJECTS](#subjects)**
 - **[PROJECTS](#projects)**
@@ -22,9 +23,9 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - **[RESOURCES](#resources)**
 - **[PEER-TO-PEER](#peer-to-peer)**
 
-**[IDE, COMPILERS & DEBUGGERS](#ide,-compilers-&-debuggers)**
+- **[IDE, COMPILERS & DEBUGGERS](#ide,-compilers-&-debuggers)**
 
-**[EXTENSIONS](#extensions)**
+- **[EXTENSIONS](#extensions)**
 - **[VSCODE](#vscode)**
 - **[BROWSER](#browser)**
 - **[LANGUAGE CORRECTION / DICTIONARY](#language-correction-/-dictionary)**
@@ -32,13 +33,13 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - **[BADGE](#badge)**
 - **[ADDONS](#addons)**
 
-**[MOOCS & BOOKS](#moocs-&-books)**
+- **[MOOCS & BOOKS](#moocs-&-books)**
 - **[PLATAFORMS](#vscode)**
 - **[CRACK THE CODE](#vscode)**
 - **[ONLINE COURSES](#vscode)**
 - **[BOOKS](#vscode)**
 
-**[OTHER TOOLS](#other-tools)**
+- **[OTHER TOOLS](#other-tools)**
 - **[GENERATORS](#generators)**
 - **[ICONS & ILLUSTRATIONS](#icons-&-illustrations)**
 - **[IMAGES](#images)**
@@ -46,19 +47,20 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - **[DESIGN](#design)**
 - **[VIDEO](#video)**
 
-**[WIKIMEDIA FOUNDATION](#wikimedia-foundation)**
+- **[WIKIMEDIA FOUNDATION](#wikimedia-foundation)**
 
-**[MISCELLANEOUS](#other-tools)**
+- **[MISCELLANEOUS](#other-tools)**
 - **[DIGITAL FOOTPRINT](#generators)**
 - **[PACKAGE MANAGEMENT](#package-management)**
 - **[GAMES](#games)**
 - **[MEMES](#memes)**
 - **[OTHERS](#others)**
 
-**[42 CAMPUSES](#42-campuses)**
+- **[42 CAMPUSES](#42-campuses)**
 
-**[GLOSSARY](#glossary)**
-  
+- **[GLOSSARY](#glossary)**
+</details>
+
 - - - -
 
 ## 42 SCHOOL
