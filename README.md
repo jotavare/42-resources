@@ -262,8 +262,8 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - Written in Swift. `iOS`
 
 ###### Badge 	
-- [Badge 42](https://github.com/JaeSeoKim/badge42) - Dynamically generated 42 badge for your git readmes.
-- 1337 https://github.com/mohouyizme/1337-readme Share your progress with the world via GitHub README.md 
+- [Badge 42](https://github.com/JaeSeoKim/badge42/) - Dynamically generated 42 badge for your git readmes.
+- [1337 Readme](https://github.com/mohouyizme/1337-readme/) - Share your progress with the world via GitHub README.md. `Not working?`
 
 ###### ADDONS
 - [Spicetify](https://spicetify.app/) - Powerful CLI tool to take control of the Spotify client.
