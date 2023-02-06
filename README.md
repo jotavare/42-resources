@@ -7,6 +7,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 <details>
   <summary>INDEX</summary>
+
 - **[42 SCHOOL](#42-school)**
 - **[TRIVIA](#trivia)**
 - **[REWARDS](#rewards)**
@@ -59,6 +60,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - **[42 CAMPUSES](#42-campuses)**
 
 - **[GLOSSARY](#glossary)**
+
 </details>
 
 - - - -
