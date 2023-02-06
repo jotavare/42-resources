@@ -250,7 +250,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line/)
 
 ###### BROWSER
-I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox.
+###### I recommend only instaling 'Improved Intra 42' because its a all in one extension for both chrome and firefox.
 - [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
 - [Better Black Hole](https://github.com/jkctech/BetterBlackHole) `chrome` `firefox`
 - [42 Logtime & Darkmode](https://chrome.google.com/webstore/detail/42-logtime-darkmode/kkcjiilcfieknbpdhihhhncdbligjplg) `chrome`
@@ -275,7 +275,7 @@ I recommend only instaling 'Improved Intra 42' because its a all in one extensio
 - [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Written in Java. `Android`
 - [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - Written in Swift. `iOS`
 
-###### Badge 	
+###### BADGE	
 - [Badge 42](https://github.com/JaeSeoKim/badge42/) - Dynamically generated 42 badge for your git readmes.
 - [1337 Readme](https://github.com/mohouyizme/1337-readme/) - Share your progress with the world via GitHub README.md. `Not working?`
 
