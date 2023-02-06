@@ -130,7 +130,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects/)
 
 #### PROJECTS
-###### _Specific projects information and resources._
+###### _Specific project information and resources._
 ###### [Minilibx]
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx/)
 
