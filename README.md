@@ -136,15 +136,15 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 #### TESTERS
 ###### _Test your code with already made testers._
-- [Francinette](https://github.com/xicodomingues/francinette) `libft` `ft_printf` `get_next_line` `minitalk` `pipex`
-- [Libft File Checker (nuno_jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
-- [libft Tester](https://github.com/Tripouille/libftTester)
-- [Printf Tester](https://github.com/Tripouille/printfTester/)
-- [GNL Tester](https://github.com/Tripouille/gnlTester)
-- [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester)
-- [so_long map validator](https://github.com/Nuno-Jesus/so_long_map_validator)
-- [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester)
-- [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester)
+- [Francinette (xicodomingues)](https://github.com/xicodomingues/francinette)
+- [Libft File Checker (Nuno-Jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
+- [Libft Tester (Tripouille)](https://github.com/Tripouille/libftTester)
+- [Printf Tester (Tripouille)](https://github.com/Tripouille/printfTester)
+- [Get Next Line Tester (Tripouille)](https://github.com/Tripouille/gnlTester)
+- [Born2beroot Tester (Pixailz)](https://github.com/Pixailz/Born2BeRootTester)
+- [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator)
+- [Push Swap Leak Tester (IDC87)](https://github.com/IDC87/push_swap_leak_tester)
+- [Push Swap Tester (gemartin99)](https://github.com/gemartin99/Push-Swap-Tester)
 
 #### EXAMS
 ###### _Great websites to help you with 42 exams._
