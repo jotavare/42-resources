@@ -9,53 +9,53 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
   <summary>Click here for index.</summary>
 
 - **[42 SCHOOL](#42-school)**
-- **[TRIVIA](#trivia)**
-- **[REWARDS](#rewards)**
-- **[NETWORK](#network)**
-- **[SOCIAL](#social)**
-- **[ASSOCIATIONS](#associations)**
+  - **[TRIVIA](#trivia)**
+  - **[REWARDS](#rewards)**
+  - **[NETWORK](#network)**
+  - **[SOCIAL](#social)**
+  - **[ASSOCIATIONS](#associations)**
 
 - **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,-common-core-&-specializations)**
-- **[TOOLS](#tools)**
-- **[SUBJECTS](#subjects)**
-- **[PROJECTS](#projects)**
-- **[TESTERS](#testers)**
-- **[EXAMS](#exams)**
-- **[RESOURCES](#resources)**
-- **[PEER-TO-PEER](#peer-to-peer)**
+  - **[TOOLS](#tools)**
+  - **[SUBJECTS](#subjects)**
+  - **[PROJECTS](#projects)**
+  - **[TESTERS](#testers)**
+  - **[EXAMS](#exams)**
+  - **[RESOURCES](#resources)**
+  - **[PEER-TO-PEER](#peer-to-peer)**
 
 - **[IDE, COMPILERS & DEBUGGERS](#ide,-compilers-&-debuggers)**
 
 - **[EXTENSIONS](#extensions)**
-- **[VSCODE](#vscode)**
-- **[BROWSER](#browser)**
-- **[LANGUAGE CORRECTION / DICTIONARY](#language-correction-/-dictionary)**
-- **[APPS](#apps)**
-- **[BADGE](#badge)**
-- **[ADDONS](#addons)**
+  - **[VSCODE](#vscode)**
+  - **[BROWSER](#browser)**
+  - **[LANGUAGE CORRECTION / DICTIONARY](#language-correction-/-dictionary)**
+  - **[APPS](#apps)**
+  - **[BADGE](#badge)**
+  - **[ADDONS](#addons)**
 
 - **[MOOCS & BOOKS](#moocs-&-books)**
-- **[PLATAFORMS](#vscode)**
-- **[CRACK THE CODE](#vscode)**
-- **[ONLINE COURSES](#vscode)**
-- **[BOOKS](#vscode)**
+  - **[PLATAFORMS](#vscode)**
+  - **[CRACK THE CODE](#vscode)**
+  - **[ONLINE COURSES](#vscode)**
+  - **[BOOKS](#vscode)**
 
 - **[OTHER TOOLS](#other-tools)**
-- **[GENERATORS](#generators)**
-- **[ICONS & ILLUSTRATIONS](#icons-&-illustrations)**
-- **[IMAGES](#images)**
-- **[COLORS](#colors)**
-- **[DESIGN](#design)**
-- **[VIDEO](#video)**
+  - **[GENERATORS](#generators)**
+  - **[ICONS & ILLUSTRATIONS](#icons-&-illustrations)**
+  - **[IMAGES](#images)**
+  - **[COLORS](#colors)**
+  - **[DESIGN](#design)**
+  - **[VIDEO](#video)**
 
 - **[WIKIMEDIA FOUNDATION](#wikimedia-foundation)**
 
 - **[MISCELLANEOUS](#other-tools)**
-- **[DIGITAL FOOTPRINT](#generators)**
-- **[PACKAGE MANAGEMENT](#package-management)**
-- **[GAMES](#games)**
-- **[MEMES](#memes)**
-- **[OTHERS](#others)**
+  - **[DIGITAL FOOTPRINT](#generators)**
+  - **[PACKAGE MANAGEMENT](#package-management)**
+  - **[GAMES](#games)**
+  - **[MEMES](#memes)**
+  - **[OTHERS](#others)**
 
 - **[42 CAMPUSES](#42-campuses)**
 
