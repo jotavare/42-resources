@@ -173,7 +173,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ##### [03] push_swap
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/push_swap.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/fdf_evaluation.png) `PNG`
+- [Evaluation Page] `PNG`
 - [Files](https://github.com/jotavare/42-resources/tree/main/project_files/push_swap) `checker_mac` `checker_linux`
 - [Random Number Generator](https://numbergenerator.org/randomnumbergenerator/1-100?clientAction=540.click)
 
