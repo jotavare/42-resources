@@ -76,7 +76,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### REWARDS (STILL TESTING)
 ###### _Rewards you have access as a 42 student._
 - [Office 365](https://www.microsoft.com/en-us/education/products/office) - Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. `Sign up with 42 email`
-- [GitHub Student Pack](https://github.com/42sommecaise/42Docs) - Portal to activate the GitHub Student Pack. `Sign up with 42 email`
+- [GitHub Student Pack](https://github-portal.42.fr/login) - Portal to activate the GitHub Student Pack. `Sign up with 42 email`
 - [Lucidchart](https://www.lucidchart.com/pages) - Web-based diagramming application. `Sign up with 42 email`
 - [JetBrains](https://www.jetbrains.com/community/education) - Integrated development environment Software (IDE). `Sign up with 42 email`
 
