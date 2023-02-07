@@ -1,4 +1,4 @@
-## Born2beRoot defense checklist by [AdrianMussoGonzalez (amusso-g)](https://github.com/AdrianMussoGonzalez)
+## Born2beRoot defense checklist by [AdrianMussoGonzalez](https://github.com/AdrianMussoGonzalez) (amusso-g)
 
 ###### Note: If something does not work as expected or is not clearly explained, stop evaluation. When you need help with checking something, the student should be able to help you.
 
