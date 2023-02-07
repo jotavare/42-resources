@@ -130,33 +130,37 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### PROJECTS
 ###### _Specific project information and resources._
 ##### [00] Libft
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/libft.pdf)
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/libft.pdf) `PDF`
 - [Libft Functions](https://www.asidesigned.com/project-libft.html)
 
 ##### [01] Born2beroot
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/born2beroot.pdf)
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/born2beroot.pdf) `PDF`
+- [Guide (pasqualerossi)](https://github.com/pasqualerossi/Born2BeRoot-Guide) `GitHub`
+- [Evaluation Checklist)](https://docs.google.com/document/d/1-BwCO0udUP7MhRh81Y681zz0BalXtKFtte_FHJc6G4s/edit)
+- [Debian](https://www.debian.org/)
+- [Rocky](https://rockylinux.org/)
 
 ##### [01] ft_printf
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/ft_printf.pdf)
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/ft_printf.pdf) `PDF`
 
 ##### [01] get_next_line
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/get_next_line.pdf)
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/get_next_line.pdf) `PDF`
 
 ##### [02] Minitalk
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/minitalk.pdf)
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/minitalk.pdf) `PDF`
 
 ##### [02] Pipex
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/pipex.pdf)
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/pipex.pdf) `PDF`
 
 ##### Minilibx
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)
 - [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/7/show)
 
 ##### [03] so_long
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/so_long.pdf)
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/so_long.pdf) `PDF`
 
 ##### [03] fract-ol
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/fract-ol.pdf)
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/fract-ol.pdf) `PDF`
 - [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`
 
 ##### [03] FdF
@@ -165,7 +169,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Files](https://github.com/jotavare/42-resources/tree/main/project_files/fdf) `fdf` `fdf_linux` `maps` `minilibx-linux` `minilibx_macos_sierra` `minilibx_mms` `sources`
 - [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)
 - [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
-- [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm)
+- [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm) `Wikipedia`
 
 ##### [03] push_swap
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/push_swap.pdf) `PDF`
