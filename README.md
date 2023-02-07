@@ -176,6 +176,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ###### _Great websites to help you with 42 exams._
 - [GradeMe](https://grademe.fr/) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42/) - Questions and solutions.
+- [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams/)
 
 #### CTF
 ###### _Websites and information about capture the flag._
