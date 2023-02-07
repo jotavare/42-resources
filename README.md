@@ -69,7 +69,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### TRIVIA
 ###### _Some fun and interesting facts about 42._
 
-- [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) `Wikipedia` `Book`
+- [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) `Wikipedia`
 - [Why 42?](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy) `Wikipedia`
 - [42 and Douglas Adams](https://www.youtube.com/watch?v=D6tINlNluuY) `Youtube`
 
@@ -83,11 +83,11 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### NETWORK
 ###### _Important websites for 42 students._
 - [42 Intra](https://intra.42.fr) - Official portal for everything related with 42.
-- [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official slack channel for 42 students (after Piscine).
+- [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official Slack channel for 42 students (after Piscine).
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum (after Piscine).
 - [Alumni](https://alumni.42.fr) - 42Alumni Network (only for alumni students).
-- [Clusters](https://meta.intra.42.fr/clusters) - Check who is online in your 42 school clusters.
-- [F.A.Q](https://meta.intra.42.fr/articles) - Common questions about your school.
+- [Clusters](https://meta.intra.42.fr/clusters) - Check who is online in your 42 school cluster.
+- [F.A.Q](https://meta.intra.42.fr/articles) - Frequently asked questions about your school.
 - [42 API](https://api.intra.42.fr/apidoc) - The API is RESTful, uses JSON over HTTPS and lets you authenticate users with OAuth 2.0. 
 
 #### SOCIAL
