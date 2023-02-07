@@ -208,6 +208,9 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet/)
 - [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/)
 
+#### ASSEMBLY
+- [Assembly - Introduction](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm)
+
 #### C
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
@@ -341,6 +344,11 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code/) - How to implement X in language Y.
 - [CodinGame](https://www.codingame.com/) - Automated platform for writing game bots and alike. Definitely improves your coding and math skills.
 - [Codewars](https://www.codewars.com/) - Platform for software developers on which people can solve programming puzzles known also as “katas”.
+
+#### CYBERSECURITY & HACKING
+- [TryHackMe](https://tryhackme.com/) - Learn cyber security, using hands-on exercises and labs.
+- [Hack The Box](https://www.hackthebox.com/) - Cybersecurity training platform to level up your hacking skills.
+- [Hack This Site](https://www.hackthissite.org/) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
 
 #### ONLINE COURSES
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x/) `Free`
