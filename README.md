@@ -142,6 +142,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ##### [01] ft_printf
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/ft_printf.pdf) `PDF`
+- [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)
 
 ##### [01] get_next_line
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/get_next_line.pdf) `PDF`
