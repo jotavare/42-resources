@@ -37,7 +37,7 @@
 `getent group user42`  
 
 ### Password policy check:
-- [ ] Create new user (e.g. user42).
+- [ ] Create new user (e.g. user42).  
 `sudo adduser new_username`  
 - [ ] Assign a password of your choice, respecting subject rules.
 `getent group sudo`  
