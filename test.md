@@ -28,7 +28,6 @@
 ###### sudo ufw status			//look for status: active
 - [ ] Evaluator checks SSH service is started.
 ###### sudo systemctl status ssh
-
 - [ ] Evaluator checks the chosen operating system (Debian or CentOS).
 ###### lsb_release -a || cat /etc/os-release
 
