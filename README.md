@@ -347,7 +347,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 Day Trial`
 
 #### BOOKS
-- [Programming Notes for Professionals Books](https://books.goalkicker.com/)
+- [Programming Notes for Professionals](https://books.goalkicker.com/)
+- [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface/)
 
 - - - -
 
