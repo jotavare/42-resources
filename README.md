@@ -131,6 +131,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ###### _Specific project information and resources._
 ##### [00] Libft
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/libft.pdf)
+- [Libft Functions](https://www.asidesigned.com/project-libft.html)
 
 ##### [01] Born2beroot
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/born2beroot.pdf)
@@ -174,7 +175,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 #### TESTERS
 ###### _Test your code with already made testers._
-- [Francinette (xicodomingues)](https://github.com/xicodomingues/francinette)
+- [Francinette (xicodomingues)](https://github.com/xicodomingues/francinette) `Libft` `ft_printf` `get_next_line` `minitalk` `pipex`
+- [42 Cursus Tester (Abaker-Hype)](https://github.com/Abaker-Hype/42-Cursus-Tester) `Libft` `ft_printf` `get_next_line`
 - [Libft File Checker (Nuno-Jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
 - [Libft Tester (Tripouille)](https://github.com/Tripouille/libftTester)
 - [Printf Tester (Tripouille)](https://github.com/Tripouille/printfTester)
