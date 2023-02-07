@@ -136,7 +136,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ##### [01] Born2beroot
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/born2beroot.pdf) `PDF`
 - [Guide (pasqualerossi)](https://github.com/pasqualerossi/Born2BeRoot-Guide) `GitHub`
-- [Evaluation Checklist)](https://github.com/jotavare/42-resources/blob/main/born2beroot_defense_checklist.md)
+- [Evaluation Checklist (AdrianMussoGonzalez)](https://github.com/jotavare/42-resources/blob/main/born2beroot_defense_checklist.md)
 - [Debian](https://www.debian.org/)
 - [Rocky](https://rockylinux.org/)
 
