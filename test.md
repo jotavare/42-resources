@@ -2,24 +2,24 @@
 
 ###### Note: If something does not work as expected or is not clearly explained, stop evaluation. When you need help with checking something, the student should be able to help you.
 
-###Preliminary tests
+### Preliminary tests
 - [ ] Git repo cloned successfully.
 
-General instructions
-Git repo contains a signature.txt file.
-Check the signature against the students “.vdi” file, make sure it’s identical. 
-Clone VM || create a snapshot && open VM.
+### General instructions
+- [ ] Git repo contains a signature.txt file.
+- [ ] Check the signature against the students “.vdi” file, make sure it’s identical. 
+- [ ] Clone VM || create a snapshot && open VM.
 
-Mandatory Part (Questions for the student)
-How does a virtual machine work and what is its purpose?
-The basic differences between CentOS and Debian?
-Their choice of operating system?
-If CentOS: what SELinux and DNF are.
-If Debian: the difference between aptitude, apt and what APPArmor is.
-During the defense, a script must display all information every 10 minutes. Its operation will be checked in detail later.
-All explanations are satisfactory (else evaluation stops here).
+### Mandatory Part (Questions for the student)
+- [ ] How does a virtual machine work and what is its purpose?
+- [ ] The basic differences between CentOS and Debian?
+- [ ] Their choice of operating system?
+- [ ] If CentOS: what SELinux and DNF are.
+- [ ] If Debian: the difference between aptitude, apt and what APPArmor is.
+- [ ] During the defense, a script must display all information every 10 minutes. Its operation will be checked in detail later.
+- [ ] All explanations are satisfactory (else evaluation stops here).
 
-Simple setup
+### Simple setup
 Ensure that the machine does not have a graphical environment at launch.
 Connect to VM as a created user (which isn’t a root)
 Ensure the password follows the required policy (2 days min, 7, 30 days max). 
@@ -32,17 +32,12 @@ sudo systemctl status ssh
 Evaluator checks the chosen operating system (Debian or CentOS).
 lsb_release -a || cat /etc/os-release
 
-
-
-
-
-
-User
+### User
 The subject requests that a user with the login of the student being evaluated is present on the virtual machine. Check that it has been added and that it belongs to “sudo” and “user42” groups.
 getent group sudo
 getent group user42
 
-Password policy check:
+### Password policy check:
 Create new user (e.g. user42).
 sudo adduser new_username
 Assign a password of your choice, respecting subject rules.
@@ -57,7 +52,7 @@ getent group evaluating
 Ask the student to explain advantages of the password policy (beyond the fact that it is required for the project) 
 Ask the student the advantages/disadvantages of the policy implementation.
 
-Hostname and partitions
+### Hostname and partitions
 Check the hostname of the machine is correctly formatted as follows: login42 (login of the student being evaluated).
 hostnamectl
 Modify this hostname by replacing the login with yours, then restart VM.
@@ -72,7 +67,7 @@ lsblk
 Compare the output with the example given in the subject (if there are bonuses, refer to the bonus example).
 Ask the student for a brief explanation of LVM and how it works.
 
-SUDO
+### SUDO
 Check that the “sudo” program is properly installed on the virtual machine.
 dpkg -l | grep sudo
 The student being evaluated shows assigning a new user to the “sudo” group.
@@ -82,7 +77,7 @@ Second step, must show the implementation of the rules imposed by the subject.
 Verify the “/var/log/sudo/” folder exists and has at least one file. Check the contents of the files in the folder, you should see a history of the commands used with sudo.
 Run a command via sudo. See if the file(s) in the “/var/log/sudo/” folder have been updated.
 
-UFW
+### UFW
 Check the “UFW” program is properly installed on the VM and works properly.
 sudo ufw status numbered
 Ask the student for a basic explanation of UFW and the value of using it.
@@ -93,7 +88,7 @@ Delete this new rule with the help of the student being evaluated.
 sudo ufw delete 4
 sudo ufw delete 2
 
-SSH
+### SSH
 Check that the SSH service is properly installed on the VM, and is working properly.
 sudo service ssh status 			//check if its active and port 4242
 Ask the student for an explanation of what SSH is and the value of using it. (answer: secure shell, allows 2 computers to securely talk to each other)
@@ -107,7 +102,7 @@ ssh amusso-g42@127.0.0.1 -p 4242 		//should come up as permission denied
 
 
 
-Script Monitoring (questions for the student)
+### Script Monitoring (questions for the student)
 Ask the student how their script works and see their code for it.
 Script inputted in the monitoring .sh file to display system information
 cd /usr/local/bin && vim monitoring.sh
