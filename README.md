@@ -143,6 +143,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/pipex.pdf)
 ##### Minilibx
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx/)
+- [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/7/show/)
 ##### so_long
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/so_long.pdf)
 ##### fract-ol
