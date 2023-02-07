@@ -29,7 +29,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - **[EXTENSIONS](#extensions)**
   - **[VSCODE](#vscode)**
   - **[BROWSER](#browser)**
-  - **[LANGUAGE CORRECTION / DICTIONARY](#language-correction-/-dictionary)**
+  - **[DICTIONARY & LANGUAGE CORRECTION](#dictionary-&-language-correction)**
   - **[APPS](#apps)**
   - **[BADGE](#badge)**
   - **[ADDONS](#addons)**
@@ -301,7 +301,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 Launcher](https://chrome.google.com/webstore/detail/42-launcher/ilfaiabliekooeinlfonleniaeaijabe) `chrome`
 - [Legion 42](https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb) `chrome`
 
-#### LANGUAGE CORRECTION
+#### DICTIONARY & LANGUAGE CORRECTION
 - [LanguageTool](https://languagetool.org/)
 - [Grammarly](https://www.grammarly.com/)
 - [Wiktionary](https://en.wiktionary.org/)
