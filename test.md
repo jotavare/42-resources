@@ -32,9 +32,9 @@
 `lsb_release -a || cat /etc/os-release`
 
 ### User
-- [ ] The subject requests that a user with the login of the student being evaluated is present on the virtual machine. Check that it has been added and that it belongs to “sudo” and “user42” groups./
-`getent group sudo`/
-`getent group user42`/
+- [ ] The subject requests that a user with the login of the student being evaluated is present on the virtual machine. Check that it has been added and that it belongs to “sudo” and “user42” groups.  
+`getent group sudo`  
+`getent group user42`  
 
 ### Password policy check:
 - [ ] Create new user (e.g. user42).
