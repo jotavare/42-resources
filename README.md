@@ -149,12 +149,13 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/fract-ol.pdf)
 ##### FdF
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/fdf.pdf)
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/fdf_evaluation.png/) - Scale for project FdF.
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/fdf_evaluation.png/)
 - [Files](https://github.com/jotavare/42-resources/tree/main/projects/fdf) - `fdf` `fdf_linux` `maps` `minilibx-linux` `minilibx_macos_sierra` `minilibx_mms` `sources`
 - [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets/)
 - [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm/)
 ##### push_swap
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/push_swap.pdf)
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/fdf_evaluation.png/)
 
 #### TESTERS
 ###### _Test your code with already made testers._
