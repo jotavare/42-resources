@@ -131,34 +131,44 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ###### _Specific project information and resources._
 ##### Libft
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/libft.pdf)
+
 ##### Born2beroot
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/born2beroot.pdf)
+
 ##### ft_printf
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/ft_printf.pdf)
+
 ##### get_next_line
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/get_next_line.pdf)
+
 ##### Minitalk
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/minitalk.pdf)
+
 ##### Pipex
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/pipex.pdf)
+
 ##### Minilibx
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx/)
 - [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/7/show/)
+
 ##### so_long
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/so_long.pdf)
+
 ##### fract-ol
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/fract-ol.pdf)
+- [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`
+
 ##### FdF
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/fdf.pdf)
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/fdf_evaluation.png/)
-- [Files](https://github.com/jotavare/42-resources/tree/main/project_files/fdf) - `fdf` `fdf_linux` `maps` `minilibx-linux` `minilibx_macos_sierra` `minilibx_mms` `sources`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/fdf.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/fdf_evaluation.png/) `PNG`
+- [Files](https://github.com/jotavare/42-resources/tree/main/project_files/fdf) `fdf` `fdf_linux` `maps` `minilibx-linux` `minilibx_macos_sierra` `minilibx_mms` `sources`
 - [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets/)
 - [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm/)
 - [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm/)
 
 ##### push_swap
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/push_swap.pdf)
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/fdf_evaluation.png/)
+- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/push_swap.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/fdf_evaluation.png/) `PNG`
 - [Files](https://github.com/jotavare/42-resources/tree/main/project_files/push_swap) `checker_mac` `checker_linux`
 - [Random Number Generator](https://numbergenerator.org/randomnumbergenerator/1-100?clientAction=540.click)
 
