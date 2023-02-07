@@ -1,9 +1,9 @@
 ## Born2beRoot Defense Checklist By Adrian Musso-Gonzalez (@amusso-g)
 
-Note: If something does not work as expected or is not clearly explained, stop evaluation. When you need help with checking something, the student should be able to help you.
+###### Note: If something does not work as expected or is not clearly explained, stop evaluation. When you need help with checking something, the student should be able to help you.
 
-Preliminary tests
-Git repo cloned successfully.
+###Preliminary tests
+- [ ] Git repo cloned successfully.
 
 General instructions
 Git repo contains a signature.txt file.
