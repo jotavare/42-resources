@@ -22,13 +22,13 @@
 ### Simple setup
 - [ ] Ensure that the machine does not have a graphical environment at launch.
 - [ ] Connect to VM as a created user (which isn’t a root)
-- [ ] Ensure the password follows the required policy (2 days min, 7, 30 days max). 
+- [ ] Ensure the password follows the required policy (2 days min, 7, 30 days max).  
 `sudo chage -l username`  
-- [ ] Evaluator checks UFW service is started.
+- [ ] Evaluator checks UFW service is started.  
 `sudo ufw status`  			//look for status: active
-- [ ] Evaluator checks SSH service is started.
+- [ ] Evaluator checks SSH service is started.  
 `sudo systemctl status ssh`
-- [ ] Evaluator checks the chosen operating system (Debian or CentOS).
+- [ ] Evaluator checks the chosen operating system (Debian or CentOS).  
 `lsb_release -a || cat /etc/os-release`  
 
 ### User
