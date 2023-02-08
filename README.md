@@ -205,6 +205,13 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ##### [05] CPP Module (00-08)
 - [Evaluation Page (00)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_00_evaluation_page.pdf) `PDF`
 - [Evaluation Page (01)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_01_evaluation_page.pdf) `PDF`
+- [Evaluation Page (02) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_02_evaluation_page.pdf) `PDF`
+- [Evaluation Page (03) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_03_evaluation_page.pdf) `PDF`
+- [Evaluation Page (04) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_04_evaluation_page.pdf) `PDF`
+- [Evaluation Page (05) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_05_evaluation_page.pdf) `PDF`
+- [Evaluation Page (06) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_06_evaluation_page.pdf) `PDF`
+- [Evaluation Page (07) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_07_evaluation_page.pdf) `PDF`
+- [Evaluation Page (08) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_08_evaluation_page.pdf) `PDF`
 
 ##### [06] ft_containers
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_containers_evaluation_page.pdf) `PDF`
