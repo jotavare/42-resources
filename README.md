@@ -132,6 +132,12 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF`
 - [Character Counter](https://wordcounter.net/character-count) - Write 42 comments with more than 180 characters in corrections.
 
+#### EXAMS
+###### _Great websites to help you with 42 exams._
+- [GradeMe](https://grademe.fr) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
+- [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions.
+- [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams)
+
 #### SUBJECTS
 ###### _All current 42 subjects._
 - [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
@@ -252,12 +258,6 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator)
 - [Push Swap Leak Tester (IDC87)](https://github.com/IDC87/push_swap_leak_tester)
 - [Push Swap Tester (gemartin99)](https://github.com/gemartin99/Push-Swap-Tester)
-
-#### EXAMS
-###### _Great websites to help you with 42 exams._
-- [GradeMe](https://grademe.fr) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
-- [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions.
-- [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams)
 
 #### CTF
 ###### _Websites and information about capture the flag._
