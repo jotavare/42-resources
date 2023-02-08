@@ -124,7 +124,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 #### PEER-TO-PEER
 ###### _Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git._
-- [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) - `Youtube`
+- [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) `Youtube`
 - [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE) - What to do before the evaluation? (as evaluated student) `Youtube`
 - [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY) - What to do before the evaluation? (as evaluator) `Youtube`
 - [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ) - What to do during the evaluation? `Youtube`
