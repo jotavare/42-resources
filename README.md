@@ -149,7 +149,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ##### [02] Minitalk
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/minitalk.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/minishell_evaluation_page.png) `PNG`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minitalk_evaluation_page.png) `PNG`
 
 ##### [02] Pipex
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/pipex.pdf) `PDF`
@@ -167,7 +167,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ##### [03] FdF
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/fdf.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/fdf_evaluation_page.png) `PNG`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/fdf_evaluation_page.png) `PNG`
 - [Evaluation Files](https://github.com/jotavare/42-resources/tree/main/project_files/fdf) `fdf` `fdf_linux` `maps` `minilibx-linux` `minilibx_macos_sierra` `minilibx_mms` `sources`
 - [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)
 - [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
@@ -175,13 +175,13 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ##### [03] push_swap
 - [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/push_swap.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/push_swap_evaluation_page.png) `PNG`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/push_swap_evaluation_page.png) `PNG`
 - [Evaluation Files](https://github.com/jotavare/42-resources/tree/main/project_files/push_swap) `checker_mac` `checker_linux`
 - [Random Number Generator](https://numbergenerator.org/randomnumbergenerator/1-100?clientAction=540.click)
 - [push_swap resources](https://push_swap.simple.ink) `Resources` `Data Structure` `Linked List` `Sort`
 
 ##### [04] minishell
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/minishell_evaluation_page.png) `PNG`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minishell_evaluation_page.png) `PNG`
 
 #### TESTERS
 ###### _Test your code with already made testers._
