@@ -166,10 +166,12 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ##### [03] so_long
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/so_long.pdf) `PDF`
+- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/so_long) `minilibx_mms_20200219_beta` `minilibx_mms_beta` `minilibx_opengl`
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/so_long_evaluation_page.pdf) `PDF`
 
 ##### [03] fract-ol
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fract%E2%80%99ol.pdf) `PDF`
+- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fract-ol) `minilibx-linux` `minilibx_mms_beta` `minilibx_opengl` `minilibx_mms_beta` `minilibx_opengl`
 - [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`
 
 ##### [03] FdF
