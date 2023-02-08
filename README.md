@@ -17,12 +17,12 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 - **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,-common-core-&-specializations)**
   - **[TOOLS](#tools)**
+  - **[PEER-TO-PEER](#peer-to-peer)**
+  - **[EXAMS](#exams)**
   - **[SUBJECTS](#subjects)**
   - **[PROJECTS](#projects)**
   - **[TESTERS](#testers)**
-  - **[EXAMS](#exams)**
   - **[RESOURCES](#resources)**
-  - **[PEER-TO-PEER](#peer-to-peer)**
 
 - **[IDE, COMPILERS & DEBUGGERS](#ide,-compilers-&-debuggers)**
 
