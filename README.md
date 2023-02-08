@@ -130,43 +130,43 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### PROJECTS
 ###### _Specific project information and resources._
 ##### [00] Libft
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/libft.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/libft.pdf) `PDF`
 - [Libft Functions](https://www.asidesigned.com/project-libft.html)
 
 ##### [01] Born2beroot
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/born2beroot.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/born2beroot.pdf) `PDF`
 - [Guide (pasqualerossi)](https://github.com/pasqualerossi/Born2BeRoot-Guide) `GitHub`
 - [Evaluation Checklist (AdrianMussoGonzalez)](https://github.com/jotavare/42-resources/blob/main/born2beroot_defense_checklist.md) - Old checklist for Debian and CentOS `GitHub`
 - [Debian](https://www.debian.org/)
 - [Rocky](https://rockylinux.org/)
 
 ##### [01] ft_printf
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/ft_printf.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/ft_printf.pdf) `PDF`
 - [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)
 
 ##### [01] get_next_line
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/get_next_line.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/get_next_line.pdf) `PDF`
 
 ##### [02] Minitalk
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/minitalk.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/minitalk.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minitalk_evaluation_page.png) `PNG`
 
 ##### [02] Pipex
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/pipex.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/pipex.pdf) `PDF`
 
 ##### Minilibx
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)
 - [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/7/show)
 
 ##### [03] so_long
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/so_long.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/so_long.pdf) `PDF`
 
 ##### [03] fract-ol
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/fract-ol.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fract-ol.pdf) `PDF`
 - [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`
 
 ##### [03] FdF
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/fdf.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fdf.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/fdf_evaluation_page.png) `PNG`
 - [Evaluation Files](https://github.com/jotavare/42-resources/tree/main/project_files/fdf) `fdf` `fdf_linux` `maps` `minilibx-linux` `minilibx_macos_sierra` `minilibx_mms` `sources`
 - [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)
@@ -174,7 +174,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm) `Wikipedia`
 
 ##### [03] push_swap
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/push_swap.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/push_swap.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/push_swap_evaluation_page.png) `PNG`
 - [Evaluation Files](https://github.com/jotavare/42-resources/tree/main/project_files/push_swap) `checker_mac` `checker_linux`
 - [Random Number Generator](https://numbergenerator.org/randomnumbergenerator/1-100?clientAction=540.click)
