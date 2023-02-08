@@ -184,6 +184,36 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ##### [04] minishell
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minishell_evaluation_page.png) `PNG`
 
+##### [04] Philosophers
+- [Waiting...]
+
+##### [05] cub3d
+- [Waiting...]
+
+##### [05] miniRT
+- [Waiting...]
+
+##### [05] NetPractice
+- [Waiting...]
+
+##### [05] CPP Module (00-08)
+- [Waiting...]
+
+##### [06] ft_containers
+- [Waiting...]
+
+##### [06] webserv
+- [Waiting...]
+
+##### [06] ft_irc
+- [Waiting...]
+
+##### [06] Inception
+- [Waiting...]
+
+##### [07] ft_transcendence
+- [Waiting...]
+
 #### TESTERS
 ###### _Test your code with already made testers._
 - [Francinette (xicodomingues)](https://github.com/xicodomingues/francinette) `Libft` `ft_printf` `get_next_line` `minitalk` `pipex`
