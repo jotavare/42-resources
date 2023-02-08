@@ -149,7 +149,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ##### [02] Minitalk
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/minitalk.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minitalk_evaluation_page.png) `PNG`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minitalk_evaluation_page.pdf) `PNG`
 
 ##### [02] Pipex
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/pipex.pdf) `PDF`
@@ -160,7 +160,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ##### [03] so_long
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/so_long.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/so_long_evaluation_page.png) `PNG`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/so_long_evaluation_page.pdf) `PNG`
 
 ##### [03] fract-ol
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fract%E2%80%99ol.pdf) `PDF`
@@ -168,7 +168,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ##### [03] FdF
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fdf.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/fdf_evaluation_page.png) `PNG`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/fdf_evaluation_page.pdf) `PNG`
 - [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fdf) `fdf` `fdf_linux` `maps` `minilibx-linux` `minilibx_macos_sierra` `minilibx_mms` `sources`
 - [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)
 - [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
@@ -176,32 +176,32 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ##### [03] push_swap
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/push_swap.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/push_swap_evaluation_page.png) `PNG`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/push_swap_evaluation_page.pdf) `PNG`
 - [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/push_swap) `checker_mac` `checker_linux`
 - [Random Number Generator](https://numbergenerator.org/randomnumbergenerator/1-100?clientAction=540.click)
 - [push_swap resources](https://push_swap.simple.ink) `Resources` `Data Structure` `Linked List` `Sort`
 
 ##### [04] minishell
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minishell_evaluation_page.png) `PNG`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minishell_evaluation_page.pdf) `PNG`
 
 ##### [04] Philosophers
 - [Waiting...]
 
 ##### [05] cub3d
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cub3d_evaluation_page.png) `PNG`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cub3d_evaluation_page.pdf) `PNG`
 
 ##### [05] miniRT
 - [Waiting...]
 
 ##### [05] NetPractice
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/netpractice_evaluation_page.png) `PNG`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/netpractice_evaluation_page.pdf) `PNG`
 
 ##### [05] CPP Module (00-08)
-- [Evaluation Page (00)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_00_evaluation_page.png) `PNG`
-- [Evaluation Page (01)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_01_evaluation_page.png) `PNG`
+- [Evaluation Page (00)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_00_evaluation_page.pdf) `PNG`
+- [Evaluation Page (01)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_01_evaluation_page.pdf) `PNG`
 
 ##### [06] ft_containers
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_containers_evaluation_page.png) `PNG`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_containers_evaluation_page.pdf) `PNG`
 
 ##### [06] webserv
 - [Waiting...]
