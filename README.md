@@ -136,7 +136,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ###### _Great websites to help you with 42 exams._
 - [GradeMe](https://grademe.fr) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions.
-- [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams)
+- [Piscine and Common Core Exams (pasqualerossi)](https://github.com/pasqualerossi/42-Exams)
+- [Piscine and Common Core Exams (48d31kh413k)](https://github.com/48d31kh413k/1337-exam_rank_02-42)
 
 #### SUBJECTS
 ###### _All current 42 subjects._
