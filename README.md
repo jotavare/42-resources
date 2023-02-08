@@ -120,6 +120,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Find Peers](https://find-peers.codam.nl) - Website meant to help students to find peers that are working on the same project.
 - [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr) and still in beta. You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul🇰🇷 and Vienna 🇦🇹.
 - [42 Evaluators](https://42evaluators.com) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
+- [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) - A bunch of neofetch configs in a single place.
 
 #### SUBJECTS
 ###### _All current 42 subjects._
@@ -135,8 +136,9 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ##### [01] Born2beroot
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/born2beroot.pdf) `PDF`
-- [Guide (pasqualerossi)](https://github.com/pasqualerossi/Born2BeRoot-Guide) `GitHub`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/born2beroot_evaluation_page.pdf) `PDF`
 - [Evaluation Checklist (AdrianMussoGonzalez)](https://github.com/jotavare/42-resources/blob/main/born2beroot_defense_checklist.md) - Old checklist for Debian and CentOS `GitHub`
+- [Guide (pasqualerossi)](https://github.com/pasqualerossi/Born2BeRoot-Guide) `GitHub`
 - [Debian](https://www.debian.org/)
 - [Rocky](https://rockylinux.org/)
 
