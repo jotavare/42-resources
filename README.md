@@ -154,7 +154,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ##### [02] Pipex
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/pipex.pdf) `PDF`
 
-##### Minilibx
+##### MinilibX
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)
 - [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/7/show)
 
