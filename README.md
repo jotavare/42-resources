@@ -163,7 +163,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/so_long_evaluation_page.png) `PNG`
 
 ##### [03] fract-ol
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fract-ol.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fract%E2%80%99ol.pdf) `PDF`
 - [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`
 
 ##### [03] FdF
