@@ -122,6 +122,16 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 Evaluators](https://42evaluators.com) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
 - [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) - A bunch of neofetch configs in a single place.
 
+#### PEER-TO-PEER
+###### _Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git._
+- [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) - `Youtube`
+- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE) - What to do before the evaluation? (as evaluated student) `Youtube`
+- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY) - What to do before the evaluation? (as evaluator) `Youtube`
+- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ) - What to do during the evaluation? `Youtube`
+- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug) - What to do after the evaluation? (as evaluated student) `Youtube`
+- [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF`
+- [Character Counter](https://wordcounter.net/character-count)
+
 #### SUBJECTS
 ###### _All current 42 subjects._
 - [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
@@ -301,16 +311,6 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Devhints](https://devhints.io) - Collection of various cheat sheets.
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
-#### PEER-TO-PEER
-###### _Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git._
-- [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) - `Youtube`
-- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE) - What to do before the evaluation? (as evaluated student) `Youtube`
-- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY) - What to do before the evaluation? (as evaluator) `Youtube`
-- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ) - What to do during the evaluation? `Youtube`
-- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug) - What to do after the evaluation? (as evaluated student) `Youtube`
-- [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF`
-- [Character Counter](https://wordcounter.net/character-count)
 
 - - - -
 
