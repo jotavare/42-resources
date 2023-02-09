@@ -426,7 +426,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### CYBERSECURITY & HACKING
 - [TryHackMe](https://tryhackme.com) - Learn cyber security, using hands-on exercises and labs.
 - [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills.
-- [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
+- [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challe- [Structure and Interpretation of Computer Programs](nges, CTFs, and more.
 
 #### ONLINE COURSES
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) `Free`
@@ -436,6 +436,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Programming Notes for Professionals](https://books.goalkicker.com)
 - [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface)
 - [Getting Things Done](https://www.google.com/search?client=firefox-b-d&q=getting+things+done)
+- [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)
 
 - - - -
 
