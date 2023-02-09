@@ -429,6 +429,13 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills.
 - [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challe- [Structure and Interpretation of Computer Programs](nges, CTFs, and more.
 
+#### HACKING GOOGLE
+- [EP000: Operation Aurora](https://www.youtube.com/watch?v=przDcQe6n5o)
+- [EP001: Threat Analysis Gr](up](https://www.youtube.com/watch?v=N7N4EC20-cM)
+- [EP002: Detection and Response](https://www.youtube.com/watch?v=QZ0cpBocl3c)
+- [EP003: Red Team](https://www.youtube.com/watch?v=TusQWn2TQxQ)
+- [EP004: Bug Hunters](https://www.youtube.com/watch?v=IoXiXlCNoXg)
+
 #### ONLINE COURSES
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) `Free`
 - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 Day Trial`
