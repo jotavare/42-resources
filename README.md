@@ -384,8 +384,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Wordnik](https://www.wordnik.com)
 
 #### APPS
-- [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Written in Java. `Android`
-- [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - Written in Swift. `iOS`
+- [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - `Java` `Android`
+- [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - `Swift` `iOS`
 
 #### BADGE
 - [Badge 42](https://github.com/JaeSeoKim/badge42) - Dynamically generated 42 badge for your git readmes.
