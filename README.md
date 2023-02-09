@@ -89,6 +89,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Clusters](https://meta.intra.42.fr/clusters) - Check who is online in your 42 school cluster.
 - [F.A.Q](https://meta.intra.42.fr/articles) - Frequently asked questions about your school.
 - [42 API](https://api.intra.42.fr/apidoc) - The API is RESTful, uses JSON over HTTPS and lets you authenticate users with OAuth 2.0. 
+- [Black Hole Deep Dive](https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2)
 
 #### SOCIAL
 ###### _Every 42 Network social media. For a specific 42 School social media, check the section **[CAMPUSES](#campuses)** and pick a school of your choice._
