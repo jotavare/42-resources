@@ -434,6 +434,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### BOOKS
 - [Programming Notes for Professionals](https://books.goalkicker.com)
 - [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface)
+- [Getting Things Done](https://www.google.com/search?client=firefox-b-d&q=getting+things+done)
 
 - - - -
 
