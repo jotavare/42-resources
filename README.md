@@ -157,6 +157,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/born2beroot.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/born2beroot_evaluation_page.pdf) `PDF`
 - [Evaluation Checklist (AdrianMussoGonzalez)](https://github.com/jotavare/42-resources/blob/main/born2beroot_defense_checklist.md) - Old checklist for Debian and CentOS `GitHub`
+- [Guide (lbordonal)](https://github.com/lbordonal/01-Born2beroot/wiki) `GitHub`
 - [Guide (pasqualerossi)](https://github.com/pasqualerossi/Born2BeRoot-Guide) `GitHub`
 - [Debian](https://www.debian.org/)
 - [Rocky](https://rockylinux.org/)
