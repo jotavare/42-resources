@@ -277,6 +277,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 #### AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
+- [BLACKBOX AI](https://www.useblackbox.io) - AI-Powered Coding Assistant.
 - [Futurepedia](https://www.futurepedia.io) - Largest AI tools directory.
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) - This wiki is an experiment in making algorithms interactive on the web.
 
@@ -309,6 +310,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Server World](https://www.server-world.info/en) - Website for people who like to build Network Servers with CentOS, Ubuntu, Fedora, Debian, Windows Server.
 
 #### OTHERS
+- [Cheatography](https://cheatography.com) - Over 5,000 free cheat sheets, revision aids and quick references.
 - [Cheat Sheets](https://cheat-sheets.org) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 - [Devhints](https://devhints.io) - Collection of various cheat sheets.
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
@@ -437,6 +439,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [EP004: Bug Hunters](https://www.youtube.com/watch?v=IoXiXlCNoXg)
 
 #### ONLINE COURSES
+- [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) `Free`
+- [100 Days of Code in Python](https://www.udemy.com/course/100-days-of-code) `Paid` `Use incognito mode for discount`
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) `Free`
 - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 Day Trial`
 
