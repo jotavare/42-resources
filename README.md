@@ -431,7 +431,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 #### HACKING GOOGLE
 - [EP000: Operation Aurora](https://www.youtube.com/watch?v=przDcQe6n5o)
-- [EP001: Threat Analysis Gr](up](https://www.youtube.com/watch?v=N7N4EC20-cM)
+- [EP001: Threat Analysis Group](https://www.youtube.com/watch?v=N7N4EC20-cM)
 - [EP002: Detection and Response](https://www.youtube.com/watch?v=QZ0cpBocl3c)
 - [EP003: Red Team](https://www.youtube.com/watch?v=TusQWn2TQxQ)
 - [EP004: Bug Hunters](https://www.youtube.com/watch?v=IoXiXlCNoXg)
