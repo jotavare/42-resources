@@ -427,7 +427,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### CYBERSECURITY & HACKING
 - [TryHackMe](https://tryhackme.com) - Learn cyber security, using hands-on exercises and labs.
 - [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills.
-- [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challe- [Structure and Interpretation of Computer Programs](nges, CTFs, and more.
+- [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
 
 #### HACKING GOOGLE
 - [EP000: Operation Aurora](https://www.youtube.com/watch?v=przDcQe6n5o)
