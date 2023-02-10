@@ -432,11 +432,11 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
 
 #### HACKING GOOGLE
-- [EP000: Operation Aurora](https://www.youtube.com/watch?v=przDcQe6n5o)
-- [EP001: Threat Analysis Group](https://www.youtube.com/watch?v=N7N4EC20-cM)
-- [EP002: Detection and Response](https://www.youtube.com/watch?v=QZ0cpBocl3c)
-- [EP003: Red Team](https://www.youtube.com/watch?v=TusQWn2TQxQ)
-- [EP004: Bug Hunters](https://www.youtube.com/watch?v=IoXiXlCNoXg)
+- [EP000: Operation Aurora](https://www.youtube.com/watch?v=przDcQe6n5o) `Youtube` `Documentary`
+- [EP001: Threat Analysis Group](https://www.youtube.com/watch?v=N7N4EC20-cM) `Youtube` `Documentary`
+- [EP002: Detection and Response](https://www.youtube.com/watch?v=QZ0cpBocl3c) `Youtube` `Documentary`
+- [EP003: Red Team](https://www.youtube.com/watch?v=TusQWn2TQxQ) `Youtube` `Documentary`
+- [EP004: Bug Hunters](https://www.youtube.com/watch?v=IoXiXlCNoXg) `Youtube` `Documentary`
 
 #### ONLINE COURSES
 - [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) `Free`
