@@ -121,7 +121,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Find Peers](https://find-peers.codam.nl) - Website meant to help students to find peers that are working on the same project.
 - [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr) and still in beta. You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul🇰🇷 and Vienna 🇦🇹.
 - [42 Evaluators](https://42evaluators.com) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
-- [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) - A bunch of neofetch configs in a single place.
+- [Scribe](https://scribehow.com) - Turn any process into a step-by-step guide, instantly.
 
 #### PEER-TO-PEER
 ###### _Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git._
@@ -279,6 +279,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [BLACKBOX AI](https://www.useblackbox.io) - AI-Powered Coding Assistant.
+- [Rytr](https://rytr.me) - AI writing assistant that helps you create high-quality content.
 - [Futurepedia](https://www.futurepedia.io) - Largest AI tools directory.
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) - This wiki is an experiment in making algorithms interactive on the web.
 
@@ -314,9 +315,9 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Cheatography](https://cheatography.com) - Over 5,000 free cheat sheets, revision aids and quick references.
 - [Cheat Sheets](https://cheat-sheets.org) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 - [Devhints](https://devhints.io) - Collection of various cheat sheets.
+- [OverAPI](https://overapi.com) - A website collecting all the cheatsheets.
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 
 - - - -
 
@@ -349,8 +350,10 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ###### _Extensions, apps, addons... a bit of everything to enchance your experience at 42._
 #### SCRIPTS
 - [Installette (Kuninoto)](https://github.com/Kuninoto/installette) - A Bash script to install Norminette, a Norminette Formatter, Vim and 42 Header for Vim.
-- [Oh My Zsh](https://ohmyz.sh) - Open source, community-driven framework for managing your Zsh configuration. [GitHub](https://github.com/ohmyzsh/ohmyzsh).
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Open source, community-driven framework for managing your Zsh configuration.
 - [PowerLevel10k](https://github.com/romkatv/powerlevel10k) - Theme that i personally use for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
+- [tldr-pages](https://github.com/tldr-pages/tldr) - collection of community-maintained help pages for command-line tools.
+- [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) - A bunch of neofetch configs in a single place.
 
 #### VSCODE
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)
@@ -447,9 +450,11 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 #### BOOKS
 - [Programming Notes for Professionals](https://books.goalkicker.com)
-- [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface)
+- [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface) `Wikipedia`
 - [Getting Things Done](https://www.google.com/search?client=firefox-b-d&q=getting+things+done)
-- [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)
+- [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) `Wikipedia`
+- [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) `Wikipedia`
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Available in a lot of languages. `GitHub`
 
 - - - -
 
@@ -575,6 +580,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Know Your Meme](https://knowyourmeme.com) - Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
 
 #### OTHERS
+- [Let Me Google That For You...](https://letmegooglethat.com)
+- [PlayPhrase.me](https://www.playphrase.me) - Lets you search for very specific phrases and soundbites that have been uttered on-screen.
 - [Fake Update](https://fakeupdate.net) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`
 - [Similarsites](https://www.similarsites.com) - Explore competitor and related sites.
 - [Time.is](https://time.is) - 7 million locations, 57 languages, synchronized with atomic clock time.
@@ -611,6 +618,10 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Every Noise at Once](https://everynoise.com) - Algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space.
 - [Animated Knots](https://www.animatedknots.com) - Learn how to tie knots of any kind.
 - [Docusaurus](https://docusaurus.io) - An optimized site generator in React. Helps you to move fast and write content.
+- [Kickresume](https://www.kickresume.com) - Assemble your resume from more than 20,000 pre-written phrases for more than 3,200 positions.
+- [Uneed](https://www.uneed.best) - Curated list of the best tools on the internet. 
+- [iLovePDF](https://www.ilovepdf.com) - Every tool you need to use PDFs, at your fingertips.
+- [FreezingCam](https://freezingcam.com) - Freeze your webcam at anytime during video calls. You can even play a video instead!
 
 - - - -
 
