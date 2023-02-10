@@ -274,7 +274,6 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ###### _Resources and cheat sheets for every ocasion._
 ##### FORTY-TWO
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) - A awesome cheatsheet for C and 42 in general.
-- [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators) - Discover how to use bitwise operators.
 
 #### AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
@@ -303,6 +302,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 #### C
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
+- [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators) - Discover how to use bitwise operators.
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
 
 #### PYTHON
