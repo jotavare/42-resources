@@ -17,12 +17,12 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 - **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,-common-core-&-specializations)**
   - **[TOOLS](#tools)**
+  - **[PEER-TO-PEER](#peer-to-peer)**
+  - **[EXAMS](#exams)**
   - **[SUBJECTS](#subjects)**
   - **[PROJECTS](#projects)**
   - **[TESTERS](#testers)**
-  - **[EXAMS](#exams)**
   - **[RESOURCES](#resources)**
-  - **[PEER-TO-PEER](#peer-to-peer)**
 
 - **[IDE, COMPILERS & DEBUGGERS](#ide,-compilers-&-debuggers)**
 
@@ -89,6 +89,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Clusters](https://meta.intra.42.fr/clusters) - Check who is online in your 42 school cluster.
 - [F.A.Q](https://meta.intra.42.fr/articles) - Frequently asked questions about your school.
 - [42 API](https://api.intra.42.fr/apidoc) - The API is RESTful, uses JSON over HTTPS and lets you authenticate users with OAuth 2.0. 
+- [Black Hole Deep Dive](https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2) - Interesting information about blackhole.
 
 #### SOCIAL
 ###### _Every 42 Network social media. For a specific 42 School social media, check the section **[CAMPUSES](#campuses)** and pick a school of your choice._
@@ -118,8 +119,27 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 Stupidity](https://github.com/mirror12k/42us-stupidity) - A tool for quickly test solutions for the piscine exercises.
 - [RP42](https://github.com/alexandregv/RP42) - Discord Rich Presence integration for 42 School.
 - [Find Peers](https://find-peers.codam.nl) - Website meant to help students to find peers that are working on the same project.
-- [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr) and still in beta. You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul🇰🇷 and Vienna 🇦🇹.
+- [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr) and still in beta. You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul 🇰🇷 and Vienna 🇦🇹.
 - [42 Evaluators](https://42evaluators.com) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
+- [Scribe](https://scribehow.com) - Turn any process into a step-by-step guide, instantly.
+
+#### PEER-TO-PEER
+###### _Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git._
+- [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) `Youtube`
+- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE) - What to do before the evaluation? (as evaluated student) `Youtube`
+- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY) - What to do before the evaluation? (as evaluator) `Youtube`
+- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ) - What to do during the evaluation? `Youtube`
+- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug) - What to do after the evaluation? (as evaluated student) `Youtube`
+- [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF`
+- [Character Counter](https://wordcounter.net/character-count) - Write 42 comments with more than 180 characters in corrections. `Achivement`
+
+#### EXAMS
+###### _Great websites to help you with 42 exams._
+- [GradeMe](https://grademe.fr) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
+- [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions.
+- [Piscine and Common Core Exams (pasqualerossi)](https://github.com/pasqualerossi/42-Exams) - Questions and solutions.
+- [Piscine and Common Core Exams (48d31kh413k)](https://github.com/48d31kh413k/1337-exam_rank_02-42) - Questions and solutions.
+- [Common Core Exams (anario)](http://www.anit.az/?author=1) - Questions and solutions with mains.
 
 #### SUBJECTS
 ###### _All current 42 subjects._
@@ -130,58 +150,105 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 #### PROJECTS
 ###### _Specific project information and resources._
 ##### [00] Libft
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/libft.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/libft.pdf) `PDF`
+- [Waiting... Evaluation Page]
 - [Libft Functions](https://www.asidesigned.com/project-libft.html)
 
 ##### [01] Born2beroot
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/born2beroot.pdf) `PDF`
-- [Guide (pasqualerossi)](https://github.com/pasqualerossi/Born2BeRoot-Guide) `GitHub`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/born2beroot.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/born2beroot_evaluation_page.pdf) `PDF`
 - [Evaluation Checklist (AdrianMussoGonzalez)](https://github.com/jotavare/42-resources/blob/main/born2beroot_defense_checklist.md) - Old checklist for Debian and CentOS `GitHub`
+- [Guide (lbordonal)](https://github.com/lbordonal/01-Born2beroot/wiki) `Debian` `GitHub`
+- [Guide (pasqualerossi)](https://github.com/pasqualerossi/Born2BeRoot-Guide) `Debian` `GitHub`
 - [Debian](https://www.debian.org/)
 - [Rocky](https://rockylinux.org/)
 
 ##### [01] ft_printf
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/ft_printf.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/ft_printf.pdf) `PDF`
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_printf_evaluation_page.pdf) `PDF`
 - [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)
 
 ##### [01] get_next_line
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/get_next_line.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/get_next_line.pdf) `PDF`
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/get_next_line_evaluation_page.pdf) `PDF`
 
 ##### [02] Minitalk
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/minitalk.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/minishell_evaluation_page.png) `PNG`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/minitalk.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minitalk_evaluation_page.pdf) `PDF`
 
 ##### [02] Pipex
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/pipex.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/pipex.pdf) `PDF`
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/pipex_evaluation_page.pdf) `PDF`
 
-##### Minilibx
+##### MinilibX
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)
 - [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/7/show)
 
 ##### [03] so_long
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/so_long.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/so_long.pdf) `PDF`
+- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/so_long) `minilibx_mms_20200219_beta` `minilibx_mms_beta` `minilibx_opengl`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/so_long_evaluation_page.pdf) `PDF`
 
 ##### [03] fract-ol
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/fract-ol.pdf) `PDF`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fract%E2%80%99ol.pdf) `PDF`
+- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fract-ol) `minilibx-linux` `minilibx_mms_beta` `minilibx_opengl` `minilibx_mms_beta` `minilibx_opengl`
 - [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`
 
 ##### [03] FdF
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/fdf.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/fdf_evaluation_page.png) `PNG`
-- [Evaluation Files](https://github.com/jotavare/42-resources/tree/main/project_files/fdf) `fdf` `fdf_linux` `maps` `minilibx-linux` `minilibx_macos_sierra` `minilibx_mms` `sources`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fdf.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/fdf_evaluation_page.pdf) `PDF`
+- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fdf) `fdf` `fdf_linux` `maps` `minilibx-linux` `minilibx_macos_sierra` `minilibx_mms` `sources`
 - [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)
-- [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
+- [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) `Wikipedia`
 - [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm) `Wikipedia`
 
 ##### [03] push_swap
-- [Subject](https://github.com/jotavare/42-resources/blob/main/subjects/push_swap.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/push_swap_evaluation_page.png) `PNG`
-- [Evaluation Files](https://github.com/jotavare/42-resources/tree/main/project_files/push_swap) `checker_mac` `checker_linux`
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/push_swap.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/push_swap_evaluation_page.pdf) `PDF`
+- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/push_swap) `checker_mac` `checker_linux`
 - [Random Number Generator](https://numbergenerator.org/randomnumbergenerator/1-100?clientAction=540.click)
 - [push_swap resources](https://push_swap.simple.ink) `Resources` `Data Structure` `Linked List` `Sort`
 
 ##### [04] minishell
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/evaluations/minishell_evaluation_page.png) `PNG`
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minishell_evaluation_page.pdf) `PDF`
+
+##### [04] Philosophers
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/philosophers_evaluation_page.pdf) `PDF`
+
+##### [05] cub3d
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cub3d_evaluation_page.pdf) `PDF`
+
+##### [05] miniRT
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/miniRT_evaluation_page.pdf) `PDF`
+
+##### [05] NetPractice
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/netpractice_evaluation_page.pdf) `PDF`
+
+##### [05] CPP Module (00-08)
+- [Evaluation Page (00)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_00_evaluation_page.pdf) `PDF`
+- [Evaluation Page (01)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_01_evaluation_page.pdf) `PDF`
+- [Evaluation Page (02) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_02_evaluation_page.pdf) `PDF`
+- [Evaluation Page (03) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_03_evaluation_page.pdf) `PDF`
+- [Evaluation Page (04) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_04_evaluation_page.pdf) `PDF`
+- [Evaluation Page (05) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_05_evaluation_page.pdf) `PDF`
+- [Evaluation Page (06) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_06_evaluation_page.pdf) `PDF`
+- [Evaluation Page (07) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_07_evaluation_page.pdf) `PDF`
+- [Evaluation Page (08) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_08_evaluation_page.pdf) `PDF`
+
+##### [06] ft_containers
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_containers_evaluation_page.pdf) `PDF`
+
+##### [06] webserv
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/webserv_evaluation_page.pdf) `PDF`
+
+##### [06] ft_irc
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_irc_evaluation_page.pdf) `PDF`
+
+##### [06] Inception
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/inception_evaluation_page.pdf) `PDF`
+
+##### [07] ft_transcendence
+- [Evaluation Page (42pde-bakk)](https://github.com/42pde-bakk/ft_transcendence) - README.md file with the project guidelines. `GitHub` 
 
 #### TESTERS
 ###### _Test your code with already made testers._
@@ -196,12 +263,6 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Push Swap Leak Tester (IDC87)](https://github.com/IDC87/push_swap_leak_tester)
 - [Push Swap Tester (gemartin99)](https://github.com/gemartin99/Push-Swap-Tester)
 
-#### EXAMS
-###### _Great websites to help you with 42 exams._
-- [GradeMe](https://grademe.fr) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
-- [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions.
-- [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams)
-
 #### CTF
 ###### _Websites and information about capture the flag._
 - [Capture The Flag 101](https://ctf101.org) - What is CTFs?
@@ -214,10 +275,11 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ###### _Resources and cheat sheets for every ocasion._
 ##### FORTY-TWO
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) - A awesome cheatsheet for C and 42 in general.
-- [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators) - Discover how to use bitwise operators.
 
 #### AI
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
+- [BLACKBOX AI](https://www.useblackbox.io) - AI-Powered Coding Assistant.
+- [Rytr](https://rytr.me) - AI writing assistant that helps you create high-quality content.
 - [Futurepedia](https://www.futurepedia.io) - Largest AI tools directory.
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) - This wiki is an experiment in making algorithms interactive on the web.
 
@@ -241,6 +303,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 #### C
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
+- [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators) - Discover how to use bitwise operators.
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
 
 #### PYTHON
@@ -250,20 +313,12 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Server World](https://www.server-world.info/en) - Website for people who like to build Network Servers with CentOS, Ubuntu, Fedora, Debian, Windows Server.
 
 #### OTHERS
+- [Cheatography](https://cheatography.com) - Over 5,000 free cheat sheets, revision aids and quick references.
 - [Cheat Sheets](https://cheat-sheets.org) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 - [Devhints](https://devhints.io) - Collection of various cheat sheets.
+- [OverAPI](https://overapi.com) - A website collecting all the cheatsheets.
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
-#### PEER-TO-PEER
-###### _Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git._
-- [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) - `Youtube`
-- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE) - What to do before the evaluation? (as evaluated student) `Youtube`
-- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY) - What to do before the evaluation? (as evaluator) `Youtube`
-- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ) - What to do during the evaluation? `Youtube`
-- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug) - What to do after the evaluation? (as evaluated student) `Youtube`
-- [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF`
-- [Character Counter](https://wordcounter.net/character-count)
 
 - - - -
 
@@ -296,8 +351,10 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 ###### _Extensions, apps, addons... a bit of everything to enchance your experience at 42._
 #### SCRIPTS
 - [Installette (Kuninoto)](https://github.com/Kuninoto/installette) - A Bash script to install Norminette, a Norminette Formatter, Vim and 42 Header for Vim.
-- [Oh My Zsh](https://ohmyz.sh) - Open source, community-driven framework for managing your Zsh configuration. [GitHub](https://github.com/ohmyzsh/ohmyzsh).
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Open source, community-driven framework for managing your Zsh configuration.
 - [PowerLevel10k](https://github.com/romkatv/powerlevel10k) - Theme that i personally use for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
+- [tldr-pages](https://github.com/tldr-pages/tldr) - collection of community-maintained help pages for command-line tools.
+- [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) - A bunch of neofetch configs in a single place.
 
 #### VSCODE
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)
@@ -334,8 +391,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Wordnik](https://www.wordnik.com)
 
 #### APPS
-- [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - Written in Java. `Android`
-- [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - Written in Swift. `iOS`
+- [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - `Java` `Android`
+- [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - `Swift` `iOS`
 
 #### BADGE
 - [Badge 42](https://github.com/JaeSeoKim/badge42) - Dynamically generated 42 badge for your git readmes.
@@ -379,13 +436,26 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills.
 - [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
 
+#### HACKING GOOGLE
+- [EP000: Operation Aurora](https://www.youtube.com/watch?v=przDcQe6n5o) `Youtube` `Documentary`
+- [EP001: Threat Analysis Group](https://www.youtube.com/watch?v=N7N4EC20-cM) `Youtube` `Documentary`
+- [EP002: Detection and Response](https://www.youtube.com/watch?v=QZ0cpBocl3c) `Youtube` `Documentary`
+- [EP003: Red Team](https://www.youtube.com/watch?v=TusQWn2TQxQ) `Youtube` `Documentary`
+- [EP004: Bug Hunters](https://www.youtube.com/watch?v=IoXiXlCNoXg) `Youtube` `Documentary`
+
 #### ONLINE COURSES
+- [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) `Free`
+- [100 Days of Code in Python](https://www.udemy.com/course/100-days-of-code) `Paid` `Use incognito mode for discount`
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) `Free`
 - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 Day Trial`
 
 #### BOOKS
 - [Programming Notes for Professionals](https://books.goalkicker.com)
-- [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface)
+- [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface) `Wikipedia`
+- [Getting Things Done](https://www.google.com/search?client=firefox-b-d&q=getting+things+done)
+- [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) `Wikipedia`
+- [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) `Wikipedia`
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Available in a lot of languages. `GitHub`
 
 - - - -
 
@@ -511,6 +581,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Know Your Meme](https://knowyourmeme.com) - Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
 
 #### OTHERS
+- [Let Me Google That For You...](https://letmegooglethat.com)
+- [PlayPhrase.me](https://www.playphrase.me) - Lets you search for very specific phrases and soundbites that have been uttered on-screen.
 - [Fake Update](https://fakeupdate.net) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`
 - [Similarsites](https://www.similarsites.com) - Explore competitor and related sites.
 - [Time.is](https://time.is) - 7 million locations, 57 languages, synchronized with atomic clock time.
@@ -547,6 +619,10 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Every Noise at Once](https://everynoise.com) - Algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space.
 - [Animated Knots](https://www.animatedknots.com) - Learn how to tie knots of any kind.
 - [Docusaurus](https://docusaurus.io) - An optimized site generator in React. Helps you to move fast and write content.
+- [Kickresume](https://www.kickresume.com) - Assemble your resume from more than 20,000 pre-written phrases for more than 3,200 positions.
+- [Uneed](https://www.uneed.best) - Curated list of the best tools on the internet. 
+- [iLovePDF](https://www.ilovepdf.com) - Every tool you need to use PDFs, at your fingertips.
+- [FreezingCam](https://freezingcam.com) - Freeze your webcam at anytime during video calls. You can even play a video instead!
 
 - - - -
 
