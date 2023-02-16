@@ -248,7 +248,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/inception_evaluation_page.pdf) `PDF`
 
 ##### [07] ft_transcendence
-- [Waiting... Evaluation Page]
+- [Evaluation Page (42pde-bakk)](https://github.com/42pde-bakk/ft_transcendence) README.md file with the project guidelines. `GitHub` 
 
 #### TESTERS
 ###### _Test your code with already made testers._
