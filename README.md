@@ -210,7 +210,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Random Number Generator](https://numbergenerator.org/randomnumbergenerator/1-100?clientAction=540.click)
 - [push_swap Resources](https://push_swap.simple.ink) `Resources` `Data Structure` `Linked List` `Sort`
 - [Merge Sort](https://www.geeksforgeeks.org/merge-sort)
-- [Radix Sort]https://www.geeksforgeeks.org/radix-sort)
+- [Radix Sort](https://www.geeksforgeeks.org/radix-sort)
 
 ##### [04] minishell
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minishell_evaluation_page.pdf) `PDF`
