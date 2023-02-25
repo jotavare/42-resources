@@ -182,7 +182,8 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 ##### MinilibX
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)
-- [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/7/show)
+- [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial)
+- [MiniLibX Tutorial (Animations)](https://pulgamecanica.herokuapp.com/posts/mlx-animations)
 
 ##### [03] so_long
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/so_long.pdf) `PDF`
