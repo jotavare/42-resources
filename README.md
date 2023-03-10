@@ -211,6 +211,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [push_swap Resources](https://push_swap.simple.ink) `Resources` `Data Structure` `Linked List` `Sort`
 - [Merge Sort](https://www.geeksforgeeks.org/merge-sort)
 - [Radix Sort](https://www.geeksforgeeks.org/radix-sort)
+- [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer) `Visualizer`
 
 ##### [04] minishell
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minishell_evaluation_page.pdf) `PDF`
