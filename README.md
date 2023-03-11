@@ -7,14 +7,12 @@
 	<img src="https://img.shields.io/badge/score-42%20%2F%2042-success?color=%2312bab9&style=flat-square" />
 	<img src="https://img.shields.io/github/last-commit/jotavare/42-resources?color=%2312bab9&style=flat-square" />
 </p>
-
 <p align="center">
 	<a href="#42-school">42 School</a> •
 	<a href="#piscine-common-core-and-specializations">Piscine Common Core and Specializations</a> •
 	<a href="#resources">Resources</a> •
 	<a href="#ide1-compilers2-and-debuggers3">Ide, Compilers & Debuggers</a> •
-	<a href="#extensions">Extensions</a>
-<p align="center">
+	<a href="#extensions">Extensions</a><br/>
 	<a href="#moocs-and-books">Moocs and Books</a> •
 	<a href="#other-tools">Other Tools</a> •
 	<a href="#wikimedia-foundation">Wikimedia Foundation</a> •
