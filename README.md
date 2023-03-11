@@ -10,11 +10,12 @@
 
 <p align="center">
 	<a href="#42-school">42 School</a> •
-	<a href="#piscine,-common-core-&-specializations">Piscine, Common Core & Specializations</a>
+	<a href="#piscine-common-core--specializations">Piscine Common Core and Specializations</a> •
 	<a href="#resources">Resources</a> •
-	<a href="#ide,-compilers-&-debuggers">Ide, Compilers & Debuggers</a> •
-	<a href="#extensions">Extensions</a> •
-	<a href="#moocs-&-books">Moocs & Books</a> •
+	<a href="#ide,-compilers-and-debuggers">Ide, Compilers & Debuggers</a> •
+	<a href="#extensions">Extensions</a>
+<p align="center">
+	<a href="#moocs-and-books">Moocs and Books</a> •
 	<a href="#other-tools">Other Tools</a> •
 	<a href="#wikimedia-foundation">Wikimedia Foundation</a> •
 	<a href="#miscellaneous">Miscellaneous</a> •
@@ -134,7 +135,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 - - - -
 
-## PISCINE, COMMON CORE & SPECIALIZATIONS
+## PISCINE, COMMON CORE AND SPECIALIZATIONS
 #### TOOLS
 ###### _Some usefull tools i used in my 42 journey._
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
@@ -349,7 +350,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 - - - -
 
-## IDE[^1], COMPILERS[^2] & DEBUGGERS[^3]
+## IDE[^1], COMPILERS[^2] AND DEBUGGERS[^3]
 
 - [GDB Online Debugger](https://www.onlinegdb.com) - Online compiler and debugger for a lot of programming languages.
 - [Python Tutor](https://pythontutor.com) - Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.
@@ -431,7 +432,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 - - - -
 
-## MOOCS & BOOKS
+## MOOCS AND BOOKS
 #### PLATAFORMS
 - [Wikipedia](https://www.wikipedia.org) - Did he really just post the Wikipedia link?!
 - [Udemy](https://www.udemy.com) `free` `paid`
