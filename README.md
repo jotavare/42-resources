@@ -12,7 +12,7 @@
 	<a href="#42-school">42 School</a> •
 	<a href="#piscine-common-core--specializations">Piscine Common Core and Specializations</a> •
 	<a href="#resources">Resources</a> •
-	<a href="#ide,-compilers-and-debuggers">Ide, Compilers & Debuggers</a> •
+	<a href="#ide1-compilers2-and-debuggers3">Ide, Compilers & Debuggers</a> •
 	<a href="#extensions">Extensions</a>
 <p align="center">
 	<a href="#moocs-and-books">Moocs and Books</a> •
