@@ -17,7 +17,6 @@
 	<a href="#other-tools">Other Tools</a> •
 	<a href="#wikimedia-foundation">Wikimedia Foundation</a> •
 	<a href="#miscellaneous">Miscellaneous</a> •
-	<a href="#&nbsp;">TESTE</a> •
 	<a href="#42-campuses">42 Campuses</a>
 </p>
 
@@ -74,7 +73,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [[FR] APT42](https://apt42.fr) - Security.
 
 - - - -
-## &nbsp
+
 ## PISCINE, COMMON CORE AND SPECIALIZATIONS
 #### TOOLS
 ###### _Some usefull tools i used in my 42 journey._
