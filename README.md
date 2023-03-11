@@ -28,8 +28,6 @@ Here, you will find a collection of resources that I have found helpful during m
 If you are a fellow 42 student and have a useful link or a correction to suggest, please don't hesitate to contact me.<br/>
 I highly value any contributions and will evaluate them for possible inclusion in the repository.
 
-- - - -
-
 ## 42 SCHOOL
 #### TRIVIA
 ###### _Some fun and interesting facts about 42._
