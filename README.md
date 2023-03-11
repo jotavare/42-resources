@@ -17,7 +17,7 @@
 	<a href="#other-tools">Other Tools</a> •
 	<a href="#wikimedia-foundation">Wikimedia Foundation</a> •
 	<a href="#miscellaneous">Miscellaneous</a> •
-	<a href="#">TESTE</a> •
+	<a href="#&nbsp;">TESTE</a> •
 	<a href="#42-campuses">42 Campuses</a>
 </p>
 
