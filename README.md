@@ -20,7 +20,7 @@
 	<a href="#42-campuses">42 Campuses</a>
 </p>
 
-- - - -
+## WELCOME
 
 Thank you for visiting my repository!<br/>
 Here, you will find a collection of resources that I have found helpful during my time at 42 School, as well as some that were not as useful.<br/>
