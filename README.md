@@ -3,21 +3,22 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square" />
-	<img src="https://img.shields.io/badge/evaluated-22%20%2F%2012%20%2F%202022-success?color=%2312bab9&style=flat-square" />
-	<img src="https://img.shields.io/badge/score-125%20%2F%20100-success?color=%2312bab9&style=flat-square" />
-	<img src="https://img.shields.io/github/languages/top/jotavare/libft?color=%2312bab9&style=flat-square" />
-	<img src="https://img.shields.io/github/last-commit/jotavare/libft?color=%2312bab9&style=flat-square" />
+	<img src="https://img.shields.io/badge/status-ongoing-success?color=%2312bab9&style=flat-square" />
+	<img src="https://img.shields.io/badge/score-42%20%2F%2042-success?color=%2312bab9&style=flat-square" />
+	<img src="https://img.shields.io/github/last-commit/jotavare/42-resources?color=%2312bab9&style=flat-square" />
 </p>
 
 <p align="center">
-	<a href="#about">About</a> •
-	<a href="#how-to-use">How to use</a> •
-	<a href="#mandatory">Mandatory</a> •
-	<a href="#bonus">Bonus</a> •
-	<a href="#disclaimer">Disclaimer</a> •
-	<a href="#testers">Testers</a> •
-	<a href="#license">License</a>
+	<a href="#42-school">42 School</a> •
+	<a href="#piscine,-common-core-&-specializations">Piscine, Common Core & Specializations</a>
+	<a href="#resources">Resources</a> •
+	<a href="#ide,-compilers-&-debuggers">Ide, Compilers & Debuggers</a> •
+	<a href="#extensions">Extensions</a> •
+	<a href="#moocs-&-books">Moocs & Books</a> •
+	<a href="#other-tools">Other Tools</a> •
+	<a href="#wikimedia-foundation">Wikimedia Foundation</a> •
+	<a href="#miscellaneous">Miscellaneous</a> •
+	<a href="#42-campuses">42 Campuses</a>
 </p>
 
 ## 🛠️ 42 RESOURCES
