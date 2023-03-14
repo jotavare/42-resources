@@ -112,6 +112,95 @@ I highly value any contributions and will evaluate them for possible inclusion i
 
 #### PROJECTS
 ###### _Specific project information and resources._
+
+<p float="left" align="left">
+  <a href="#00-libft">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png" alt="libft" width="130"/>
+  </a>
+  &nbsp;
+  <a href="#01-born2beroot">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png" alt="born2beroot" width="130"/>
+  </a>
+  &nbsp;
+  <a href="#01-ft_printf">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png" alt="ft_printf" width="130"/>
+  </a>
+  </a>
+  &nbsp;
+  <a href="#01-get_next_line">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png" alt="get_next_line" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#02-minitalk">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalke.png" alt="minitalk" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#02-pipex">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png" alt="pipex" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#03-so_long">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longe.png" alt="so_long" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#03-fract-ol">
+    <img src=
+    "https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png" alt="fract-ol" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#03-fdf">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/fdfe.png" alt="fdf" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#03-push_swap">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png" alt="push_swap" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#04-minishell">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png" alt="minishell" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#04-philosophers">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png" alt="philosophers" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#05-cub3d">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png" alt="cub3d" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#05-minirt">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minirte.png" alt="minirt" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#05-netpractice">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png" alt="netpractice" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#05-cpp">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png" alt="cpp" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#06-ft_containers">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_containerse.png" alt="ft_containers" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#06-webserv">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/webserve.png" alt="webserv" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#06-ft_irc">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png" alt="ft_irc" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#06-inception">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png" alt="inception" width="130"/>
+  </a>
+   &nbsp;
+  <a href="#07-ft_transcendence">
+    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png" alt="ft_transcendence" width="130"/>
+  </a>
+</p>
+
 ##### [00] Libft
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/libft.pdf) `PDF`
 - [Waiting... Evaluation Page]
