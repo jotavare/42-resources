@@ -75,41 +75,6 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - - - -
 
 ## PISCINE, COMMON CORE AND SPECIALIZATIONS
-#### TOOLS
-###### _Some usefull tools i used in my 42 journey._
-- [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
-- [42 XP Calculator](https://42.tbailleu.dev) - Calculate how much exp you need for the next level.
-- [42 Stupidity](https://github.com/mirror12k/42us-stupidity) - A tool for quickly test solutions for the piscine exercises.
-- [RP42](https://github.com/alexandregv/RP42) - Discord Rich Presence integration for 42 School.
-- [Find Peers](https://find-peers.codam.nl) - Website meant to help students to find peers that are working on the same project.
-- [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr) and still in beta. You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul 🇰🇷 and Vienna 🇦🇹.
-- [42 Evaluators](https://42evaluators.com) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
-- [Scribe](https://scribehow.com) - Turn any process into a step-by-step guide, instantly.
-
-#### PEER-TO-PEER
-###### _Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git._
-- [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) `Youtube`
-- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE) - What to do before the evaluation? (as evaluated student) `Youtube`
-- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY) - What to do before the evaluation? (as evaluator) `Youtube`
-- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ) - What to do during the evaluation? `Youtube`
-- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug) - What to do after the evaluation? (as evaluated student) `Youtube`
-- [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF`
-- [Character Counter](https://wordcounter.net/character-count) - Write 42 comments with more than 180 characters in corrections. `Achivement`
-
-#### EXAMS
-###### _Great websites to help you with 42 exams._
-- [GradeMe](https://grademe.fr) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
-- [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions.
-- [Piscine and Common Core Exams (pasqualerossi)](https://github.com/pasqualerossi/42-Exams) - Questions and solutions.
-- [Piscine and Common Core Exams (48d31kh413k)](https://github.com/48d31kh413k/1337-exam_rank_02-42) - Questions and solutions.
-- [Common Core Exams (anario)](http://www.anit.az/?author=1) - Questions and solutions with mains.
-
-#### SUBJECTS
-###### _All current 42 subjects._
-- [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
-- [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers)
-- [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects)
-
 #### PROJECTS
 ###### _Specific project information and resources._
 ##### [00] Libft
@@ -217,6 +182,21 @@ I highly value any contributions and will evaluate them for possible inclusion i
 ##### [07] ft_transcendence
 - [Evaluation Page (42pde-bakk)](https://github.com/42pde-bakk/ft_transcendence) - README.md file with the project guidelines. `GitHub` 
 
+
+#### SUBJECTS
+###### _All current 42 subjects._
+- [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
+- [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers)
+- [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects)
+
+#### EXAMS
+###### _Great websites to help you with 42 exams._
+- [GradeMe](https://grademe.fr) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
+- [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions.
+- [Piscine and Common Core Exams (pasqualerossi)](https://github.com/pasqualerossi/42-Exams) - Questions and solutions.
+- [Piscine and Common Core Exams (48d31kh413k)](https://github.com/48d31kh413k/1337-exam_rank_02-42) - Questions and solutions.
+- [Common Core Exams (anario)](http://www.anit.az/?author=1) - Questions and solutions with mains.
+
 #### TESTERS
 ###### _Test your code with already made testers._
 - [Francinette (xicodomingues)](https://github.com/xicodomingues/francinette) `Libft` `ft_printf` `get_next_line` `minitalk` `pipex`
@@ -229,6 +209,27 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator)
 - [Push Swap Leak Tester (IDC87)](https://github.com/IDC87/push_swap_leak_tester)
 - [Push Swap Tester (gemartin99)](https://github.com/gemartin99/Push-Swap-Tester)
+
+#### TOOLS
+###### _Some usefull tools i used in my 42 journey._
+- [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
+- [42 XP Calculator](https://42.tbailleu.dev) - Calculate how much exp you need for the next level.
+- [42 Stupidity](https://github.com/mirror12k/42us-stupidity) - A tool for quickly test solutions for the piscine exercises.
+- [RP42](https://github.com/alexandregv/RP42) - Discord Rich Presence integration for 42 School.
+- [Find Peers](https://find-peers.codam.nl) - Website meant to help students to find peers that are working on the same project.
+- [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr) and still in beta. You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul 🇰🇷 and Vienna 🇦🇹.
+- [42 Evaluators](https://42evaluators.com) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
+- [Scribe](https://scribehow.com) - Turn any process into a step-by-step guide, instantly.
+
+#### PEER-TO-PEER
+###### _Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git._
+- [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) `Youtube`
+- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE) - What to do before the evaluation? (as evaluated student) `Youtube`
+- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY) - What to do before the evaluation? (as evaluator) `Youtube`
+- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ) - What to do during the evaluation? `Youtube`
+- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug) - What to do after the evaluation? (as evaluated student) `Youtube`
+- [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF`
+- [Character Counter](https://wordcounter.net/character-count) - Write 42 comments with more than 180 characters in corrections. `Achivement`
 
 #### CTF
 ###### _Websites and information about capture the flag._
