@@ -112,188 +112,132 @@ I highly value any contributions and will evaluate them for possible inclusion i
 
 #### PROJECTS
 ###### _Specific project information and resources._
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png" alt="libft" width="130"/>|
+| ----------- |
+|- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/libft.pdf) `PDF`|
+|- [Waiting... Evaluation Page]|
+|- [Libft Functions](https://www.asidesigned.com/project-libft.html)|
 
-<p float="left" align="left">
-  <a href="#00-libft">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png" alt="libft" width="130"/>
-  </a>
-  <a href="#01-born2beroot">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png" alt="born2beroot" width="130"/>
-  </a>
-  <a href="#01-ft_printf">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png" alt="ft_printf" width="130"/>
-  </a>
-  <a href="#01-get_next_line">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png" alt="get_next_line" width="130"/>
-  </a>
-</p>
-<p float="left" align="left">
-  <a href="#02-minitalk">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalke.png" alt="minitalk" width="130"/>
-  </a>
-  <a href="#02-pipex">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png" alt="pipex" width="130"/>
-  </a>
-  <a href="#03-so_long">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longe.png" alt="so_long" width="130"/>
-  </a>
-  <a href="#03-fract-ol">
-    <img src=
-    "https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png" alt="fract-ol" width="130"/>
-  </a>
-</p>
-<p float="left" align="left">
-  <a href="#03-fdf">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/fdfe.png" alt="fdf" width="130"/>
-  </a>
-  <a href="#03-push_swap">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png" alt="push_swap" width="130"/>
-  </a>
-  <a href="#04-minishell">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png" alt="minishell" width="130"/>
-  </a>
-  <a href="#04-philosophers">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png" alt="philosophers" width="130"/>
-  </a>
-</p>
-<p float="left" align="left">
-  <a href="#05-cub3d">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png" alt="cub3d" width="130"/>
-  </a>
-  <a href="#05-minirt">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minirte.png" alt="minirt" width="130"/>
-  </a>
-  <a href="#05-netpractice">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png" alt="netpractice" width="130"/>
-  </a>
-  <a href="#05-cpp">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png" alt="cpp" width="130"/>
-  </a>
-</p>
-<p float="left" align="left">
-  <a href="#06-ft_containers">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_containerse.png" alt="ft_containers" width="130"/>
-  </a>
-  <a href="#06-webserv">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/webserve.png" alt="webserv" width="130"/>
-  </a>
-  <a href="#06-ft_irc">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png" alt="ft_irc" width="130"/>
-  </a>
-  <a href="#06-inception">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png" alt="inception" width="130"/>
-  </a>
-</p>
-<p float="left" align="left">
-  <a href="#07-ft_transcendence">
-    <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png" alt="ft_transcendence" width="130"/>
-  </a>
-</p>
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png" alt="born2beroot" width="130"/>|
+| ----------- |
+|- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/born2beroot.pdf) `PDF`|
+|- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/born2beroot_evaluation_page.pdf) `PDF`|
+|- [Evaluation Checklist (AdrianMussoGonzalez)](https://github.com/jotavare/42-resources/blob/main/born2beroot_defense_checklist.md) - Old checklist for Debian and CentOS `GitHub`|
+|- [Guide (lbordonal)](https://github.com/lbordonal/01-Born2beroot/wiki) `Debian` `GitHub`|
+|- [Guide (pasqualerossi)](https://github.com/pasqualerossi/Born2BeRoot-Guide) `Debian` `GitHub`|
+|- [Debian](https://www.debian.org/)|
+|- [Rocky](https://rockylinux.org/)|
 
-##### [00] Libft
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/libft.pdf) `PDF`
-- [Waiting... Evaluation Page]
-- [Libft Functions](https://www.asidesigned.com/project-libft.html)
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png" alt="ft_printf" width="130"/>|
+| ----------- |
+|- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/ft_printf.pdf) `PDF`|
+|- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_printf_evaluation_page.pdf) `PDF`|
+|- [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)|
 
-##### [01] Born2beroot
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/born2beroot.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/born2beroot_evaluation_page.pdf) `PDF`
-- [Evaluation Checklist (AdrianMussoGonzalez)](https://github.com/jotavare/42-resources/blob/main/born2beroot_defense_checklist.md) - Old checklist for Debian and CentOS `GitHub`
-- [Guide (lbordonal)](https://github.com/lbordonal/01-Born2beroot/wiki) `Debian` `GitHub`
-- [Guide (pasqualerossi)](https://github.com/pasqualerossi/Born2BeRoot-Guide) `Debian` `GitHub`
-- [Debian](https://www.debian.org/)
-- [Rocky](https://rockylinux.org/)
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png" alt="get_next_line" width="130"/>|
+| ----------- |
+|- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/get_next_line.pdf) `PDF`|
+|- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/get_next_line_evaluation_page.pdf) `PDF`|
 
-##### [01] ft_printf
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/ft_printf.pdf) `PDF`
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_printf_evaluation_page.pdf) `PDF`
-- [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalke.png" alt="minitalk" width="130"/>|
+| ----------- |
+|- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/minitalk.pdf) `PDF`|
+|- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minitalk_evaluation_page.pdf) `PDF`|
 
-##### [01] get_next_line
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/get_next_line.pdf) `PDF`
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/get_next_line_evaluation_page.pdf) `PDF`
-
-##### [02] Minitalk
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/minitalk.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minitalk_evaluation_page.pdf) `PDF`
-
-##### [02] Pipex
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/pipex.pdf) `PDF`
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/pipex_evaluation_page.pdf) `PDF`
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png" alt="pipex" width="130"/>|
+| ----------- |
+|- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/pipex.pdf) `PDF`|
+|- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/pipex_evaluation_page.pdf) `PDF`|
 
 ##### MinilibX
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)
 - [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial)
 - [MiniLibX Tutorial (Animations)](https://pulgamecanica.herokuapp.com/posts/mlx-animations)
 
-##### [03] so_long
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/so_long.pdf) `PDF`
-- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/so_long) `minilibx_mms_20200219_beta` `minilibx_mms_beta` `minilibx_opengl`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/so_long_evaluation_page.pdf) `PDF`
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longe.png" alt="so_long" width="130"/>|
+| ----------- |
+|- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/so_long.pdf) `PDF`|
+|- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/so_long) `minilibx_mms_20200219_beta` `minilibx_mms_beta` `minilibx_opengl`|
+|- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/so_long_evaluation_page.pdf) `PDF`|
 
-##### [03] fract-ol
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fract%E2%80%99ol.pdf) `PDF`
-- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fract-ol) `minilibx-linux` `minilibx_mms_beta` `minilibx_opengl` `minilibx_mms_beta` `minilibx_opengl`
-- [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`
 
-##### [03] FdF
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fdf.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/fdf_evaluation_page.pdf) `PDF`
-- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fdf) `fdf` `fdf_linux` `maps` `minilibx-linux` `minilibx_macos_sierra` `minilibx_mms` `sources`
-- [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)
-- [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) `Wikipedia`
-- [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm) `Wikipedia`
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png" alt="fract-ol" width="130"/>|
+| ----------- |
+|- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fract%E2%80%99ol.pdf) `PDF`|
+|- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fract-ol) `minilibx-linux` `minilibx_mms_beta` `minilibx_opengl` `minilibx_mms_beta` `minilibx_opengl`|
+|- [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`|
 
-##### [03] push_swap
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/push_swap.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/push_swap_evaluation_page.pdf) `PDF`
-- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/push_swap) `checker_mac` `checker_linux`
-- [Random Number Generator](https://numbergenerator.org/randomnumbergenerator/1-100?clientAction=540.click)
-- [push_swap Resources](https://push_swap.simple.ink) `Resources` `Data Structure` `Linked List` `Sort`
-- [Merge Sort](https://www.geeksforgeeks.org/merge-sort)
-- [Radix Sort](https://www.geeksforgeeks.org/radix-sort)
-- [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer) `Visualizer`
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/fdfe.png" alt="fdf" width="130"/>|
+| ----------- |
+|- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fdf.pdf) `PDF`|
+|- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/fdf_evaluation_page.pdf) `PDF`|
+|- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fdf) `fdf` `fdf_linux` `maps` `minilibx-linux` `minilibx_macos_sierra` `minilibx_mms` `sources`|
+|- [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)|
+|- [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) `Wikipedia`|
+|- [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm) `Wikipedia`|
 
-##### [04] minishell
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minishell_evaluation_page.pdf) `PDF`
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png" alt="push_swap" width="130"/>|
+| ----------- |
+|- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/push_swap.pdf) `PDF`|
+|- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/push_swap_evaluation_page.pdf) `PDF`|
+|- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/push_swap) `checker_mac` `checker_linux`|
+|- [Random Number Generator](https://numbergenerator.org/randomnumbergenerator/1-100?clientAction=540.click)|
+|- [push_swap Resources](https://push_swap.simple.ink) `Resources` `Data Structure` `Linked List` `Sort`|
+|- [Merge Sort](https://www.geeksforgeeks.org/merge-sort)|
+|- [Radix Sort](https://www.geeksforgeeks.org/radix-sort)|
+|- [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer) `Visualizer`|
 
-##### [04] Philosophers
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/philosophers_evaluation_page.pdf) `PDF`
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png" alt="minishell" width="130"/>|
+| ----------- |
+|- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minishell_evaluation_page.pdf) `PDF`|
 
-##### [05] cub3d
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cub3d_evaluation_page.pdf) `PDF`
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png" alt="philosophers" width="130"/>|
+| ----------- |
+|- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/philosophers_evaluation_page.pdf) `PDF`|
 
-##### [05] miniRT
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/miniRT_evaluation_page.pdf) `PDF`
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png" alt="cub3d" width="130"/>|
+| ----------- |
+|- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cub3d_evaluation_page.pdf) `PDF`|
 
-##### [05] NetPractice
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/netpractice_evaluation_page.pdf) `PDF`
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minirte.png" alt="minirt" width="130"/>|
+| ----------- |
+|- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/miniRT_evaluation_page.pdf) `PDF`|
 
-##### [05] CPP Module (00-08)
-- [Evaluation Page (00)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_00_evaluation_page.pdf) `PDF`
-- [Evaluation Page (01)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_01_evaluation_page.pdf) `PDF`
-- [Evaluation Page (02) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_02_evaluation_page.pdf) `PDF`
-- [Evaluation Page (03) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_03_evaluation_page.pdf) `PDF`
-- [Evaluation Page (04) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_04_evaluation_page.pdf) `PDF`
-- [Evaluation Page (05) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_05_evaluation_page.pdf) `PDF`
-- [Evaluation Page (06) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_06_evaluation_page.pdf) `PDF`
-- [Evaluation Page (07) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_07_evaluation_page.pdf) `PDF`
-- [Evaluation Page (08) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_08_evaluation_page.pdf) `PDF`
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png" alt="netpractice" width="130"/>|
+| ----------- |
+|- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/netpractice_evaluation_page.pdf) `PDF`|
 
-##### [06] ft_containers
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_containers_evaluation_page.pdf) `PDF`
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png" alt="cpp" width="130"/>|
+| ----------- |
+|- [Evaluation Page (00)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_00_evaluation_page.pdf) `PDF`|
+|- [Evaluation Page (01)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_01_evaluation_page.pdf) `PDF`|
+|- [Evaluation Page (02) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_02_evaluation_page.pdf) `PDF`|
+|- [Evaluation Page (03) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_03_evaluation_page.pdf) `PDF`|
+|- [Evaluation Page (04) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_04_evaluation_page.pdf) `PDF`|
+|- [Evaluation Page (05) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_05_evaluation_page.pdf) `PDF`|
+|- [Evaluation Page (06) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_06_evaluation_page.pdf) `PDF`|
+|- [Evaluation Page (07) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_07_evaluation_page.pdf) `PDF`|
+|- [Evaluation Page (08) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_08_evaluation_page.pdf) `PDF`|
 
-##### [06] webserv
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/webserv_evaluation_page.pdf) `PDF`
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_containerse.png" alt="ft_containers" width="130"/>|
+| ----------- |
+|- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_containers_evaluation_page.pdf) `PDF`|
 
-##### [06] ft_irc
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_irc_evaluation_page.pdf) `PDF`
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/webserve.png" alt="webserv" width="130"/>|
+| ----------- |
+|- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/webserv_evaluation_page.pdf) `PDF`|
 
-##### [06] Inception
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/inception_evaluation_page.pdf) `PDF`
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irc.png" alt="ft_irce" width="130"/>|
+| ----------- |
+|- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_irc_evaluation_page.pdf) `PDF`|
 
-##### [07] ft_transcendence
-- [Evaluation Page (42pde-bakk)](https://github.com/42pde-bakk/ft_transcendence) - README.md file with the project guidelines. `GitHub` 
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png" alt="inception" width="130"/>|
+| ----------- |
+|- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/inception_evaluation_page.pdf) `PDF`|
+
+|<img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png" alt="ft_transcendence" width="130"/>|
+| ----------- |
+|- [Evaluation Page (42pde-bakk)](https://github.com/42pde-bakk/ft_transcendence) - README.md file with the project guidelines. `GitHub`|
 
 #### TESTERS
 ###### _Test your code with already made testers._
