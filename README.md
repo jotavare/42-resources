@@ -75,10 +75,10 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - - - -
 
 ## PISCINE AND COMMON CORE
-### PROJECTS</br>
-###### _Specific project information and resources._</br>
+### PROJECTS
+###### _Specific project information and resources._
 
-#### [00] Libft
+#### [00] LIBFT
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/libft.pdf)
 - [Waiting... Evaluation Page]
 ###### _Information and Resources_
@@ -87,7 +87,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [Libft File Checker (Nuno-Jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
 - [Libft Tester (Tripouille)](https://github.com/Tripouille/libftTester)
 
-#### [01] Born2beroot
+#### [01] BORN2BEROOT
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/born2beroot.pdf)
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/born2beroot_evaluation_page.pdf)
@@ -101,7 +101,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [Debian](https://www.debian.org/)
 - [Rocky](https://rockylinux.org/)
 
-#### [01] Ft_printf
+#### [01] FT_PRINTF
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/ft_printf.pdf)
 - [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_printf_evaluation_page.pdf)
@@ -109,24 +109,24 @@ I highly value any contributions and will evaluate them for possible inclusion i
 ###### _Testers_
 - [Printf Tester (Tripouille)](https://github.com/Tripouille/printfTester)
 
-#### [01] Get_next_line
+#### [01] GET_NEXT_LINE
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/get_next_line.pdf)
 - [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/get_next_line_evaluation_page.pdf)
 ###### _Testers_
 - [Get Next Line Tester (Tripouille)](https://github.com/Tripouille/gnlTester)
 
-#### [02] Minitalk
+#### [02] MINITALK
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/minitalk.pdf)
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minitalk_evaluation_page.pdf)
 
-#### [02] Pipex
+#### [02] PIPEX
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/pipex.pdf)
 - [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/pipex_evaluation_page.pdf)
 
-#### [03] So_long
+#### [03] SO_LONG
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/so_long.pdf)
 - [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/so_long)
@@ -138,7 +138,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 ###### _Testers_
 - [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator)
 
-#### [03] Fract-ol
+#### [03] FRACT-OL
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fract%E2%80%99ol.pdf)
 - [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fract-ol)
@@ -146,7 +146,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 ###### _Information and Resources_
 - [Fractal](https://en.wikipedia.org/wiki/Fractal)
 
-#### [03] Fdf
+#### [03] FDF
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fdf.pdf)
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/fdf_evaluation_page.pdf)
@@ -157,7 +157,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
 - [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm)
 
-#### [03] Push_swap
+#### [03] PUSH_SWAP
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/push_swap.pdf)
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/push_swap_evaluation_page.pdf)
@@ -175,27 +175,27 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [Push Swap Leak Tester (IDC87)](https://github.com/IDC87/push_swap_leak_tester)
 - [Push Swap Tester (gemartin99)](https://github.com/gemartin99/Push-Swap-Tester)
 
-##### [04] Minishell
+##### [04] MINISHELL
 ###### _Project Files_
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minishell_evaluation_page.pdf)
 
-##### [04] Philosophers
+##### [04] PHILOSOPHERS
 ###### _Project Files_
 - [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/philosophers_evaluation_page.pdf)
 
-##### [05] Cub3d
+##### [05] CUB3D
 ###### _Project Files_
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cub3d_evaluation_page.pdf)
 
-##### [05] MiniRT
+##### [05] MINIRT
 ###### _Project Files_
 - [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/miniRT_evaluation_page.pdf)
 
-##### [05] Netpractice
+##### [05] NETPRACTICE
 ###### _Project Files_
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/netpractice_evaluation_page.pdf)
 
-##### [05] CPP Module (00-08)
+##### [05] CPP MODULE (00-08)
 ###### _Project Files_
 - [Evaluation Page (00)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_00_evaluation_page.pdf)
 - [Evaluation Page (01)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_01_evaluation_page.pdf)
@@ -207,23 +207,23 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [Evaluation Page (07) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_07_evaluation_page.pdf)
 - [Evaluation Page (08) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_08_evaluation_page.pdf)
 
-##### [06] Ft_containers
+##### [06] FT_CONTAINERS
 ###### _Project Files_
 - [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_containers_evaluation_page.pdf)
 
-##### [06] Webserv
+##### [06] WEBSERV
 ###### _Project Files_
 - [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/webserv_evaluation_page.pdf)
 
-##### [06] Ft_irc
+##### [06] FT_IRC
 ###### _Project Files_
 - [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_irc_evaluation_page.pdf)
 
-##### [06] Inception
+##### [06] INCEPTION
 ###### _Project Files_
 - [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/inception_evaluation_page.pdf)
 
-##### [07] Ft_Transcendence
+##### [07] FT_TRANSCENDENCE
 ###### _Project Files_
 - [Evaluation Page (42pde-bakk)](https://github.com/42pde-bakk/ft_transcendence) - README.md file with the project guidelines. 
 
