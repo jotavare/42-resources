@@ -76,7 +76,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 
 ## PISCINE AND COMMON CORE
 ### PROJECTS</br>
-######_Specific project information and resources._</br>
+###### _Specific project information and resources._</br>
 
 #### [00] Libft
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/libft.pdf)
