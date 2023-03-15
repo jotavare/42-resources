@@ -78,6 +78,13 @@ I highly value any contributions and will evaluate them for possible inclusion i
 ### PROJECTS
 ###### _Specific project information and resources._
 
+<p align="center">
+	<a href="##00-libft">Libft</a> •
+	<a href="##01-born2beroot">Born2beroot</a> •
+	<a href="##01-ft_printf">Ft_printf</a> •
+	<a href="##01-get_next_line">Get_next_line</a> •
+</p>
+
 #### [00] LIBFT
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/libft.pdf)
 - [Waiting... Evaluation Page]
