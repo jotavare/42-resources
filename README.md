@@ -75,14 +75,31 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - - - -
 
 ## PISCINE AND COMMON CORE
-### PROJECTS
-###### _Specific project information and resources._
+<p align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_projects_banner.png">
+</p>
 
 <p align="center">
-	<a href="##00-libft">Libft</a> •
-	<a href="##01-born2beroot">Born2beroot</a> •
-	<a href="##01-ft_printf">Ft_printf</a> •
-	<a href="##01-get_next_line">Get_next_line</a> •
+	<a href="#00-libft">Libft</a> •
+	<a href="#01-born2beroot">Born2beroot</a> •
+	<a href="#01-ft_printf">Ft_printf</a> •
+	<a href="#01-get_next_line">Get_next_line</a> •
+	<a href="#02-minitalk">Minitalk</a> •
+	<a href="#02-pipex">Pipex</a> •
+	<a href="#03-so_long">So_long</a> •
+	<a href="#03-fract-ol">Fract-ol</a> •
+	<a href="#03-fdf">Fdf</a> •
+	<a href="#03-push_swap">Push_swap</a> •
+	<a href="#04-minishell">Minishell</a> •
+	<a href="#04-philosophers">Philosophers</a> •
+	<a href="#05-cub3d">Cub3d</a> •
+	<a href="#05-minirt">MiniRT</a> •
+	<a href="#05-netpractice">Netpractice</a> •
+	<a href="#05-cpp-module-00-08">CPP Module</a> •
+	<a href="#05-ft_containers">Ft_containers</a> •
+	<a href="#06-webserv">Webserv</a> •
+	<a href="#06-inception">Inception</a> •
+	<a href="#07-ft_transcendence">Ft_transcendence</a>
 </p>
 
 #### [00] LIBFT
