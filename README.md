@@ -90,7 +90,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 	<a href="#03-fract-ol">Fract-ol</a> •
 	<a href="#03-fdf">Fdf</a> •
 	<a href="#03-push_swap">Push_swap</a> •
-	<a href="#04-minishell">Minishell</a>
+	<a href="#04-minishell">Minishell</a><br/>
 	<a href="#04-philosophers">Philosophers</a> •
 	<a href="#05-cub3d">Cub3d</a> •
 	<a href="#05-minirt">MiniRT</a> •
