@@ -310,6 +310,12 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [Rytr](https://rytr.me) - AI writing assistant that helps you create high-quality content.
 - [Futurepedia](https://www.futurepedia.io) - Largest AI tools directory.
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) - This wiki is an experiment in making algorithms interactive on the web.
+- [Bard](https://bard.google.com) - AI chatbot, similar to ChatGPT.
+- [Stable Diffusion](https://stablediffusionweb.com) - Latent text-to-image diffusion model capable of generating photo-realistic images.
+- [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Generate and create stunning visual media.
+- [Midjourney](https://www.midjourney.com) - Generates images from prompts, similar to OpenAI's DALL-E and Stable Diffusion.
+- [Gen-2](https://research.runwayml.com/gen2) - Generate novel videos with text, images, or video clips. ... No lights. No camera. All action.
+- [Boomy](https://boomy.com) - Write and produce a full song in seconds.
 
 #### BASH
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
