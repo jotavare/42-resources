@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 	<a href="#42-school">42 School</a> •
-	<a href="#piscine-and-common-core">Piscine and Common Core</a> •
+	<a href="#--">Piscine and Common Core</a> •
 	<a href="#resources">Resources</a> •
 	<a href="#ide1-compilers2-and-debuggers3">Ide, Compilers & Debuggers</a> •
 	<a href="#extensions">Extensions</a><br/>
@@ -73,11 +73,9 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [[FR] APT42](https://apt42.fr) - Security.
 
 - - - -
-
-## PISCINE AND COMMON CORE
-<p align="center">
+<h1 align="center">
   <a href="#piscine-and-common-core"><img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_projects_banner.png">
-</p>
+</h1>
 
 <p align="center">
 	<a href="#00-libft">Libft</a> •
@@ -96,7 +94,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 	<a href="#05-minirt">MiniRT</a> •
 	<a href="#05-netpractice">Netpractice</a> •
 	<a href="#05-cpp-module-00-08">CPP Module</a> •
-	<a href="#05-ft_containers">Ft_containers</a> •
+	<a href="#06-ft_containers">Ft_containers</a> •
 	<a href="#06-webserv">Webserv</a> •
 	<a href="#06-inception">Inception</a> •
 	<a href="#07-ft_transcendence">Ft_transcendence</a>
