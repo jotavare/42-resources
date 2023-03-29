@@ -191,6 +191,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [Data Structures - Stacks Introduction](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgWh1emltdMOz8O2m5X3YYn)
 - [42 Heilbronn Student Journey with push_swap](https://medium.com/p/c1f5d2d41e97)
 - [Sorting Algorithms (28 total)](https://www.geeksforgeeks.org/sorting-algorithms/?ref=lbp)
+- [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) - This wiki is an experiment in making algorithms interactive on the web.
 
 ###### _Testers_
 - [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer)
@@ -488,18 +489,39 @@ AI
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_ai_banner_1.png">
 </h1>
 
-#### AI
+<p align="center">
+	<a href="#chatbot">Chatbot</a> •
+	<a href="#coding">Coding</a> •
+	<a href="#text">Text</a> •
+	<a href="#image">Image</a> •
+	<a href="#sound">Sound</a> •
+	<a href="#video">Video</a> •
+	<a href="#others-1">Others</a>
+</p>
+
+#### Chatbot
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
-- [BLACKBOX AI](https://www.useblackbox.io) - AI-Powered Coding Assistant.
-- [Rytr](https://rytr.me) - AI writing assistant that helps you create high-quality content.
-- [Futurepedia](https://www.futurepedia.io) - Largest AI tools directory.
-- [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) - This wiki is an experiment in making algorithms interactive on the web.
 - [Bard](https://bard.google.com) - AI chatbot, similar to ChatGPT.
+
+#### Coding
+- [BLACKBOX AI](https://www.useblackbox.io) - AI-Powered Coding Assistant.
+
+#### Text
+- [Rytr](https://rytr.me) - AI writing assistant that helps you create high-quality content.
+
+#### Image
 - [Stable Diffusion](https://stablediffusionweb.com) - Latent text-to-image diffusion model capable of generating photo-realistic images.
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Generate and create stunning visual media.
 - [Midjourney](https://www.midjourney.com) - Generates images from prompts, similar to OpenAI's DALL-E and Stable Diffusion.
-- [Gen-2](https://research.runwayml.com/gen2) - Generate novel videos with text, images, or video clips. ... No lights. No camera. All action.
+
+#### Sound
 - [Boomy](https://boomy.com) - Write and produce a full song in seconds.
+
+#### Video
+- [Gen-2](https://research.runwayml.com/gen2) - Generate novel videos with text, images, or video clips. ... No lights. No camera. All action.
+
+#### Others
+- [Futurepedia](https://www.futurepedia.io) - Largest AI tools directory.
 
 - - - -
 
@@ -511,6 +533,15 @@ TOOLS
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_tools_banner_1.png">
 </h1>
 
+<p align="center">
+	<a href="#generators">Generators</a> •
+	<a href="#icons-and-illustrations">Icons and Illustrations</a> •
+	<a href="#images">Images</a> •
+	<a href="#colors">Colors</a> •
+	<a href="#design">Design</a> •
+	<a href="#video">Video</a>
+</p>
+
 #### GENERATORS
 - [ASCII Table](https://www.asciitable.com) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
 - [Lorem Ipsum](https://lipsum.com) - Dummy text for printing and typesetting industry.
@@ -520,7 +551,7 @@ TOOLS
 - [Duplicate Word Finder](https://duplicateword.com) - Find duplicate words and eliminate them from your writings, posts or emails. 
 - [Duplicate Word Finder - CodePen](https://codepen.io/finnhvman/pen/oPwXRa) - Duplicate Word Finder + `HTML` `CSS` `JS` visualization.
 
-#### ICONS & IllUSTRATIONS
+#### ICONS AND IllUSTRATIONS
 - [Flaticon](https://www.flaticon.com) - Wide catalogue of icons. `Free` `PNG` `Paid` `SVG` `EPS` `PSD`
 - [Reshot](https://www.reshot.com) - `Free`
 - [unDraw](https://undraw.co) - `Open Source`
@@ -554,39 +585,22 @@ TOOLS
 - - - -
 
 <!---
-WIKIMEDIA FOUNDATION
--->
-
-<h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_wikimedia_banner_1.png">
-</h1>
-
-- [Wikipedia](https://en.wikipedia.org) – Online encyclopedia.
-- [Wiktionary](https://www.wiktionary.org) – Online dictionary and thesaurus.
-- [Wikibooks](https://en.wikibooks.org) – Collection of books, mostly textbooks.
-- [Wikiquote](https://www.wikiquote.org) – Collection of quotations.
-- [Wikivoyage](https://www.wikivoyage.org) – Travel guide.
-- [Wikisource](https://wikisource.org) – Digital library.
-- [Wikimedia Commons](https://commons.wikimedia.org) – Repository of images, sounds, videos, and general media.
-- [Wikispecies](https://species.wikimedia.org) – Taxonomic catalog of species.
-- [Wikinews](https://www.wikinews.org) – Online newspaper.
-- [Wikiversity](https://www.wikiversity.org) – Collection of tutorials and courses, also a hosting point to coordinate research.
-- [Wikidata](https://www.wikidata.org) – Knowledge base.
-- [Meta-Wiki](https://meta.wikimedia.org) – Central site for coordinating all projects and the Wikimedia community.
-- [Wikimedia Incubator](https://incubator.wikimedia.org) – A single wiki for drafting the core pages of new language-editions in development.
-- [MediaWiki](https://www.mediawiki.org) – Site for coordinating work on MediaWiki software.
-- [Wikitech](https://wikitech.wikimedia.org) – Including Wikimedia Cloud Services, Data Services, Toolforge, and other technical projects and infrastructure.
-- [Phabricator](https://phabricator.wikimedia.org) – Not a wiki, but a global ticketing system for tracking issues and feature requests.
-
-- - - -
-
-<!---
 MISCELLANEOUS
 -->
 
 <h1 align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_miscellaneous_banner_1.png">
 </h1>
+
+<p align="center">
+	<a href="#bootable-usb">Bootable USB</a> •
+	<a href="#productivity-software">Productivity Software</a> •
+	<a href="#digital-footprint">Digital Footprint</a> •
+	<a href="#package-management">Package Management</a> •
+	<a href="#games">Games</a> •
+	<a href="#memes">Memes</a> •
+	<a href="#others">Others</a>
+</p>
 
 #### BOOTABLE USB
 - [Rufus](https://rufus.ie) – Open-source portable application for Microsoft Windows, can be used to format and create bootable USB flash drives or Live USBs.
@@ -692,6 +706,33 @@ MISCELLANEOUS
 - - - -
 
 <!---
+WIKIMEDIA FOUNDATION
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_wikimedia_banner_1.png">
+</h1>
+
+- [Wikipedia](https://en.wikipedia.org) – Online encyclopedia.
+- [Wiktionary](https://www.wiktionary.org) – Online dictionary and thesaurus.
+- [Wikibooks](https://en.wikibooks.org) – Collection of books, mostly textbooks.
+- [Wikiquote](https://www.wikiquote.org) – Collection of quotations.
+- [Wikivoyage](https://www.wikivoyage.org) – Travel guide.
+- [Wikisource](https://wikisource.org) – Digital library.
+- [Wikimedia Commons](https://commons.wikimedia.org) – Repository of images, sounds, videos, and general media.
+- [Wikispecies](https://species.wikimedia.org) – Taxonomic catalog of species.
+- [Wikinews](https://www.wikinews.org) – Online newspaper.
+- [Wikiversity](https://www.wikiversity.org) – Collection of tutorials and courses, also a hosting point to coordinate research.
+- [Wikidata](https://www.wikidata.org) – Knowledge base.
+- [Meta-Wiki](https://meta.wikimedia.org) – Central site for coordinating all projects and the Wikimedia community.
+- [Wikimedia Incubator](https://incubator.wikimedia.org) – A single wiki for drafting the core pages of new language-editions in development.
+- [MediaWiki](https://www.mediawiki.org) – Site for coordinating work on MediaWiki software.
+- [Wikitech](https://wikitech.wikimedia.org) – Including Wikimedia Cloud Services, Data Services, Toolforge, and other technical projects and infrastructure.
+- [Phabricator](https://phabricator.wikimedia.org) – Not a wiki, but a global ticketing system for tracking issues and feature requests.
+
+- - - -
+
+<!---
 42 CAMPUSES
 -->
 
@@ -699,7 +740,16 @@ MISCELLANEOUS
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_campuses_banner_1.png">
 </h1>
 
-###### _All 42 campuses arround the world and their information._
+<p align="center">
+	<a href="#world">World</a> •
+	<a href="#europe">Europe</a> •
+	<a href="#asia">Asia</a> •
+	<a href="#america">America</a> •
+	<a href="#africa">Africa</a> •
+	<a href="#oceania">Oceania</a>
+</p>
+
+#### World
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools)
 - 🗺️ [42 World Map](https://github.com/jotavare/42-resources/blob/main/42-campuses-world-map.jpg)
 
