@@ -14,10 +14,10 @@
 	<a href="#ide1-compilers2-and-debuggers3">Ide, Compilers & Debuggers</a> •
 	<a href="#extensions">Extensions</a><br/>
 	<a href="#moocs-and-books">Moocs and Books</a> •
-	<a href="#other-tools">Other Tools</a> •
-	<a href="#wikimedia-foundation">Wikimedia Foundation</a> •
-	<a href="#miscellaneous">Miscellaneous</a> •
-	<a href="#42-campuses">42 Campuses</a>
+	<a href="#---1">Tools</a> •
+	<a href="#---2">Wikimedia Foundation</a> •
+	<a href="#---3">Miscellaneous</a> •
+	<a href="#---4">42 Campuses</a>
 </p>
 
 ## WELCOME
@@ -74,7 +74,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 
 - - - -
 <h1 align="center">
-  <a href="#piscine-and-common-core"><img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_projects_banner.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_projects_banner.png">
 </h1>
 
 <p align="center">
@@ -490,8 +490,14 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Available in a lot of languages. `GitHub`
 
 - - - -
+<!---
+TOOLS
+-->
 
-## OTHER TOOLS
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_tools_banner.png">
+</h1>
+
 #### GENERATORS
 - [ASCII Table](https://www.asciitable.com) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
 - [Lorem Ipsum](https://lipsum.com) - Dummy text for printing and typesetting industry.
@@ -534,7 +540,14 @@ I highly value any contributions and will evaluate them for possible inclusion i
 
 - - - -
 
-## WIKIMEDIA FOUNDATION
+<!---
+WIKIMEDIA FOUNDATION
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_wikimedia_banner.png">
+</h1>
+
 - [Wikipedia](https://en.wikipedia.org) – Online encyclopedia.
 - [Wiktionary](https://www.wiktionary.org) – Online dictionary and thesaurus.
 - [Wikibooks](https://en.wikibooks.org) – Collection of books, mostly textbooks.
@@ -554,7 +567,14 @@ I highly value any contributions and will evaluate them for possible inclusion i
 
 - - - -
 
-## MISCELLANEOUS
+<!---
+MISCELLANEOUS
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_miscellaneous_banner.png">
+</h1>
+
 #### BOOTABLE USB
 - [Rufus](https://rufus.ie) – Open-source portable application for Microsoft Windows, can be used to format and create bootable USB flash drives or Live USBs.
 - [Ventoy](https://www.ventoy.net) – Open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
@@ -658,7 +678,14 @@ I highly value any contributions and will evaluate them for possible inclusion i
 
 - - - -
 
-## 42 CAMPUSES
+<!---
+42 CAMPUSES
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_campuses_banner.png">
+</h1>
+
 ###### _All 42 campuses arround the world and their information._
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools)
 - 🗺️ [42 World Map](https://github.com/jotavare/42-resources/blob/main/42-campuses-world-map.jpg)
