@@ -271,6 +271,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 
 #### TOOLS
 ###### _Some usefull tools i used in my 42 journey._
+- [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) - A awesome cheatsheet for C and 42 in general.
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
 - [42 XP Calculator](https://42.tbailleu.dev) - Calculate how much exp you need for the next level.
 - [42 Stupidity](https://github.com/mirror12k/42us-stupidity) - A tool for quickly test solutions for the piscine exercises.
@@ -300,10 +301,6 @@ I highly value any contributions and will evaluate them for possible inclusion i
 
 ## RESOURCES
 ###### _Resources and cheat sheets for every ocasion._
-##### FORTY-TWO
-- [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) - A awesome cheatsheet for C and 42 in general.
-
-
 
 #### BASH
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
@@ -749,7 +746,7 @@ WIKIMEDIA FOUNDATION
 	<a href="#oceania">Oceania</a>
 </p>
 
-#### World
+#### WORLD
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools)
 - 🗺️ [42 World Map](https://github.com/jotavare/42-resources/blob/main/42-campuses-world-map.jpg)
 
