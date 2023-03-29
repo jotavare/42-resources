@@ -302,18 +302,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 ##### FORTY-TWO
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) - A awesome cheatsheet for C and 42 in general.
 
-#### AI
-- [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
-- [BLACKBOX AI](https://www.useblackbox.io) - AI-Powered Coding Assistant.
-- [Rytr](https://rytr.me) - AI writing assistant that helps you create high-quality content.
-- [Futurepedia](https://www.futurepedia.io) - Largest AI tools directory.
-- [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) - This wiki is an experiment in making algorithms interactive on the web.
-- [Bard](https://bard.google.com) - AI chatbot, similar to ChatGPT.
-- [Stable Diffusion](https://stablediffusionweb.com) - Latent text-to-image diffusion model capable of generating photo-realistic images.
-- [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Generate and create stunning visual media.
-- [Midjourney](https://www.midjourney.com) - Generates images from prompts, similar to OpenAI's DALL-E and Stable Diffusion.
-- [Gen-2](https://research.runwayml.com/gen2) - Generate novel videos with text, images, or video clips. ... No lights. No camera. All action.
-- [Boomy](https://boomy.com) - Write and produce a full song in seconds.
+
 
 #### BASH
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
@@ -490,12 +479,36 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Available in a lot of languages. `GitHub`
 
 - - - -
+
+<!---
+AI
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_ai_banner_1.png">
+</h1>
+
+#### AI
+- [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
+- [BLACKBOX AI](https://www.useblackbox.io) - AI-Powered Coding Assistant.
+- [Rytr](https://rytr.me) - AI writing assistant that helps you create high-quality content.
+- [Futurepedia](https://www.futurepedia.io) - Largest AI tools directory.
+- [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) - This wiki is an experiment in making algorithms interactive on the web.
+- [Bard](https://bard.google.com) - AI chatbot, similar to ChatGPT.
+- [Stable Diffusion](https://stablediffusionweb.com) - Latent text-to-image diffusion model capable of generating photo-realistic images.
+- [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Generate and create stunning visual media.
+- [Midjourney](https://www.midjourney.com) - Generates images from prompts, similar to OpenAI's DALL-E and Stable Diffusion.
+- [Gen-2](https://research.runwayml.com/gen2) - Generate novel videos with text, images, or video clips. ... No lights. No camera. All action.
+- [Boomy](https://boomy.com) - Write and produce a full song in seconds.
+
+- - - -
+
 <!---
 TOOLS
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_tools_banner.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_tools_banner_1.png">
 </h1>
 
 #### GENERATORS
@@ -545,7 +558,7 @@ WIKIMEDIA FOUNDATION
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_wikimedia_banner.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_wikimedia_banner_1.png">
 </h1>
 
 - [Wikipedia](https://en.wikipedia.org) – Online encyclopedia.
@@ -572,7 +585,7 @@ MISCELLANEOUS
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_miscellaneous_banner.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_miscellaneous_banner_1.png">
 </h1>
 
 #### BOOTABLE USB
@@ -683,7 +696,7 @@ MISCELLANEOUS
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_campuses_banner.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_campuses_banner_1.png">
 </h1>
 
 ###### _All 42 campuses arround the world and their information._
@@ -748,8 +761,3 @@ MISCELLANEOUS
 - 🇦🇺 [42 Adelaide](https://www.42adel.org.au) - Australia
 
 - - - -
-
-## GLOSSARY
-[^1]: **IDE** - An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development.
-[^2]: **COMPILER** - In computing, a compiler is a computer program that translates computer code written in one programming language into another language.
-[^3]: **DEBUGGER** - A debugger or debugging tool is a computer program used to test and debug other programs.
