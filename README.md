@@ -76,7 +76,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 
 ## PISCINE AND COMMON CORE
 <p align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_projects_banner.png">
+  <a href="#piscine-and-common-core"><img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_projects_banner.png">
 </p>
 
 <p align="center">
