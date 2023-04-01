@@ -509,8 +509,7 @@ AI
 
 #### Image
 - [Stable Diffusion](https://stablediffusionweb.com) - Latent text-to-image diffusion model capable of generating photo-realistic images.
-- [Hugging Face](https://huggingface.co) - Trained open art models to use with other AI tools.
-- [OpenJourney](https://huggingface.co/prompthero/openjourney) - Trained model used in Stable Diffusion.
+- [OpenJourney](https://huggingface.co/prompthero/openjourney) - Trained art model used in Stable Diffusion (includes negative prompts).
 - [Midjourney](https://www.midjourney.com) - Generates images from prompts, similar to OpenAI's DALL-E.
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Generate and create stunning visual media.
 
@@ -521,6 +520,7 @@ AI
 - [Gen-2](https://research.runwayml.com/gen2) - Generate novel videos with text, images, or video clips. ... No lights. No camera. All action.
 
 #### Others
+- [Hugging Face](https://huggingface.co) - Trained AI models to use with other AI tools.
 - [Futurepedia](https://www.futurepedia.io) - Largest AI tools directory.
 
 - - - -
