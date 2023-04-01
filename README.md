@@ -499,6 +499,7 @@ AI
 #### Chatbot
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Bard](https://bard.google.com) - AI chatbot, similar to ChatGPT.
+- [PromptHero](https://prompthero.com) - Specific prompts for AI tools.
 
 #### Coding
 - [BLACKBOX AI](https://www.useblackbox.io) - AI-Powered Coding Assistant.
@@ -508,8 +509,10 @@ AI
 
 #### Image
 - [Stable Diffusion](https://stablediffusionweb.com) - Latent text-to-image diffusion model capable of generating photo-realistic images.
+- [Hugging Face](https://huggingface.co) - Trained open art models to use with other AI tools.
+- [OpenJourney](https://huggingface.co/prompthero/openjourney) - Trained model used in Stable Diffusion.
+- [Midjourney](https://www.midjourney.com) - Generates images from prompts, similar to OpenAI's DALL-E.
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Generate and create stunning visual media.
-- [Midjourney](https://www.midjourney.com) - Generates images from prompts, similar to OpenAI's DALL-E and Stable Diffusion.
 
 #### Sound
 - [Boomy](https://boomy.com) - Write and produce a full song in seconds.
