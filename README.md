@@ -135,9 +135,9 @@ PISCINE AND COMMON CORE
 
 #### CTF
 ###### _Websites and information about capture the flag._
-- [Capture The Flag 101](https://ctf101.org) - What is CTFs?
-- [42 CTF](https://www.42ctf.org/en) - Cybersecurity competition, solve challenges of various categories to gain points and progress on the scoreboard.
-- [Root Me](https://www.root-me.org) - Root Me is a platform for everyone to test and improve knowledge in computer security and hacking.
+- [Capture The Flag 101](https://ctf101.org) - What is a CTF?
+- [42 CTF](https://www.42ctf.org/en) - Cybersecurity challenges platform. 
+- [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking.
 
 - - - -
 
