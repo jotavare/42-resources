@@ -10,14 +10,15 @@
 <p align="center">
 	<a href="#42-school">42 School</a> •
 	<a href="#--">Piscine and Common Core</a> •
-	<a href="#resources">Resources</a> •
-	<a href="#ide1-compilers2-and-debuggers3">Ide, Compilers & Debuggers</a> •
-	<a href="#extensions">Extensions</a><br/>
-	<a href="#moocs-and-books">Moocs and Books</a> •
-	<a href="#---1">Tools</a> •
-	<a href="#---2">Wikimedia Foundation</a> •
-	<a href="#---3">Miscellaneous</a> •
-	<a href="#---4">42 Campuses</a>
+	<a href="#---1">Common Core Projects</a> •
+	<a href="#---2">Resources</a> •
+	<a href="#---3">Ide, Compilers & Debuggers</a> •
+	<a href="#---4">Extensions</a><br/>
+	<a href="#---5">Moocs and Books</a> •
+	<a href="#---6">Tools</a> •
+	<a href="#---7">Wikimedia Foundation</a> •
+	<a href="#---8">Miscellaneous</a> •
+	<a href="#---9">42 Campuses</a>
 </p>
 
 ## WELCOME
@@ -325,8 +326,25 @@ COMMON CORE PROJECTS
 
 - - - -
 
-## RESOURCES
-###### _Resources and cheat sheets for every ocasion._
+<!---
+RESOURCES
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_resources_banner.png">
+</h1>
+
+<p align="center">
+	<a href="#bash">Bash</a> •
+	<a href="#shell">Shell</a> •
+	<a href="#git">Git</a> •
+	<a href="#markdown">Markdown</a> •
+	<a href="#assembly">Assembly</a> •
+	<a href="#c">C</a> •
+	<a href="#python">Python</a> •
+	<a href="#web-servers">Web Servers</a> •
+	<a href="#others">Others</a>
+</p>
 
 #### BASH
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
@@ -367,7 +385,13 @@ COMMON CORE PROJECTS
 
 - - - -
 
-## IDE[^1], COMPILERS[^2] AND DEBUGGERS[^3]
+<!---
+IDE, COMPILERS AND DEBUGGERS
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_ide_compilers_and_debuggers_banner.png">
+</h1>
 
 - [GDB Online Debugger](https://www.onlinegdb.com) - Online compiler and debugger for a lot of programming languages.
 - [Python Tutor](https://pythontutor.com) - Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.
@@ -392,8 +416,24 @@ COMMON CORE PROJECTS
 
 - - - -
 
-## EXTENSIONS
-###### _Extensions, apps, addons... a bit of everything to enchance your experience at 42._
+<!---
+EXTENSIONS
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_extensions_banner.png">
+</h1>
+
+<p align="center">
+	<a href="#scripts">Scripts</a> •
+	<a href="#vs-code">VS Code</a> •
+	<a href="#browser">Browser</a> •
+	<a href="#dictionary-and-language-correction">Dictionary and Language Correction</a> •
+	<a href="#apps">Apps</a> •
+	<a href="#badge">Badge</a> •
+	<a href="#add-ons">Add-ons</a>
+</p>
+
 #### SCRIPTS
 - [Installette (Kuninoto)](https://github.com/Kuninoto/installette) - A Bash script to install Norminette, a Norminette Formatter, Vim and 42 Header for Vim.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Open source, community-driven framework for managing your Zsh configuration.
@@ -401,7 +441,7 @@ COMMON CORE PROJECTS
 - [tldr-pages](https://github.com/tldr-pages/tldr) - collection of community-maintained help pages for command-line tools.
 - [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) - A bunch of neofetch configs in a single place.
 
-#### VSCODE
+#### VS CODE
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)
 - [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42)
 - [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3)
@@ -428,7 +468,7 @@ COMMON CORE PROJECTS
 - [42 Launcher](https://chrome.google.com/webstore/detail/42-launcher/ilfaiabliekooeinlfonleniaeaijabe) `chrome`
 - [Legion 42](https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb) `chrome`
 
-#### DICTIONARY & LANGUAGE CORRECTION
+#### DICTIONARY AND LANGUAGE CORRECTION
 - [LanguageTool](https://languagetool.org)
 - [Grammarly](https://www.grammarly.com)
 - [Wiktionary](https://en.wiktionary.org)
@@ -447,9 +487,26 @@ COMMON CORE PROJECTS
 - [Spicetify](https://spicetify.app) - Powerful CLI tool to take control of the Spotify client.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 
+
 - - - -
 
-## MOOCS AND BOOKS
+<!---
+MOOCS AND BOOKS
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_moocs_and_books_banner.png">
+</h1>
+
+<p align="center">
+	<a href="#plataforms">Plataforms</a> •
+	<a href="#crack-the-code">Crack the Code</a> •
+	<a href="#cybersecurity-and-hacking">Cybersecurity and Hacking</a> •
+	<a href="#hacking-google">Hacking Google</a> •
+	<a href="#online-courses">Online Courses</a> •
+	<a href="#books">Books</a>
+</p>
+
 #### PLATAFORMS
 - [Wikipedia](https://www.wikipedia.org) - Did he really just post the Wikipedia link?!
 - [Udemy](https://www.udemy.com) `free` `paid`
@@ -476,7 +533,7 @@ COMMON CORE PROJECTS
 - [CodinGame](https://www.codingame.com) - Automated platform for writing game bots and alike. Definitely improves your coding and math skills.
 - [Codewars](https://www.codewars.com) - Platform for software developers on which people can solve programming puzzles known also as “katas”.
 
-#### CYBERSECURITY & HACKING
+#### CYBERSECURITY AND HACKING
 - [TryHackMe](https://tryhackme.com) - Learn cyber security, using hands-on exercises and labs.
 - [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills.
 - [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
