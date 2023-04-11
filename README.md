@@ -282,11 +282,11 @@ COMMON CORE PROJECTS
 
 ###### _Information and Resources_
 - [Medium - The Dining Philosopher’s Problem](https://medium.com/swlh/the-dining-philosophers-problem-bbdb92e6b788)
-- [The Dining Philosopher’s Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) 'Wikipedia'
-- [Deadlock](https://en.wikipedia.org/wiki/Deadlock) 'Wikipedia'
-- [Data Race/Race Condition](https://en.wikipedia.org/wiki/Race_condition) 'Wikipedia'
-- [Unix Threads in C](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2) 'Youtube'
-- [The Dining Philosophers Problem (Neso Academy)](https://www.youtube.com/watch?v=FYUi-u7UWgw) 'Youtube'
+- [The Dining Philosopher’s Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) `Wikipedia`
+- [Deadlock](https://en.wikipedia.org/wiki/Deadlock) `Wikipedia`
+- [Data Race/Race Condition](https://en.wikipedia.org/wiki/Race_condition) `Wikipedia`
+- [Unix Threads in C](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2) `Youtube`
+- [The Dining Philosophers Problem (Neso Academy)](https://www.youtube.com/watch?v=FYUi-u7UWgw) `Youtube`
 
 ###### _Testers & Visualizers_
 - [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer) 'Visualizer'
