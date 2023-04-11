@@ -755,6 +755,7 @@ MISCELLANEOUS
 - [Know Your Meme](https://knowyourmeme.com) - Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
 
 #### OTHERS
+- [Parrot Live](https://github.com/hugomd/parrot.live)
 - [Let Me Google That For You...](https://letmegooglethat.com)
 - [PlayPhrase.me](https://www.playphrase.me) - Lets you search for very specific phrases and soundbites that have been uttered on-screen.
 - [Fake Update](https://fakeupdate.net) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`
