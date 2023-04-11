@@ -290,7 +290,7 @@ COMMON CORE PROJECTS
 - [The Dining Philosophers Problem (Neso Academy)](https://www.youtube.com/watch?v=FYUi-u7UWgw) `Youtube`
 
 ###### _Testers & Visualizers_
-- [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer) 'Visualizer'
+- [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer) `Visualizer`
 
 ##### [05] CUB3D
 ###### _Project Files_
