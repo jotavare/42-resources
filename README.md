@@ -278,6 +278,7 @@ COMMON CORE PROJECTS
 
 ##### [04] PHILOSOPHERS
 ###### _Project Files_
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/philosophers.pdf)
 - [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/philosophers_evaluation_page.pdf)
 
 ###### _Information and Resources_
