@@ -175,7 +175,7 @@ COMMON CORE PROJECTS
 > DISCLAIMER: Please note that the projects at 42 school are regularly updated, which means that the information bellow may not be up-to-date.
 
 #### [00] LIBFT
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/libft.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf)
 - [Waiting... Evaluation Page]
 ###### _Information and Resources_
 - [Libft Functions](https://www.asidesigned.com/project-libft.html)
@@ -185,7 +185,7 @@ COMMON CORE PROJECTS
 
 #### [01] BORN2BEROOT
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/born2beroot.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/born2beroot_evaluation_page.pdf)
 - [Evaluation Checklist (AdrianMussoGonzalez)](https://github.com/jotavare/42-resources/blob/main/born2beroot_defense_checklist.md)
 ###### _Testers_
@@ -199,7 +199,7 @@ COMMON CORE PROJECTS
 
 #### [01] FT_PRINTF
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/ft_printf.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_printf.pdf)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/ft_printf_evaluation_page.pdf)
 - [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)
 ###### _Testers_
@@ -207,24 +207,24 @@ COMMON CORE PROJECTS
 
 #### [01] GET_NEXT_LINE
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/get_next_line.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/get_next_line.pdf)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/get_next_line_evaluation_page.pdf)
 ###### _Testers_
 - [Get Next Line Tester (Tripouille)](https://github.com/Tripouille/gnlTester)
 
 #### [02] MINITALK
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/minitalk.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minitalk_evaluation_page.pdf)
 
 #### [02] PIPEX
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/pipex.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/pipex.pdf)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/pipex_evaluation_page.pdf)
 
 #### [03] SO_LONG
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/so_long.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/so_long.pdf)
 - [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/so_long)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/so_long_evaluation_page.pdf)
 
@@ -237,7 +237,7 @@ COMMON CORE PROJECTS
 
 #### [03] FRACT-OL
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fract%E2%80%99ol.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fract%E2%80%99ol.pdf)
 - [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fract-ol)
 
 ###### _Information and Resources_
@@ -245,7 +245,7 @@ COMMON CORE PROJECTS
 
 #### [03] FDF
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fdf.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fdf.pdf)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/fdf_evaluation_page.pdf)
 - [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fdf)
 
@@ -256,7 +256,7 @@ COMMON CORE PROJECTS
 
 #### [03] PUSH_SWAP
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/push_swap.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/push_swap.pdf)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/push_swap_evaluation_page.pdf)
 - [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/push_swap)
 
@@ -275,11 +275,12 @@ COMMON CORE PROJECTS
 
 ##### [04] MINISHELL
 ###### _Project Files_
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minishell.pdf)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minishell_evaluation_page.pdf)
 
 ##### [04] PHILOSOPHERS
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/philosophers.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/philosophers.pdf)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/philosophers_evaluation_page.pdf)
 
 ###### _Information and Resources_
