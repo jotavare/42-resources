@@ -165,8 +165,7 @@ COMMON CORE PROJECTS
 	<a href="#05-cub3d">Cub3d</a> •
 	<a href="#05-minirt">MiniRT</a> •
 	<a href="#05-netpractice">Netpractice</a> •
-	<a href="#05-cpp-module-00-08">CPP Module</a> •
-	<a href="#06-ft_containers">Ft_containers</a> •
+	<a href="#05-cpp-module-00-09">CPP Module</a> •
 	<a href="#06-webserv">Webserv</a> •
 	<a href="#06-inception">Inception</a> •
 	<a href="#07-ft_transcendence">Ft_transcendence</a>
