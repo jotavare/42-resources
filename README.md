@@ -172,7 +172,7 @@ COMMON CORE PROJECTS
 	<a href="#07-ft_transcendence">Ft_transcendence</a>
 </p>
 
-> DISCLAIMER: Please note that the projects at 42 school are regularly updated, which means that the PDFs may not be up-to-date.
+> DISCLAIMER: Please note that the projects at 42 school are regularly updated, which means that the information bellow may not be up-to-date.
 
 #### [00] LIBFT
 - [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/libft.pdf)
