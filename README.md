@@ -592,6 +592,7 @@ AI
 #### Chatbot
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Bard](https://bard.google.com) - AI chatbot, similar to ChatGPT.
+- [Bing](https://www.bing.com/new) - Microsoft Edge necessary to use the chatbot.
 - [PromptHero](https://prompthero.com) - Specific prompts for AI tools.
 
 #### Coding
