@@ -306,18 +306,18 @@ COMMON CORE PROJECTS
 ###### _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/netpractice_evaluation_page.pdf)
 
-##### [05] CPP MODULE (00-08)
+##### [05] CPP MODULE (00-09)
 ###### _Project Files_
-- [Evaluation Page (00)](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_00_evaluation_page.pdf)
-- [Evaluation Page (01)](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_01_evaluation_page.pdf)
-- [Evaluation Page (02)](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_02_evaluation_page.pdf)
-- [Evaluation Page (03)](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_03_evaluation_page.pdf)
-- [Evaluation Page (04)](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_04_evaluation_page.pdf)
-- [Evaluation Page (05)](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_05_evaluation_page.pdf)
-- [Evaluation Page (06)](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_06_evaluation_page.pdf)
-- [Evaluation Page (07)](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_07_evaluation_page.pdf)
-- [Evaluation Page (08)](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_08_evaluation_page.pdf)
-- [Evaluation Page (09)](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_09_evaluation_page.pdf)
+- [Evaluation Page - 00](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_00_evaluation_page.pdf)
+- [Evaluation Page - 01](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_01_evaluation_page.pdf)
+- [Evaluation Page - 02](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_02_evaluation_page.pdf)
+- [Evaluation Page - 03](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_03_evaluation_page.pdf)
+- [Evaluation Page - 04](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_04_evaluation_page.pdf)
+- [Evaluation Page - 05](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_05_evaluation_page.pdf)
+- [Evaluation Page - 06](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_06_evaluation_page.pdf)
+- [Evaluation Page - 07](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_07_evaluation_page.pdf)
+- [Evaluation Page - 08](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_08_evaluation_page.pdf)
+- [Evaluation Page - 09](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_09_evaluation_page.pdf)
 
 ##### [06] WEBSERV
 ###### _Project Files_
