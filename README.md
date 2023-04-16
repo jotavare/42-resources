@@ -1,69 +1,33 @@
-## 🛠️ 42 RESOURCES
+<p align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_resources_banner.png">
+</p>
 
-Welcome to my repository!\
-You will find a collection of resources that have been helpful (or not) during my time at 42 School.\
-If you would like to make a correction or add a useful link for fellow 42 students, please feel free to contact me.\
-All contributions are greatly appreciated and will be evaluated for inclusion in the repository.
+<p align="center">
+	<img src="https://img.shields.io/badge/status-ongoing-success?color=%2312bab9&style=flat-square" />
+	<img src="https://img.shields.io/badge/score-42%20%2F%2042-success?color=%2312bab9&style=flat-square" />
+	<img src="https://img.shields.io/github/last-commit/jotavare/42-resources?color=%2312bab9&style=flat-square" />
+</p>
+<p align="center">
+	<a href="#42-school">42 School</a> •
+	<a href="#--">Piscine and Common Core</a> •
+	<a href="#---1">Common Core Projects</a> •
+	<a href="#---2">Resources</a> •
+	<a href="#---3">Ide, Compilers & Debuggers</a><br/>
+	<a href="#---4">Extensions</a> •
+	<a href="#---5">Moocs and Books</a> •
+	<a href="#---6">Tools</a> •
+	<a href="#---7">Wikimedia Foundation</a> •
+	<a href="#---8">Miscellaneous</a> •
+	<a href="#---9">42 Campuses</a>
+</p>
 
-<details>
-  <summary>Click here for index.</summary>
+## WELCOME
 
-- **[42 SCHOOL](#42-school)**
-  - **[TRIVIA](#trivia)**
-  - **[REWARDS](#rewards)**
-  - **[NETWORK](#network)**
-  - **[SOCIAL](#social)**
-  - **[ASSOCIATIONS](#associations)**
+Thank you for visiting my repository!<br/>
+Here, you will find a collection of resources that I have found helpful during my time at 42 School, as well as some that were not as useful.<br/>
 
-- **[PISCINE, COMMON CORE & SPECIALIZATIONS](#piscine,-common-core-&-specializations)**
-  - **[TOOLS](#tools)**
-  - **[PEER-TO-PEER](#peer-to-peer)**
-  - **[EXAMS](#exams)**
-  - **[SUBJECTS](#subjects)**
-  - **[PROJECTS](#projects)**
-  - **[TESTERS](#testers)**
-  - **[RESOURCES](#resources)**
-
-- **[IDE, COMPILERS & DEBUGGERS](#ide,-compilers-&-debuggers)**
-
-- **[EXTENSIONS](#extensions)**
-  - **[VSCODE](#vscode)**
-  - **[BROWSER](#browser)**
-  - **[DICTIONARY & LANGUAGE CORRECTION](#dictionary-&-language-correction)**
-  - **[APPS](#apps)**
-  - **[BADGE](#badge)**
-  - **[ADDONS](#addons)**
-
-- **[MOOCS & BOOKS](#moocs-&-books)**
-  - **[PLATAFORMS](#vscode)**
-  - **[CRACK THE CODE](#vscode)**
-  - **[ONLINE COURSES](#vscode)**
-  - **[BOOKS](#vscode)**
-
-- **[OTHER TOOLS](#other-tools)**
-  - **[GENERATORS](#generators)**
-  - **[ICONS & ILLUSTRATIONS](#icons-&-illustrations)**
-  - **[IMAGES](#images)**
-  - **[COLORS](#colors)**
-  - **[DESIGN](#design)**
-  - **[VIDEO](#video)**
-
-- **[WIKIMEDIA FOUNDATION](#wikimedia-foundation)**
-
-- **[MISCELLANEOUS](#other-tools)**
-  - **[DIGITAL FOOTPRINT](#generators)**
-  - **[PACKAGE MANAGEMENT](#package-management)**
-  - **[GAMES](#games)**
-  - **[MEMES](#memes)**
-  - **[OTHERS](#others)**
-
-- **[42 CAMPUSES](#42-campuses)**
-
-- **[GLOSSARY](#glossary)**
-
-</details>
-
-- - - -
+If you are a fellow 42 student and have a useful link or a correction to suggest, please don't hesitate to contact me.<br/>
+I highly value any contributions and will evaluate them for possible inclusion in the repository.
 
 ## 42 SCHOOL
 #### TRIVIA
@@ -111,9 +75,45 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 - - - -
 
-## PISCINE, COMMON CORE & SPECIALIZATIONS
+<!---
+PISCINE AND COMMON CORE
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_piscine_and_common_core_banner.png">
+</h1>
+
+<p align="center">
+	<a href="#subjects">Subjects</a> •
+	<a href="#exams">Exams</a> •
+	<a href="#all-in-one-testers">All-In-One Testers</a> •
+	<a href="#tools">Tools</a> •
+	<a href="#peer-to-peer">Peer-To-Peer</a> •
+	<a href="#ctf">CTF</a>
+</p>
+
+#### SUBJECTS
+###### _All current 42 subjects._
+- [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
+- [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers)
+- [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects)
+
+#### EXAMS
+###### _Great websites to help you with 42 exams._
+- [GradeMe](https://grademe.fr) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
+- [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions.
+- [Piscine and Common Core Exams (pasqualerossi)](https://github.com/pasqualerossi/42-Exams) - Questions and solutions.
+- [Piscine and Common Core Exams (48d31kh413k)](https://github.com/48d31kh413k/1337-exam_rank_02-42) - Questions and solutions.
+- [Common Core Exams (anario)](http://www.anit.az/?author=1) - Questions and solutions with mains.
+
+#### ALL-IN-ONE TESTERS
+###### _Test your code with already made testers._
+- [Francinette (xicodomingues)](https://github.com/xicodomingues/francinette) `Libft` `ft_printf` `get_next_line` `minitalk` `pipex`
+- [42 Cursus Tester (Abaker-Hype)](https://github.com/Abaker-Hype/42-Cursus-Tester) `Libft` `ft_printf` `get_next_line`
+
 #### TOOLS
 ###### _Some usefull tools i used in my 42 journey._
+- [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) - A awesome cheatsheet for C and 42 in general.
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
 - [42 XP Calculator](https://42.tbailleu.dev) - Calculate how much exp you need for the next level.
 - [42 Stupidity](https://github.com/mirror12k/42us-stupidity) - A tool for quickly test solutions for the piscine exercises.
@@ -133,159 +133,230 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF`
 - [Character Counter](https://wordcounter.net/character-count) - Write 42 comments with more than 180 characters in corrections. `Achivement`
 
-#### EXAMS
-###### _Great websites to help you with 42 exams._
-- [GradeMe](https://grademe.fr) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
-- [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions.
-- [Piscine and Common Core Exams (pasqualerossi)](https://github.com/pasqualerossi/42-Exams) - Questions and solutions.
-- [Piscine and Common Core Exams (48d31kh413k)](https://github.com/48d31kh413k/1337-exam_rank_02-42) - Questions and solutions.
-- [Common Core Exams (anario)](http://www.anit.az/?author=1) - Questions and solutions with mains.
-
-#### SUBJECTS
-###### _All current 42 subjects._
-- [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
-- [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers)
-- [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects)
-
-#### PROJECTS
-###### _Specific project information and resources._
-##### [00] Libft
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/libft.pdf) `PDF`
-- [Waiting... Evaluation Page]
-- [Libft Functions](https://www.asidesigned.com/project-libft.html)
-
-##### [01] Born2beroot
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/born2beroot.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/born2beroot_evaluation_page.pdf) `PDF`
-- [Evaluation Checklist (AdrianMussoGonzalez)](https://github.com/jotavare/42-resources/blob/main/born2beroot_defense_checklist.md) - Old checklist for Debian and CentOS `GitHub`
-- [Guide (lbordonal)](https://github.com/lbordonal/01-Born2beroot/wiki) `Debian` `GitHub`
-- [Guide (pasqualerossi)](https://github.com/pasqualerossi/Born2BeRoot-Guide) `Debian` `GitHub`
-- [Debian](https://www.debian.org/)
-- [Rocky](https://rockylinux.org/)
-
-##### [01] ft_printf
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/ft_printf.pdf) `PDF`
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_printf_evaluation_page.pdf) `PDF`
-- [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)
-
-##### [01] get_next_line
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/get_next_line.pdf) `PDF`
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/get_next_line_evaluation_page.pdf) `PDF`
-
-##### [02] Minitalk
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/minitalk.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minitalk_evaluation_page.pdf) `PDF`
-
-##### [02] Pipex
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/pipex.pdf) `PDF`
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/pipex_evaluation_page.pdf) `PDF`
-
-##### MinilibX
-- [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)
-- [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial)
-- [MiniLibX Tutorial (Animations)](https://pulgamecanica.herokuapp.com/posts/mlx-animations)
-
-##### [03] so_long
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/so_long.pdf) `PDF`
-- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/so_long) `minilibx_mms_20200219_beta` `minilibx_mms_beta` `minilibx_opengl`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/so_long_evaluation_page.pdf) `PDF`
-
-##### [03] fract-ol
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fract%E2%80%99ol.pdf) `PDF`
-- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fract-ol) `minilibx-linux` `minilibx_mms_beta` `minilibx_opengl` `minilibx_mms_beta` `minilibx_opengl`
-- [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`
-
-##### [03] FdF
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fdf.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/fdf_evaluation_page.pdf) `PDF`
-- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fdf) `fdf` `fdf_linux` `maps` `minilibx-linux` `minilibx_macos_sierra` `minilibx_mms` `sources`
-- [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)
-- [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) `Wikipedia`
-- [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm) `Wikipedia`
-
-##### [03] push_swap
-- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/push_swap.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/push_swap_evaluation_page.pdf) `PDF`
-- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/push_swap) `checker_mac` `checker_linux`
-- [Random Number Generator](https://numbergenerator.org/randomnumbergenerator/1-100?clientAction=540.click)
-- [push_swap Resources](https://push_swap.simple.ink) `Resources` `Data Structure` `Linked List` `Sort`
-- [Merge Sort](https://www.geeksforgeeks.org/merge-sort)
-- [Radix Sort](https://www.geeksforgeeks.org/radix-sort)
-- [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer) `Visualizer`
-
-##### [04] minishell
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minishell_evaluation_page.pdf) `PDF`
-
-##### [04] Philosophers
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/philosophers_evaluation_page.pdf) `PDF`
-
-##### [05] cub3d
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cub3d_evaluation_page.pdf) `PDF`
-
-##### [05] miniRT
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/miniRT_evaluation_page.pdf) `PDF`
-
-##### [05] NetPractice
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/netpractice_evaluation_page.pdf) `PDF`
-
-##### [05] CPP Module (00-08)
-- [Evaluation Page (00)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_00_evaluation_page.pdf) `PDF`
-- [Evaluation Page (01)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_01_evaluation_page.pdf) `PDF`
-- [Evaluation Page (02) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_02_evaluation_page.pdf) `PDF`
-- [Evaluation Page (03) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_03_evaluation_page.pdf) `PDF`
-- [Evaluation Page (04) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_04_evaluation_page.pdf) `PDF`
-- [Evaluation Page (05) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_05_evaluation_page.pdf) `PDF`
-- [Evaluation Page (06) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_06_evaluation_page.pdf) `PDF`
-- [Evaluation Page (07) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_07_evaluation_page.pdf) `PDF`
-- [Evaluation Page (08) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_08_evaluation_page.pdf) `PDF`
-
-##### [06] ft_containers
-- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_containers_evaluation_page.pdf) `PDF`
-
-##### [06] webserv
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/webserv_evaluation_page.pdf) `PDF`
-
-##### [06] ft_irc
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_irc_evaluation_page.pdf) `PDF`
-
-##### [06] Inception
-- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/inception_evaluation_page.pdf) `PDF`
-
-##### [07] ft_transcendence
-- [Evaluation Page (42pde-bakk)](https://github.com/42pde-bakk/ft_transcendence) - README.md file with the project guidelines. `GitHub` 
-
-#### TESTERS
-###### _Test your code with already made testers._
-- [Francinette (xicodomingues)](https://github.com/xicodomingues/francinette) `Libft` `ft_printf` `get_next_line` `minitalk` `pipex`
-- [42 Cursus Tester (Abaker-Hype)](https://github.com/Abaker-Hype/42-Cursus-Tester) `Libft` `ft_printf` `get_next_line`
-- [Libft File Checker (Nuno-Jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
-- [Libft Tester (Tripouille)](https://github.com/Tripouille/libftTester)
-- [Printf Tester (Tripouille)](https://github.com/Tripouille/printfTester)
-- [Get Next Line Tester (Tripouille)](https://github.com/Tripouille/gnlTester)
-- [Born2beroot Tester (Pixailz)](https://github.com/Pixailz/Born2BeRootTester)
-- [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator)
-- [Push Swap Leak Tester (IDC87)](https://github.com/IDC87/push_swap_leak_tester)
-- [Push Swap Tester (gemartin99)](https://github.com/gemartin99/Push-Swap-Tester)
-
 #### CTF
 ###### _Websites and information about capture the flag._
-- [Capture The Flag 101](https://ctf101.org) - What is CTFs?
-- [42 CTF](https://www.42ctf.org/en) - Cybersecurity competition, solve challenges of various categories to gain points and progress on the scoreboard.
-- [Root Me](https://www.root-me.org) - Root Me is a platform for everyone to test and improve knowledge in computer security and hacking.
+- [Capture The Flag 101](https://ctf101.org) - What is a CTF?
+- [42 CTF](https://www.42ctf.org/en) - Cybersecurity challenges platform. 
+- [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking.
 
 - - - -
 
-## RESOURCES
-###### _Resources and cheat sheets for every ocasion._
-##### FORTY-TWO
-- [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) - A awesome cheatsheet for C and 42 in general.
+<!---
+COMMON CORE PROJECTS
+-->
 
-#### AI
-- [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
-- [BLACKBOX AI](https://www.useblackbox.io) - AI-Powered Coding Assistant.
-- [Rytr](https://rytr.me) - AI writing assistant that helps you create high-quality content.
-- [Futurepedia](https://www.futurepedia.io) - Largest AI tools directory.
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_projects_banner.png">
+</h1>
+
+<p align="center">
+	<a href="#00-libft">Libft</a> •
+	<a href="#01-born2beroot">Born2beroot</a> •
+	<a href="#01-ft_printf">Ft_printf</a> •
+	<a href="#01-get_next_line">Get_next_line</a> •
+	<a href="#02-minitalk">Minitalk</a> •
+	<a href="#02-pipex">Pipex</a> •
+	<a href="#03-so_long">So_long</a> •
+	<a href="#03-fract-ol">Fract-ol</a> •
+	<a href="#03-fdf">Fdf</a> •
+	<a href="#03-push_swap">Push_swap</a> •
+	<a href="#04-minishell">Minishell</a><br/>
+	<a href="#04-philosophers">Philosophers</a> •
+	<a href="#05-cub3d">Cub3d</a> •
+	<a href="#05-minirt">MiniRT</a> •
+	<a href="#05-netpractice">Netpractice</a> •
+	<a href="#05-cpp-module-00-08">CPP Module</a> •
+	<a href="#06-ft_containers">Ft_containers</a> •
+	<a href="#06-webserv">Webserv</a> •
+	<a href="#06-inception">Inception</a> •
+	<a href="#07-ft_transcendence">Ft_transcendence</a>
+</p>
+
+> DISCLAIMER: Please note that the projects at 42 school are regularly updated, which means that the PDFs may not be up-to-date.
+
+#### [00] LIBFT
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/libft.pdf)
+- [Waiting... Evaluation Page]
+###### _Information and Resources_
+- [Libft Functions](https://www.asidesigned.com/project-libft.html)
+###### _Testers_
+- [Libft File Checker (Nuno-Jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
+- [Libft Tester (Tripouille)](https://github.com/Tripouille/libftTester)
+
+#### [01] BORN2BEROOT
+###### _Project Files_
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/born2beroot.pdf)
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/born2beroot_evaluation_page.pdf)
+- [Evaluation Checklist (AdrianMussoGonzalez)](https://github.com/jotavare/42-resources/blob/main/born2beroot_defense_checklist.md)
+###### _Testers_
+- [Born2beroot Tester (Pixailz)](https://github.com/Pixailz/Born2BeRootTester)
+
+###### _Information and Resources_
+- [Guide (lbordonal)](https://github.com/lbordonal/01-Born2beroot/wiki)
+- [Guide (pasqualerossi)](https://github.com/pasqualerossi/Born2BeRoot-Guide)
+- [Debian](https://www.debian.org/)
+- [Rocky](https://rockylinux.org/)
+
+#### [01] FT_PRINTF
+###### _Project Files_
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/ft_printf.pdf)
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_printf_evaluation_page.pdf)
+- [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)
+###### _Testers_
+- [Printf Tester (Tripouille)](https://github.com/Tripouille/printfTester)
+
+#### [01] GET_NEXT_LINE
+###### _Project Files_
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/get_next_line.pdf)
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/get_next_line_evaluation_page.pdf)
+###### _Testers_
+- [Get Next Line Tester (Tripouille)](https://github.com/Tripouille/gnlTester)
+
+#### [02] MINITALK
+###### _Project Files_
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/minitalk.pdf)
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minitalk_evaluation_page.pdf)
+
+#### [02] PIPEX
+###### _Project Files_
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/pipex.pdf)
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/pipex_evaluation_page.pdf)
+
+#### [03] SO_LONG
+###### _Project Files_
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/so_long.pdf)
+- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/so_long)
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/so_long_evaluation_page.pdf)
+###### _MinilibX_
+- [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)
+- [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial)
+- [MiniLibX Tutorial (Animations)](https://pulgamecanica.herokuapp.com/posts/mlx-animations)
+###### _Testers_
+- [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator)
+
+#### [03] FRACT-OL
+###### _Project Files_
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fract%E2%80%99ol.pdf)
+- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fract-ol)
+
+###### _Information and Resources_
+- [Fractal](https://en.wikipedia.org/wiki/Fractal)
+
+#### [03] FDF
+###### _Project Files_
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/fdf.pdf)
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/fdf_evaluation_page.pdf)
+- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fdf)
+
+###### _Information and Resources_
+- [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)
+- [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
+- [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm)
+
+#### [03] PUSH_SWAP
+###### _Project Files_
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/push_swap.pdf)
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/push_swap_evaluation_page.pdf)
+- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/push_swap)
+
+###### _Information and Resources_
+- [Random Number Generator](https://numbergenerator.org/randomnumbergenerator/1-100?clientAction=540.click)
+- [push_swap Resources](https://push_swap.simple.ink)
+- [Data Structures - Stacks Introduction](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgWh1emltdMOz8O2m5X3YYn)
+- [42 Heilbronn Student Journey with push_swap](https://medium.com/p/c1f5d2d41e97)
+- [Sorting Algorithms (28 total)](https://www.geeksforgeeks.org/sorting-algorithms/?ref=lbp)
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) - This wiki is an experiment in making algorithms interactive on the web.
+
+###### _Testers_
+- [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer)
+- [Push Swap Leak Tester (IDC87)](https://github.com/IDC87/push_swap_leak_tester)
+- [Push Swap Tester (gemartin99)](https://github.com/gemartin99/Push-Swap-Tester)
+
+##### [04] MINISHELL
+###### _Project Files_
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/minishell_evaluation_page.pdf)
+
+##### [04] PHILOSOPHERS
+###### _Project Files_
+- [Subject](https://github.com/jotavare/42-resources/blob/main/project_subjects/philosophers.pdf)
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/philosophers_evaluation_page.pdf)
+
+###### _Information and Resources_
+- [Medium - The Dining Philosopher’s Problem](https://medium.com/swlh/the-dining-philosophers-problem-bbdb92e6b788)
+- [The Dining Philosopher’s Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) `Wikipedia`
+- [Deadlock](https://en.wikipedia.org/wiki/Deadlock) `Wikipedia`
+- [Data Race/Race Condition](https://en.wikipedia.org/wiki/Race_condition) `Wikipedia`
+- [Unix Threads in C](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2) `Youtube`
+- [The Dining Philosophers Problem (Neso Academy)](https://www.youtube.com/watch?v=FYUi-u7UWgw) `Youtube`
+
+###### _Testers & Visualizers_
+- [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer) `Visualizer`
+
+##### [05] CUB3D
+###### _Project Files_
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cub3d_evaluation_page.pdf)
+
+##### [05] MINIRT
+###### _Project Files_
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/miniRT_evaluation_page.pdf)
+
+##### [05] NETPRACTICE
+###### _Project Files_
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/netpractice_evaluation_page.pdf)
+
+##### [05] CPP MODULE (00-08)
+###### _Project Files_
+- [Evaluation Page (00)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_00_evaluation_page.pdf)
+- [Evaluation Page (01)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_01_evaluation_page.pdf)
+- [Evaluation Page (02) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_02_evaluation_page.pdf)
+- [Evaluation Page (03) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_03_evaluation_page.pdf)
+- [Evaluation Page (04) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_04_evaluation_page.pdf)
+- [Evaluation Page (05) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_05_evaluation_page.pdf)
+- [Evaluation Page (06) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_06_evaluation_page.pdf)
+- [Evaluation Page (07) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_07_evaluation_page.pdf)
+- [Evaluation Page (08) (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/cpp_module_08_evaluation_page.pdf)
+
+##### [06] FT_CONTAINERS
+###### _Project Files_
+- [Evaluation Page](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_containers_evaluation_page.pdf)
+
+##### [06] WEBSERV
+###### _Project Files_
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/webserv_evaluation_page.pdf)
+
+##### [06] FT_IRC
+###### _Project Files_
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/ft_irc_evaluation_page.pdf)
+
+##### [06] INCEPTION
+###### _Project Files_
+- [Evaluation Page (1337)](https://github.com/jotavare/42-resources/blob/main/project_evaluations/inception_evaluation_page.pdf)
+
+##### [07] FT_TRANSCENDENCE
+###### _Project Files_
+- [Evaluation Page (42pde-bakk)](https://github.com/42pde-bakk/ft_transcendence) - README.md file with the project guidelines. 
+
+- - - -
+
+<!---
+RESOURCES
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_resources_banner.png">
+</h1>
+
+<p align="center">
+	<a href="#bash">Bash</a> •
+	<a href="#shell">Shell</a> •
+	<a href="#git">Git</a> •
+	<a href="#markdown">Markdown</a> •
+	<a href="#assembly">Assembly</a> •
+	<a href="#c">C</a> •
+	<a href="#python">Python</a> •
+	<a href="#web-servers">Web Servers</a> •
+	<a href="#others">Others</a>
+</p>
 
 #### BASH
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
@@ -326,7 +397,13 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 - - - -
 
-## IDE[^1], COMPILERS[^2] & DEBUGGERS[^3]
+<!---
+IDE, COMPILERS AND DEBUGGERS
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_ide_compilers_and_debuggers_banner.png">
+</h1>
 
 - [GDB Online Debugger](https://www.onlinegdb.com) - Online compiler and debugger for a lot of programming languages.
 - [Python Tutor](https://pythontutor.com) - Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.
@@ -351,8 +428,24 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 - - - -
 
-## EXTENSIONS
-###### _Extensions, apps, addons... a bit of everything to enchance your experience at 42._
+<!---
+EXTENSIONS
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_extensions_banner.png">
+</h1>
+
+<p align="center">
+	<a href="#scripts">Scripts</a> •
+	<a href="#vs-code">VS Code</a> •
+	<a href="#browser">Browser</a> •
+	<a href="#dictionary-and-language-correction">Dictionary and Language Correction</a> •
+	<a href="#apps">Apps</a> •
+	<a href="#badge">Badge</a> •
+	<a href="#add-ons">Add-ons</a>
+</p>
+
 #### SCRIPTS
 - [Installette (Kuninoto)](https://github.com/Kuninoto/installette) - A Bash script to install Norminette, a Norminette Formatter, Vim and 42 Header for Vim.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Open source, community-driven framework for managing your Zsh configuration.
@@ -360,7 +453,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [tldr-pages](https://github.com/tldr-pages/tldr) - collection of community-maintained help pages for command-line tools.
 - [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) - A bunch of neofetch configs in a single place.
 
-#### VSCODE
+#### VS CODE
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)
 - [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42)
 - [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3)
@@ -387,7 +480,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [42 Launcher](https://chrome.google.com/webstore/detail/42-launcher/ilfaiabliekooeinlfonleniaeaijabe) `chrome`
 - [Legion 42](https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb) `chrome`
 
-#### DICTIONARY & LANGUAGE CORRECTION
+#### DICTIONARY AND LANGUAGE CORRECTION
 - [LanguageTool](https://languagetool.org)
 - [Grammarly](https://www.grammarly.com)
 - [Wiktionary](https://en.wiktionary.org)
@@ -406,9 +499,26 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Spicetify](https://spicetify.app) - Powerful CLI tool to take control of the Spotify client.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
 
+
 - - - -
 
-## MOOCS & BOOKS
+<!---
+MOOCS AND BOOKS
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_moocs_and_books_banner.png">
+</h1>
+
+<p align="center">
+	<a href="#plataforms">Plataforms</a> •
+	<a href="#crack-the-code">Crack the Code</a> •
+	<a href="#cybersecurity-and-hacking">Cybersecurity and Hacking</a> •
+	<a href="#hacking-google">Hacking Google</a> •
+	<a href="#online-courses">Online Courses</a> •
+	<a href="#books">Books</a>
+</p>
+
 #### PLATAFORMS
 - [Wikipedia](https://www.wikipedia.org) - Did he really just post the Wikipedia link?!
 - [Udemy](https://www.udemy.com) `free` `paid`
@@ -435,7 +545,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [CodinGame](https://www.codingame.com) - Automated platform for writing game bots and alike. Definitely improves your coding and math skills.
 - [Codewars](https://www.codewars.com) - Platform for software developers on which people can solve programming puzzles known also as “katas”.
 
-#### CYBERSECURITY & HACKING
+#### CYBERSECURITY AND HACKING
 - [TryHackMe](https://tryhackme.com) - Learn cyber security, using hands-on exercises and labs.
 - [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills.
 - [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
@@ -463,7 +573,70 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 - - - -
 
-## OTHER TOOLS
+<!---
+AI
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_ai_banner_1.png">
+</h1>
+
+<p align="center">
+	<a href="#chatbot">Chatbot</a> •
+	<a href="#coding">Coding</a> •
+	<a href="#text">Text</a> •
+	<a href="#image">Image</a> •
+	<a href="#sound">Sound</a> •
+	<a href="#video">Video</a> •
+	<a href="#others-1">Others</a>
+</p>
+
+#### Chatbot
+- [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
+- [Bard](https://bard.google.com) - AI chatbot, similar to ChatGPT.
+- [PromptHero](https://prompthero.com) - Specific prompts for AI tools.
+
+#### Coding
+- [BLACKBOX AI](https://www.useblackbox.io) - AI-Powered Coding Assistant.
+
+#### Text
+- [Rytr](https://rytr.me) - AI writing assistant that helps you create high-quality content.
+
+#### Image
+- [Stable Diffusion](https://stablediffusionweb.com) - Latent text-to-image diffusion model capable of generating photo-realistic images.
+- [OpenJourney](https://huggingface.co/prompthero/openjourney) - Trained art model used in Stable Diffusion (includes negative prompts).
+- [Midjourney](https://www.midjourney.com) - Generates images from prompts, similar to OpenAI's DALL-E.
+- [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Generate and create stunning visual media.
+
+#### Sound
+- [Boomy](https://boomy.com) - Write and produce a full song in seconds.
+
+#### Video
+- [Gen-2](https://research.runwayml.com/gen2) - Generate novel videos with text, images, or video clips. ... No lights. No camera. All action.
+
+#### Others
+- [Hugging Face](https://huggingface.co) - Trained AI models to use with other AI tools.
+- [Futurepedia](https://www.futurepedia.io) - Largest AI tools directory.
+
+- - - -
+
+<!---
+TOOLS
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_tools_banner_1.png">
+</h1>
+
+<p align="center">
+	<a href="#generators">Generators</a> •
+	<a href="#icons-and-illustrations">Icons and Illustrations</a> •
+	<a href="#images">Images</a> •
+	<a href="#colors">Colors</a> •
+	<a href="#design">Design</a> •
+	<a href="#video">Video</a>
+</p>
+
 #### GENERATORS
 - [ASCII Table](https://www.asciitable.com) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
 - [Lorem Ipsum](https://lipsum.com) - Dummy text for printing and typesetting industry.
@@ -473,7 +646,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Duplicate Word Finder](https://duplicateword.com) - Find duplicate words and eliminate them from your writings, posts or emails. 
 - [Duplicate Word Finder - CodePen](https://codepen.io/finnhvman/pen/oPwXRa) - Duplicate Word Finder + `HTML` `CSS` `JS` visualization.
 
-#### ICONS & IllUSTRATIONS
+#### ICONS AND IllUSTRATIONS
 - [Flaticon](https://www.flaticon.com) - Wide catalogue of icons. `Free` `PNG` `Paid` `SVG` `EPS` `PSD`
 - [Reshot](https://www.reshot.com) - `Free`
 - [unDraw](https://undraw.co) - `Open Source`
@@ -506,27 +679,24 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 - - - -
 
-## WIKIMEDIA FOUNDATION
-- [Wikipedia](https://en.wikipedia.org) – Online encyclopedia.
-- [Wiktionary](https://www.wiktionary.org) – Online dictionary and thesaurus.
-- [Wikibooks](https://en.wikibooks.org) – Collection of books, mostly textbooks.
-- [Wikiquote](https://www.wikiquote.org) – Collection of quotations.
-- [Wikivoyage](https://www.wikivoyage.org) – Travel guide.
-- [Wikisource](https://wikisource.org) – Digital library.
-- [Wikimedia Commons](https://commons.wikimedia.org) – Repository of images, sounds, videos, and general media.
-- [Wikispecies](https://species.wikimedia.org) – Taxonomic catalog of species.
-- [Wikinews](https://www.wikinews.org) – Online newspaper.
-- [Wikiversity](https://www.wikiversity.org) – Collection of tutorials and courses, also a hosting point to coordinate research.
-- [Wikidata](https://www.wikidata.org) – Knowledge base.
-- [Meta-Wiki](https://meta.wikimedia.org) – Central site for coordinating all projects and the Wikimedia community.
-- [Wikimedia Incubator](https://incubator.wikimedia.org) – A single wiki for drafting the core pages of new language-editions in development.
-- [MediaWiki](https://www.mediawiki.org) – Site for coordinating work on MediaWiki software.
-- [Wikitech](https://wikitech.wikimedia.org) – Including Wikimedia Cloud Services, Data Services, Toolforge, and other technical projects and infrastructure.
-- [Phabricator](https://phabricator.wikimedia.org) – Not a wiki, but a global ticketing system for tracking issues and feature requests.
+<!---
+MISCELLANEOUS
+-->
 
-- - - -
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_miscellaneous_banner_1.png">
+</h1>
 
-## MISCELLANEOUS
+<p align="center">
+	<a href="#bootable-usb">Bootable USB</a> •
+	<a href="#productivity-software">Productivity Software</a> •
+	<a href="#digital-footprint">Digital Footprint</a> •
+	<a href="#package-management">Package Management</a> •
+	<a href="#games">Games</a> •
+	<a href="#memes">Memes</a> •
+	<a href="#others">Others</a>
+</p>
+
 #### BOOTABLE USB
 - [Rufus](https://rufus.ie) – Open-source portable application for Microsoft Windows, can be used to format and create bootable USB flash drives or Live USBs.
 - [Ventoy](https://www.ventoy.net) – Open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
@@ -585,6 +755,7 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - [Know Your Meme](https://knowyourmeme.com) - Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
 
 #### OTHERS
+- [Parrot Live](https://github.com/hugomd/parrot.live)
 - [Let Me Google That For You...](https://letmegooglethat.com)
 - [PlayPhrase.me](https://www.playphrase.me) - Lets you search for very specific phrases and soundbites that have been uttered on-screen.
 - [Fake Update](https://fakeupdate.net) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`
@@ -630,8 +801,51 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 
 - - - -
 
-## 42 CAMPUSES
-###### _All 42 campuses arround the world and their information._
+<!---
+WIKIMEDIA FOUNDATION
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_wikimedia_banner_1.png">
+</h1>
+
+- [Wikipedia](https://en.wikipedia.org) – Online encyclopedia.
+- [Wiktionary](https://www.wiktionary.org) – Online dictionary and thesaurus.
+- [Wikibooks](https://en.wikibooks.org) – Collection of books, mostly textbooks.
+- [Wikiquote](https://www.wikiquote.org) – Collection of quotations.
+- [Wikivoyage](https://www.wikivoyage.org) – Travel guide.
+- [Wikisource](https://wikisource.org) – Digital library.
+- [Wikimedia Commons](https://commons.wikimedia.org) – Repository of images, sounds, videos, and general media.
+- [Wikispecies](https://species.wikimedia.org) – Taxonomic catalog of species.
+- [Wikinews](https://www.wikinews.org) – Online newspaper.
+- [Wikiversity](https://www.wikiversity.org) – Collection of tutorials and courses, also a hosting point to coordinate research.
+- [Wikidata](https://www.wikidata.org) – Knowledge base.
+- [Meta-Wiki](https://meta.wikimedia.org) – Central site for coordinating all projects and the Wikimedia community.
+- [Wikimedia Incubator](https://incubator.wikimedia.org) – A single wiki for drafting the core pages of new language-editions in development.
+- [MediaWiki](https://www.mediawiki.org) – Site for coordinating work on MediaWiki software.
+- [Wikitech](https://wikitech.wikimedia.org) – Including Wikimedia Cloud Services, Data Services, Toolforge, and other technical projects and infrastructure.
+- [Phabricator](https://phabricator.wikimedia.org) – Not a wiki, but a global ticketing system for tracking issues and feature requests.
+
+- - - -
+
+<!---
+42 CAMPUSES
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_campuses_banner_1.png">
+</h1>
+
+<p align="center">
+	<a href="#world">World</a> •
+	<a href="#europe">Europe</a> •
+	<a href="#asia">Asia</a> •
+	<a href="#america">America</a> •
+	<a href="#africa">Africa</a> •
+	<a href="#oceania">Oceania</a>
+</p>
+
+#### WORLD
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools)
 - 🗺️ [42 World Map](https://github.com/jotavare/42-resources/blob/main/42-campuses-world-map.jpg)
 
@@ -693,8 +907,3 @@ All contributions are greatly appreciated and will be evaluated for inclusion in
 - 🇦🇺 [42 Adelaide](https://www.42adel.org.au) - Australia
 
 - - - -
-
-## GLOSSARY
-[^1]: **IDE** - An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development.
-[^2]: **COMPILER** - In computing, a compiler is a computer program that translates computer code written in one programming language into another language.
-[^3]: **DEBUGGER** - A debugger or debugging tool is a computer program used to test and debug other programs.
