@@ -224,7 +224,7 @@ COMMON CORE PROJECTS
 #### [03] SO_LONG
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/so_long.pdf)
-- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/so_long)
+- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/so_long)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/so_long_evaluation_page.pdf)
 
 ###### _MinilibX_
@@ -237,7 +237,7 @@ COMMON CORE PROJECTS
 #### [03] FRACT-OL
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fract%E2%80%99ol.pdf)
-- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fract-ol)
+- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fract-ol)
 
 ###### _Information and Resources_
 - [Fractal](https://en.wikipedia.org/wiki/Fractal)
@@ -246,7 +246,7 @@ COMMON CORE PROJECTS
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fdf.pdf)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/fdf_evaluation_page.pdf)
-- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/fdf)
+- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fdf)
 
 ###### _Information and Resources_
 - [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)
@@ -257,7 +257,7 @@ COMMON CORE PROJECTS
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/push_swap.pdf)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/push_swap_evaluation_page.pdf)
-- [Project Files](https://github.com/jotavare/42-resources/tree/main/project_files/push_swap)
+- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/push_swap)
 
 ###### _Information and Resources_
 - [Random Number Generator](https://numbergenerator.org/randomnumbergenerator/1-100?clientAction=540.click)
