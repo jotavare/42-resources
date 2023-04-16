@@ -186,7 +186,7 @@ COMMON CORE PROJECTS
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/born2beroot_evaluation_page.pdf)
-- [Evaluation Checklist (AdrianMussoGonzalez)](https://github.com/jotavare/42-resources/blob/main/born2beroot_defense_checklist.md)
+- [Evaluation Checklist (AdrianMussoGonzalez)](https://github.com/jotavare/jotavare/blob/main/42/extra/born2beroot_defense_checklist.md)
 ###### _Testers_
 - [Born2beroot Tester (Pixailz)](https://github.com/Pixailz/Born2BeRootTester)
 
@@ -845,7 +845,7 @@ WIKIMEDIA FOUNDATION
 
 #### WORLD
 - 🌍 [All 42 Campuses](https://www.42network.org/42-schools)
-- 🗺️ [42 World Map](https://github.com/jotavare/42-resources/blob/main/42-campuses-world-map.jpg)
+- 🗺️ [42 World Map](https://github.com/jotavare/jotavare/blob/main/42/extra/42-campuses-world-map.jpg)
 
 #### EUROPE
 - 🇦🇲 [42 Yerevan](https://42yerevan.am) - Armenia
