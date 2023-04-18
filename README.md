@@ -268,8 +268,8 @@ COMMON CORE PROJECTS
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) - This wiki is an experiment in making algorithms interactive on the web.
 
 ###### _Testers_
-- [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer)
-- [Push Swap Oreo](https://github.com/o-reo/push_swap_visualizer)
+- [Push Swap Visualizer (o-reo)](https://github.com/o-reo/push_swap_visualizer)
+- [Push Swap Tester (laisarena)](https://github.com/laisarena/push_swap_tester)
 - [Push Swap Leak Tester (IDC87)](https://github.com/IDC87/push_swap_leak_tester)
 - [Push Swap Tester (gemartin99)](https://github.com/gemartin99/Push-Swap-Tester)
 
