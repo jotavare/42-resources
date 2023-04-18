@@ -23,7 +23,7 @@
 
 ## WELCOME
 
-Thank you for visiting my repository!!!!<br/>
+Thank you for visiting my repository!<br/>
 Here, you will find a collection of resources that I have found helpful during my time at 42 School, as well as some that were not as useful.<br/>
 
 If you are a fellow 42 student and have a useful link or a correction to suggest, please don't hesitate to contact me.<br/>
@@ -277,6 +277,9 @@ COMMON CORE PROJECTS
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minishell.pdf)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minishell_evaluation_page.pdf)
+
+###### _Information and Resources_
+- [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 
 ##### [04] PHILOSOPHERS
 ###### _Project Files_
