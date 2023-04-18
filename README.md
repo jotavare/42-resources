@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_resources_banner.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_github_banner_resources_banner.png">
 </p>
 
 <p align="center">
@@ -268,7 +268,8 @@ COMMON CORE PROJECTS
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) - This wiki is an experiment in making algorithms interactive on the web.
 
 ###### _Testers_
-- [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer)
+- [Push Swap Visualizer (o-reo)](https://github.com/o-reo/push_swap_visualizer)
+- [Push Swap Tester (laisarena)](https://github.com/laisarena/push_swap_tester)
 - [Push Swap Leak Tester (IDC87)](https://github.com/IDC87/push_swap_leak_tester)
 - [Push Swap Tester (gemartin99)](https://github.com/gemartin99/Push-Swap-Tester)
 
@@ -542,11 +543,18 @@ MOOCS AND BOOKS
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - How to implement X in language Y.
 - [CodinGame](https://www.codingame.com) - Automated platform for writing game bots and alike. Definitely improves your coding and math skills.
 - [Codewars](https://www.codewars.com) - Platform for software developers on which people can solve programming puzzles known also as “katas”.
+- [TryHackMe](https://www.hacker101.com) - Free class for web security.
 
 #### CYBERSECURITY AND HACKING
+- [HackerOne](https://www.hackerone.com) - Web security classes.
 - [TryHackMe](https://tryhackme.com) - Learn cyber security, using hands-on exercises and labs.
 - [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills.
 - [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
+- [Wireshark](https://www.wireshark.org) - Wireshark is a free and open-source packet analyzer.
+- [Responder](https://www.kali.org/tools/responder) - Penetration testing tool is a Link Local Multicast Name Resolution (LLMNR), NBT-NS, and MDNS poisoner.
+- [Hashcat](https://hashcat.net/hashcat) - Powerful tool that helps to crack password hashes.
+- [Metasploit](https://www.metasploit.com) - Security project that provides data about security vulnerabilities and assists penetration testing.
+- [Shodan](https://www.shodan.io) - Search engine for Internet-connected devices.
 
 #### HACKING GOOGLE
 - [EP000: Operation Aurora](https://www.youtube.com/watch?v=przDcQe6n5o) `Youtube` `Documentary`
@@ -592,6 +600,7 @@ AI
 #### Chatbot
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Bard](https://bard.google.com) - AI chatbot, similar to ChatGPT.
+- [Bing](https://www.bing.com/new) - Microsoft Edge necessary to use the chatbot.
 - [PromptHero](https://prompthero.com) - Specific prompts for AI tools.
 
 #### Coding
