@@ -897,6 +897,7 @@ WIKIMEDIA FOUNDATION
 - 🇯🇵 [42 Tokyo](https://42tokyo.jp) - Japan
 - 🇯🇴 [42 Amman](https://www.42network.org/campuses/42-amman) - Jordan
 - 🇲🇾 [42 Kuala](https://42kl.edu.my) - Malaysia
+- 🇸🇬 [42 Singapore](https://www.42singapore.sg) - Singapore
 - 🇰🇷 [42 Séoul](https://42seoul.kr) - South Korea
 - 🇹🇭 [42 Bangkok](https://www.42bangkok.com) - Thailand
 - 🇹🇷 [42 Kocaeli](https://42kocaeli.com.tr) - Turkey
@@ -909,6 +910,7 @@ WIKIMEDIA FOUNDATION
 - 🇨🇦 [42 Québec](https://42quebec.com) - Canada
 
 #### AFRICA
+- 🇲🇬 [42 Antananarivo](https://www.42network.org/campuses/42-antananarivo) - Madagascar
 - 🇲🇦 [1337 – Ben Guerir](https://1337.ma/en/campuses) - Morocco
 - 🇲🇦 [1337 – Khouribga](https://1337.ma/en/campuses) - Morocco
 - 🇲🇦 [1337 – Med](https://1337.ma/en/campuses) - Morocco
