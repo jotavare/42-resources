@@ -306,7 +306,7 @@ COMMON CORE PROJECTS
 
 ##### [05] MINIRT
 ###### _Project Files_
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minirt_evaluation_page.pdf)
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/miniRT_evaluation_page.pdf)
 
 ##### [05] NETPRACTICE
 ###### _Project Files_
