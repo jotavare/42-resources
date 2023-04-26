@@ -221,6 +221,9 @@ COMMON CORE PROJECTS
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/pipex.pdf)
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/pipex_evaluation_page.pdf)
 
+###### _Information and Resources_
+- [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)
+
 #### [03] SO_LONG
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/so_long.pdf)
