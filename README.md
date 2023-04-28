@@ -12,7 +12,7 @@
 	<a href="#--">Piscine and Common Core</a> •
 	<a href="#---1">Common Core Projects</a> •
 	<a href="#---2">Resources</a> •
-	<a href="#---3">Ide, Compilers & Debuggers</a><br/>
+	<a href="#---3">Ide, Compilers & Debuggers</a> •
 	<a href="#---4">Extensions</a> •
 	<a href="#---5">Moocs and Books</a> •
 	<a href="#---6">Tools</a> •
