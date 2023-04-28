@@ -15,10 +15,11 @@
 	<a href="#---3">Ide, Compilers & Debuggers</a> •
 	<a href="#---4">Extensions</a> •
 	<a href="#---5">Moocs and Books</a> •
-	<a href="#---6">Tools</a> •
-	<a href="#---7">Wikimedia Foundation</a> •
-	<a href="#---8">Miscellaneous</a> •
-	<a href="#---9">42 Campuses</a>
+	<a href="#---6">AI</a> •
+	<a href="#---7">Tools</a> •
+	<a href="#---8">Wikimedia Foundation</a> •
+	<a href="#---9">Miscellaneous</a> •
+	<a href="#---10">42 Campuses</a>
 </p>
 
 ## WELCOME
