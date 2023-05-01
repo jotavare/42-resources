@@ -363,6 +363,7 @@ CYBER SECURITY AND HACKING
 - [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills.
 - [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
 - Hacker101
+- Cyberseek.org
 
 #### CTF
 ###### _Websites and information about capture the flag._
@@ -387,6 +388,7 @@ variety of files.
 - [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) - Penetration testing framework designed for social engineering.
 - [VirusTotal](https://www.virustotal.com) - Analyzes suspicious files, URLs, domains and IP addresses to detect malware and other types of threats.
 - [Proton](https://proton.me) - End-to-end encrypted VPN, mail, drive and calendar.
+- [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory and software that performs that exploit.
 - [Burp Suite](#)
 - [OpenVPN](#)
 - [Tailscale](#)
