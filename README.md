@@ -391,6 +391,8 @@ variety of files.
 - [VirusTotal](https://www.virustotal.com) - Analyzes suspicious files, URLs, domains and IP addresses to detect malware and other types of threats.
 - [Proton](https://proton.me) - End-to-end encrypted VPN, mail, drive and calendar.
 - [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory and software that performs that exploit.
+- [CyberChef](https://gchq.github.io/CyberChef) - Web app for encryption, encoding, compression and data analysis.
+- [CyberChef](https://www.dcode.fr/en) - 
 - [Burp Suite](#)
 - [OpenVPN](#)
 - [Tailscale](#)
