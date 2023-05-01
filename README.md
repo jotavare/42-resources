@@ -114,6 +114,7 @@ COMMON CORE PROJECTS
 - [Waiting... Evaluation Page]
 ###### _Information and Resources_
 - [Libft Functions](https://www.asidesigned.com/project-libft.html)
+- [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles) `pulgamecanica`
 ###### _Testers_
 - [Libft File Checker (Nuno-Jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
 - [Libft Tester (Tripouille)](https://github.com/Tripouille/libftTester)
