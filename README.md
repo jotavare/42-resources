@@ -392,7 +392,7 @@ variety of files.
 - [Proton](https://proton.me) - End-to-end encrypted VPN, mail, drive and calendar.
 - [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory and software that performs that exploit.
 - [CyberChef](https://gchq.github.io/CyberChef) - Web app for encryption, encoding, compression and data analysis.
-- [CyberChef](https://www.dcode.fr/en) - 
+- [dCode](https://www.dcode.fr/en) - Collection of over 800 tools to help solve games, riddles, ciphers, mathematics, puzzles, etc.
 - [Burp Suite](#)
 - [OpenVPN](#)
 - [Tailscale](#)
