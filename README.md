@@ -358,22 +358,30 @@ CYBER SECURITY AND HACKING
 - [CodinGame](https://www.codingame.com) - Automated platform for writing game bots and alike. Definitely improves your coding and math skills.
 - [Codewars](https://www.codewars.com) - Platform for software developers on which people can solve programming puzzles known also as “katas”.
 - [TryHackMe](https://www.hacker101.com) - Free class for web security.
-
-#### CYBERSECURITY AND HACKING
 - [HackerOne](https://www.hackerone.com) - Web security classes.
 - [TryHackMe](https://tryhackme.com) - Learn cyber security, using hands-on exercises and labs.
 - [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills.
 - [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
+
+#### TOOLS
+###### _Pentesting tools_
 - [Wireshark](https://www.wireshark.org) - Wireshark is a free and open-source packet analyzer.
 - [Responder](https://www.kali.org/tools/responder) - Penetration testing tool is a Link Local Multicast Name Resolution (LLMNR), NBT-NS, and MDNS poisoner.
 - [Hashcat](https://hashcat.net/hashcat) - Powerful tool that helps to crack password hashes.
 - [Metasploit](https://www.metasploit.com) - Security project that provides data about security vulnerabilities and assists penetration testing.
 - [Shodan](https://www.shodan.io) - Search engine for Internet-connected devices.
+- [ExifTool](https://github.com/exiftool/exiftool) - Reading and writing of meta information in a wide
+variety of files.
+- [Remote Administration Tool](https://github.com/topics/remote-administration-tool) - Full control a tech device, remotely. 
+- [DNScat2](https://github.com/iagox86/dnscat2) - Create an encrypted command-and-control channel over the DNS protocol.
+- [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) - Penetration testing framework designed for social engineering.
+
+#### EXPLOITS
 
 #### CTF
 ###### _Websites and information about capture the flag._
 - [Capture The Flag 101](https://ctf101.org) - What is a CTF?
-- [42 CTF](https://www.42ctf.org/en) - Cybersecurity challenges platform. 
+- [42 CTF](https://www.42ctf.org/en) - 42 cybersecurity challenges platform. 
 - [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking.
 
 #### HACKING GOOGLE
