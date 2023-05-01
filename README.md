@@ -399,6 +399,7 @@ variety of files.
 #### EXPLOITS
 - [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory and software that performs that exploit.
 - [EternalBlue](https://pt.wikipedia.org/wiki/EternalBlue) - Exploit developed by the U.S. NSA. It was leaked by the Shadow Brokers.
+- [MouseJack](https://www.mousejack.com/mousejack) - Vulnerabilitie that affects the vast majority of wireless, non-Bluetooth keyboards and mice. 
 
 #### TERMINOLOGY
 - [Honey Pots](#)
