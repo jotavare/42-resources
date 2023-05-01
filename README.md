@@ -374,6 +374,7 @@ CYBER SECURITY AND HACKING
 #### OPERATING SYSTEM
 - [Tails]
 - [Kali]
+- [Tiny11](https://github.com/ntdevlabs/tiny11builder) - Trimmed-down Windows 11 image.
 
 #### PENTESTING TOOLS
 - [Wireshark](https://www.wireshark.org) - Wireshark is a free and open-source packet analyzer.
@@ -393,6 +394,10 @@ variety of files.
 - [OpenVPN](#)
 - [Tailscale](#)
 - [WiFi Map](#)
+
+#### EXPLOITS
+- [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory and software that performs that exploit.
+- [EternalBlue](https://pt.wikipedia.org/wiki/EternalBlue) - Exploit developed by the U.S. NSA. It was leaked by the Shadow Brokers.
 
 #### TERMINOLOGY
 - [Honey Pots](#)
