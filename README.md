@@ -11,7 +11,7 @@
 	<a href="#42-school">42 School</a> •
 	<a href="#--">Common Core Projects</a> •
 	<a href="#---1">Piscine and Common Core</a> •
-	<a href="#---2">Resources</a> •
+	<a href="#---2">Cyber Security and Hacking</a> •
 	<a href="#---3">Ide, Compilers & Debuggers</a> •
 	<a href="#---4">Extensions</a> •
 	<a href="#---5">Moocs and Books</a> •
@@ -110,28 +110,27 @@ COMMON CORE PROJECTS
 > DISCLAIMER: Please note that the projects at 42 school are regularly updated, which means that the information bellow may not be up-to-date.
 
 #### [00] LIBFT
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf)
-- [Waiting... Evaluation Page]
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf) `PDF`
+- [Waiting... Evaluation Page] `PNG`
 ###### _Information and Resources_
 - [Libft Functions](https://www.asidesigned.com/project-libft.html)
 - [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles) `pulgamecanica`
 ###### _Testers_
-- [Libft File Checker (Nuno-Jesus)](https://github.com/Nuno-Jesus/libft_file_checker)
-- [Libft Tester (Tripouille)](https://github.com/Tripouille/libftTester)
+- [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker) `nuno-jesus` `GitHub`
+- [Libft Tester](https://github.com/Tripouille/libftTester) `Tripouille` `GitHub`
 
 #### [01] BORN2BEROOT
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf)
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/born2beroot_evaluation_page.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/born2beroot_evaluation_page.pdf) `PNG`
 - [Evaluation Checklist (AdrianMussoGonzalez)](https://github.com/jotavare/jotavare/blob/main/42/extra/born2beroot_defense_checklist.md)
-###### _Testers_
-- [Born2beroot Tester (Pixailz)](https://github.com/Pixailz/Born2BeRootTester)
-
 ###### _Information and Resources_
-- [Guide (lbordonal)](https://github.com/lbordonal/01-Born2beroot/wiki)
-- [Guide (pasqualerossi)](https://github.com/pasqualerossi/Born2BeRoot-Guide)
+- [Guide](https://github.com/lbordonal/01-Born2beroot/wiki) `lbordonal` `GitHub`
+- [Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide) `pasquelerossi` `GitHub`
 - [Debian](https://www.debian.org/)
 - [Rocky](https://rockylinux.org/)
+###### _Testers_
+- [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester) `pixailz` `GitHub`
 
 #### [01] FT_PRINTF
 ###### _Project Files_
