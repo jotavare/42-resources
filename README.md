@@ -398,10 +398,11 @@ variety of files.
 - [Tailscale](#)
 - [WiFi Map](#)
 
-#### EXPLOITS
+#### EXPLOITS AND VULNERABILITIES
 - [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory and software that performs that exploit.
 - [EternalBlue](https://pt.wikipedia.org/wiki/EternalBlue) - Exploit developed by the U.S. NSA. It was leaked by the Shadow Brokers.
-- [MouseJack](https://www.mousejack.com/mousejack) - Vulnerabilitie that affects the vast majority of wireless, non-Bluetooth keyboards and mice. 
+- [MouseJack](https://www.mousejack.com/mousejack) - Vulnerabilitie that affects the vast majority of wireless, non-Bluetooth keyboards and mice.
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten) - Standard awareness document for developers and web application security.
 
 #### TERMINOLOGY
 - [Honey Pots](#)
