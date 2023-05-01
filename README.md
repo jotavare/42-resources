@@ -363,8 +363,17 @@ CYBER SECURITY AND HACKING
 - [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills.
 - [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
 
-#### TOOLS
-###### _Pentesting tools_
+#### CTF
+###### _Websites and information about capture the flag._
+- [Capture The Flag 101](https://ctf101.org) - What is a CTF?
+- [42 CTF](https://www.42ctf.org/en) - 42 cybersecurity challenges platform. 
+- [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking.
+
+#### OPERATING SYSTEM
+Linux Tails
+kali linux
+
+#### PENTESTING TOOLS
 - [Wireshark](https://www.wireshark.org) - Wireshark is a free and open-source packet analyzer.
 - [Responder](https://www.kali.org/tools/responder) - Penetration testing tool is a Link Local Multicast Name Resolution (LLMNR), NBT-NS, and MDNS poisoner.
 - [Hashcat](https://hashcat.net/hashcat) - Powerful tool that helps to crack password hashes.
@@ -377,23 +386,15 @@ variety of files.
 - [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) - Penetration testing framework designed for social engineering.
 - [VirusTotal](https://www.virustotal.com) - Analyzes suspicious files, URLs, domains and IP addresses to detect malware and other types of threats.
 - [Proton](https://proton.me) - End-to-end encrypted VPN, mail, drive and calendar.
-Honey Pots
-Linux Tails
 openvpn
 tailscale
-kali linux
 wifimap.io
-dnscat 2
-remote administration tool
 
+#### TERMINOLOGY
+Honey Pots
 
-#### EXPLOITS
-
-#### CTF
-###### _Websites and information about capture the flag._
-- [Capture The Flag 101](https://ctf101.org) - What is a CTF?
-- [42 CTF](https://www.42ctf.org/en) - 42 cybersecurity challenges platform. 
-- [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking.
+#### PODCASTS
+- [Jack Rhysider](https://www.youtube.com/@JackRhysider) - A podcast featuring true stories from the dark side of the Internet.
 
 #### HACKING GOOGLE
 - [EP000: Operation Aurora](https://www.youtube.com/watch?v=przDcQe6n5o) `Youtube` `Documentary`
