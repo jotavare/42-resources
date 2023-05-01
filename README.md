@@ -370,8 +370,8 @@ CYBER SECURITY AND HACKING
 - [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking.
 
 #### OPERATING SYSTEM
-Linux Tails
-kali linux
+- [Tails]
+- [Kali]
 
 #### PENTESTING TOOLS
 - [Wireshark](https://www.wireshark.org) - Wireshark is a free and open-source packet analyzer.
@@ -386,12 +386,13 @@ variety of files.
 - [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) - Penetration testing framework designed for social engineering.
 - [VirusTotal](https://www.virustotal.com) - Analyzes suspicious files, URLs, domains and IP addresses to detect malware and other types of threats.
 - [Proton](https://proton.me) - End-to-end encrypted VPN, mail, drive and calendar.
-openvpn
-tailscale
-wifimap.io
+- [Burp Suite](#)
+- [OpenVPN](#)
+- [Tailscale](#)
+- [WiFi Map](#)
 
 #### TERMINOLOGY
-Honey Pots
+- [Honey Pots](#)
 
 #### PODCASTS
 - [Jack Rhysider](https://www.youtube.com/@JackRhysider) - A podcast featuring true stories from the dark side of the Internet.
