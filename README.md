@@ -375,6 +375,17 @@ variety of files.
 - [Remote Administration Tool](https://github.com/topics/remote-administration-tool) - Full control a tech device, remotely. 
 - [DNScat2](https://github.com/iagox86/dnscat2) - Create an encrypted command-and-control channel over the DNS protocol.
 - [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) - Penetration testing framework designed for social engineering.
+- [VirusTotal](https://www.virustotal.com) - Analyzes suspicious files, URLs, domains and IP addresses to detect malware and other types of threats.
+- [Proton](https://proton.me) - End-to-end encrypted VPN, mail, drive and calendar.
+Honey Pots
+Linux Tails
+openvpn
+tailscale
+kali linux
+wifimap.io
+dnscat 2
+remote administration tool
+
 
 #### EXPLOITS
 
