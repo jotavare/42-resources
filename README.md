@@ -616,6 +616,8 @@ AI
 
 #### Text
 - [Rytr](https://rytr.me) - AI writing assistant that helps you create high-quality content.
+- [QuillBot](https://quillbot.com) - Spelling/grammar checker.
+- [Writerly](https://writerly.ai/) - Content creation superpower.
 
 #### Image
 - [Stable Diffusion](https://stablediffusionweb.com) - Latent text-to-image diffusion model capable of generating photo-realistic images.
