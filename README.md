@@ -82,7 +82,7 @@ COMMON CORE PROJECTS
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_projects_banner.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/common_core_projects_banner.png">
 </h1>
 
 <p align="center">
@@ -284,7 +284,7 @@ PISCINE AND COMMON CORE
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_piscine_and_common_core_banner.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/piscine_common_core_banner.png">
 </h1>
 
 <p align="center">
@@ -340,11 +340,11 @@ PISCINE AND COMMON CORE
 - - - -
 
 <!---
-RESOURCES
+CYBER SECURITY AND HACKING
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_resources_banner.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/cyber_hacking_banner.png">
 </h1>
 
 <p align="center">
@@ -359,42 +359,41 @@ RESOURCES
 	<a href="#others">Others</a>
 </p>
 
-#### BASH
-- [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
+#### CRACK THE CODE
+- [Sololearn](https://www.sololearn.com) - Courses designed by experts with real-world practice.
+- [LeetCode](https://leetcode.com) - Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews.
+- [GeeksforGeeks](https://www.geeksforgeeks.org) - Every problem usually starts from an explanatory article. Good for learning about algorithms and new techniques.
+- [HackerRank](https://www.hackerrank.com) - Lot of programming problems, as well as math, AI, etc. Good to improve problem solving skills.
+- [Codeforces](https://codeforces.com) - Similar to hackerrank, with more focus on conducting programming contests, has a huge problems archive and auto-tests.
+- [Topcoder](https://www.topcoder.com) - For programming contests professionals.
+- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - How to implement X in language Y.
+- [CodinGame](https://www.codingame.com) - Automated platform for writing game bots and alike. Definitely improves your coding and math skills.
+- [Codewars](https://www.codewars.com) - Platform for software developers on which people can solve programming puzzles known also as “katas”.
+- [TryHackMe](https://www.hacker101.com) - Free class for web security.
 
-#### SHELL
-- [Explain Shell](https://explainshell.com) - Explains shell commands.
-- [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
+#### CYBERSECURITY AND HACKING
+- [HackerOne](https://www.hackerone.com) - Web security classes.
+- [TryHackMe](https://tryhackme.com) - Learn cyber security, using hands-on exercises and labs.
+- [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills.
+- [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
+- [Wireshark](https://www.wireshark.org) - Wireshark is a free and open-source packet analyzer.
+- [Responder](https://www.kali.org/tools/responder) - Penetration testing tool is a Link Local Multicast Name Resolution (LLMNR), NBT-NS, and MDNS poisoner.
+- [Hashcat](https://hashcat.net/hashcat) - Powerful tool that helps to crack password hashes.
+- [Metasploit](https://www.metasploit.com) - Security project that provides data about security vulnerabilities and assists penetration testing.
+- [Shodan](https://www.shodan.io) - Search engine for Internet-connected devices.
 
-#### GIT
-- [Git Cheat Sheet (RehanSaeed)](https://github.com/RehanSaeed/Git-Cheat-Sheet)
-- [Git Cheat Sheet (Atlassian)](https://github.com/jotavare/42-resources/files/10611245/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) - `PDF`
+#### CTF
+###### _Websites and information about capture the flag._
+- [Capture The Flag 101](https://ctf101.org) - What is a CTF?
+- [42 CTF](https://www.42ctf.org/en) - Cybersecurity challenges platform. 
+- [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking.
 
-#### MARKDOWN
-- [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet)
-- [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-#### ASSEMBLY
-- [Assembly - Introduction](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm)
-
-#### C
-- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
-- [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators) - Discover how to use bitwise operators.
-- [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
-
-#### PYTHON
-- [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet)
-
-#### WEB SERVERS
-- [Server World](https://www.server-world.info/en) - Website for people who like to build Network Servers with CentOS, Ubuntu, Fedora, Debian, Windows Server.
-
-#### OTHERS
-- [Cheatography](https://cheatography.com) - Over 5,000 free cheat sheets, revision aids and quick references.
-- [Cheat Sheets](https://cheat-sheets.org) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
-- [Devhints](https://devhints.io) - Collection of various cheat sheets.
-- [OverAPI](https://overapi.com) - A website collecting all the cheatsheets.
-- [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+#### HACKING GOOGLE
+- [EP000: Operation Aurora](https://www.youtube.com/watch?v=przDcQe6n5o) `Youtube` `Documentary`
+- [EP001: Threat Analysis Group](https://www.youtube.com/watch?v=N7N4EC20-cM) `Youtube` `Documentary`
+- [EP002: Detection and Response](https://www.youtube.com/watch?v=QZ0cpBocl3c) `Youtube` `Documentary`
+- [EP003: Red Team](https://www.youtube.com/watch?v=TusQWn2TQxQ) `Youtube` `Documentary`
+- [EP004: Bug Hunters](https://www.youtube.com/watch?v=IoXiXlCNoXg) `Youtube` `Documentary`
 
 - - - -
 
@@ -403,7 +402,7 @@ IDE, COMPILERS AND DEBUGGERS
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_ide_compilers_and_debuggers_banner.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/ide_compilers_debuggers_banner">
 </h1>
 
 - [GDB Online Debugger](https://www.onlinegdb.com) - Online compiler and debugger for a lot of programming languages.
@@ -434,7 +433,7 @@ EXTENSIONS
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_extensions_banner.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/extensions_banner.png">
 </h1>
 
 <p align="center">
@@ -508,7 +507,7 @@ MOOCS AND BOOKS
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_moocs_and_books_banner.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/moocs_books_cheatsheets_banner.png">
 </h1>
 
 <p align="center">
@@ -535,42 +534,6 @@ MOOCS AND BOOKS
 - [Google Developers Certification](https://developers.google.com/certification) - Google Developers Certification lets you demonstrate your proficiency and skill. 
 - [Envato Tuts+](https://tutsplus.com) - Learn creative skills with Envato Tuts+.
 
-#### CRACK THE CODE
-- [Sololearn](https://www.sololearn.com) - Courses designed by experts with real-world practice.
-- [LeetCode](https://leetcode.com) - Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews.
-- [GeeksforGeeks](https://www.geeksforgeeks.org) - Every problem usually starts from an explanatory article. Good for learning about algorithms and new techniques.
-- [HackerRank](https://www.hackerrank.com) - Lot of programming problems, as well as math, AI, etc. Good to improve problem solving skills.
-- [Codeforces](https://codeforces.com) - Similar to hackerrank, with more focus on conducting programming contests, has a huge problems archive and auto-tests.
-- [Topcoder](https://www.topcoder.com) - For programming contests professionals.
-- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - How to implement X in language Y.
-- [CodinGame](https://www.codingame.com) - Automated platform for writing game bots and alike. Definitely improves your coding and math skills.
-- [Codewars](https://www.codewars.com) - Platform for software developers on which people can solve programming puzzles known also as “katas”.
-- [TryHackMe](https://www.hacker101.com) - Free class for web security.
-
-#### CYBERSECURITY AND HACKING
-- [HackerOne](https://www.hackerone.com) - Web security classes.
-- [TryHackMe](https://tryhackme.com) - Learn cyber security, using hands-on exercises and labs.
-- [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills.
-- [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
-- [Wireshark](https://www.wireshark.org) - Wireshark is a free and open-source packet analyzer.
-- [Responder](https://www.kali.org/tools/responder) - Penetration testing tool is a Link Local Multicast Name Resolution (LLMNR), NBT-NS, and MDNS poisoner.
-- [Hashcat](https://hashcat.net/hashcat) - Powerful tool that helps to crack password hashes.
-- [Metasploit](https://www.metasploit.com) - Security project that provides data about security vulnerabilities and assists penetration testing.
-- [Shodan](https://www.shodan.io) - Search engine for Internet-connected devices.
-
-#### CTF
-###### _Websites and information about capture the flag._
-- [Capture The Flag 101](https://ctf101.org) - What is a CTF?
-- [42 CTF](https://www.42ctf.org/en) - Cybersecurity challenges platform. 
-- [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking.
-
-#### HACKING GOOGLE
-- [EP000: Operation Aurora](https://www.youtube.com/watch?v=przDcQe6n5o) `Youtube` `Documentary`
-- [EP001: Threat Analysis Group](https://www.youtube.com/watch?v=N7N4EC20-cM) `Youtube` `Documentary`
-- [EP002: Detection and Response](https://www.youtube.com/watch?v=QZ0cpBocl3c) `Youtube` `Documentary`
-- [EP003: Red Team](https://www.youtube.com/watch?v=TusQWn2TQxQ) `Youtube` `Documentary`
-- [EP004: Bug Hunters](https://www.youtube.com/watch?v=IoXiXlCNoXg) `Youtube` `Documentary`
-
 #### ONLINE COURSES
 - [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) `Free`
 - [100 Days of Code in Python](https://www.udemy.com/course/100-days-of-code) `Paid` `Use incognito mode for discount`
@@ -585,6 +548,43 @@ MOOCS AND BOOKS
 - [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) `Wikipedia`
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Available in a lot of languages. `GitHub`
 
+#### BASH
+- [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
+
+#### SHELL
+- [Explain Shell](https://explainshell.com) - Explains shell commands.
+- [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
+
+#### GIT
+- [Git Cheat Sheet (RehanSaeed)](https://github.com/RehanSaeed/Git-Cheat-Sheet)
+- [Git Cheat Sheet (Atlassian)](https://github.com/jotavare/42-resources/files/10611245/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) - `PDF`
+
+#### MARKDOWN
+- [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet)
+- [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+#### ASSEMBLY
+- [Assembly - Introduction](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm)
+
+#### C
+- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
+- [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators) - Discover how to use bitwise operators.
+- [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
+
+#### PYTHON
+- [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet)
+
+#### WEB SERVERS
+- [Server World](https://www.server-world.info/en) - Website for people who like to build Network Servers with CentOS, Ubuntu, Fedora, Debian, Windows Server.
+
+#### OTHERS
+- [Cheatography](https://cheatography.com) - Over 5,000 free cheat sheets, revision aids and quick references.
+- [Cheat Sheets](https://cheat-sheets.org) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
+- [Devhints](https://devhints.io) - Collection of various cheat sheets.
+- [OverAPI](https://overapi.com) - A website collecting all the cheatsheets.
+- [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
 - - - -
 
 <!---
@@ -592,7 +592,7 @@ AI
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_ai_banner_1.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/ai_banner.png">
 </h1>
 
 <p align="center">
@@ -642,7 +642,7 @@ TOOLS
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_tools_banner_1.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/tools_banner.png">
 </h1>
 
 <p align="center">
@@ -701,7 +701,7 @@ MISCELLANEOUS
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_miscellaneous_banner_1.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/misc_banner.png">
 </h1>
 
 <p align="center">
@@ -823,7 +823,7 @@ WIKIMEDIA FOUNDATION
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_wikimedia_banner_1.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/wikimedia_banner.png">
 </h1>
 
 - [Wikipedia](https://en.wikipedia.org) – Online encyclopedia.
@@ -850,7 +850,7 @@ WIKIMEDIA FOUNDATION
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_campuses_banner_1.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/campuses_banner.png">
 </h1>
 
 <p align="center">
