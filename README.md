@@ -393,6 +393,7 @@ variety of files.
 - [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory and software that performs that exploit.
 - [CyberChef](https://gchq.github.io/CyberChef) - Web app for encryption, encoding, compression and data analysis.
 - [dCode](https://www.dcode.fr/en) - Collection of over 800 tools to help solve games, riddles, ciphers, mathematics, puzzles, etc.
+- [Firefox DevTools Docs](https://firefox-source-docs.mozilla.org/devtools-user) -  Set of web developer tools built into Firefox.
 - [Burp Suite](#)
 - [OpenVPN](#)
 - [Tailscale](#)
