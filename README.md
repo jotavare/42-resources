@@ -347,18 +347,6 @@ CYBER SECURITY AND HACKING
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/cyber_hacking_banner.png">
 </h1>
 
-<p align="center">
-	<a href="#bash">Bash</a> •
-	<a href="#shell">Shell</a> •
-	<a href="#git">Git</a> •
-	<a href="#markdown">Markdown</a> •
-	<a href="#assembly">Assembly</a> •
-	<a href="#c">C</a> •
-	<a href="#python">Python</a> •
-	<a href="#web-servers">Web Servers</a> •
-	<a href="#others">Others</a>
-</p>
-
 #### CRACK THE CODE
 - [Sololearn](https://www.sololearn.com) - Courses designed by experts with real-world practice.
 - [LeetCode](https://leetcode.com) - Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews.
@@ -402,7 +390,7 @@ IDE, COMPILERS AND DEBUGGERS
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/ide_compilers_debuggers_banner">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/ide_compilers_debuggers_banner.png">
 </h1>
 
 - [GDB Online Debugger](https://www.onlinegdb.com) - Online compiler and debugger for a lot of programming languages.
@@ -547,6 +535,18 @@ MOOCS AND BOOKS
 - [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) `Wikipedia`
 - [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) `Wikipedia`
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Available in a lot of languages. `GitHub`
+
+<p align="center">
+	<a href="#bash">Bash</a> •
+	<a href="#shell">Shell</a> •
+	<a href="#git">Git</a> •
+	<a href="#markdown">Markdown</a> •
+	<a href="#assembly">Assembly</a> •
+	<a href="#c">C</a> •
+	<a href="#python">Python</a> •
+	<a href="#web-servers">Web Servers</a> •
+	<a href="#others">Others</a>
+</p>
 
 #### BASH
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
