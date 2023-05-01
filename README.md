@@ -47,7 +47,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [JetBrains](https://www.jetbrains.com/community/education) - Integrated development environment Software (IDE). `Sign up with 42 email`
 
 #### NETWORK
-###### _Important websites for 42 students._
+###### _Recommended websites for 42 students._
 - [42 Intra](https://intra.42.fr) - Official portal for everything related with 42.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official Slack channel for 42 students (after Piscine).
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum (after Piscine).
@@ -58,7 +58,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [Black Hole Deep Dive](https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2) - Interesting information about blackhole.
 
 #### SOCIAL
-###### _Every 42 Network social media. For a specific 42 School social media, check the section **[CAMPUSES](#---10)** and pick a school of your choice._
+###### _42 Network social media. For a specific 42 School social media, check the section **[CAMPUSES](#---10)** and pick a school of your choice._
 - [42 Network](https://www.42network.org)
 - [Instagram](https://www.instagram.com/42_network)
 - [Youtube](https://www.youtube.com/c/42thenetwork)
@@ -70,7 +70,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [Unofficial Discord](https://discord.gg/wsrkKE4)
 
 #### ASSOCIATIONS
-###### _All associations and groups made by 42 staff or students._
+###### _Associations and groups made by 42 staff or students._
 - [[FR] 42AI - Association](https://www.42ai.fr) - Artificial Intelligence.
 - [[FR] La Contre-Voie](https://lacontrevoie.fr) - Free culture and ethics.
 - [[FR] APT42](https://apt42.fr) - Security.
