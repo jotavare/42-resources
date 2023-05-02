@@ -300,13 +300,13 @@ PISCINE AND COMMON CORE
 ###### _Great websites to help you with 42 exams._
 - [GradeMe](https://grademe.fr) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions.
-- [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams) `pasqualerossi` `GitHub` - Questions and solutions.
-- [Piscine and Common Core Exams](https://github.com/48d31kh413k/1337-exam_rank_02-42) `48d31kh413k` `GitHub` - Questions and solutions.
-- [Common Core Exams (anario)](http://www.anit.az/?author=1) `anario` - Questions and solutions with mains.
+- [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams) - Questions and solutions. `pasqualerossi` `GitHub`
+- [Piscine and Common Core Exams](https://github.com/48d31kh413k/1337-exam_rank_02-42) - Questions and solutions. `48d31kh413k` `GitHub`
+- [Common Core Exams](http://www.anit.az/?author=1) - Questions and solutions with mains. `anario`
 
 #### SUBJECTS
 ###### _All current 42 subjects._
-- [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) `akaylee` `GitHub` - Graph with attached links to all 42 subjects.
+- [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects. `akaylee` `GitHub`
 - [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers) `GitHub`
 - [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects) `agavrel` `GitHub`
 
@@ -317,11 +317,11 @@ PISCINE AND COMMON CORE
 
 #### TOOLS
 ###### _Some usefull tools i used in my 42 journey._
-- [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) `agavrel` `GitHub` - A awesome cheatsheet for C and 42 in general.
-- [42 Toolbox](https://github.com/alexandregv/42toolbox) `alexandregv` `GitHub` - A bunch of scripts to make your life better at 42.
+- [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) - A awesome cheatsheet for C and 42 in general. `agavrel` `GitHub`
+- [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42. `alexandregv` `GitHub`
 - [42 XP Calculator](https://42.tbailleu.dev) - Calculate how much exp you need for the next level.
-- [42 Stupidity](https://github.com/mirror12k/42us-stupidity) `mirror12k` `GitHub` - A tool for quickly test solutions for the piscine exercises.
-- [RP42](https://github.com/alexandregv/RP42) `alexandregv` `GitHub` - Discord Rich Presence integration for 42 School.
+- [42 Stupidity](https://github.com/mirror12k/42us-stupidity) - A tool for quickly test solutions for the piscine exercises. `mirror12k` `GitHub` 
+- [RP42](https://github.com/alexandregv/RP42) - Discord Rich Presence integration for 42 School. `alexandregv` `GitHub` 
 - [Find Peers](https://find-peers.codam.nl) - Website meant to help students to find peers that are working on the same project.
 - [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr) and still in beta. You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul 🇰🇷 and Vienna 🇦🇹.
 - [42 Evaluators](https://42evaluators.com) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
@@ -335,7 +335,6 @@ PISCINE AND COMMON CORE
 - [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ) - What to do during the evaluation? `Youtube`
 - [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug) - What to do after the evaluation? (as evaluated student) `Youtube`
 - [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF`
-- [Character Counter](https://wordcounter.net/character-count) - Write 42 comments with more than 180 characters in corrections. `Achivement`
 
 - - - -
 
@@ -775,6 +774,7 @@ MISCELLANEOUS
 - [Know Your Meme](https://knowyourmeme.com) - Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
 
 #### OTHERS
+- [Character Counter](https://wordcounter.net/character-count)
 - [Parrot Live](https://github.com/hugomd/parrot.live)
 - [Let Me Google That For You...](https://letmegooglethat.com)
 - [PlayPhrase.me](https://www.playphrase.me) - Lets you search for very specific phrases and soundbites that have been uttered on-screen.
