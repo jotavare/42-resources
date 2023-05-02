@@ -113,104 +113,106 @@ COMMON CORE PROJECTS
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf) `PDF`
 - [Waiting... Evaluation Page] `PNG`
 ###### _Information and Resources_
-- [Libft Functions](https://www.asidesigned.com/project-libft.html)
-- [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles) `pulgamecanica`
+- [Libft Functions](https://www.asidesigned.com/project-libft.html) `Website`
+- [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles) `pulgamecanica` `Blog`
 ###### _Testers_
-- [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker) `nuno-jesus` `GitHub`
+- [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
 - [Libft Tester](https://github.com/Tripouille/libftTester) `Tripouille` `GitHub`
+- [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker) `Nuno-Jesus` `GitHub`
+- [Libft Unit Test](https://github.com/alelievr/libft-unit-test) `alelievr` `GitHub`
+- [Libft Test](https://github.com/jtoty/Libftest) `jtoty` `GitHub`
+- [Libft War Machine](https://github.com/0x050f/libft-war-machine) `0x050f` `GitHub`
 
 #### [01] BORN2BEROOT
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/born2beroot_evaluation_page.pdf) `PNG`
-- [Evaluation Checklist (AdrianMussoGonzalez)](https://github.com/jotavare/jotavare/blob/main/42/extra/born2beroot_defense_checklist.md)
 ###### _Information and Resources_
 - [Guide](https://github.com/lbordonal/01-Born2beroot/wiki) `lbordonal` `GitHub`
 - [Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide) `pasquelerossi` `GitHub`
-- [Debian](https://www.debian.org/)
-- [Rocky](https://rockylinux.org/)
+- [Debian](https://www.debian.org/) `Website`
+- [Rocky](https://rockylinux.org/) `Website`
 ###### _Testers_
-- [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester) `pixailz` `GitHub`
+- [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester) `Pixailz` `GitHub`
+- [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester) `gemartin99` `GitHub`
 
 #### [01] FT_PRINTF
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_printf.pdf)
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/ft_printf_evaluation_page.pdf)
-- [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_printf.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/ft_printf_evaluation_page.pdf) `PNG`
+- [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html) `Website`
 ###### _Testers_
-- [Printf Tester (Tripouille)](https://github.com/Tripouille/printfTester)
+- [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
+- [printfTester](https://github.com/Tripouille/printfTester) `Tripouille` `GitHub`
 
 #### [01] GET_NEXT_LINE
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/get_next_line.pdf)
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/get_next_line_evaluation_page.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/get_next_line.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/get_next_line_evaluation_page.pdf) `PNG`
 ###### _Testers_
-- [Get Next Line Tester (Tripouille)](https://github.com/Tripouille/gnlTester)
+- [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
+- [Get Next Line Tester (Tripouille)](https://github.com/Tripouille/gnlTester) `Tripouille` `GitHub`
 
 #### [02] MINITALK
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf)
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minitalk_evaluation_page.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minitalk_evaluation_page.pdf) `PNG`
+###### _Testers_
+- [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
 
 #### [02] PIPEX
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/pipex.pdf)
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/pipex_evaluation_page.pdf)
-
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/pipex.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/pipex_evaluation_page.pdf) `PNG`
 ###### _Information and Resources_
-- [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)
+- [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) `Youtube`
 
 #### [03] SO_LONG
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/so_long.pdf)
-- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/so_long)
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/so_long_evaluation_page.pdf)
-
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/so_long.pdf) `PDF`
+- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/so_long) `Files`
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/so_long_evaluation_page.pdf) `PNG`
 ###### _MinilibX_
-- [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)
-- [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial)
-- [MiniLibX Tutorial (Animations)](https://pulgamecanica.herokuapp.com/posts/mlx-animations)
+- [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx) `Website`
+- [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial) `pulgamecanica` `Blog`
+- [MiniLibX Animations Tutorial)](https://pulgamecanica.herokuapp.com/posts/mlx-animations) `pulgamecanica` `Blog`
 ###### _Testers_
-- [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator)
+- [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator) `Nuno-Jesus` `GitHub`
 
 #### [03] FRACT-OL
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fract%E2%80%99ol.pdf)
-- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fract-ol)
-
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fract%E2%80%99ol.pdf) `PDF`
+- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fract-ol) `Files`
 ###### _Information and Resources_
-- [Fractal](https://en.wikipedia.org/wiki/Fractal)
+- [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`
 
 #### [03] FDF
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fdf.pdf)
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/fdf_evaluation_page.pdf)
-- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fdf)
-
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fdf.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/fdf_evaluation_page.pdf) `PNG`
+- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fdf) `Files`
 ###### _Information and Resources_
-- [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)
-- [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
-- [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm)
+- [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets) `Generator`
+- [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) `Wikipedia`
+- [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm) `Wikipedia`
 
 #### [03] PUSH_SWAP
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/push_swap.pdf)
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/push_swap_evaluation_page.pdf)
-- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/push_swap)
-
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/push_swap.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/push_swap_evaluation_page.pdf) `PNG`
+- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/push_swap) `Files`
 ###### _Information and Resources_
-- [Random Number Generator](https://numbergenerator.org/randomnumbergenerator/1-100?clientAction=540.click)
-- [push_swap Resources](https://push_swap.simple.ink)
-- [Data Structures - Stacks Introduction](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgWh1emltdMOz8O2m5X3YYn)
-- [42 Heilbronn Student Journey with push_swap](https://medium.com/p/c1f5d2d41e97)
-- [Sorting Algorithms (28 total)](https://www.geeksforgeeks.org/sorting-algorithms/?ref=lbp)
-- [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) - This wiki is an experiment in making algorithms interactive on the web.
-
+- [Random Number Generator](https://numbergenerator.org/randomnumbergenerator) `Generator`
+- [push_swap Resources](https://push_swap.simple.ink) `Website`
+- [42 Heilbronn Student Journey with push_swap](https://medium.com/p/c1f5d2d41e97) `Website`
+- [Sorting Algorithms (28 total)](https://www.geeksforgeeks.org/sorting-algorithms/?ref=lbp) `Website`
+- [Data Structures - Stacks Introduction](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgWh1emltdMOz8O2m5X3YYn) `Youtube`
+- [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) - This wiki is an experiment in making algorithms interactive on the web. `Website`
 ###### _Testers_
-- [Push Swap Visualizer (o-reo)](https://github.com/o-reo/push_swap_visualizer)
-- [Push Swap Tester (laisarena)](https://github.com/laisarena/push_swap_tester)
-- [Push Swap Leak Tester (IDC87)](https://github.com/IDC87/push_swap_leak_tester)
-- [Push Swap Tester (gemartin99)](https://github.com/gemartin99/Push-Swap-Tester)
+- [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer) `o-reo` `GitHub`
+- [Push Swap Tester](https://github.com/laisarena/push_swap_tester) `laisarena` `GitHub`
+- [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester) `IDC87` `GitHub`
+- [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester) `gemartin99` `GitHub`
 
 ##### [04] MINISHELL
 ###### _Project Files_
