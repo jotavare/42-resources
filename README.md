@@ -534,19 +534,16 @@ MOOCS AND BOOKS
 
 <p align="center">
 	<a href="#plataforms">Plataforms</a> •
-	<a href="#crack-the-code">Crack the Code</a> •
-	<a href="#cybersecurity-and-hacking">Cybersecurity and Hacking</a> •
-	<a href="#hacking-google">Hacking Google</a> •
 	<a href="#online-courses">Online Courses</a> •
-	<a href="#books">Books</a>
+	<a href="#books">Books</a> •
+	<a href="#cheatsheets">Cheatsheets</a>
 </p>
 
 #### PLATAFORMS
-- [Wikipedia](https://www.wikipedia.org) - Did he really just post the Wikipedia link?!
-- [Udemy](https://www.udemy.com) `free` `paid`
+- [Udemy](https://www.udemy.com)
 - [Google Codelabs](https://codelabs.developers.google.com)
 - [Codecademy](https://www.codecademy.com)
-- [Coursera](https://www.coursera.org) `7 day trial` `free` `paid` 
+- [Coursera](https://www.coursera.org)
 - [edX](https://www.edx.org)
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
 - [LinkedIn Learning](https://www.linkedin.com/learning) - Learn business, creative, and technology skills to achieve your personal and professional goals.
@@ -570,48 +567,20 @@ MOOCS AND BOOKS
 - [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) `Wikipedia`
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Available in a lot of languages. `GitHub`
 
-<p align="center">
-	<a href="#bash">Bash</a> •
-	<a href="#shell">Shell</a> •
-	<a href="#git">Git</a> •
-	<a href="#markdown">Markdown</a> •
-	<a href="#assembly">Assembly</a> •
-	<a href="#c">C</a> •
-	<a href="#python">Python</a> •
-	<a href="#web-servers">Web Servers</a> •
-	<a href="#others">Others</a>
-</p>
-
-#### BASH
+#### CHEATSHEETS
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
-
-#### SHELL
 - [Explain Shell](https://explainshell.com) - Explains shell commands.
 - [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
-
-#### GIT
 - [Git Cheat Sheet (RehanSaeed)](https://github.com/RehanSaeed/Git-Cheat-Sheet)
 - [Git Cheat Sheet (Atlassian)](https://github.com/jotavare/42-resources/files/10611245/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) - `PDF`
-
-#### MARKDOWN
 - [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet)
 - [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-#### ASSEMBLY
 - [Assembly - Introduction](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm)
-
-#### C
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators) - Discover how to use bitwise operators.
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
-
-#### PYTHON
 - [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet)
-
-#### WEB SERVERS
 - [Server World](https://www.server-world.info/en) - Website for people who like to build Network Servers with CentOS, Ubuntu, Fedora, Debian, Windows Server.
-
-#### OTHERS
 - [Cheatography](https://cheatography.com) - Over 5,000 free cheat sheets, revision aids and quick references.
 - [Cheat Sheets](https://cheat-sheets.org) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 - [Devhints](https://devhints.io) - Collection of various cheat sheets.
