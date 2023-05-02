@@ -362,7 +362,7 @@ CYBER SECURITY AND HACKING
 </p>
 
 #### CRACK THE CODE
-###### _Websites and information to learn about cyber security and hacking in general_
+###### _Websites and information to learn about cyber security and hacking in general._
 - [Capture The Flag 101](https://ctf101.org) - What is a CTF?
 - [42 CTF](https://www.42ctf.org/en) - 42 cybersecurity challenges platform. 
 - [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking.
@@ -383,6 +383,7 @@ CYBER SECURITY AND HACKING
 - [Cyberseek](https://www.cyberseek.org) - Explire career paths, skills and certifications.
 
 #### PENTESTING TOOLS
+###### _Collection of software and applications used to perform penetration testing or ethical hacking._
 - [Wireshark](https://www.wireshark.org) - Wireshark is a free and open-source packet analyzer.
 - [Responder](https://www.kali.org/tools/responder) - Penetration testing tool is a Link Local Multicast Name Resolution (LLMNR), NBT-NS, and MDNS poisoner.
 - [Hashcat](https://hashcat.net/hashcat) - Powerful tool that helps to crack password hashes.
@@ -400,6 +401,7 @@ CYBER SECURITY AND HACKING
 - [WiFi Map](https://www.wifimap.io) -  WiFi Map will navigate you to the nearest shared hotspots, show passwords, and let you connect to the internet in a few taps.
 
 #### DIGITAL FOOTPRINT
+###### _Check your online traces._
 - [Firefox Monitor](https://monitor.firefox.com) - Check if you've been victim of an online data breach.
 - [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address or phone number has been compromised.
 - [DeHashed](https://www.dehashed.com) - Free deep-web scans and protection against credential leaks.
