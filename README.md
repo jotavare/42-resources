@@ -348,6 +348,19 @@ CYBER SECURITY AND HACKING
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/cyber_hacking_banner.png">
 </h1>
 
+<p align="center">
+	<a href="#crack-the-code">Subjects</a> •
+	<a href="#pentesting-tools">Exams</a> •
+	<a href="#digital-footprint">All-In-One Testers</a> •
+	<a href="#vpn">VPN</a> •
+	<a href="#bootable-usb">BOOTABLE USB</a> •
+	<a href="#operating-system">OPERATING SYSTEM</a> •
+	<a href="#exploits-and-vulnerabilities">EXPLOITS AND VULNERABILITIES</a> •
+	<a href="#terminology">TERMINOLOGY</a> •
+	<a href="#podcasts">PODCASTS</a> •
+	<a href="#hacking-google">HACKING GOOGLE</a>
+</p>
+
 #### CRACK THE CODE
 ###### _Websites and information to learn about cyber security and hacking in general_
 - [Capture The Flag 101](https://ctf101.org) - What is a CTF?
@@ -386,10 +399,22 @@ CYBER SECURITY AND HACKING
 - [Burp Suite](https://portswigger.net/burp) - Integrated platform for performing security testing of web applications. 
 - [WiFi Map](https://www.wifimap.io) -  WiFi Map will navigate you to the nearest shared hotspots, show passwords, and let you connect to the internet in a few taps.
 
+#### DIGITAL FOOTPRINT
+- [Firefox Monitor](https://monitor.firefox.com) - Check if you've been victim of an online data breach.
+- [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address or phone number has been compromised.
+- [DeHashed](https://www.dehashed.com) - Free deep-web scans and protection against credential leaks.
+- [LeakCheck](https://leakcheck.io) - Data breach search engine.
+- [Intelligence X](https://intelx.io) - Search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
+
 #### VPN
 - [Proton](https://proton.me) - End-to-end encrypted VPN, mail, drive and calendar.
 - [OpenVPN](https://openvpn.net) - Secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities.
 - [Tailscale](https://tailscale.com) - Zero config VPN for building secure networks.
+
+#### BOOTABLE USB
+- [Rufus](https://rufus.ie) – Open-source portable application for Microsoft Windows, can be used to format and create bootable USB flash drives or Live USBs.
+- [Ventoy](https://www.ventoy.net) – Open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
+- [Etcher](https://www.balena.io/etcher) – A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily.
 
 #### OPERATING SYSTEM
 - [Tails](https://tails.boum.org) - Linux distribution aimed at preserving privacy and anonymity. It connects to the Internet exclusively through the anonymity network Tor.
@@ -428,9 +453,7 @@ IDE, COMPILERS AND DEBUGGERS
 - [GDB Online Debugger](https://www.onlinegdb.com) - Online compiler and debugger for a lot of programming languages.
 - [Python Tutor](https://pythontutor.com) - Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.
 - [Thonny](https://thonny.org) - Thonny is an IDE for Python that is designed for beginners.
-- [Sublime Text](https://www.sublimetext.com)
-
-#### ONLINE IDE
+- [Sublime Text](https://www.sublimetext.com) - Sophisticated text editor for code, markup and prose.
 - [Replit](https://replit.com) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
 - [JSFiddle](https://jsfiddle.net) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
 - [CodeSandbox](https://codesandbox.io) - Cloud development platform that empowers developers to code, collaborate and ship projects of any size from any device in record time.
@@ -518,7 +541,6 @@ EXTENSIONS
 #### ADD-ONS
 - [Spicetify](https://spicetify.app) - Powerful CLI tool to take control of the Spotify client.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
-
 
 - - - -
 
@@ -706,32 +728,18 @@ MISCELLANEOUS
 </h1>
 
 <p align="center">
-	<a href="#bootable-usb">Bootable USB</a> •
 	<a href="#productivity-software">Productivity Software</a> •
-	<a href="#digital-footprint">Digital Footprint</a> •
 	<a href="#package-management">Package Management</a> •
 	<a href="#games">Games</a> •
 	<a href="#memes">Memes</a> •
 	<a href="#others">Others</a>
 </p>
 
-#### BOOTABLE USB
-- [Rufus](https://rufus.ie) – Open-source portable application for Microsoft Windows, can be used to format and create bootable USB flash drives or Live USBs.
-- [Ventoy](https://www.ventoy.net) – Open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
-- [Etcher](https://www.balena.io/etcher) – A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily.
-
 #### PRODUCTIVITY SOFTWARE
 - [Evernote](https://evernote.com) – Note-taking and task management application. 
 - [Notion](https://www.notion.so) – Freemium productivity and note-taking web application developed by Notion Labs Inc.
 - [Trello](https://trello.com) – Ultimate project management tool.
 - [Motion](https://www.usemotion.com) – Automatically prioritize tasks, schedule meetings, and resolve calendar conflicts. 
-
-#### DIGITAL FOOTPRINT
-- [Firefox Monitor](https://monitor.firefox.com) - Check if you've been victim of an online data breach.
-- [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address or phone number has been compromised.
-- [DeHashed](https://www.dehashed.com) - Free deep-web scans and protection against credential leaks.
-- [LeakCheck](https://leakcheck.io) - Data breach search engine.
-- [Intelligence X](https://intelx.io) - Search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
 
 #### PACKAGE MANAGEMENT
 - [Chocolatey](https://chocolatey.org) - Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
