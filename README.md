@@ -111,7 +111,7 @@ COMMON CORE PROJECTS
 
 #### [00] LIBFT
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf) `PDF`
-- [Waiting... Evaluation Page] `PNG`
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/libft_evaluation_page.pdf) `PNG`
 ###### _Information and Resources_
 - [Libft Functions](https://www.asidesigned.com/project-libft.html) `Website`
 - [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles) `pulgamecanica` `Blog`
@@ -216,19 +216,19 @@ COMMON CORE PROJECTS
 
 ##### [04] MINISHELL
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minishell.pdf)
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minishell_evaluation_page.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minishell.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minishell_evaluation_page.pdf) `PNG`
 
 ###### _Information and Resources_
-- [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+- [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html) `Website`
 
 ##### [04] PHILOSOPHERS
 ###### _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/philosophers.pdf)
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/philosophers_evaluation_page.pdf)
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/philosophers.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/philosophers_evaluation_page.pdf) `PNG`
 
 ###### _Information and Resources_
-- [Medium - The Dining Philosopher’s Problem](https://medium.com/swlh/the-dining-philosophers-problem-bbdb92e6b788)
+- [Medium - The Dining Philosopher’s Problem](https://medium.com/swlh/the-dining-philosophers-problem-bbdb92e6b788) `Website`
 - [The Dining Philosopher’s Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) `Wikipedia`
 - [Deadlock](https://en.wikipedia.org/wiki/Deadlock) `Wikipedia`
 - [Data Race/Race Condition](https://en.wikipedia.org/wiki/Race_condition) `Wikipedia`
@@ -236,48 +236,48 @@ COMMON CORE PROJECTS
 - [The Dining Philosophers Problem (Neso Academy)](https://www.youtube.com/watch?v=FYUi-u7UWgw) `Youtube`
 
 ###### _Testers & Visualizers_
-- [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer) `Visualizer`
+- [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer) `nafuka11` `Visualizer`
 
 ##### [05] CUB3D
 ###### _Project Files_
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cub3d_evaluation_page.pdf)
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cub3d_evaluation_page.pdf) `PNG`
 
 ##### [05] MINIRT
 ###### _Project Files_
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/miniRT_evaluation_page.pdf)
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/miniRT_evaluation_page.pdf) `PNG`
 
 ##### [05] NETPRACTICE
 ###### _Project Files_
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/netpractice_evaluation_page.pdf)
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/netpractice_evaluation_page.pdf) `PNG`
 
 ##### [05] CPP MODULE (00-09)
 ###### _Project Files_
-- [Evaluation Page - 00](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_00_evaluation_page.pdf)
-- [Evaluation Page - 01](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_01_evaluation_page.pdf)
-- [Evaluation Page - 02](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_02_evaluation_page.pdf)
-- [Evaluation Page - 03](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_03_evaluation_page.pdf)
-- [Evaluation Page - 04](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_04_evaluation_page.pdf)
-- [Evaluation Page - 05](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_05_evaluation_page.pdf)
-- [Evaluation Page - 06](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_06_evaluation_page.pdf)
-- [Evaluation Page - 07](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_07_evaluation_page.pdf)
-- [Evaluation Page - 08](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_08_evaluation_page.pdf)
-- [Evaluation Page - 09](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_09_evaluation_page.pdf)
+- [Evaluation Page - 00](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_00_evaluation_page.pdf) `PNG`
+- [Evaluation Page - 01](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_01_evaluation_page.pdf) `PNG`
+- [Evaluation Page - 02](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_02_evaluation_page.pdf) `PNG`
+- [Evaluation Page - 03](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_03_evaluation_page.pdf) `PNG`
+- [Evaluation Page - 04](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_04_evaluation_page.pdf) `PNG`
+- [Evaluation Page - 05](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_05_evaluation_page.pdf) `PNG`
+- [Evaluation Page - 06](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_06_evaluation_page.pdf) `PNG`
+- [Evaluation Page - 07](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_07_evaluation_page.pdf) `PNG`
+- [Evaluation Page - 08](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_08_evaluation_page.pdf) `PNG`
+- [Evaluation Page - 09](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_09_evaluation_page.pdf) `PNG`
 
 ##### [06] WEBSERV
 ###### _Project Files_
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/webserv_evaluation_page.pdf)
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/webserv_evaluation_page.pdf) `PNG`
 
 ##### [06] FT_IRC
 ###### _Project Files_
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/ft_irc_evaluation_page.pdf)
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/ft_irc_evaluation_page.pdf) `PNG`
 
 ##### [06] INCEPTION
 ###### _Project Files_
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/inception_evaluation_page.pdf)
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/inception_evaluation_page.pdf) `PNG`
 
 ##### [07] FT_TRANSCENDENCE
 ###### _Project Files_
-- [Evaluation Page (42pde-bakk)](https://github.com/42pde-bakk/ft_transcendence) - README.md file with the project guidelines. 
+- [Evaluation Page](https://github.com/42pde-bakk/ft_transcendence) - README.md file with the project guidelines. `42pde-bakk` `GitHub`
 
 - - - -
 
