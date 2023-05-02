@@ -27,7 +27,7 @@
 Thank you for visiting my repository!<br/>
 Here, you will find a collection of resources that I have found helpful during my time at 42 School, as well as some that were not as useful.<br/>
 
-If you are a fellow 42 student and have a useful link or a correction to suggest, please don't hesitate to contact me.<br/>
+If you are a fellow 42 student and have a usesophisticated text editor for code, markup and prose.ful link or a correction to suggest, please don't hesitate to contact me.<br/>
 I highly value any contributions and will evaluate them for possible inclusion in the repository.
 
 ## 42 SCHOOL
@@ -353,12 +353,12 @@ CYBER SECURITY AND HACKING
 	<a href="#pentesting-tools">Exams</a> •
 	<a href="#digital-footprint">All-In-One Testers</a> •
 	<a href="#vpn">VPN</a> •
-	<a href="#bootable-usb">BOOTABLE USB</a> •
-	<a href="#operating-system">OPERATING SYSTEM</a> •
-	<a href="#exploits-and-vulnerabilities">EXPLOITS AND VULNERABILITIES</a> •
-	<a href="#terminology">TERMINOLOGY</a> •
-	<a href="#podcasts">PODCASTS</a> •
-	<a href="#hacking-google">HACKING GOOGLE</a>
+	<a href="#bootable-usb">Bootable USB</a> •
+	<a href="#operating-system">Operating System</a> •
+	<a href="#exploits-and-vulnerabilities">Explois and Vulnerabulities</a> •
+	<a href="#terminology">Terminology</a> •
+	<a href="#podcasts">Podcasts</a> •
+	<a href="#hacking-google">Hacking Google</a>
 </p>
 
 #### CRACK THE CODE
