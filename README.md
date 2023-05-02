@@ -277,7 +277,7 @@ COMMON CORE PROJECTS
 
 ##### [07] FT_TRANSCENDENCE
 ###### _Project Files_
-- [Evaluation Page](https://github.com/42pde-bakk/ft_transcendence) - README.md file with the project guidelines. `42pde-bakk` `GitHub`
+- [Evaluation Page](https://github.com/42pde-bakk/ft_transcendence) - README file with the project guidelines. `42pde-bakk` `GitHub`
 
 - - - -
 
@@ -349,6 +349,10 @@ CYBER SECURITY AND HACKING
 </h1>
 
 #### CRACK THE CODE
+###### _Websites and information to learn about cyber security and hacking in general_
+- [Capture The Flag 101](https://ctf101.org) - What is a CTF?
+- [42 CTF](https://www.42ctf.org/en) - 42 cybersecurity challenges platform. 
+- [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking.
 - [Sololearn](https://www.sololearn.com) - Courses designed by experts with real-world practice.
 - [LeetCode](https://leetcode.com) - Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews.
 - [GeeksforGeeks](https://www.geeksforgeeks.org) - Every problem usually starts from an explanatory article. Good for learning about algorithms and new techniques.
@@ -358,24 +362,12 @@ CYBER SECURITY AND HACKING
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - How to implement X in language Y.
 - [CodinGame](https://www.codingame.com) - Automated platform for writing game bots and alike. Definitely improves your coding and math skills.
 - [Codewars](https://www.codewars.com) - Platform for software developers on which people can solve programming puzzles known also as “katas”.
-- [TryHackMe](https://www.hacker101.com) - Free class for web security.
+- [Hacker101](https://www.hacker101.com) - Free class for web security.
 - [HackerOne](https://www.hackerone.com) - Web security classes.
 - [TryHackMe](https://tryhackme.com) - Learn cyber security, using hands-on exercises and labs.
 - [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills.
 - [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
-- Hacker101
-- Cyberseek.org
-
-#### CTF
-###### _Websites and information about capture the flag._
-- [Capture The Flag 101](https://ctf101.org) - What is a CTF?
-- [42 CTF](https://www.42ctf.org/en) - 42 cybersecurity challenges platform. 
-- [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking.
-
-#### OPERATING SYSTEM
-- [Tails]
-- [Kali]
-- [Tiny11](https://github.com/ntdevlabs/tiny11builder) - Trimmed-down Windows 11 image.
+- [Cyberseek](https://www.cyberseek.org) - Explire career paths, skills and certifications.
 
 #### PENTESTING TOOLS
 - [Wireshark](https://www.wireshark.org) - Wireshark is a free and open-source packet analyzer.
@@ -383,21 +375,26 @@ CYBER SECURITY AND HACKING
 - [Hashcat](https://hashcat.net/hashcat) - Powerful tool that helps to crack password hashes.
 - [Metasploit](https://www.metasploit.com) - Security project that provides data about security vulnerabilities and assists penetration testing.
 - [Shodan](https://www.shodan.io) - Search engine for Internet-connected devices.
-- [ExifTool](https://github.com/exiftool/exiftool) - Reading and writing of meta information in a wide
-variety of files.
+- [ExifTool](https://github.com/exiftool/exiftool) - Reading and writing of meta information in a wide variety of files.
 - [Remote Administration Tool](https://github.com/topics/remote-administration-tool) - Full control a tech device, remotely. 
 - [DNScat2](https://github.com/iagox86/dnscat2) - Create an encrypted command-and-control channel over the DNS protocol.
 - [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) - Penetration testing framework designed for social engineering.
 - [VirusTotal](https://www.virustotal.com) - Analyzes suspicious files, URLs, domains and IP addresses to detect malware and other types of threats.
-- [Proton](https://proton.me) - End-to-end encrypted VPN, mail, drive and calendar.
-- [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory and software that performs that exploit.
 - [CyberChef](https://gchq.github.io/CyberChef) - Web app for encryption, encoding, compression and data analysis.
 - [dCode](https://www.dcode.fr/en) - Collection of over 800 tools to help solve games, riddles, ciphers, mathematics, puzzles, etc.
 - [Firefox DevTools Docs](https://firefox-source-docs.mozilla.org/devtools-user) -  Set of web developer tools built into Firefox.
-- [Burp Suite](#)
-- [OpenVPN](#)
-- [Tailscale](#)
-- [WiFi Map](#)
+- [Burp Suite](https://portswigger.net/burp) - Integrated platform for performing security testing of web applications. 
+- [WiFi Map](https://www.wifimap.io) -  WiFi Map will navigate you to the nearest shared hotspots, show passwords, and let you connect to the internet in a few taps.
+
+#### VPN
+- [Proton](https://proton.me) - End-to-end encrypted VPN, mail, drive and calendar.
+- [OpenVPN](https://openvpn.net) - Secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities.
+- [Tailscale](https://tailscale.com) - Zero config VPN for building secure networks.
+
+#### OPERATING SYSTEM
+- [Tails](https://tails.boum.org) - Linux distribution aimed at preserving privacy and anonymity. It connects to the Internet exclusively through the anonymity network Tor.
+- [Kali Linux](https://www.kali.org) - Linux distribution geared towards Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
+- [Tiny11](https://github.com/ntdevlabs/tiny11builder) - Trimmed-down Windows 11 image.
 
 #### EXPLOITS AND VULNERABILITIES
 - [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory and software that performs that exploit.
@@ -406,10 +403,10 @@ variety of files.
 - [OWASP Top Ten](https://owasp.org/www-project-top-ten) - Standard awareness document for developers and web application security.
 
 #### TERMINOLOGY
-- [Honey Pots](#)
+- [Honey Pots](https://en.wikipedia.org/wiki/Honeypot_(computing)) `Wikipedia`
 
 #### PODCASTS
-- [Jack Rhysider](https://www.youtube.com/@JackRhysider) - A podcast featuring true stories from the dark side of the Internet.
+- [Jack Rhysider](https://www.youtube.com/@JackRhysider) - A podcast featuring true stories from the dark side of the Internet. `Youtube`
 
 #### HACKING GOOGLE
 - [EP000: Operation Aurora](https://www.youtube.com/watch?v=przDcQe6n5o) `Youtube` `Documentary`
