@@ -296,32 +296,32 @@ PISCINE AND COMMON CORE
 	<a href="#ctf">CTF</a>
 </p>
 
-#### SUBJECTS
-###### _All current 42 subjects._
-- [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects.
-- [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers)
-- [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects)
-
 #### EXAMS
 ###### _Great websites to help you with 42 exams._
 - [GradeMe](https://grademe.fr) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions.
-- [Piscine and Common Core Exams (pasqualerossi)](https://github.com/pasqualerossi/42-Exams) - Questions and solutions.
-- [Piscine and Common Core Exams (48d31kh413k)](https://github.com/48d31kh413k/1337-exam_rank_02-42) - Questions and solutions.
-- [Common Core Exams (anario)](http://www.anit.az/?author=1) - Questions and solutions with mains.
+- [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams) `pasqualerossi` `GitHub` - Questions and solutions.
+- [Piscine and Common Core Exams](https://github.com/48d31kh413k/1337-exam_rank_02-42) `48d31kh413k` `GitHub` - Questions and solutions.
+- [Common Core Exams (anario)](http://www.anit.az/?author=1) `anario` - Questions and solutions with mains.
+
+#### SUBJECTS
+###### _All current 42 subjects._
+- [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) `akaylee` `GitHub` - Graph with attached links to all 42 subjects.
+- [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers) `GitHub`
+- [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects) `agavrel` `GitHub`
 
 #### ALL-IN-ONE TESTERS
-###### _Test your code with already made testers._
-- [Francinette (xicodomingues)](https://github.com/xicodomingues/francinette) `Libft` `ft_printf` `get_next_line` `minitalk` `pipex`
-- [42 Cursus Tester (Abaker-Hype)](https://github.com/Abaker-Hype/42-Cursus-Tester) `Libft` `ft_printf` `get_next_line`
+###### _Test your code with already made all-in-one testers._
+- [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `Libft` `ft_printf` `get_next_line` `minitalk` `pipex`
+- [42 Cursus Tester](https://github.com/Abaker-Hype/42-Cursus-Tester) `abaker-hype` `Libft` `ft_printf` `get_next_line`
 
 #### TOOLS
 ###### _Some usefull tools i used in my 42 journey._
-- [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) - A awesome cheatsheet for C and 42 in general.
-- [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42.
+- [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) `agavrel` `GitHub` - A awesome cheatsheet for C and 42 in general.
+- [42 Toolbox](https://github.com/alexandregv/42toolbox) `alexandregv` `GitHub` - A bunch of scripts to make your life better at 42.
 - [42 XP Calculator](https://42.tbailleu.dev) - Calculate how much exp you need for the next level.
-- [42 Stupidity](https://github.com/mirror12k/42us-stupidity) - A tool for quickly test solutions for the piscine exercises.
-- [RP42](https://github.com/alexandregv/RP42) - Discord Rich Presence integration for 42 School.
+- [42 Stupidity](https://github.com/mirror12k/42us-stupidity) `mirror12k` `GitHub` - A tool for quickly test solutions for the piscine exercises.
+- [RP42](https://github.com/alexandregv/RP42) `alexandregv` `GitHub` - Discord Rich Presence integration for 42 School.
 - [Find Peers](https://find-peers.codam.nl) - Website meant to help students to find peers that are working on the same project.
 - [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr) and still in beta. You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul 🇰🇷 and Vienna 🇦🇹.
 - [42 Evaluators](https://42evaluators.com) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
