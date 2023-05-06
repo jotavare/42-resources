@@ -349,9 +349,9 @@ CYBER SECURITY AND HACKING
 </h1>
 
 <p align="center">
-	<a href="#crack-the-code">Subjects</a> •
-	<a href="#pentesting-tools">Exams</a> •
-	<a href="#digital-footprint">All-In-One Testers</a> •
+	<a href="#crack-the-code">Crack the Code</a> •
+	<a href="#pentesting-tools">Pentesting Tools</a> •
+	<a href="#digital-footprint">Digital Footprint</a> •
 	<a href="#vpn">VPN</a> •
 	<a href="#bootable-usb">Bootable USB</a> •
 	<a href="#operating-system">Operating System</a> •
