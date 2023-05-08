@@ -96,8 +96,8 @@ COMMON CORE PROJECTS
 	<a href="#03-fract-ol">Fract-ol</a> •
 	<a href="#03-fdf">Fdf</a> •
 	<a href="#03-push_swap">Push_swap</a> •
-	<a href="#04-minishell">Minishell</a> •
 	<a href="#04-philosophers">Philosophers</a> •
+	<a href="#04-minishell">Minishell</a> •
 	<a href="#05-cub3d">Cub3d</a> •
 	<a href="#05-minirt">MiniRT</a> •
 	<a href="#05-netpractice">Netpractice</a> •
@@ -214,24 +214,10 @@ COMMON CORE PROJECTS
 - [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester) `IDC87` `GitHub`
 - [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester) `gemartin99` `GitHub`
 
-##### [04] MINISHELL
-###### _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minishell.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minishell_evaluation_page.pdf) `PNG`
-
-###### _Information and Resources_
-- [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html) `Website`
-- [42 Docs](https://harm-smits.github.io/42docs/projects/minishell) `Website`
-- [Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c) `Website`
-- [Writing Your Own Shell](https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf) `PDF`
-- [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) `Youtube`
-- [mysh](https://github.com/Swoorup/mysh) `Swoorup` `GitHub`
-
 ##### [04] PHILOSOPHERS
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/philosophers.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/philosophers_evaluation_page.pdf) `PNG`
-
 ###### _Information and Resources_
 - [Medium - The Dining Philosopher’s Problem](https://medium.com/swlh/the-dining-philosophers-problem-bbdb92e6b788) `Website`
 - [The Dining Philosopher’s Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) `Wikipedia`
@@ -239,9 +225,23 @@ COMMON CORE PROJECTS
 - [Data Race/Race Condition](https://en.wikipedia.org/wiki/Race_condition) `Wikipedia`
 - [Unix Threads in C](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2) `Youtube`
 - [The Dining Philosophers Problem (Neso Academy)](https://www.youtube.com/watch?v=FYUi-u7UWgw) `Youtube`
-
-###### _Testers & Visualizers_
+###### _Testers_
 - [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer) `nafuka11` `Visualizer`
+
+##### [04] MINISHELL
+###### _Project Files_
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minishell.pdf) `PDF`
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minishell_evaluation_page.pdf) `PNG`
+###### _Information and Resources_
+- [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html) `Website`
+- [42 Docs](https://harm-smits.github.io/42docs/projects/minishell) `Website`
+- [Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c) `Website`
+- [Writing Your Own Shell](https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf) `PDF`
+- [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) `Youtube`
+- [mysh](https://github.com/Swoorup/mysh) `Swoorup` `GitHub`
+###### _Testers_
+- [42 Minishell Tester](https://github.com/zstenger93/42_minishell_tester) `zstenger93` `GitHub`
+- [Minishell Tester](https://github.com/thallard/minishell_tester) `thallard` `GitHub`
 
 ##### [05] CUB3D
 ###### _Project Files_
