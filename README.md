@@ -1,3 +1,7 @@
+<!---
+WELCOME
+-->
+
 <p align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/resources_banner.png">
 </p>
@@ -29,6 +33,12 @@ Here, you will find a collection of resources that I have found helpful during m
 
 If you are a fellow 42 student and have a link or a correction to suggest, please don't hesitate to contact me.<br/>
 I highly value any contributions and will evaluate them for possible inclusion in the repository.
+
+- - - -
+
+<!---
+42 SCHOOL
+-->
 
 ## 42 SCHOOL
 #### TRIVIA
@@ -110,6 +120,7 @@ COMMON CORE PROJECTS
 > DISCLAIMER: Please note that the projects at 42 school are regularly updated, which means that the information bellow may not be up-to-date.
 
 #### [00] LIBFT
+###### _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/libft_evaluation_page.pdf) `PNG`
 ###### _Information and Resources_
