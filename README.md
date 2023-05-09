@@ -27,7 +27,7 @@
 Thank you for visiting my repository!<br/>
 Here, you will find a collection of resources that I have found helpful during my time at 42 School, as well as some that were not as useful.<br/>
 
-If you are a fellow 42 student and have a usesophisticated text editor for code, markup and prose.ful link or a correction to suggest, please don't hesitate to contact me.<br/>
+If you are a fellow 42 student and have a link or a correction to suggest, please don't hesitate to contact me.<br/>
 I highly value any contributions and will evaluate them for possible inclusion in the repository.
 
 ## 42 SCHOOL
