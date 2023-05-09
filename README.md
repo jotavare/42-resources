@@ -115,7 +115,7 @@ COMMON CORE PROJECTS
 	<a href="#06-webserv">Webserv</a> •
 	<a href="#06-inception">Inception</a> •
 	<a href="#07-ft_transcendence">Ft_transcendence</a> •
-	<a href="#--)">↥ Back To Top</a></b>
+	<a href="#--">↥ Back To Top</a>
 </p>
 
 > DISCLAIMER: Please note that the projects at 42 school are regularly updated, which means that the information bellow may not be up-to-date.
