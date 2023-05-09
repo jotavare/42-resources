@@ -2,9 +2,9 @@
 WELCOME
 -->
 
-<p align="center">
+<h1 align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/resources_banner.png">
-</p>
+</h1>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/status-ongoing-success?color=%2312bab9&style=flat-square" />
@@ -12,18 +12,18 @@ WELCOME
 	<img src="https://img.shields.io/github/last-commit/jotavare/42-resources?color=%2312bab9&style=flat-square" />
 </p>
 <p align="center">
-	<a href="#42-school">42 School</a> •
-	<a href="#--">Common Core Projects</a> •
-	<a href="#---1">Piscine and Common Core</a> •
-	<a href="#---2">Cyber Security and Hacking</a> •
-	<a href="#---3">Ide, Compilers & Debuggers</a> •
-	<a href="#---4">Extensions</a> •
-	<a href="#---5">Moocs and Books</a> •
-	<a href="#---6">AI</a> •
-	<a href="#---7">Tools</a> •
-	<a href="#---8">Wikimedia Foundation</a> •
-	<a href="#---9">Miscellaneous</a> •
-	<a href="#---10">42 Campuses</a>
+	<a href="#--">42 School</a> •
+	<a href="#---1">Common Core Projects</a> •
+	<a href="#---2">Piscine and Common Core</a> •
+	<a href="#---3">Cyber Security and Hacking</a> •
+	<a href="#---4">Ide, Compilers & Debuggers</a> •
+	<a href="#---5">Extensions</a> •
+	<a href="#---6">Moocs and Books</a> •
+	<a href="#---7">AI</a> •
+	<a href="#---8">Tools</a> •
+	<a href="#---9">Wikimedia Foundation</a> •
+	<a href="#---10">Miscellaneous</a> •
+	<a href="#---11">42 Campuses</a>
 </p>
 
 ## WELCOME
@@ -114,7 +114,8 @@ COMMON CORE PROJECTS
 	<a href="#05-cpp-module-00-09">CPP Module</a> •
 	<a href="#06-webserv">Webserv</a> •
 	<a href="#06-inception">Inception</a> •
-	<a href="#07-ft_transcendence">Ft_transcendence</a>
+	<a href="#07-ft_transcendence">Ft_transcendence</a> •
+	<a href="#--)">↥ Back To Top</a></b>
 </p>
 
 > DISCLAIMER: Please note that the projects at 42 school are regularly updated, which means that the information bellow may not be up-to-date.
