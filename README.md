@@ -661,7 +661,7 @@ AI
 - [Future Tools](https://www.futuretools.io) - All The Best AI Tools.
 
 #### NEED TO ORGANIZE
-- [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/c...))
+- [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/c...)
 - [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/...)
 - [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse)
 - [Versy](https://www.versy.ai)
