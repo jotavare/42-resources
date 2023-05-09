@@ -312,7 +312,8 @@ PISCINE AND COMMON CORE
 	<a href="#all-in-one-testers">All-In-One Testers</a> •
 	<a href="#tools">Tools</a> •
 	<a href="#peer-to-peer">Peer-To-Peer</a> •
-	<a href="#ctf">CTF</a>
+	<a href="#ctf">CTF</a> •
+	<a href="#--">↥ Back To Top</a>
 </p>
 
 #### EXAMS
@@ -375,7 +376,8 @@ CYBER SECURITY AND HACKING
 	<a href="#exploits-and-vulnerabilities">Explois and Vulnerabulities</a> •
 	<a href="#terminology">Terminology</a> •
 	<a href="#podcasts">Podcasts</a> •
-	<a href="#hacking-google">Hacking Google</a>
+	<a href="#hacking-google">Hacking Google</a> •
+	<a href="#--">↥ Back To Top</a>
 </p>
 
 #### CRACK THE CODE
@@ -505,7 +507,8 @@ EXTENSIONS
 	<a href="#dictionary-and-language-correction">Dictionary and Language Correction</a> •
 	<a href="#apps">Apps</a> •
 	<a href="#badge">Badge</a> •
-	<a href="#add-ons">Add-ons</a>
+	<a href="#add-ons">Add-ons</a> •
+	<a href="#--">↥ Back To Top</a>
 </p>
 
 #### SCRIPTS
@@ -575,7 +578,8 @@ MOOCS AND BOOKS
 	<a href="#plataforms">Plataforms</a> •
 	<a href="#online-courses">Online Courses</a> •
 	<a href="#books">Books</a> •
-	<a href="#cheatsheets">Cheatsheets</a>
+	<a href="#cheatsheets">Cheatsheets</a> •
+	<a href="#--">↥ Back To Top</a>
 </p>
 
 #### PLATAFORMS
@@ -642,7 +646,8 @@ AI
 	<a href="#coding">Coding</a> •
 	<a href="#text">Text</a> •
 	<a href="#image/video/sound">Image/Video/Sound</a> •
-	<a href="#others-1">Others</a>
+	<a href="#others-1">Others</a> •
+	<a href="#--">↥ Back To Top</a>
 </p>
 
 #### CHATBOT
@@ -720,7 +725,8 @@ TOOLS
 	<a href="#images">Images</a> •
 	<a href="#colors">Colors</a> •
 	<a href="#design">Design</a> •
-	<a href="#video">Video</a>
+	<a href="#video">Video</a> •
+	<a href="#--">↥ Back To Top</a>
 </p>
 
 #### GENERATORS
@@ -778,7 +784,8 @@ MISCELLANEOUS
 	<a href="#package-management">Package Management</a> •
 	<a href="#games">Games</a> •
 	<a href="#memes">Memes</a> •
-	<a href="#others">Others</a>
+	<a href="#others">Others</a> •
+	<a href="#--">↥ Back To Top</a>
 </p>
 
 #### PRODUCTIVITY SOFTWARE
@@ -915,7 +922,8 @@ WIKIMEDIA FOUNDATION
 	<a href="#asia">Asia</a> •
 	<a href="#america">America</a> •
 	<a href="#africa">Africa</a> •
-	<a href="#oceania">Oceania</a>
+	<a href="#oceania">Oceania</a> •
+	<a href="#--">↥ Back To Top</a>
 </p>
 
 #### WORLD
