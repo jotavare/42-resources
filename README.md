@@ -42,7 +42,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 
 ## 42 SCHOOL
 #### TRIVIA
-###### _Some fun and interesting facts about 42._
+> _Some fun and interesting facts about 42._
 
 - [42 School](https://en.wikipedia.org/wiki/42_(school)) `Wikipedia`
 - [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) `Wikipedia` `Book`
@@ -50,14 +50,14 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [42 and Douglas Adams](https://www.youtube.com/watch?v=D6tINlNluuY) `Youtube`
 
 #### REWARDS
-###### _Rewards you have access as a 42 student._
+> _Rewards you have access as a 42 student._
 - [Office 365](https://www.microsoft.com/en-us/education/products/office) - Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. `Sign up with 42 email`
 - [GitHub Student Pack](https://github-portal.42.fr/login) - Portal to activate the GitHub Student Pack. `Sign up with 42 email`
 - [Lucidchart](https://www.lucidchart.com/pages) - Web-based diagramming application. `Sign up with 42 email`
 - [JetBrains](https://www.jetbrains.com/community/education) - Integrated development environment Software (IDE). `Sign up with 42 email`
 
 #### NETWORK
-###### _Recommended websites for 42 students._
+> _Recommended websites for 42 students._
 - [42 Intra](https://intra.42.fr) - Official portal for everything related with 42.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official Slack channel for 42 students (after Piscine).
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum (after Piscine).
@@ -68,7 +68,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [Black Hole Deep Dive](https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2) - Interesting information about blackhole.
 
 #### SOCIAL
-###### _42 Network social media. For a specific 42 School social media, check the section **[CAMPUSES](#---10)** and pick a school of your choice._
+> _42 Network social media. For a specific 42 School social media, check the section **[CAMPUSES](#---10)** and pick a school of your choice._
 - [42 Network](https://www.42network.org)
 - [Instagram](https://www.instagram.com/42_network)
 - [Youtube](https://www.youtube.com/c/42thenetwork)
@@ -80,7 +80,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [Unofficial Discord](https://discord.gg/wsrkKE4)
 
 #### ASSOCIATIONS
-###### _Associations and groups made by 42 staff or students._
+> _Associations and groups made by 42 staff or students._
 - [[FR] 42AI - Association](https://www.42ai.fr) - Artificial Intelligence.
 - [[FR] La Contre-Voie](https://lacontrevoie.fr) - Free culture and ethics.
 - [[FR] APT42](https://apt42.fr) - Security.
