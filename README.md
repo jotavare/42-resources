@@ -244,7 +244,7 @@ COMMON CORE PROJECTS
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minishell.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minishell_evaluation_page.pdf) `PNG`
 ###### _Information and Resources_
-- [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html) `Website`
+- [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual) `Website`
 - [42 Docs](https://harm-smits.github.io/42docs/projects/minishell) `Website`
 - [Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c) `Website`
 - [Shell Command Language](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html) `Website`
