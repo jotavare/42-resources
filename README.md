@@ -258,6 +258,7 @@ COMMON CORE PROJECTS
 ###### _Testers_
 - [42 Minishell Tester](https://github.com/zstenger93/42_minishell_tester) `zstenger93` `GitHub`
 - [Minishell Tester](https://github.com/thallard/minishell_tester) `thallard` `GitHub`
+- [Minishell Panic](https://github.com/ChewyToast/mpanic) `ChewyToast` `GitHub`
 
 ##### [05] CUB3D
 ###### _Project Files_
