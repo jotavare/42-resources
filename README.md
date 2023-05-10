@@ -253,6 +253,7 @@ COMMON CORE PROJECTS
 - [Writing a Unix Shell - Part 1](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1) | [Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2) | [Part 3](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3) `Website`
 - [Writing Your Own Shell](https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf) `PDF`
 - [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) `Youtube`
+- [Shell Program - Explained](https://youtu.be/ubt-UjcQUYg) | [More Detail](https://youtu.be/ubt-UjcQUYg) `Youtube`
 - [mysh](https://github.com/Swoorup/mysh) `Swoorup` `GitHub`
 - [42 Minishell](https://github.com/DimitriDaSilva/42_minishell) `DimitriDaSilva` `GitHub`
 ###### _Testers_
