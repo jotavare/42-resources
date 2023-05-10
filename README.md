@@ -247,6 +247,9 @@ COMMON CORE PROJECTS
 - [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html) `Website`
 - [42 Docs](https://harm-smits.github.io/42docs/projects/minishell) `Website`
 - [Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c) `Website`
+- [Shell Command Language](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html) `Website`
+- ['Here Documents' in Bash](https://www.howtogeek.com/719058/how-to-use-here-documents-in-bash-on-linux) `Website`
+- [Medium - Minishell](https://achrafbelarif.medium.com/42cursus-minishell-29cd25f972e6) `Website`
 - [Writing Your Own Shell](https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf) `PDF`
 - [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) `Youtube`
 - [mysh](https://github.com/Swoorup/mysh) `Swoorup` `GitHub`
