@@ -329,6 +329,7 @@ PISCINE AND COMMON CORE
 - [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions.
 - [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams) - Questions and solutions. `pasqualerossi` `GitHub`
 - [Piscine and Common Core Exams](https://github.com/48d31kh413k/1337-exam_rank_02-42) - Questions and solutions. `48d31kh413k` `GitHub`
+- [Piscine and Common Core Exams](https://github.com/ComlanGiovanni?tab=repositories&q=exam&type=&language=&sort=) - Questions and solutions. `ComlanGiovanni` `GitHub`
 - [Common Core Exams](http://www.anit.az/?author=1) - Questions and solutions with mains. `anario`
 
 #### SUBJECTS
