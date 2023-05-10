@@ -43,11 +43,10 @@ I highly value any contributions and will evaluate them for possible inclusion i
 ## 42 SCHOOL
 #### TRIVIA
 > _Some fun and interesting facts about 42._
-
-- [42 School](https://en.wikipedia.org/wiki/42_(school)) `Wikipedia`
-- [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) `Wikipedia` `Book`
-- [Why the number 42?](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy) `Wikipedia`
-- [42 and Douglas Adams](https://www.youtube.com/watch?v=D6tINlNluuY) `Youtube`
+- [42 School](https://en.wikipedia.org/wiki/42_(school)) - `Wikipedia`
+- [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) - `Wikipedia` `Book`
+- [Why the number 42?](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy) - `Wikipedia`
+- [42 and Douglas Adams](https://www.youtube.com/watch?v=D6tINlNluuY) - `Youtube`
 
 #### REWARDS
 > _Rewards you have access as a 42 student._
