@@ -194,6 +194,7 @@ COMMON CORE PROJECTS
 ###### _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fract%E2%80%99ol.pdf) `PDF`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fract-ol) `Files`
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/fractol_evaluation_page.pdf) `PNG`
 ###### _Information and Resources_
 - [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`
 
