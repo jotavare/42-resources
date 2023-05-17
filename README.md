@@ -67,7 +67,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [Black Hole Deep Dive](https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2) - Interesting information about blackhole.
 
 #### SOCIAL
-> _42 Network social media. For a specific 42 School social media, check the section **[CAMPUSES](#---10)** and pick a school of your choice._
+> _42 Network social media. For a specific 42 School social media, check the section **[CAMPUSES](#---11)** and pick a school of your choice._
 - [42 Network](https://www.42network.org)
 - [Instagram](https://www.instagram.com/42_network)
 - [Youtube](https://www.youtube.com/c/42thenetwork)
