@@ -139,6 +139,7 @@ COMMON CORE PROJECTS
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/born2beroot_evaluation_page.pdf) `PNG`
 ###### _Information and Resources_
+- [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) `Youtube`
 - [Guide](https://github.com/lbordonal/01-Born2beroot/wiki) `lbordonal` `GitHub`
 - [Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide) `pasquelerossi` `GitHub`
 - [Debian](https://www.debian.org/) `Website`
