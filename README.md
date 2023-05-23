@@ -264,6 +264,13 @@ COMMON CORE PROJECTS
 - [Minishell Tester](https://github.com/thallard/minishell_tester) `thallard` `GitHub`
 - [Minishell Panic](https://github.com/ChewyToast/mpanic) `ChewyToast` `GitHub`
 
+##### [05] NETPRACTICE
+###### _Project Files_
+- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/netpractice_evaluation_page.pdf) `PNG`
+###### _Information and Resources_
+- [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a) `Website`
+- [ipcalc](https://linuxhint.com/ipcalc-command-linux) `Website`
+
 ##### [05] CUB3D
 ###### _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cub3d_evaluation_page.pdf) `PNG`
@@ -271,10 +278,6 @@ COMMON CORE PROJECTS
 ##### [05] MINIRT
 ###### _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/miniRT_evaluation_page.pdf) `PNG`
-
-##### [05] NETPRACTICE
-###### _Project Files_
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/netpractice_evaluation_page.pdf) `PNG`
 
 ##### [05] CPP MODULE (00-09)
 ###### _Project Files_
