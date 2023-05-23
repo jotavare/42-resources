@@ -142,6 +142,7 @@ COMMON CORE PROJECTS
 - [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) `Youtube`
 - [Guide](https://github.com/lbordonal/01-Born2beroot/wiki) `lbordonal` `GitHub`
 - [Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide) `pasquelerossi` `GitHub`
+- [Guide](https://github.com/gemartin99/Born2beroot-Tutorial) `gemartin99` `GitHub`
 - [Debian](https://www.debian.org/) `Website`
 - [Rocky](https://rockylinux.org/) `Website`
 ###### _Testers_
