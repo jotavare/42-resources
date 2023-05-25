@@ -24,8 +24,8 @@ WELCOME
 	<a href="#---6">Moocs and Books</a> •
 	<a href="#---7">AI</a> •
 	<a href="#---8">Tools</a> •
-	<a href="#---9">Wikimedia Foundation</a> •
-	<a href="#---10">Miscellaneous</a> •
+	<a href="#---9">Miscellaneous</a> •
+	<a href="#---10">Wikimedia Foundation</a> •
 	<a href="#---11">42 Campuses</a>
 </p>
 
