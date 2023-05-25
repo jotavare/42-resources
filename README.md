@@ -101,19 +101,19 @@ COMMON CORE PROJECTS
 	<a href="#01-get_next_line">Get_next_line</a> •
 	<a href="#02-minitalk">Minitalk</a> •
 	<a href="#02-pipex">Pipex</a> •
-	<a href="#03-so_long">So_long</a> •
-	<a href="#03-fract-ol">Fract-ol</a> •
-	<a href="#03-fdf">Fdf</a> •
-	<a href="#03-push_swap">Push_swap</a> •
-	<a href="#04-philosophers">Philosophers</a> •
-	<a href="#04-minishell">Minishell</a> •
-	<a href="#05-cub3d">Cub3d</a> •
-	<a href="#05-minirt">MiniRT</a> •
-	<a href="#05-netpractice">Netpractice</a> •
-	<a href="#05-cpp-module-00-09">CPP Module</a> •
-	<a href="#06-webserv">Webserv</a> •
-	<a href="#06-inception">Inception</a> •
-	<a href="#07-ft_transcendence">Ft_transcendence</a> •
+	<a href="#02-so_long">So_long</a> •
+	<a href="#02-fract-ol">Fract-ol</a> •
+	<a href="#02-fdf">Fdf</a> •
+	<a href="#02-push_swap">Push_swap</a> •
+	<a href="#03-philosophers">Philosophers</a> •
+	<a href="#03-minishell">Minishell</a> •
+	<a href="#04-cub3d">Cub3d</a> •
+	<a href="#04-minirt">MiniRT</a> •
+	<a href="#04-netpractice">Netpractice</a> •
+	<a href="#04-cpp-module-00-09">CPP Module</a> •
+	<a href="#05-webserv">Webserv</a> •
+	<a href="#05-inception">Inception</a> •
+	<a href="#06-ft_transcendence">Ft_transcendence</a> •
 	<a href="#--">↥ Back To Top</a>
 </p>
 
@@ -180,7 +180,7 @@ COMMON CORE PROJECTS
 > Information and Resources
 - [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) `Youtube`
 
-#### [03] SO_LONG
+#### [02] SO_LONG
 > Project Files
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/so_long.pdf) `PDF`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/so_long) `Files`
@@ -192,7 +192,7 @@ COMMON CORE PROJECTS
 > Testers
 - [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator) `Nuno-Jesus` `GitHub`
 
-#### [03] FRACT-OL
+#### [02] FRACT-OL
 > Project Files
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fract%E2%80%99ol.pdf) `PDF`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fract-ol) `Files`
@@ -200,7 +200,7 @@ COMMON CORE PROJECTS
 > Information and Resources
 - [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`
 
-#### [03] FDF
+#### [02] FDF
 > Project Files
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fdf.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/fdf_evaluation_page.pdf) `PNG`
@@ -210,7 +210,7 @@ COMMON CORE PROJECTS
 - [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) `Wikipedia`
 - [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm) `Wikipedia`
 
-#### [03] PUSH_SWAP
+#### [02] PUSH_SWAP
 > Project Files
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/push_swap.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/push_swap_evaluation_page.pdf) `PNG`
@@ -229,7 +229,7 @@ COMMON CORE PROJECTS
 - [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester) `IDC87` `GitHub`
 - [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester) `gemartin99` `GitHub`
 
-##### [04] PHILOSOPHERS
+##### [03] PHILOSOPHERS
 > Project Files
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/philosophers.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/philosophers_evaluation_page.pdf) `PNG`
@@ -243,7 +243,7 @@ COMMON CORE PROJECTS
 > Testers
 - [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer) `nafuka11` `Visualizer`
 
-##### [04] MINISHELL
+##### [03] MINISHELL
 > Project Files
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minishell.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minishell_evaluation_page.pdf) `PNG`
@@ -265,22 +265,22 @@ COMMON CORE PROJECTS
 - [Minishell Tester](https://github.com/thallard/minishell_tester) `thallard` `GitHub`
 - [Minishell Panic](https://github.com/ChewyToast/mpanic) `ChewyToast` `GitHub`
 
-##### [05] NETPRACTICE
+##### [04] NETPRACTICE
 > Project Files
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/netpractice_evaluation_page.pdf) `PNG`
 > Information and Resources
 - [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a) `Website`
 - [ipcalc](https://linuxhint.com/ipcalc-command-linux) `Website`
 
-##### [05] CUB3D
+##### [04] CUB3D
 > Project Files
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cub3d_evaluation_page.pdf) `PNG`
 
-##### [05] MINIRT
+##### [04] MINIRT
 > Project Files
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/miniRT_evaluation_page.pdf) `PNG`
 
-##### [05] CPP MODULE (00-09)
+##### [04] CPP MODULE (00-09)
 > Project Files
 - [Evaluation Page - 00](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_00_evaluation_page.pdf) `PNG`
 - [Evaluation Page - 01](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_01_evaluation_page.pdf) `PNG`
@@ -293,19 +293,19 @@ COMMON CORE PROJECTS
 - [Evaluation Page - 08](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_08_evaluation_page.pdf) `PNG`
 - [Evaluation Page - 09](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_09_evaluation_page.pdf) `PNG`
 
-##### [06] WEBSERV
+##### [05] WEBSERV
 > Project Files
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/webserv_evaluation_page.pdf) `PNG`
 
-##### [06] FT_IRC
+##### [05] FT_IRC
 > Project Files
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/ft_irc_evaluation_page.pdf) `PNG`
 
-##### [06] INCEPTION
+##### [05] INCEPTION
 > Project Files
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/inception_evaluation_page.pdf) `PNG`
 
-##### [07] FT_TRANSCENDENCE
+##### [06] FT_TRANSCENDENCE
 > Project Files
 - [Evaluation Page](https://github.com/42pde-bakk/ft_transcendence) - README file with the project guidelines. `42pde-bakk` `GitHub`
 
