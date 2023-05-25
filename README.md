@@ -217,6 +217,7 @@ COMMON CORE PROJECTS
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/push_swap) `Files`
 > Information and Resources
 - [Random Number Generator](https://numbergenerator.org/randomnumbergenerator) `Generator`
+- [Push Swap Number Generator](https://push-swap-visualizer.vercel.app) `Generator`
 - [push_swap Resources](https://push_swap.simple.ink) `Website`
 - [42 Heilbronn Student Journey with push_swap](https://medium.com/p/c1f5d2d41e97) `Website`
 - [Sorting Algorithms (28 total)](https://www.geeksforgeeks.org/sorting-algorithms/?ref=lbp) `Website`
