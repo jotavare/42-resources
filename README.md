@@ -255,6 +255,7 @@ COMMON CORE PROJECTS
 > Information and Resources
 - [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual) `Website`
 - [42 Docs](https://harm-smits.github.io/42docs/projects/minishell) `Website`
+- [Explain Shell](https://explainshell.com) `website`
 - [Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c) `Website`
 - [Shell Command Language](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html) `Website`
 - ['Here Documents' in Bash](https://www.howtogeek.com/719058/how-to-use-here-documents-in-bash-on-linux) `Website`
