@@ -438,6 +438,7 @@ CYBER SECURITY AND HACKING
 - [Firefox DevTools Docs](https://firefox-source-docs.mozilla.org/devtools-user) -  Set of web developer tools built into Firefox.
 - [Burp Suite](https://portswigger.net/burp) - Integrated platform for performing security testing of web applications. 
 - [WiFi Map](https://www.wifimap.io) -  WiFi Map will navigate you to the nearest shared hotspots, show passwords, and let you connect to the internet in a few taps.
+- [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) - Docker image useful for solving Steganography challenges.
 
 #### DIGITAL FOOTPRINT
 ###### _Check your online traces._
