@@ -228,6 +228,7 @@ COMMON CORE PROJECTS
 - [Sorting Algorithms (28 total)](https://www.geeksforgeeks.org/sorting-algorithms/?ref=lbp) `Website`
 - [Data Structures - Stacks Introduction](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgWh1emltdMOz8O2m5X3YYn) `Youtube`
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) - This wiki is an experiment in making algorithms interactive on the web. `Website`
+- [Algorithms Playlist](https://youtube.com/playlist?list=PL3edoBgC7ScV9WPytQ2dtso21YrTuUSBd) - Various algorithms. `Youtube`
 > Testers
 - [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer) `o-reo` `GitHub`
 - [Push Swap Tester](https://github.com/laisarena/push_swap_tester) `laisarena` `GitHub`
