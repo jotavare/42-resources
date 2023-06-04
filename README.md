@@ -469,9 +469,6 @@ CYBER SECURITY AND HACKING
 - [MouseJack](https://www.mousejack.com/mousejack) - Vulnerabilitie that affects the vast majority of wireless, non-Bluetooth keyboards and mice.
 - [OWASP Top Ten](https://owasp.org/www-project-top-ten) - Standard awareness document for developers and web application security.
 
-#### TERMINOLOGY
-- [Honey Pots](https://en.wikipedia.org/wiki/Honeypot_(computing)) `Wikipedia`
-
 #### PODCASTS
 - [Jack Rhysider](https://www.youtube.com/@JackRhysider) - A podcast featuring true stories from the dark side of the Internet. `Youtube`
 
