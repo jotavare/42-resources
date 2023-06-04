@@ -446,6 +446,7 @@ CYBER SECURITY AND HACKING
 - [DeHashed](https://www.dehashed.com) - Free deep-web scans and protection against credential leaks.
 - [LeakCheck](https://leakcheck.io) - Data breach search engine.
 - [Intelligence X](https://intelx.io) - Search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
+- [Bitwarden Password Strenght](https://bitwarden.com/password-strength) - Find out if you have a strong password.
 
 #### VPN
 - [Proton](https://proton.me) - End-to-end encrypted VPN, mail, drive and calendar.
