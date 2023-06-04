@@ -466,10 +466,11 @@ CYBER SECURITY AND HACKING
 - [Tiny11](https://github.com/ntdevlabs/tiny11builder) - Trimmed-down Windows 11 image.
 
 #### EXPLOITS AND VULNERABILITIES
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten) - Standard awareness document for developers and web application security.
 - [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory and software that performs that exploit.
+- [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Identify highly complex attack paths that would otherwise be impossible to quickly identify.
 - [EternalBlue](https://pt.wikipedia.org/wiki/EternalBlue) - Exploit developed by the U.S. NSA. It was leaked by the Shadow Brokers.
 - [MouseJack](https://www.mousejack.com/mousejack) - Vulnerabilitie that affects the vast majority of wireless, non-Bluetooth keyboards and mice.
-- [OWASP Top Ten](https://owasp.org/www-project-top-ten) - Standard awareness document for developers and web application security.
 
 #### PODCASTS
 - [Jack Rhysider](https://www.youtube.com/@JackRhysider) - A podcast featuring true stories from the dark side of the Internet. `Youtube`
