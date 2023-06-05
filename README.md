@@ -39,7 +39,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 
 This repository is published under the terms of <a href="https://github.com/jotavare/jotavare/blob/main/LICENSE">42 Unlicense</a>.
 
-> _TIP: For links use `Ctrl` + `Click` to open a new tab and use the index to improve your search efficiency._
+> _**TIP**: For links use `Ctrl` + `Click` to open a new tab and use the index to improve your search efficiency._
 
 - - - -
 
@@ -124,7 +124,7 @@ COMMON CORE PROJECTS
 	<a href="#--">↥ Back To Top</a>
 </p>
 
-> _DISCLAIMER: Please note that the projects at 42 school are regularly updated, which means that the information bellow may not be up-to-date._
+> _**DISCLAIMER**: Please note that the projects at 42 school are regularly updated, which means that the information bellow may not be up-to-date._
 
 ### [00] LIBFT
 > _Project Files_
