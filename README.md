@@ -37,7 +37,7 @@ Here, you will find a collection of resources that I have found helpful during m
 If you are a fellow 42 student and have a link or a correction to suggest, please don't hesitate to contact me.<br/>
 I highly value any contributions and will evaluate them for possible inclusion in the repository.
 
-This work is published under the terms of <a href="https://github.com/jotavare/jotavare/blob/main/LICENSE">42 Unlicense</a>.
+This repository is published under the terms of <a href="https://github.com/jotavare/jotavare/blob/main/LICENSE">42 Unlicense</a>.
 
 > _Tip: For links use `Ctrl` + `Click` to open a new tab and use the index to improve your search efficiency._
 
