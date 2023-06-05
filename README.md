@@ -37,7 +37,7 @@ Here, you will find a collection of resources that I have found helpful during m
 If you are a fellow 42 student and have a link or a correction to suggest, please don't hesitate to contact me.<br/>
 I highly value any contributions and will evaluate them for possible inclusion in the repository.
 
-> Tip: For links use `Ctrl` + `Click` to open a new tab and use the index to improve your search efficiency.
+> _Tip: For links use `Ctrl` + `Click` to open a new tab and use the index to improve your search efficiency._
 
 - - - -
 
@@ -72,7 +72,7 @@ I highly value any contributions and will evaluate them for possible inclusion i
 - [Black Hole Deep Dive](https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2) - Interesting information about blackhole.
 
 #### SOCIAL
-> _42 Network social media. For a specific 42 School social media, check the section **[CAMPUSES](#---11)** and pick a school of your choice._
+> _For a specific 42 School social media, check the section **[CAMPUSES](#---11)** and pick a school of your choice._
 - [42 Network](https://www.42network.org)
 - [Instagram](https://www.instagram.com/42_network)
 - [Youtube](https://www.youtube.com/c/42thenetwork)
@@ -125,13 +125,13 @@ COMMON CORE PROJECTS
 > DISCLAIMER: Please note that the projects at 42 school are regularly updated, which means that the information bellow may not be up-to-date.
 
 #### [00] LIBFT
-> Project Files
+> _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/libft_evaluation_page.pdf) `PNG`
-> Information and Resources
+> _Information and Resources_
 - [Libft Functions](https://www.asidesigned.com/project-libft.html) `Website`
 - [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles) `pulgamecanica` `Blog`
-> Testers
+> _Testers_
 - [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
 - [Libft Tester](https://github.com/Tripouille/libftTester) `Tripouille` `GitHub`
 - [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker) `Nuno-Jesus` `GitHub`
@@ -140,87 +140,87 @@ COMMON CORE PROJECTS
 - [Libft War Machine](https://github.com/0x050f/libft-war-machine) `0x050f` `GitHub`
 
 #### [01] BORN2BEROOT
-> Project Files
+> _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/born2beroot_evaluation_page.pdf) `PNG`
-> Information and Resources
+> _Information and Resources_
 - [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) `Youtube`
 - [Guide](https://github.com/lbordonal/01-Born2beroot/wiki) `lbordonal` `GitHub`
 - [Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide) `pasquelerossi` `GitHub`
 - [Guide](https://github.com/gemartin99/Born2beroot-Tutorial) `gemartin99` `GitHub`
 - [Debian](https://www.debian.org/) `Website`
 - [Rocky](https://rockylinux.org/) `Website`
-> Testers
+> _Testers_
 - [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester) `Pixailz` `GitHub`
 - [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester) `gemartin99` `GitHub`
 
 #### [01] FT_PRINTF
-> Project Files
+> _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_printf.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/ft_printf_evaluation_page.pdf) `PNG`
 - [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html) `Website`
-> Testers
+> _Testers_
 - [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
 - [printfTester](https://github.com/Tripouille/printfTester) `Tripouille` `GitHub`
 
 #### [01] GET_NEXT_LINE
-> Project Files
+> _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/get_next_line.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/get_next_line_evaluation_page.pdf) `PNG`
-> Testers
+> _Testers_
 - [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
 - [Get Next Line Tester (Tripouille)](https://github.com/Tripouille/gnlTester) `Tripouille` `GitHub`
 
 #### [02] MINITALK
-> Project Files
+> _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minitalk_evaluation_page.pdf) `PNG`
 > Testers
 - [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
 
 #### [02] PIPEX
-> Project Files
+> _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/pipex.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/pipex_evaluation_page.pdf) `PNG`
-> Information and Resources
+> _Information and Resources_
 - [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) `Youtube`
 
 #### [02] SO_LONG
-> Project Files
+> _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/so_long.pdf) `PDF`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/so_long) `Files`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/so_long_evaluation_page.pdf) `PNG`
-> MinilibX
+> _MinilibX_
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx) `Website`
 - [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial) `pulgamecanica` `Blog`
 - [MiniLibX Animations Tutorial)](https://pulgamecanica.herokuapp.com/posts/mlx-animations) `pulgamecanica` `Blog`
-> Testers
+> _Testers_
 - [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator) `Nuno-Jesus` `GitHub`
 
 #### [02] FRACT-OL
-> Project Files
+> _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fract%E2%80%99ol.pdf) `PDF`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fract-ol) `Files`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/fractol_evaluation_page.pdf) `PNG`
-> Information and Resources
+> _Information and Resources_
 - [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`
 
 #### [02] FDF
-> Project Files
+> _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fdf.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/fdf_evaluation_page.pdf) `PNG`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fdf) `Files`
-> Information and Resources
+> _Information and Resources_
 - [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets) `Generator`
 - [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) `Wikipedia`
 - [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm) `Wikipedia`
 
 #### [02] PUSH_SWAP
-> Project Files
+> _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/push_swap.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/push_swap_evaluation_page.pdf) `PNG`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/push_swap) `Files`
-> Information and Resources
+> _Information and Resources_
 - [Random Number Generator](https://numbergenerator.org/randomnumbergenerator) `Generator`
 - [Push Swap Number Generator](https://push-swap-visualizer.vercel.app) `Generator`
 - [push_swap Resources](https://push_swap.simple.ink) `Website`
@@ -229,31 +229,31 @@ COMMON CORE PROJECTS
 - [Data Structures - Stacks Introduction](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgWh1emltdMOz8O2m5X3YYn) `Youtube`
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) `Website`
 - [Algorithms Playlist](https://youtube.com/playlist?list=PL3edoBgC7ScV9WPytQ2dtso21YrTuUSBd) `Youtube`
-> Testers
+> _Testers_
 - [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer) `o-reo` `GitHub`
 - [Push Swap Tester](https://github.com/laisarena/push_swap_tester) `laisarena` `GitHub`
 - [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester) `IDC87` `GitHub`
 - [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester) `gemartin99` `GitHub`
 
 ##### [03] PHILOSOPHERS
-> Project Files
+> _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/philosophers.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/philosophers_evaluation_page.pdf) `PNG`
-> Information and Resources
+> _Information and Resources_
 - [Medium - The Dining Philosopher’s Problem](https://medium.com/swlh/the-dining-philosophers-problem-bbdb92e6b788) `Website`
 - [The Dining Philosopher’s Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) `Wikipedia`
 - [Deadlock](https://en.wikipedia.org/wiki/Deadlock) `Wikipedia`
 - [Data Race/Race Condition](https://en.wikipedia.org/wiki/Race_condition) `Wikipedia`
 - [Unix Threads in C](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2) `Youtube`
 - [The Dining Philosophers Problem (Neso Academy)](https://www.youtube.com/watch?v=FYUi-u7UWgw) `Youtube`
-> Testers
+> _Testers_
 - [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer) `nafuka11` `Visualizer`
 
 ##### [03] MINISHELL
-> Project Files
+> _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minishell.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minishell_evaluation_page.pdf) `PNG`
-> Information and Resources
+> _Information and Resources_
 - [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual) `Website`
 - [42 Docs](https://harm-smits.github.io/42docs/projects/minishell) `Website`
 - [Explain Shell](https://explainshell.com) `website`
@@ -267,28 +267,28 @@ COMMON CORE PROJECTS
 - [Shell Program - Explained](https://youtu.be/ubt-UjcQUYg) | [More Detail](https://youtu.be/ubt-UjcQUYg) `Youtube`
 - [mysh](https://github.com/Swoorup/mysh) `Swoorup` `GitHub`
 - [42 Minishell](https://github.com/DimitriDaSilva/42_minishell) `DimitriDaSilva` `GitHub`
-> Testers
+> _Testers_
 - [42 Minishell Tester](https://github.com/zstenger93/42_minishell_tester) `zstenger93` `GitHub`
 - [Minishell Tester](https://github.com/thallard/minishell_tester) `thallard` `GitHub`
 - [Minishell Panic](https://github.com/ChewyToast/mpanic) `ChewyToast` `GitHub`
 
 ##### [04] NETPRACTICE
-> Project Files
+> _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/netpractice_evaluation_page.pdf) `PNG`
-> Information and Resources
+> _Information and Resources_
 - [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a) `Website`
 - [ipcalc](https://linuxhint.com/ipcalc-command-linux) `Website`
 
 ##### [04] CUB3D
-> Project Files
+> _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cub3d_evaluation_page.pdf) `PNG`
 
 ##### [04] MINIRT
-> Project Files
+> _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/miniRT_evaluation_page.pdf) `PNG`
 
 ##### [04] CPP MODULE (00-09)
-> Project Files
+> _Project Files_
 - [Evaluation Page - 00](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_00_evaluation_page.pdf) `PNG`
 - [Evaluation Page - 01](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_01_evaluation_page.pdf) `PNG`
 - [Evaluation Page - 02](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_02_evaluation_page.pdf) `PNG`
@@ -301,19 +301,19 @@ COMMON CORE PROJECTS
 - [Evaluation Page - 09](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_09_evaluation_page.pdf) `PNG`
 
 ##### [05] WEBSERV
-> Project Files
+> _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/webserv_evaluation_page.pdf) `PNG`
 
 ##### [05] FT_IRC
-> Project Files
+> _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/ft_irc_evaluation_page.pdf) `PNG`
 
 ##### [05] INCEPTION
-> Project Files
+> _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/inception_evaluation_page_new.pdf) `PNG`
 
 ##### [06] FT_TRANSCENDENCE
-> Project Files
+> _Project Files_
 - [Evaluation Page](https://github.com/42pde-bakk/ft_transcendence) - README file with the project guidelines. `42pde-bakk` `GitHub`
 
 - - - -
@@ -337,7 +337,7 @@ PISCINE AND COMMON CORE
 </p>
 
 #### EXAMS
-###### _Great websites to help you with 42 exams._
+> _Great websites to help you with 42 exams._
 - [GradeMe](https://grademe.fr) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
 - [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions.
 - [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams) - Questions and solutions. `pasqualerossi` `GitHub`
@@ -346,18 +346,18 @@ PISCINE AND COMMON CORE
 - [Common Core Exams](http://www.anit.az/?author=1) - Questions and solutions with mains. `anario`
 
 #### SUBJECTS
-###### _All current 42 subjects._
+> _All current 42 subjects._
 - [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects. `akaylee` `GitHub`
 - [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers) `GitHub`
 - [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects) `agavrel` `GitHub`
 
 #### ALL-IN-ONE TESTERS
-###### _Test your code with already made all-in-one testers._
+> _Test your code with already made all-in-one testers._
 - [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `Libft` `ft_printf` `get_next_line` `minitalk` `pipex`
 - [42 Cursus Tester](https://github.com/Abaker-Hype/42-Cursus-Tester) `abaker-hype` `Libft` `ft_printf` `get_next_line`
 
 #### TOOLS
-###### _Some usefull tools i used in my 42 journey._
+> _Some usefull tools i used in my 42 journey._
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) - A awesome cheatsheet for C and 42 in general. `agavrel` `GitHub`
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42. `alexandregv` `GitHub`
 - [42 XP Calculator](https://42.tbailleu.dev) - Calculate how much exp you need for the next level.
@@ -369,7 +369,7 @@ PISCINE AND COMMON CORE
 - [Scribe](https://scribehow.com) - Turn any process into a step-by-step guide, instantly.
 
 #### PEER-TO-PEER
-###### _Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git._
+> _Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git._
 - [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) `Youtube`
 - [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE) - What to do before the evaluation? (as evaluated student) `Youtube`
 - [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY) - What to do before the evaluation? (as evaluator) `Youtube`
@@ -402,7 +402,7 @@ CYBER SECURITY AND HACKING
 </p>
 
 #### CRACK THE CODE
-###### _Websites and information to learn about cyber security and hacking in general._
+> _Websites and information to learn about cyber security and hacking in general._
 - [Capture The Flag 101](https://ctf101.org) - What is a CTF?
 - [42 CTF](https://www.42ctf.org/en) - 42 cybersecurity challenges platform. 
 - [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking.
@@ -423,7 +423,7 @@ CYBER SECURITY AND HACKING
 - [Cyberseek](https://www.cyberseek.org) - Explire career paths, skills and certifications.
 
 #### PENTESTING TOOLS
-###### _Collection of software and applications used to perform penetration testing or ethical hacking._
+> _Collection of software and applications used to perform penetration testing or ethical hacking._
 - [Wireshark](https://www.wireshark.org) - Wireshark is a free and open-source packet analyzer.
 - [Responder](https://www.kali.org/tools/responder) - Penetration testing tool is a Link Local Multicast Name Resolution (LLMNR), NBT-NS, and MDNS poisoner.
 - [Hashcat](https://hashcat.net/hashcat) - Powerful tool that helps to crack password hashes.
@@ -442,7 +442,7 @@ CYBER SECURITY AND HACKING
 - [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) - Docker image useful for solving Steganography challenges.
 
 #### DIGITAL FOOTPRINT
-###### _Check your online traces._
+> _Check your online traces._
 - [Firefox Monitor](https://monitor.firefox.com) - Check if you've been victim of an online data breach.
 - [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address or phone number has been compromised.
 - [DeHashed](https://www.dehashed.com) - Free deep-web scans and protection against credential leaks.
