@@ -124,7 +124,7 @@ COMMON CORE PROJECTS
 
 > DISCLAIMER: Please note that the projects at 42 school are regularly updated, which means that the information bellow may not be up-to-date.
 
-#### [00] LIBFT
+### [00] LIBFT
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/libft_evaluation_page.pdf) `PNG`
@@ -139,7 +139,7 @@ COMMON CORE PROJECTS
 - [Libft Test](https://github.com/jtoty/Libftest) `jtoty` `GitHub`
 - [Libft War Machine](https://github.com/0x050f/libft-war-machine) `0x050f` `GitHub`
 
-#### [01] BORN2BEROOT
+### [01] BORN2BEROOT
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/born2beroot_evaluation_page.pdf) `PNG`
@@ -154,7 +154,7 @@ COMMON CORE PROJECTS
 - [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester) `Pixailz` `GitHub`
 - [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester) `gemartin99` `GitHub`
 
-#### [01] FT_PRINTF
+### [01] FT_PRINTF
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_printf.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/ft_printf_evaluation_page.pdf) `PNG`
@@ -163,7 +163,7 @@ COMMON CORE PROJECTS
 - [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
 - [printfTester](https://github.com/Tripouille/printfTester) `Tripouille` `GitHub`
 
-#### [01] GET_NEXT_LINE
+### [01] GET_NEXT_LINE
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/get_next_line.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/get_next_line_evaluation_page.pdf) `PNG`
@@ -171,21 +171,21 @@ COMMON CORE PROJECTS
 - [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
 - [Get Next Line Tester (Tripouille)](https://github.com/Tripouille/gnlTester) `Tripouille` `GitHub`
 
-#### [02] MINITALK
+### [02] MINITALK
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minitalk_evaluation_page.pdf) `PNG`
-> Testers
+> _Testers_
 - [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
 
-#### [02] PIPEX
+### [02] PIPEX
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/pipex.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/pipex_evaluation_page.pdf) `PNG`
 > _Information and Resources_
 - [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) `Youtube`
 
-#### [02] SO_LONG
+### [02] SO_LONG
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/so_long.pdf) `PDF`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/so_long) `Files`
@@ -197,7 +197,7 @@ COMMON CORE PROJECTS
 > _Testers_
 - [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator) `Nuno-Jesus` `GitHub`
 
-#### [02] FRACT-OL
+### [02] FRACT-OL
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fract%E2%80%99ol.pdf) `PDF`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fract-ol) `Files`
@@ -205,7 +205,7 @@ COMMON CORE PROJECTS
 > _Information and Resources_
 - [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`
 
-#### [02] FDF
+### [02] FDF
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fdf.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/fdf_evaluation_page.pdf) `PNG`
@@ -215,7 +215,7 @@ COMMON CORE PROJECTS
 - [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) `Wikipedia`
 - [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm) `Wikipedia`
 
-#### [02] PUSH_SWAP
+### [02] PUSH_SWAP
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/push_swap.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/push_swap_evaluation_page.pdf) `PNG`
@@ -235,7 +235,7 @@ COMMON CORE PROJECTS
 - [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester) `IDC87` `GitHub`
 - [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester) `gemartin99` `GitHub`
 
-##### [03] PHILOSOPHERS
+### [03] PHILOSOPHERS
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/philosophers.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/philosophers_evaluation_page.pdf) `PNG`
@@ -249,7 +249,7 @@ COMMON CORE PROJECTS
 > _Testers_
 - [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer) `nafuka11` `Visualizer`
 
-##### [03] MINISHELL
+### [03] MINISHELL
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minishell.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minishell_evaluation_page.pdf) `PNG`
@@ -272,22 +272,22 @@ COMMON CORE PROJECTS
 - [Minishell Tester](https://github.com/thallard/minishell_tester) `thallard` `GitHub`
 - [Minishell Panic](https://github.com/ChewyToast/mpanic) `ChewyToast` `GitHub`
 
-##### [04] NETPRACTICE
+### [04] NETPRACTICE
 > _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/netpractice_evaluation_page.pdf) `PNG`
 > _Information and Resources_
 - [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a) `Website`
 - [ipcalc](https://linuxhint.com/ipcalc-command-linux) `Website`
 
-##### [04] CUB3D
+### [04] CUB3D
 > _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cub3d_evaluation_page.pdf) `PNG`
 
-##### [04] MINIRT
+### [04] MINIRT
 > _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/miniRT_evaluation_page.pdf) `PNG`
 
-##### [04] CPP MODULE (00-09)
+### [04] CPP MODULE (00-09)
 > _Project Files_
 - [Evaluation Page - 00](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_00_evaluation_page.pdf) `PNG`
 - [Evaluation Page - 01](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_01_evaluation_page.pdf) `PNG`
@@ -300,19 +300,19 @@ COMMON CORE PROJECTS
 - [Evaluation Page - 08](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_08_evaluation_page.pdf) `PNG`
 - [Evaluation Page - 09](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_09_evaluation_page.pdf) `PNG`
 
-##### [05] WEBSERV
+### [05] WEBSERV
 > _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/webserv_evaluation_page.pdf) `PNG`
 
-##### [05] FT_IRC
+### [05] FT_IRC
 > _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/ft_irc_evaluation_page.pdf) `PNG`
 
-##### [05] INCEPTION
+### [05] INCEPTION
 > _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/inception_evaluation_page_new.pdf) `PNG`
 
-##### [06] FT_TRANSCENDENCE
+### [06] FT_TRANSCENDENCE
 > _Project Files_
 - [Evaluation Page](https://github.com/42pde-bakk/ft_transcendence) - README file with the project guidelines. `42pde-bakk` `GitHub`
 
