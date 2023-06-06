@@ -321,6 +321,8 @@ COMMON CORE PROJECTS
 ### [05] INCEPTION
 > _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/inception_evaluation_page_new.pdf) `PNG`
+> _Information and Resources_
+- [Inception](https://github.com/iimyzf/Inception) `iimyzf` `GitHub`
 
 ### [06] FT_TRANSCENDENCE
 > _Project Files_
