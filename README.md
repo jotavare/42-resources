@@ -485,16 +485,17 @@ CYBER SECURITY AND HACKING
 - [MouseJack](https://www.mousejack.com/mousejack) - Vulnerabilitie that affects the vast majority of wireless, non-Bluetooth keyboards and mice.
 
 #### PODCASTS
-> Stories specifically intended to capture, preserve, and explain the culture around hacking and cyber security.
+> _Stories specifically intended to capture, preserve, and explain the culture around hacking and cyber security._
 - [Jack Rhysider](https://www.youtube.com/@JackRhysider) - A podcast featuring true stories from the dark side of the Internet. `Youtube`
 
 #### HACKING GOOGLE
-> Five elite security teams. Six never-before-told stories. 
-- [EP000: Operation Aurora](https://www.youtube.com/watch?v=przDcQe6n5o) `Youtube` `Documentary`
-- [EP001: Threat Analysis Group](https://www.youtube.com/watch?v=N7N4EC20-cM) `Youtube` `Documentary`
-- [EP002: Detection and Response](https://www.youtube.com/watch?v=QZ0cpBocl3c) `Youtube` `Documentary`
-- [EP003: Red Team](https://www.youtube.com/watch?v=TusQWn2TQxQ) `Youtube` `Documentary`
-- [EP004: Bug Hunters](https://www.youtube.com/watch?v=IoXiXlCNoXg) `Youtube` `Documentary`
+> _Five elite security teams. Six never-before-told stories._ 
+- [EP000: Operation Aurora](https://youtu.be/przDcQe6n5o) `Youtube` `Documentary`
+- [EP001: Threat Analysis Group](https://youtu.be/N7N4EC20-cM) `Youtube` `Documentary`
+- [EP002: Detection and Response](https://youtu.be/QZ0cpBocl3c) `Youtube` `Documentary`
+- [EP003: Red Team](https://youtu.be/TusQWn2TQxQ) `Youtube` `Documentary`
+- [EP004: Bug Hunters](https://youtu.be/IoXiXlCNoXg) `Youtube` `Documentary`
+- [EP005: Project Zero](https://youtu.be/My_13FXODdU) `Youtube` `Documentary`
 
 - - - -
 
