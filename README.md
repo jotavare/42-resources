@@ -485,9 +485,11 @@ CYBER SECURITY AND HACKING
 - [MouseJack](https://www.mousejack.com/mousejack) - Vulnerabilitie that affects the vast majority of wireless, non-Bluetooth keyboards and mice.
 
 #### PODCASTS
+> Stories specifically intended to capture, preserve, and explain the culture around hacking and cyber security.
 - [Jack Rhysider](https://www.youtube.com/@JackRhysider) - A podcast featuring true stories from the dark side of the Internet. `Youtube`
 
 #### HACKING GOOGLE
+> Five elite security teams. Six never-before-told stories. 
 - [EP000: Operation Aurora](https://www.youtube.com/watch?v=przDcQe6n5o) `Youtube` `Documentary`
 - [EP001: Threat Analysis Group](https://www.youtube.com/watch?v=N7N4EC20-cM) `Youtube` `Documentary`
 - [EP002: Detection and Response](https://www.youtube.com/watch?v=QZ0cpBocl3c) `Youtube` `Documentary`
