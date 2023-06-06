@@ -414,9 +414,9 @@ CYBER SECURITY AND HACKING
 </p>
 
 #### CRACK THE CODE
-> _Websites and information to learn about cyber security and hacking in general._
-- [Capture The Flag 101](https://ctf101.org) - What is a CTF?
-- [42 CTF](https://www.42ctf.org/en) - 42 cybersecurity challenges platform. 
+> _Websites and resources to learn about cyber security and hacking in general._
+- [Capture The Flag 101](https://ctf101.org) - Introduction to CTFs (Capture The Flag).
+- [42 CTF](https://www.42ctf.org/en) - A cybersecurity challenges platform with various challenges.
 - [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking.
 - [Sololearn](https://www.sololearn.com) - Courses designed by experts with real-world practice.
 - [LeetCode](https://leetcode.com) - Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews.
@@ -432,7 +432,7 @@ CYBER SECURITY AND HACKING
 - [TryHackMe](https://tryhackme.com) - Learn cyber security, using hands-on exercises and labs.
 - [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills.
 - [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
-- [Cyberseek](https://www.cyberseek.org) - Explire career paths, skills and certifications.
+- [Cyberseek](https://www.cyberseek.org) - Explore career paths, skills, and certifications in the field of cyber security.
 
 #### PENTESTING TOOLS
 > _Collection of software and applications used to perform penetration testing or ethical hacking._
