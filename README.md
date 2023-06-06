@@ -481,6 +481,7 @@ CYBER SECURITY AND HACKING
 - [Tiny11](https://github.com/ntdevlabs/tiny11builder) - Trimmed-down Windows 11 image.
 
 #### EXPLOITS AND VULNERABILITIES
+> _Resources on how to learn/use exploits and vulnerabilities._
 - [OWASP Top Ten](https://owasp.org/www-project-top-ten) - Standard awareness document for developers and web application security.
 - [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory and software that performs that exploit.
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Identify highly complex attack paths that would otherwise be impossible to quickly identify.
