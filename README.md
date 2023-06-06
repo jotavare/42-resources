@@ -454,7 +454,7 @@ CYBER SECURITY AND HACKING
 - [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) - Docker image useful for solving Steganography challenges.
 
 #### DIGITAL FOOTPRINT
-> _Check your online traces._
+> _Discover the imprint left by your online activities._
 - [Firefox Monitor](https://monitor.firefox.com) - Check if you've been victim of an online data breach.
 - [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address or phone number has been compromised.
 - [DeHashed](https://www.dehashed.com) - Free deep-web scans and protection against credential leaks.
@@ -463,16 +463,19 @@ CYBER SECURITY AND HACKING
 - [Bitwarden Password Strenght](https://bitwarden.com/password-strength) - Find out if you have a strong password.
 
 #### VPN
+> _Secure your internet connection with a Virtual Private Network._
 - [Proton](https://proton.me) - End-to-end encrypted VPN, mail, drive and calendar.
 - [OpenVPN](https://openvpn.net) - Secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities.
 - [Tailscale](https://tailscale.com) - Zero config VPN for building secure networks.
 
 #### BOOTABLE USB
+> _Create a portable storage to install or repair operating systems._
 - [Rufus](https://rufus.ie) – Open-source portable application for Microsoft Windows, can be used to format and create bootable USB flash drives or Live USBs.
 - [Ventoy](https://www.ventoy.net) – Open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
 - [Etcher](https://www.balena.io/etcher) – A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily.
 
 #### OPERATING SYSTEM
+> _Operating systems for every ocasion._
 - [Tails](https://tails.boum.org) - Linux distribution aimed at preserving privacy and anonymity. It connects to the Internet exclusively through the anonymity network Tor.
 - [Kali Linux](https://www.kali.org) - Linux distribution geared towards Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
 - [Tiny11](https://github.com/ntdevlabs/tiny11builder) - Trimmed-down Windows 11 image.
