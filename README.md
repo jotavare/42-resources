@@ -710,43 +710,13 @@ AI
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Generate and create stunning visual media.
 - [Boomy](https://boomy.com) - Write and produce a full song in seconds.
 - [Gen-2](https://research.runwayml.com/gen2) - Generate novel videos with text, images, or video clips. ... No lights. No camera. All action.
+- [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn simple brushstrokes into realistic landscape images. 
 
 #### OTHERS
-- [Hugging Face](https://huggingface.co) - Trained AI models to use with other AI tools.
 - [Futurepedia](https://www.futurepedia.io) - Largest AI tools directory.
 - [Future Tools](https://www.futuretools.io) - All The Best AI Tools.
+- [Hugging Face](https://huggingface.co) - Trained AI models to use with other AI tools.
 
-#### NEED TO ORGANIZE
-- [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/c...)
-- [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/...)
-- [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse)
-- [Versy](https://www.versy.ai)
-- [Imagen](https://imagen.research.google)
-- [Kaiber](https://www.kaiber.ai)
-- [Leia Pix](https://convert.leiapix.com)
-- [RunwayML Gen 2](https://research.runwayml.com/gen2)
-- [Caktus](https://www.caktus.ai/caktus_student)
-- [Wisdolia](https://chrome.google.com/webstore/de...)
-- [Rewind](https://www.rewind.ai)
-- [Pimeyes](https://pimeyes.com)
-- [Deep Nostalgia](https://www.myheritage.com/deep-nosta...)
-- [D-ID](https://www.d-id.com)
-- [RunwayML](https://runwayml.com)
-- [Luma Labs](https://lumalabs.ai)
-- [Notion](https://www.notion.so/product/ai)
-- [Wist Labs](https://wistlabs.com)
-- [AutoDraw](https://www.autodraw.com)
-- [Reimagine Home](https://www.reimaginehome.ai)
-- [Do Not Pay](https://donotpay.com)
-- [Soundraw](https://soundraw.io)
-- [Mubert](https://mubert.com/render/pricing?via...)
-- [Eleven Labs](https://beta.elevenlabs.io)
-- [Mixo](https://mixo.io)
-- [Jasper](https://jasper.ai?utm_source=partner&fpr=obscurious)
-- [Looka](https://looka.com)
-- [Poly](https://poly.ai)
-- [Synthesia](https://www.synthesia.io)
-- [Tome](https://beta.tome.app)
 
 - - - -
 
