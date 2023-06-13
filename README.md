@@ -383,7 +383,7 @@ PISCINE AND COMMON CORE
 - [42 Stupidity](https://github.com/mirror12k/42us-stupidity) - A tool for quickly testing solutions for the piscine exercises. `mirror12k` `GitHub` 
 - [RP42](https://github.com/alexandregv/RP42) - Discord Rich Presence integration for 42 School. `alexandregv` `GitHub` 
 - [Find Peers](https://find-peers.codam.nl) - Website meant to help students to find peers that are working on the same project.
-- [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr) and still in beta. You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul 🇰🇷 and Vienna 🇦🇹.
+- [S42](https://s42.app) - You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul 🇰🇷 and Vienna 🇦🇹.
 - [42 Evaluators](https://42evaluators.com) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
 - [Scribe](https://scribehow.com) - Turn any process into a step-by-step guide, instantly.
 
