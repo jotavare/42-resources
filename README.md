@@ -921,7 +921,7 @@ WIKIMEDIA FOUNDATION
 - [Meta-Wiki](https://meta.wikimedia.org) – Central site for coordinating all projects and the Wikimedia community.
 - [Wikimedia Incubator](https://incubator.wikimedia.org) – A single wiki for drafting the core pages of new language editions in development.
 - [MediaWiki](https://www.mediawiki.org) – Site for coordinating work on MediaWiki software.
-- [Wikitech](https://wikitech.wikimedia.org) – Including Wikimedia Cloud Services, Data Services, Toolforge, and other technical projects and infrastructure.
+- [Wikitech](https://wikitech.wikimedia.org) – Wikimedia Cloud Services, Data Services, Toolforge, other technical projects and infrastructure.
 - [Phabricator](https://phabricator.wikimedia.org) – Not a wiki, but a global ticketing system for tracking issues and feature requests.
 
 - - - -
