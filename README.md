@@ -64,7 +64,7 @@ This repository is published under the terms of <a href="https://github.com/jota
 
 #### NETWORK
 > _Recommended websites for 42 students._
-- [42 Intra](https://intra.42.fr) - Official portal for everything related with 42.
+- [42 Intra](https://intra.42.fr) - Official portal for everything related to 42.
 - [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official Slack channel for 42 students (after Piscine).
 - [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum (after Piscine).
 - [Alumni](https://alumni.42.fr) - 42Alumni Network (only for alumni students).
@@ -124,7 +124,7 @@ COMMON CORE PROJECTS
 	<a href="#--">↥ Back To Top</a>
 </p>
 
-> _**DISCLAIMER**: Please note that the projects at 42 school are regularly updated, which means that the information bellow may not be up-to-date._
+> _**DISCLAIMER**: Please note that the projects at 42 schools are regularly updated, which means that the information below may not be up-to-date._
 
 #### [00] LIBFT
 > _Project Files_
@@ -177,7 +177,14 @@ COMMON CORE PROJECTS
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minitalk_evaluation_page.pdf) `PNG`
+> _Information and Resources_
+- [Bitwise Operators in C](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp) `Website`
+- [Sending and Handling Signals in C](https://www.youtube.com/watch?v=83M5-NPDeWs) `Youtube`
+- [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs) `Youtube`
+- [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U) `Youtube`
 > _Testers_
+- [Lorem Ipsum Generator](https://www.lipsum.com) `Website`
+- [Emojis](https://getemoji.com) `Website`
 - [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
 
 #### [02] PIPEX
@@ -369,11 +376,11 @@ PISCINE AND COMMON CORE
 - [42 Cursus Tester](https://github.com/Abaker-Hype/42-Cursus-Tester) `abaker-hype` `Libft` `ft_printf` `get_next_line`
 
 #### TOOLS
-> _Some usefull tools i used in my 42 journey._
+> _Some useful tools I used in my 42 journeys._
 - [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) - A awesome cheatsheet for C and 42 in general. `agavrel` `GitHub`
 - [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42. `alexandregv` `GitHub`
 - [42 XP Calculator](https://42.tbailleu.dev) - Calculate how much exp you need for the next level.
-- [42 Stupidity](https://github.com/mirror12k/42us-stupidity) - A tool for quickly test solutions for the piscine exercises. `mirror12k` `GitHub` 
+- [42 Stupidity](https://github.com/mirror12k/42us-stupidity) - A tool for quickly testing solutions for the piscine exercises. `mirror12k` `GitHub` 
 - [RP42](https://github.com/alexandregv/RP42) - Discord Rich Presence integration for 42 School. `alexandregv` `GitHub` 
 - [Find Peers](https://find-peers.codam.nl) - Website meant to help students to find peers that are working on the same project.
 - [S42](https://s42.app) - Former [stud42.fr](https://stud42.fr) and still in beta. You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul 🇰🇷 and Vienna 🇦🇹.
@@ -381,7 +388,7 @@ PISCINE AND COMMON CORE
 - [Scribe](https://scribehow.com) - Turn any process into a step-by-step guide, instantly.
 
 #### PEER-TO-PEER
-> _Usefull information about peer-to-peer evaluation, and some begginer videos about Shell and Git._
+> _Usefull information about peer-to-peer evaluation, and some beginner videos about Shell and Git._
 - [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) `Youtube`
 - [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE) - What to do before the evaluation? (as evaluated student) `Youtube`
 - [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY) - What to do before the evaluation? (as evaluator) `Youtube`
@@ -421,8 +428,8 @@ CYBER SECURITY AND HACKING
 - [Sololearn](https://www.sololearn.com) - Courses designed by experts with real-world practice.
 - [LeetCode](https://leetcode.com) - Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews.
 - [GeeksforGeeks](https://www.geeksforgeeks.org) - Every problem usually starts from an explanatory article. Good for learning about algorithms and new techniques.
-- [HackerRank](https://www.hackerrank.com) - Lot of programming problems, as well as math, AI, etc. Good to improve problem solving skills.
-- [Codeforces](https://codeforces.com) - Similar to hackerrank, with more focus on conducting programming contests, has a huge problems archive and auto-tests.
+- [HackerRank](https://www.hackerrank.com) - Lots of programming problems, as well as math, AI, etc. Good to improve problem-solving skills.
+- [Codeforces](https://codeforces.com) - Similar to hackerrank, with more focus on conducting programming contests, has huge problems with archives and auto-tests.
 - [Topcoder](https://www.topcoder.com) - For programming contests professionals.
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - How to implement X in language Y.
 - [CodinGame](https://www.codingame.com) - Automated platform for writing game bots and alike. Definitely improves your coding and math skills.
@@ -437,17 +444,17 @@ CYBER SECURITY AND HACKING
 #### PENTESTING TOOLS
 > _Collection of software and applications used to perform penetration testing or ethical hacking._
 - [Wireshark](https://www.wireshark.org) - Wireshark is a free and open-source packet analyzer.
-- [Responder](https://www.kali.org/tools/responder) - Penetration testing tool is a Link Local Multicast Name Resolution (LLMNR), NBT-NS, and MDNS poisoner.
+- [Responder](https://www.kali.org/tools/responder) - Penetration testing tool is a Link-Local Multicast Name Resolution (LLMNR), NBT-NS, and MDNS poisoner.
 - [Hashcat](https://hashcat.net/hashcat) - Powerful tool that helps to crack password hashes.
 - [Metasploit](https://www.metasploit.com) - Security project that provides data about security vulnerabilities and assists penetration testing.
 - [Shodan](https://www.shodan.io) - Search engine for Internet-connected devices.
 - [ExifTool](https://github.com/exiftool/exiftool) - Reading and writing of meta information in a wide variety of files.
-- [Remote Administration Tool](https://github.com/topics/remote-administration-tool) - Full control a tech device, remotely. 
+- [Remote Administration Tool](https://github.com/topics/remote-administration-tool) - Full control of a tech device, remotely. 
 - [DNScat2](https://github.com/iagox86/dnscat2) - Create an encrypted command-and-control channel over the DNS protocol.
 - [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) - Penetration testing framework designed for social engineering.
 - [VirusTotal](https://www.virustotal.com) - Analyzes suspicious files, URLs, domains and IP addresses to detect malware and other types of threats.
 - [CyberChef](https://gchq.github.io/CyberChef) - Web app for encryption, encoding, compression and data analysis.
-- [dCode](https://www.dcode.fr/en) - Collection of over 800 tools to help solve games, riddles, ciphers, mathematics, puzzles, etc.
+- [dCode](https://www.dcode.fr/en) - Collection of over 800 tools to help solve games, riddles, cyphers, mathematics, puzzles, etc.
 - [Firefox DevTools Docs](https://firefox-source-docs.mozilla.org/devtools-user) -  Set of web developer tools built into Firefox.
 - [Burp Suite](https://portswigger.net/burp) - Integrated platform for performing security testing of web applications. 
 - [WiFi Map](https://www.wifimap.io) -  WiFi Map will navigate you to the nearest shared hotspots, show passwords, and let you connect to the internet in a few taps.
@@ -455,7 +462,7 @@ CYBER SECURITY AND HACKING
 
 #### DIGITAL FOOTPRINT
 > _Discover the imprint left by your online activities._
-- [Firefox Monitor](https://monitor.firefox.com) - Check if you've been victim of an online data breach.
+- [Firefox Monitor](https://monitor.firefox.com) - Check if you've been the victim of an online data breach.
 - [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address or phone number has been compromised.
 - [DeHashed](https://www.dehashed.com) - Free deep-web scans and protection against credential leaks.
 - [LeakCheck](https://leakcheck.io) - Data breach search engine.
@@ -466,16 +473,16 @@ CYBER SECURITY AND HACKING
 > _Secure your internet connection with a Virtual Private Network._
 - [Proton](https://proton.me) - End-to-end encrypted VPN, mail, drive and calendar.
 - [OpenVPN](https://openvpn.net) - Secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities.
-- [Tailscale](https://tailscale.com) - Zero config VPN for building secure networks.
+- [Tailscale](https://tailscale.com) - Zero configs VPN for building secure networks.
 
 #### BOOTABLE USB
-> _Create a portable storage to install or repair operating systems._
-- [Rufus](https://rufus.ie) – Open-source portable application for Microsoft Windows, can be used to format and create bootable USB flash drives or Live USBs.
+> _Create portable storage to install or repair operating systems._
+- [Rufus](https://rufus.ie) – Open-source portable application for Microsoft Windows, that can be used to format and create bootable USB flash drives or Live USBs.
 - [Ventoy](https://www.ventoy.net) – Open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
 - [Etcher](https://www.balena.io/etcher) – A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily.
 
 #### OPERATING SYSTEM
-> _Operating systems for every ocasion._
+> _Operating systems for every occasion._
 - [Tails](https://tails.boum.org) - Linux distribution aimed at preserving privacy and anonymity. It connects to the Internet exclusively through the anonymity network Tor.
 - [Kali Linux](https://www.kali.org) - Linux distribution geared towards Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
 - [Tiny11](https://github.com/ntdevlabs/tiny11builder) - Trimmed-down Windows 11 image.
@@ -486,7 +493,7 @@ CYBER SECURITY AND HACKING
 - [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory and software that performs that exploit.
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Identify highly complex attack paths that would otherwise be impossible to quickly identify.
 - [EternalBlue](https://pt.wikipedia.org/wiki/EternalBlue) - Exploit developed by the U.S. NSA. It was leaked by the Shadow Brokers.
-- [MouseJack](https://www.mousejack.com/mousejack) - Vulnerabilitie that affects the vast majority of wireless, non-Bluetooth keyboards and mice.
+- [MouseJack](https://www.mousejack.com/mousejack) - Vulnerabilities that affects the vast majority of wireless, non-Bluetooth keyboards and mice.
 
 #### PODCASTS
 > _Stories specifically intended to capture, preserve, and explain the culture around hacking and cyber security._
@@ -516,16 +523,16 @@ IDE, COMPILERS AND DEBUGGERS
 - [Thonny](https://thonny.org) - Thonny is an IDE for Python that is designed for beginners.
 - [Sublime Text](https://www.sublimetext.com) - Sophisticated text editor for code, markup and prose.
 - [Replit](https://replit.com) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
-- [JSFiddle](https://jsfiddle.net) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
+- [JSFiddle](https://jsfiddle.net) - Test your JavaScript, CSS, HTML or CoffeeScript online with the JSFiddle code editor.
 - [CodeSandbox](https://codesandbox.io) - Cloud development platform that empowers developers to code, collaborate and ship projects of any size from any device in record time.
 - [CodeAnywhere](https://codeanywhere.com) - Cross Platform Cloud IDE and it has all the features of Desktop IDE but with additional features.
-- [StackBlitz](https://stackblitz.com) - Instant fullstack web IDE for the JavaScript ecosystem. 
+- [StackBlitz](https://stackblitz.com) - Instant full-stack web IDE for the JavaScript ecosystem. 
 - [AWS Cloud9](https://aws.amazon.com/pt/cloud9) - Cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.
 - [Gitpod](https://www.gitpod.io) - Cloud development environment for teams to efficiently and securely develop software. 
 - [Eclipse Theia](https://theia-ide.org) - Framework for building tools and IDEs.
 - [GitHub Codespaces](https://github.com/features/codespaces) - Use Visual Studio Code, Jupyter, or JetBrains with the editor, terminal, debugger, version control, settings sync, and all of your extensions.
 - [JetBrains Space](https://www.jetbrains.com/space) - A complete software development platform, collaboration, and team and project management. 
-- [CodeTasty](https://codetasty.com) - Powerful online code editor in the cloud. It supports over 40 languages, including PHP, Node.JS, Python, Java, Ruby, C.
+- [CodeTasty](https://codetasty.com) - Powerful online code editor in the cloud. It supports over 40 languages, including PHP, Node.JS, Python, Java, Ruby, and C.
 - [PaizaCloud](https://paiza.cloud/en) - Cloud IDE. Supports programming languages, including C, C++, PHP, Ruby, Perl, Python, JavaScript com Node.js e Go.
 - [Scrimba](https://scrimba.com) - Interactive courses and tutorials that will teach you React, Vue, Angular, JavaScript, HTML, CSS, etc.
 - [CodePen](https://codepen.io) - Social development environment for front-end designers and developers.
@@ -554,9 +561,9 @@ EXTENSIONS
 #### SCRIPTS
 - [Installette (Kuninoto)](https://github.com/Kuninoto/installette) - A Bash script to install Norminette, a Norminette Formatter, Vim and 42 Header for Vim.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Open source, community-driven framework for managing your Zsh configuration.
-- [PowerLevel10k](https://github.com/romkatv/powerlevel10k) - Theme that i personally use for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
-- [tldr-pages](https://github.com/tldr-pages/tldr) - collection of community-maintained help pages for command-line tools.
-- [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) - A bunch of neofetch configs in a single place.
+- [PowerLevel10k](https://github.com/romkatv/powerlevel10k) - Theme that I personally use for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
+- [tldr-pages](https://github.com/tldr-pages/tldr) - A collection of community-maintained help pages for command-line tools.
+- [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) - A bunch of Neofetch configs in a single place.
 
 #### VS CODE
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)
@@ -571,7 +578,7 @@ EXTENSIONS
 - [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)
 
 #### BROWSER
-###### _I recommend only instaling 'Improved Intra 42' because its a all-in-one extension for both chrome and firefox._
+> _I recommend only installing 'Improved Intra 42' because it's an all-in-one extension for both Chrome and Firefox._
 - [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
 - [Better Black Hole](https://github.com/jkctech/BetterBlackHole) `chrome` `firefox`
 - [42 Logtime & Darkmode](https://chrome.google.com/webstore/detail/42-logtime-darkmode/kkcjiilcfieknbpdhihhhncdbligjplg) `chrome`
@@ -597,12 +604,12 @@ EXTENSIONS
 - [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - `Swift` `iOS`
 
 #### BADGE
-- [Badge 42](https://github.com/JaeSeoKim/badge42) - Dynamically generated 42 badge for your git readmes.
+- [Badge 42](https://github.com/JaeSeoKim/badge42) - Dynamically generated 42 badges for your git readmes.
 - [1337 Readme](https://github.com/mohouyizme/1337-readme) - Share your progress with the world via GitHub README.md. `Not working?`
 
 #### ADD-ONS
 - [Spicetify](https://spicetify.app) - Powerful CLI tool to take control of the Spotify client.
-- [Discord Plugins](https://betterdiscord.app/plugins) - Community custom made plugins for discord.
+- [Discord Plugins](https://betterdiscord.app/plugins) - Community custom-made plugins for Discord.
 
 - - - -
 
@@ -615,14 +622,14 @@ MOOCS AND BOOKS
 </h1>
 
 <p align="center">
-	<a href="#plataforms">Plataforms</a> •
+	<a href="#platforms">Platforms</a> •
 	<a href="#online-courses">Online Courses</a> •
 	<a href="#books">Books</a> •
 	<a href="#cheatsheets">Cheatsheets</a> •
 	<a href="#--">↥ Back To Top</a>
 </p>
 
-#### PLATAFORMS
+#### PLATFORMS
 - [Udemy](https://www.udemy.com)
 - [Google Codelabs](https://codelabs.developers.google.com)
 - [Codecademy](https://www.codecademy.com)
@@ -653,7 +660,7 @@ MOOCS AND BOOKS
 #### CHEATSHEETS
 - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
 - [Explain Shell](https://explainshell.com) - Explains shell commands.
-- [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colors for easier code reading.
+- [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colours for easier code reading.
 - [Git Cheat Sheet (RehanSaeed)](https://github.com/RehanSaeed/Git-Cheat-Sheet)
 - [Git Cheat Sheet (Atlassian)](https://github.com/jotavare/42-resources/files/10611245/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) - `PDF`
 - [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet)
@@ -663,9 +670,9 @@ MOOCS AND BOOKS
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators) - Discover how to use bitwise operators.
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
 - [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet)
-- [Server World](https://www.server-world.info/en) - Website for people who like to build Network Servers with CentOS, Ubuntu, Fedora, Debian, Windows Server.
+- [Server World](https://www.server-world.info/en) - Website for people who like to build Network Servers with CentOS, Ubuntu, Fedora, Debian, and Windows Server.
 - [Cheatography](https://cheatography.com) - Over 5,000 free cheat sheets, revision aids and quick references.
-- [Cheat Sheets](https://cheat-sheets.org) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
+- [Cheat Sheets](https://cheat-sheets.org) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets on one page.
 - [Devhints](https://devhints.io) - Collection of various cheat sheets.
 - [OverAPI](https://overapi.com) - A website collecting all the cheatsheets.
 - [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
@@ -693,7 +700,7 @@ AI
 #### CHATBOT
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Bard](https://bard.google.com) - AI chatbot, similar to ChatGPT.
-- [Bing](https://www.bing.com/new) - Microsoft Edge necessary to use the chatbot.
+- [Bing](https://www.bing.com/new) - Microsoft Edge is necessary to use the chatbot.
 - [PromptHero](https://prompthero.com) - Specific prompts for AI tools.
 
 #### CODING
@@ -718,7 +725,6 @@ AI
 - [Future Tools](https://www.futuretools.io) - All The Best AI Tools.
 - [Hugging Face](https://huggingface.co) - Trained AI models to use with other AI tools.
 
-
 - - - -
 
 <!---
@@ -741,7 +747,7 @@ TOOLS
 
 #### GENERATORS
 - [ASCII Table](https://www.asciitable.com) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
-- [Lorem Ipsum](https://lipsum.com) - Dummy text for printing and typesetting industry.
+- [Lorem Ipsum](https://lipsum.com) - Dummy text for the printing and typesetting industry.
 - [RANDOM.ORG](https://www.random.org) - Website that produces random numbers based on atmospheric noise. 
 - [YayText](https://yaytext.com) - Generate a variety of cool unicode font styles.
 - [Tables Generator](https://www.tablesgenerator.com) - Table editor and Generator. `LaTeX` `ConTeXt` `Plain TeX` `PreTeXt` `EPlain` `Markdown` `Textile` `CSV` `HTML` 
@@ -764,8 +770,8 @@ TOOLS
 - [Google Images](https://www.google.com/imghp) - Reverse image search from google. `Free`
 
 #### COLORS
-- [Flat UI Colors](https://flatuicolors.com) - A total set of 14 color palettes and 280 colors for your designs, projects, presentations and other needs.
-- [ColorSpace](https://mycolor.space) - Generate color palettes, color gradients and find the perfect matching color scheme for your project.
+- [Flat UI Colors](https://flatuicolors.com) - A total set of 14 colour palettes and 280 colours for your designs, projects, presentations and other needs.
+- [ColorSpace](https://mycolor.space) - Generate colour palettes, and colour gradients and find the perfect matching colour scheme for your project.
 
 #### DESIGN
 - [Placeit](https://placeit.net) - Online mockups, videos, and design templates.
@@ -800,7 +806,7 @@ MISCELLANEOUS
 
 #### PRODUCTIVITY SOFTWARE
 - [Evernote](https://evernote.com) – Note-taking and task management application. 
-- [Notion](https://www.notion.so) – Freemium productivity and note-taking web application developed by Notion Labs Inc.
+- [Notion](https://www.notion.so) – Freemium productivity and a note-taking web application developed by Notion Labs Inc.
 - [Trello](https://trello.com) – Ultimate project management tool.
 - [Motion](https://www.usemotion.com) – Automatically prioritize tasks, schedule meetings, and resolve calendar conflicts. 
 
@@ -811,22 +817,22 @@ MISCELLANEOUS
 
 #### GAMES
 ###### _Attention, depending on your 42 school rules you may or may not play games on school computers. Avoid getting -420 and community service._
-- [Reeborg's World](https://reeborg.ca/reeborg.html) - Website designed to help people learn programming. `Recommended`
+- [Reeborg's World](https://reeborg.ca/reeborg.html) - Website designed to help people learn to program. `Recommended`
 - [Sudoku](https://sudoku.com) - Fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9.
 - [2048](https://play2048.co) - Slide numbered tiles on a grid to combine them to create a tile with the number 2048.
-- [Keybr](https://www.keybr.com) - Take a typing test, practice typing lessons, learn to type faster.
-- [The Scale of the Universe](https://htwins.net/scale2) - This game showns the sizes of different things in our universe in relation to other different things.
+- [Keybr](https://www.keybr.com) - Take a typing test, practice typing lessons, and learn to type faster.
+- [The Scale of the Universe](https://htwins.net/scale2) - This game shows the sizes of different things in our universe in relation to other different things.
 - [The Is This Prime?](https://isthisprime.com/game)
 - [Quick, Draw!](https://quickdraw.withgoogle.com) - Can a neural network learn to recognize squiggles?
 - [Random Country Generator](https://random.country) - Ever wanted to learn about all the countries in the world?
 
 #### RUBIKS CUBE
 - [SpeedSolving](https://www.speedsolving.com/wiki/index.php/Main_Page) - Community focused on speed-solving puzzles, particularly the Rubik's cube and alike.
-- [Ruwix](https://ruwix.com) - Website to learn about the Rubik's Cube and other twisty puzzles.
+- [Ruwix](https://ruwix.com) - Website to learn about Rubik's Cube and other twisty puzzles.
 
 #### CHESS
 - [Chess](https://www.chess.com) - Chess online.
-- [Lichess](https://lichess.org) - Free and open-source chess server. Clean interface, no registration, no ads, no plugin required.
+- [Lichess](https://lichess.org) - Free and open-source chess server. Clean interface, no registration, no ads, and no plugin required.
 - [Chess24](https://chess24.com) - Chess news.
 - [Kasparovchess](https://kasparovchess.com) - Garry Kasparov masterclass, lessons from grandmasters, entertaining documentaries and interviews.
 - [ChessBase](https://en.chessbase.com) - Chess news and stand-alone database that has become the standard throughout the world.
@@ -849,24 +855,24 @@ MISCELLANEOUS
 - [Let Me Google That For You...](https://letmegooglethat.com)
 - [PlayPhrase.me](https://www.playphrase.me) - Lets you search for very specific phrases and soundbites that have been uttered on-screen.
 - [Fake Update](https://fakeupdate.net) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`
-- [Similarsites](https://www.similarsites.com) - Explore competitor and related sites.
+- [Similarsites](https://www.similarsites.com) - Explore competitors and related sites.
 - [Time.is](https://time.is) - 7 million locations, 57 languages, synchronized with atomic clock time.
 - [Time and Date](https://www.timeanddate.com) - Current Time (World Clock) and online and printable Calendars for countries worldwide.
 - [The 88x31 GIF Collection](http://cyber.dabamos.de/88x31) - A collection of 4161 classic 88x31 buttons from the 1990s, 2000s, and today in GIF format.
-- [Cool, but obscure X11 tools](http://cyber.dabamos.de/unix/x11/#xmgrace) - Small collection of soem obscure tools for the X Window System.
+- [Cool, but obscure X11 tools](http://cyber.dabamos.de/unix/x11/#xmgrace) - Small collection of some obscure tools for the X Window System.
 - [Cool, but obscure UNIX tools](https://kkovacs.eu/cool-but-obscure-unix-tools) - A little collection of cool unix terminal/console/curses tools.
-- [This website will self destruct](https://www.thiswebsitewillselfdestruct.com)
+- [This website will self-destruct](https://www.thiswebsitewillselfdestruct.com)
 - [Start Your Own ISP ](https://startyourownisp.com) - This guide is about building a Wireless ISP (WISP).
-- [Where is Roadster?](https://www.whereisroadster.com) - 6 of February 2018, at 20:45 UTC, the first Falcon Heavy was launched into space. It contained a very special payload, a Tesla Roadster with Starman.
+- [Where is Roadster?](https://www.whereisroadster.com) - 6 February 2018, at 20:45 UTC, the first Falcon Heavy was launched into space. It contained a very special payload, a Tesla Roadster with Starman.
 - [This person does not exist](https://www.thispersondoesnotexist.com)
 - [Google Books Ngram Viewer](https://books.google.com/ngrams) - Online search engine that charts the frequency of terms used in books over time.
 - [Keanu is immortal](https://www.keanuisimmortal.com) - Proof of Keany Reeves is immortal.
-- [YouGlish](https://youglish.com) - Dont know how to pronouce a word? Use Youtube to improve your English pronunciation.
+- [YouGlish](https://youglish.com) - Don't know how to pronounce a word? Use Youtube to improve your English pronunciation.
 - [txti](http://txti.es) - Fast web pages for everybody.
-- [PageSpeed Insights](https://pagespeed.web.dev) - Analyze score and use PageSpeed Insights suggestions to make your web site faster.
+- [PageSpeed Insights](https://pagespeed.web.dev) - Analyze the score and use PageSpeed Insights suggestions to make your website faster.
 - [Testmysite.io](https://testmysite.io) - Is your site as fast and secure as it could be?
 - [Worldometer](https://www.worldometers.info) - Live world statistics. `Population` `Government` `Economics` `Society` `Media` `Environment` `Food` `Water` `Energy` `Health`
-- [Free Postcard](https://postcardmailer.herokuapp.com) - Send a free postcard with a photo to anyone on USA.
+- [Free Postcard](https://postcardmailer.herokuapp.com) - Send a free postcard with a photo to anyone in USA.
 - [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks)
 - [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.app) - Hacker News whose titles have been edited since they were first posted.
 - [Sketchy Website](https://sketchywebsite.net) - You can trust this website.
@@ -876,18 +882,18 @@ MISCELLANEOUS
 - [TV Chart](https://tvchart.benmiz.com) - View a graph of any TV show's ratings, by episode.
 - [Famous Scientists](https://www.famousscientists.org) -  Lives and achievements of the most famous scientists and inventors in history.
 - [bellingcat](https://www.bellingcat.com) - Netherlands-based investigative journalism group that specialises in fact-checking and open-source intelligence.
-- [Artvee](https://artvee.com) - Browse and download high-resolution, public domain Paintings, Drawings, Illustrations and Posters.
+- [Artvee](https://artvee.com) - Browse and download high-resolution, public-domain Paintings, Drawings, Illustrations and Posters.
 - [Lightyear.fm](http://www.lightyear.fm) - A journey through space, time, & music. Radio broadcasts leave Earth at the speed of light.
 - [Deceptive Design](https://www.deceptive.design) - What is deceptive design (also known as "dark patterns")?
-- [DuckDuckGo](https://duckduckgo.com) -  Internet search engine that emphasizes protecting searchers' privacy.
+- [DuckDuckGo](https://duckduckgo.com) -  The Internet search engine that emphasizes protecting searchers' privacy.
 - [elgooG](https://elgoog.im) - Create, restore, and discover interactive Google Easter Eggs.
-- [Every Noise at Once](https://everynoise.com) - Algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space.
+- [Every Noise at Once](https://everynoise.com) - Algorithmically-generated, readability-adjusted scatter-plot of the musical genre space.
 - [Animated Knots](https://www.animatedknots.com) - Learn how to tie knots of any kind.
 - [Docusaurus](https://docusaurus.io) - An optimized site generator in React. Helps you to move fast and write content.
 - [Kickresume](https://www.kickresume.com) - Assemble your resume from more than 20,000 pre-written phrases for more than 3,200 positions.
 - [Uneed](https://www.uneed.best) - Curated list of the best tools on the internet. 
 - [iLovePDF](https://www.ilovepdf.com) - Every tool you need to use PDFs, at your fingertips.
-- [FreezingCam](https://freezingcam.com) - Freeze your webcam at anytime during video calls. You can even play a video instead!
+- [FreezingCam](https://freezingcam.com) - Freeze your webcam at any time during video calls. You can even play a video instead!
 
 - - - -
 
@@ -911,7 +917,7 @@ WIKIMEDIA FOUNDATION
 - [Wikiversity](https://www.wikiversity.org) – Collection of tutorials and courses, also a hosting point to coordinate research.
 - [Wikidata](https://www.wikidata.org) – Knowledge base.
 - [Meta-Wiki](https://meta.wikimedia.org) – Central site for coordinating all projects and the Wikimedia community.
-- [Wikimedia Incubator](https://incubator.wikimedia.org) – A single wiki for drafting the core pages of new language-editions in development.
+- [Wikimedia Incubator](https://incubator.wikimedia.org) – A single wiki for drafting the core pages of new language editions in development.
 - [MediaWiki](https://www.mediawiki.org) – Site for coordinating work on MediaWiki software.
 - [Wikitech](https://wikitech.wikimedia.org) – Including Wikimedia Cloud Services, Data Services, Toolforge, and other technical projects and infrastructure.
 - [Phabricator](https://phabricator.wikimedia.org) – Not a wiki, but a global ticketing system for tracking issues and feature requests.
