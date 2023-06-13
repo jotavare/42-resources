@@ -15,7 +15,7 @@ WELCOME
 </p>
 
 <p align="center">
-	<a href="42-school">42 School</a> •
+	<a href="#42-school">42 School</a> •
 	<a href="#---1">Common Core Projects</a> •
 	<a href="#---2">Piscine and Common Core</a> •
 	<a href="#---3">Cyber Security and Hacking</a> •
