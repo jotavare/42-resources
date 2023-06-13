@@ -905,6 +905,8 @@ WIKIMEDIA FOUNDATION
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/wikimedia_banner.png">
 </h1>
 
+> Wikimedia is a global movement whose mission is to bring free educational content to the world.
+
 - [Wikipedia](https://en.wikipedia.org) – Online encyclopedia.
 - [Wiktionary](https://www.wiktionary.org) – Online dictionary and thesaurus.
 - [Wikibooks](https://en.wikibooks.org) – Collection of books, mostly textbooks.
