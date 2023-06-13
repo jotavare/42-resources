@@ -178,7 +178,8 @@ COMMON CORE PROJECTS
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minitalk_evaluation_page.pdf) `PNG`
 > _Information and Resources_
-- [Bitwise Operators in C](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp) `Website`
+- [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp) `Website`
+- [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators) `agavrel` `GitHub`
 - [Sending and Handling Signals in C](https://www.youtube.com/watch?v=83M5-NPDeWs) `Youtube`
 - [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs) `Youtube`
 - [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U) `Youtube`
@@ -667,7 +668,6 @@ MOOCS AND BOOKS
 - [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Assembly - Introduction](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm)
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
-- [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators) - Discover how to use bitwise operators.
 - [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
 - [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet)
 - [Server World](https://www.server-world.info/en) - Website for people who like to build Network Servers with CentOS, Ubuntu, Fedora, Debian, and Windows Server.
