@@ -392,14 +392,14 @@ PISCINE AND COMMON CORE
 - [Scribe](https://scribehow.com) - Turn any process into a step-by-step guide, instantly.
 
 #### TIPS
-> _Useful tips to improve your coding/learning_
+> _Useful tips to improve your coding/learning._
 -  [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) - Extended Bourne shell with many improvements, including some features of Bash, ksh, and tcsh.
 - [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki) - Open source, community-driven framework for managing your zsh configuration.
 - [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) - There are some good ones like: `git` `autojump` `colored-man-pages` `copyfile` `copypath` `github` `sudo` `vscode` but feel free to explore other options.
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) - More colorful syntax.
 - `echo "set number\nsyntax on" > ~/.vimrc` - It will set the syntax for your files and put the little numbers on your left. (vim only)
 - [.vimrc](https://vim.fandom.com/wiki/Example_vimrc#Example_vimrc) - If you're feeling adventurous.
-- [OnlineGDB](https://www.onlinegdb.com/online_c_compiler) - Helps you debug your errors (although I know you don't make mistakes), but keep in mind that you have more powerful tools like `lldb` and `gdb` on you terminal.
+- [OnlineGDB](https://www.onlinegdb.com/online_c_compiler) - Helps you debug your errors, but keep in mind that you have more powerful tools like `lldb` and `gdb` on you terminal.
 
 #### PEER-TO-PEER
 > _Usefull information about peer-to-peer evaluation, and some beginner videos about Shell and Git._
