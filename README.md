@@ -297,6 +297,7 @@ COMMON CORE PROJECTS
 
 #### [04] NETPRACTICE
 > _Project Files_
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/netpractice.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/netpractice_evaluation_page.pdf) `PNG`
 > _Information and Resources_
 - [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a) `Website`
@@ -309,6 +310,7 @@ COMMON CORE PROJECTS
 
 #### [04] CUB3D
 > _Project Files_
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/cub3d.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cub3d_evaluation_page.pdf) `PNG`
 > _Information and Resources_
 - [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html) `Website`
