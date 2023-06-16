@@ -298,6 +298,11 @@ COMMON CORE PROJECTS
 > _Information and Resources_
 - [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a) `Website`
 - [ipcalc](https://linuxhint.com/ipcalc-command-linux) `Website`
+- [Guide to NetPractice](https://github.com/lpaube/NetPractice) `lpaube` `GitHub`
+- [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html) `Website`
+- [Practical Networking](https://youtu.be/BWZ-MHIhqjM) `Youtube`
+- [Default Gateway Explained](https://youtu.be/pCcJFdYNamc) `Youtube`
+- [CCNA](https://youtu.be/Ct4PU6CyvTQ) `Youtube`
 
 #### [04] CUB3D
 > _Project Files_
