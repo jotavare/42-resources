@@ -243,6 +243,7 @@ COMMON CORE PROJECTS
 - [Algorithms Playlist](https://youtube.com/playlist?list=PL3edoBgC7ScV9WPytQ2dtso21YrTuUSBd) `Youtube`
 > _Testers_
 - [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer) `o-reo` `GitHub`
+- [Push Swap Visualizer](https://github.com/Niimphu/push_swap_visualiser) `Niimphu` `GitHub`
 - [Push Swap Tester](https://github.com/laisarena/push_swap_tester) `laisarena` `GitHub`
 - [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester) `IDC87` `GitHub`
 - [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester) `gemartin99` `GitHub`
