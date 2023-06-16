@@ -390,6 +390,16 @@ PISCINE AND COMMON CORE
 - [42 Evaluators](https://42evaluators.com) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
 - [Scribe](https://scribehow.com) - Turn any process into a step-by-step guide, instantly.
 
+#### TIPS
+> _Useful tips to improve your coding/learning_
+-  Install [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) - zsh is an extended Bourne shell with many improvements, including some features of Bash, ksh, and tcsh.
+- Install [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki) - Oh My Zsh is an open source, community-driven framework for managing your zsh configuration.
+- Check and install some plugins they have -> HERE - (I'm using git autojump colored-man-pages copyfile copypath github sudo vscode but feel free to explore your preferences)
+- If you want zsh-syntax-highlighting for more colorful thingys -> HERE
+- If using vim, do this on the terminal: echo "set number\nsyntax on" > ~/.vimrc, it will set the syntax for your files and put the little numbers on your left ;) (courtesy of our current leader mtiago-s )
+- If you're feeling adventurous you can also use this .vimrc file ;)
+- A really cool tool is OnlineGDB which will help you debug your errors (although I know you don't make mistakes). Use this keeping in mind you have more powerful tools like lldb and/or gdb on your terminals, you should ultimately be using those ones ;D
+
 #### PEER-TO-PEER
 > _Usefull information about peer-to-peer evaluation, and some beginner videos about Shell and Git._
 - [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) `Youtube`
