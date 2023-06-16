@@ -394,11 +394,11 @@ PISCINE AND COMMON CORE
 > _Useful tips to improve your coding/learning_
 -  Install [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) - zsh is an extended Bourne shell with many improvements, including some features of Bash, ksh, and tcsh.
 - Install [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki) - Oh My Zsh is an open source, community-driven framework for managing your zsh configuration.
-- Check and install some plugins they have -> HERE - (I'm using git autojump colored-man-pages copyfile copypath github sudo vscode but feel free to explore your preferences)
-- If you want zsh-syntax-highlighting for more colorful thingys -> HERE
-- If using vim, do this on the terminal: echo "set number\nsyntax on" > ~/.vimrc, it will set the syntax for your files and put the little numbers on your left ;) (courtesy of our current leader mtiago-s )
-- If you're feeling adventurous you can also use this .vimrc file ;)
-- A really cool tool is OnlineGDB which will help you debug your errors (although I know you don't make mistakes). Use this keeping in mind you have more powerful tools like lldb and/or gdb on your terminals, you should ultimately be using those ones ;D
+- Check and install some [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) - There are some good ones like: `git` `autojump` `colored-man-pages` `copyfile` `copypath` `github` `sudo` `vscode` but feel free to explore other options.
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) for more colorful syntax.
+- If you are using vim, write this on the terminal: `echo "set number\nsyntax on" > ~/.vimrc`, it will set the syntax for your files and put the little numbers on your left.
+- If you're feeling adventurous you can also use this `.vimrc` file.
+- OnlineGDB will help you debug your errors (although I know you don't make mistakes). Use this, but keep in mind that you have more powerful tools like `lldb` and `gdb` on you terminal.
 
 #### PEER-TO-PEER
 > _Usefull information about peer-to-peer evaluation, and some beginner videos about Shell and Git._
