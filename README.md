@@ -310,6 +310,16 @@ COMMON CORE PROJECTS
 #### [04] CUB3D
 > _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cub3d_evaluation_page.pdf) `PNG`
+> _Information and Resources_
+- [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html) `Website`
+- [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch) `Website`
+- [Ray-Casting Tutorial](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents) `Website`
+- [Ray Tracing with the BSP Tree](http://www.sci.utah.edu/~thiago/papers/BSP_RT08.pdf) `PDF`
+- [Online Computer Graphics II](https://www.youtube.com/watch?v=U0-58hpucp4) `Youtube`
+- [Binary Space Partitioning](https://www.youtube.com/watch?v=6vrPCkHqWwg) `Youtube`
+- [Super Fast Ray Casting in Tiled Worlds using DDA](https://www.youtube.com/watch?v=NbSee-XM7WA) `Youtube`
+> _Testers_
+- [cub3D Map Tester](https://github.com/humblEgo/cub3D_map_tester) `humblEgo` `GitHub`
 
 #### [04] MINIRT
 > _Project Files_
