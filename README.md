@@ -397,8 +397,8 @@ PISCINE AND COMMON CORE
 - Check and install some [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) - There are some good ones like: `git` `autojump` `colored-man-pages` `copyfile` `copypath` `github` `sudo` `vscode` but feel free to explore other options.
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) for more colorful syntax.
 - If you are using vim, write this on the terminal: `echo "set number\nsyntax on" > ~/.vimrc`, it will set the syntax for your files and put the little numbers on your left.
-- If you're feeling adventurous you can also use this `.vimrc` file.
-- OnlineGDB will help you debug your errors (although I know you don't make mistakes). Use this, but keep in mind that you have more powerful tools like `lldb` and `gdb` on you terminal.
+- If you're feeling adventurous you can also use this [.vimrc](https://vim.fandom.com/wiki/Example_vimrc#Example_vimrc) file.
+- [OnlineGDB](https://www.onlinegdb.com/online_c_compiler) will help you debug your errors (although I know you don't make mistakes). Use this, but keep in mind that you have more powerful tools like `lldb` and `gdb` on you terminal.
 
 #### PEER-TO-PEER
 > _Usefull information about peer-to-peer evaluation, and some beginner videos about Shell and Git._
