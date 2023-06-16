@@ -392,12 +392,12 @@ PISCINE AND COMMON CORE
 
 #### TIPS
 > _Useful tips to improve your coding/learning_
--  Install [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) - zsh is an extended Bourne shell with many improvements, including some features of Bash, ksh, and tcsh.
-- Install [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki) - Oh My Zsh is an open source, community-driven framework for managing your zsh configuration.
-- Check and install some [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) - There are some good ones like: `git` `autojump` `colored-man-pages` `copyfile` `copypath` `github` `sudo` `vscode` but feel free to explore other options.
+-  [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) - zsh is an extended Bourne shell with many improvements, including some features of Bash, ksh, and tcsh.
+- [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki) - Oh My Zsh is an open source, community-driven framework for managing your zsh configuration.
+- [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) - There are some good ones like: `git` `autojump` `colored-man-pages` `copyfile` `copypath` `github` `sudo` `vscode` but feel free to explore other options.
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) for more colorful syntax.
-- If you are using vim, write this on the terminal: `echo "set number\nsyntax on" > ~/.vimrc`, it will set the syntax for your files and put the little numbers on your left.
-- If you're feeling adventurous you can also use this [.vimrc](https://vim.fandom.com/wiki/Example_vimrc#Example_vimrc) file.
+- `echo "set number\nsyntax on" > ~/.vimrc` - It will set the syntax for your files and put the little numbers on your left. (vim only)
+- [.vimrc](https://vim.fandom.com/wiki/Example_vimrc#Example_vimrc) - Also, if you're feeling adventurous you can also try this example .vimrc file.
 - [OnlineGDB](https://www.onlinegdb.com/online_c_compiler) will help you debug your errors (although I know you don't make mistakes). Use this, but keep in mind that you have more powerful tools like `lldb` and `gdb` on you terminal.
 
 #### PEER-TO-PEER
