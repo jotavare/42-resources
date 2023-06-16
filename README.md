@@ -353,6 +353,7 @@ PISCINE AND COMMON CORE
 	<a href="#exams">Exams</a> •
 	<a href="#all-in-one-testers">All-In-One Testers</a> •
 	<a href="#tools">Tools</a> •
+	<a href="#tips">Tips</a> •
 	<a href="#peer-to-peer">Peer-To-Peer</a> •
 	<a href="#ctf">CTF</a> •
 	<a href="#--">↥ Back To Top</a>
