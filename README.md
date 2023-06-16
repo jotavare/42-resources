@@ -194,7 +194,10 @@ COMMON CORE PROJECTS
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/pipex.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/pipex_evaluation_page.pdf) `PNG`
 > _Information and Resources_
+- [Pipex Tutorial](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901) `Website`
 - [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) `Youtube`
+> _Testers_
+- [Pipex Medic](https://github.com/gmarcha/pipexMedic) `gmarcha` `GitHub`
 
 #### [02] SO_LONG
 > _Project Files_
