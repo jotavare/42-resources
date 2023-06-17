@@ -543,6 +543,10 @@ CYBER SECURITY AND HACKING
 - [EternalBlue](https://pt.wikipedia.org/wiki/EternalBlue) - Exploit developed by the U.S. NSA. It was leaked by the Shadow Brokers.
 - [MouseJack](https://www.mousejack.com/mousejack) - Vulnerabilities that affects the vast majority of wireless, non-Bluetooth keyboards and mice.
 
+#### GUIDES
+- [Introduction to the World of Reversing](https://medium.com/@m0ab1d42/reversing-everything-except-love-27fe7a3d9e76)
+- [Exploring the Heap](https://medium.com/@m0ab1d42/heap-the-witchcraft-dungeon-ac08e782fb49)
+
 #### PODCASTS
 > _Stories specifically intended to capture, preserve, and explain the culture around hacking and cyber security._
 - [Jack Rhysider](https://www.youtube.com/@JackRhysider) - A podcast featuring true stories from the dark side of the Internet. `Youtube`
