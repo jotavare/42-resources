@@ -197,6 +197,7 @@ COMMON CORE PROJECTS
 > _Information and Resources_
 - [Pipex Tutorial](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901) `Website`
 - [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) `Youtube`
+- [Pipes Explained (Spanish)](https://www.youtube.com/watch?v=8LdQ09Ep9RY) `Youtube`
 > _Testers_
 - [Pipex Medic](https://github.com/gmarcha/pipexMedic) `gmarcha` `GitHub`
 
