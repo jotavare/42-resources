@@ -357,6 +357,20 @@ COMMON CORE PROJECTS
 #### [06] FT_TRANSCENDENCE
 > _Project Files_
 - [Evaluation Page](https://github.com/42pde-bakk/ft_transcendence) - README file with the project guidelines. `42pde-bakk` `GitHub`
+> _Information and Resources_
+- [Vue.js Guide](https://vuejs.org/guide/introduction.html) `Website`
+- [Props vs Data in Vue](https://michaelnthiessen.com/vue-props-vs-data) `Website`
+- [getBoundClientRect in vue.js](https://thewebdev.info/2022/03/15/how-to-get-left-top-position-of-element-in-vue-js) `Website`
+- [Guide to CSS Flexbox Layout](https://css-tricks.com/snippets/css/a-guide-to-flexbox) `Website`
+- [Building a multiplayer game using WebSockets](https://dev.to/sauravmh/building-a-multiplayer-game-using-websockets-1n63) `Website`
+- [Socket.IO - Basic Chat Application](https://socket.io/get-started/chat) `Website`
+- [Build Lobby Based Online Multiplayer Browser Games with React and NodeJS](https://francois-steinel.fr/articles/build-lobby-based-online-multiplayer-browser-games-with-react-and-nodejs) `Website`
+- [Integrating Vue.js and Socket.io](https://www.digitalocean.com/community/tutorials/vuejs-vue-socketio) `Website`
+- [Vue.js Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs) `Youtube`
+- [Beginner JavaScript Game Dev Project - Pong](https://www.youtube.com/watch?v=PeY6lXPrPaA) `Youtube`
+- [Build a Realtime Chat App with Vue.js](https://youtu.be/SZlsP5uxYjk) `Youtube`
+- [WEBSOCKETS with NestJS - Build Real-Time Web Apps](https://youtu.be/atbdpX4CViM) `Youtube`
+- [NestJS Authentication](https://www.youtube.com/watch?v=_L225zpUK0M) `Youtube`
 
 - - - -
 
