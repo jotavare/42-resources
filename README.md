@@ -350,10 +350,10 @@ COMMON CORE PROJECTS
 > _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/webserv_evaluation_page.pdf) `PNG`
 > _Information and Resources_
-[Building an HTTP Server From Scratch in C++](https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7) `Website`
-[Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html) `Website`
-[RFC Index](https://www.rfc-editor.org/rfc-index.html) `Website`
-[The Hypertext Transfer Protocol](https://datatracker.ietf.org/doc/html/rfc2616) `Website`
+- [Building an HTTP Server From Scratch in C++](https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7) `Website`
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html) `Website`
+- [RFC Index](https://www.rfc-editor.org/rfc-index.html) `Website`
+- [The Hypertext Transfer Protocol](https://datatracker.ietf.org/doc/html/rfc2616) `Website`
 
 #### [05] FT_IRC
 > _Project Files_
