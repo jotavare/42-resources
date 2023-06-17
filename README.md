@@ -163,6 +163,7 @@ COMMON CORE PROJECTS
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/ft_printf_evaluation_page.pdf) `PNG`
 - [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html) `Website`
 > _Testers_
+- [Debugging main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c) `Kuninoto` `GitHub`
 - [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
 - [printfTester](https://github.com/Tripouille/printfTester) `Tripouille` `GitHub`
 
