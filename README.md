@@ -269,6 +269,7 @@ COMMON CORE PROJECTS
 - [Medium - The Dining Philosopher’s Problem](https://medium.com/swlh/the-dining-philosophers-problem-bbdb92e6b788) `Website`
 - [Unix Threads in C](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2) `Youtube`
 - [The Dining Philosophers Problem (Neso Academy)](https://www.youtube.com/watch?v=FYUi-u7UWgw) `Youtube`
+- [Dining Philosophers Problem Explanation](https://www.youtube.com/watch?v=UGQsvVKwe90) `Youtube`
 > _Testers_
 - [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer) `nafuka11` `Visualizer` `Website`
 - [Socrates](https://github.com/nesvoboda/socrates) `nesvoboda` `GitHub`
