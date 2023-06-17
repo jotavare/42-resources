@@ -463,6 +463,7 @@ CYBER SECURITY AND HACKING
 	<a href="#operating-system">Operating System</a> •
 	<a href="#exploits-and-vulnerabilities">Explois and Vulnerabulities</a> •
 	<a href="#terminology">Terminology</a> •
+	<a href="#guides">Guides</a> •
 	<a href="#podcasts">Podcasts</a> •
 	<a href="#hacking-google">Hacking Google</a> •
 	<a href="#--">↥ Back To Top</a>
@@ -541,11 +542,11 @@ CYBER SECURITY AND HACKING
 - [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory and software that performs that exploit.
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Identify highly complex attack paths that would otherwise be impossible to quickly identify.
 - [EternalBlue](https://pt.wikipedia.org/wiki/EternalBlue) - Exploit developed by the U.S. NSA. It was leaked by the Shadow Brokers.
-- [MouseJack](https://www.mousejack.com/mousejack) - Vulnerabilities that affects the vast majority of wireless, non-Bluetooth keyboards and mice.
+- [MouseJack](https://www.mousejack.com/mousejack) - Vulnerabilities that affect the vast majority of wireless, non-Bluetooth keyboards and mice.
 
 #### GUIDES
-- [Introduction to the World of Reversing](https://medium.com/@m0ab1d42/reversing-everything-except-love-27fe7a3d9e76)
-- [Exploring the Heap](https://medium.com/@m0ab1d42/heap-the-witchcraft-dungeon-ac08e782fb49)
+- [Introduction to the World of Reversing](https://medium.com/@m0ab1d42/reversing-everything-except-love-27fe7a3d9e76) `Website`
+- [Exploring the Heap](https://medium.com/@m0ab1d42/heap-the-witchcraft-dungeon-ac08e782fb49) `Website`
 
 #### PODCASTS
 > _Stories specifically intended to capture, preserve, and explain the culture around hacking and cyber security._
