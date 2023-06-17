@@ -209,6 +209,8 @@ COMMON CORE PROJECTS
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx) `Website`
 - [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial) `pulgamecanica` `Blog`
 - [MiniLibX Animations Tutorial)](https://pulgamecanica.herokuapp.com/posts/mlx-animations) `pulgamecanica` `Blog`
+- [miniaudio](https://github.com/mackron/miniaudio) `mackron` `GitHub`
+- [raylib](https://www.raylib.com) `Website`
 > _Testers_
 - [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator) `Nuno-Jesus` `GitHub`
 
