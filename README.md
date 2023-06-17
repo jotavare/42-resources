@@ -489,6 +489,7 @@ CYBER SECURITY AND HACKING
 - [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills.
 - [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
 - [Cyberseek](https://www.cyberseek.org) - Explore career paths, skills, and certifications in the field of cyber security.
+- [Advent of Code](https://adventofcode.com) - Annual set of Christmas-themed computer programming challenges that follow an Advent calendar.
 
 #### PENTESTING TOOLS
 > _Collection of software and applications used to perform penetration testing or ethical hacking._
