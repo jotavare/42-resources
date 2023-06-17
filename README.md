@@ -363,6 +363,7 @@ COMMON CORE PROJECTS
 > _Project Files_
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/inception_evaluation_page_new.pdf) `PNG`
 > _Information and Resources_
+- [Exploring the Inception Project](https://medium.com/@navoos/streamlining-infrastructure-deployment-with-docker-exploring-the-inception-project-3bb0055686a8) `Website`
 - [Inception](https://github.com/iimyzf/Inception) `iimyzf` `GitHub`
 
 #### [06] FT_TRANSCENDENCE
