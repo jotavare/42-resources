@@ -133,6 +133,7 @@ COMMON CORE PROJECTS
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/libft_evaluation_page.pdf) `PNG`
 > _Information and Resources_
 - [Libft Functions](https://www.asidesigned.com/project-libft.html) `Website`
+- [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make) `Nuno-Jesus` `GitHub`
 - [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles) `pulgamecanica` `Blog`
 > _Testers_
 - [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
