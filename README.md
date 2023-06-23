@@ -319,6 +319,7 @@ COMMON CORE PROJECTS
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/cub3d.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cub3d_evaluation_page.pdf) `PNG`
+- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cub3d) `Files`
 > _Information and Resources_
 - [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html) `Website`
 - [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch) `Website`
@@ -332,24 +333,28 @@ COMMON CORE PROJECTS
 
 #### [04] MINIRT
 > _Project Files_
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/miniRT.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/miniRT_evaluation_page.pdf) `PNG`
+- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/miniRT) `Files`
 
 #### [04] CPP MODULE (00-09)
 > _Project Files_
-- [Evaluation Page - 00](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_00_evaluation_page.pdf) `PNG`
-- [Evaluation Page - 01](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_01_evaluation_page.pdf) `PNG`
-- [Evaluation Page - 02](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_02_evaluation_page.pdf) `PNG`
-- [Evaluation Page - 03](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_03_evaluation_page.pdf) `PNG`
-- [Evaluation Page - 04](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_04_evaluation_page.pdf) `PNG`
-- [Evaluation Page - 05](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_05_evaluation_page.pdf) `PNG`
-- [Evaluation Page - 06](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_06_evaluation_page.pdf) `PNG`
-- [Evaluation Page - 07](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_07_evaluation_page.pdf) `PNG`
-- [Evaluation Page - 08](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_08_evaluation_page.pdf) `PNG`
-- [Evaluation Page - 09](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_09_evaluation_page.pdf) `PNG`
+- [Evaluation Page - 00](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_00_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP00.pdf) `PDF` • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp00) `Files`
+- [Evaluation Page - 01](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_01_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP01.pdf) `PDF`
+- [Evaluation Page - 02](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_02_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP02.pdf) `PDF`
+- [Evaluation Page - 03](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_03_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP03.pdf) `PDF`
+- [Evaluation Page - 04](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_04_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP04.pdf) `PDF`
+- [Evaluation Page - 05](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_05_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP05.pdf) `PDF`
+- [Evaluation Page - 06](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_06_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP06.pdf) `PDF`
+- [Evaluation Page - 07](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_07_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP07.pdf) `PDF` • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp07) `Files`
+- [Evaluation Page - 08](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_08_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP08.pdf) `PDF`
+- [Evaluation Page - 09](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_09_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP09.pdf) `PDF` • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp09) `Files`
 
 #### [05] WEBSERV
 > _Project Files_
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/webserv.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/webserv_evaluation_page.pdf) `PNG`
+- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/webserv) `Files`
 > _Information and Resources_
 - [Building an HTTP Server From Scratch in C++](https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7) `Website`
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html) `Website`
@@ -358,10 +363,13 @@ COMMON CORE PROJECTS
 
 #### [05] FT_IRC
 > _Project Files_
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_irc.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/ft_irc_evaluation_page.pdf) `PNG`
+- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/ft_irc) `Files`
 
 #### [05] INCEPTION
 > _Project Files_
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/inception.pdf) `PDF`
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/inception_evaluation_page_new.pdf) `PNG`
 > _Information and Resources_
 - [Exploring the Inception Project](https://medium.com/@navoos/streamlining-infrastructure-deployment-with-docker-exploring-the-inception-project-3bb0055686a8) `Website`
@@ -369,6 +377,7 @@ COMMON CORE PROJECTS
 
 #### [06] FT_TRANSCENDENCE
 > _Project Files_
+- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_transcendence.pdf) `PDF`
 - [Evaluation Page](https://github.com/42pde-bakk/ft_transcendence) - README file with the project guidelines. `42pde-bakk` `GitHub`
 > _Information and Resources_
 - [Vue.js Guide](https://vuejs.org/guide/introduction.html) `Website`
