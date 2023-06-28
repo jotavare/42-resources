@@ -17,8 +17,8 @@ WELCOME
 
 <p align="center">
 	<a href="#42-school">42 School</a> •
-	<a href="#---1">Common Core Projects</a> •
-	<a href="#---2">Piscine and Common Core</a> •
+	<a href="#---1">Piscine and Common Core</a> •
+	<a href="#---2">Common Core Projects</a> •
 	<a href="#---3">Cyber Security and Hacking</a> •
 	<a href="#---4">Ide, Compilers & Debuggers</a> •
 	<a href="#---5">Extensions</a> •
@@ -91,6 +91,79 @@ This repository is published under the terms of <a href="https://github.com/jota
 - [[FR] 42AI - Association](https://www.42ai.fr) - Artificial Intelligence.
 - [[FR] La Contre-Voie](https://lacontrevoie.fr) - Free culture and ethics.
 - [[FR] APT42](https://apt42.fr) - Security.
+
+- - - -
+
+<!---
+PISCINE AND COMMON CORE
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/piscine_common_core_banner.png">
+</h1>
+
+<p align="center">
+	<a href="#subjects">Subjects</a> •
+	<a href="#exams">Exams</a> •
+	<a href="#all-in-one-testers">All-In-One Testers</a> •
+	<a href="#tools">Tools</a> •
+	<a href="#tips">Tips</a> •
+	<a href="#peer-to-peer">Peer-To-Peer</a> •
+	<a href="#ctf">CTF</a> •
+	<a href="#--">↥ Back To Top</a>
+</p>
+
+#### EXAMS
+> _Great websites to help you with 42 exams._
+- [GradeMe](https://grademe.fr) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
+- [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions.
+- [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams) - Questions and solutions. `pasqualerossi` `GitHub`
+- [Piscine and Common Core Exams](https://github.com/48d31kh413k/1337-exam_rank_02-42) - Questions and solutions. `48d31kh413k` `GitHub`
+- [Piscine and Common Core Exams](https://github.com/ComlanGiovanni?tab=repositories&q=exam&type=&language=&sort=) - Questions and solutions. `ComlanGiovanni` `GitHub`
+- [Common Core Exams](http://www.anit.az/?author=1) - Questions and solutions with mains. `anario`
+
+#### SUBJECTS
+> _All current 42 subjects._
+- [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects. `akaylee` `GitHub`
+- [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers) `GitHub`
+- [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects) `agavrel` `GitHub`
+
+#### ALL-IN-ONE TESTERS
+> _Test your code with already made all-in-one testers._
+- [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `Libft` `ft_printf` `get_next_line` `minitalk` `pipex`
+- [42 Cursus Tester](https://github.com/Abaker-Hype/42-Cursus-Tester) `abaker-hype` `Libft` `ft_printf` `get_next_line`
+
+#### TOOLS
+> _Some useful tools I used in my 42 journeys._
+- [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) - A awesome cheatsheet for C and 42 in general. `agavrel` `GitHub`
+- [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42. `alexandregv` `GitHub`
+- [42 XP Calculator](https://42.tbailleu.dev) - Calculate how much exp you need for the next level.
+- [42 Stupidity](https://github.com/mirror12k/42us-stupidity) - A tool for quickly testing solutions for the piscine exercises. `mirror12k` `GitHub` 
+- [RP42](https://github.com/alexandregv/RP42) - Discord Rich Presence integration for 42 School. `alexandregv` `GitHub` 
+- [Find Peers](https://find-peers.codam.nl) - Website meant to help students to find peers that are working on the same project.
+- [S42](https://s42.app) - You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul 🇰🇷 and Vienna 🇦🇹.
+- [42 Evaluators](https://42evaluators.com) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
+- [Scribe](https://scribehow.com) - Turn any process into a step-by-step guide, instantly.
+- [Profile README.md Generator](https://profile-readme-generator.com) - Create your GitHub README.md in a simple and fast way.
+
+#### TIPS
+> _Useful tips to improve your coding/learning._
+-  [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) - Extended Bourne shell with many improvements, including some features of Bash, ksh, and tcsh. `GitHub`
+- [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki) - Open source, community-driven framework for managing your zsh configuration. `GitHub`
+- [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) - Useful ones: `git` `autojump` `colored-man-pages` `copyfile` `copypath` `github` `sudo` `vscode` but feel free to explore other options. `GitHub`
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) - More colorful syntax. `GitHub`
+- `echo "set number\nsyntax on" > ~/.vimrc` - It will set the syntax for your files and put the little numbers on your left. (vim only)
+- [.vimrc](https://vim.fandom.com/wiki/Example_vimrc#Example_vimrc) - If you're feeling adventurous. `Website`
+- [OnlineGDB](https://www.onlinegdb.com/online_c_compiler) - Debugging tool, but there are more powerful tools like `lldb` and `gdb` on your terminal. `Website`
+
+#### PEER-TO-PEER
+> _Usefull information about peer-to-peer evaluation, and some beginner videos about Shell and Git._
+- [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) `Youtube`
+- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE) - What to do before the evaluation? (as evaluated student) `Youtube`
+- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY) - What to do before the evaluation? (as evaluator) `Youtube`
+- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ) - What to do during the evaluation? `Youtube`
+- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug) - What to do after the evaluation? (as evaluated student) `Youtube`
+- [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF`
 
 - - - -
 
@@ -393,79 +466,6 @@ COMMON CORE PROJECTS
 - [Build a Realtime Chat App with Vue.js](https://youtu.be/SZlsP5uxYjk) `Youtube`
 - [WEBSOCKETS with NestJS - Build Real-Time Web Apps](https://youtu.be/atbdpX4CViM) `Youtube`
 - [NestJS Authentication](https://www.youtube.com/watch?v=_L225zpUK0M) `Youtube`
-
-- - - -
-
-<!---
-PISCINE AND COMMON CORE
--->
-
-<h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/piscine_common_core_banner.png">
-</h1>
-
-<p align="center">
-	<a href="#subjects">Subjects</a> •
-	<a href="#exams">Exams</a> •
-	<a href="#all-in-one-testers">All-In-One Testers</a> •
-	<a href="#tools">Tools</a> •
-	<a href="#tips">Tips</a> •
-	<a href="#peer-to-peer">Peer-To-Peer</a> •
-	<a href="#ctf">CTF</a> •
-	<a href="#--">↥ Back To Top</a>
-</p>
-
-#### EXAMS
-> _Great websites to help you with 42 exams._
-- [GradeMe](https://grademe.fr) - Script that helps you check Common Core projects, simulate an exam or create a Makefile.
-- [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions.
-- [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams) - Questions and solutions. `pasqualerossi` `GitHub`
-- [Piscine and Common Core Exams](https://github.com/48d31kh413k/1337-exam_rank_02-42) - Questions and solutions. `48d31kh413k` `GitHub`
-- [Piscine and Common Core Exams](https://github.com/ComlanGiovanni?tab=repositories&q=exam&type=&language=&sort=) - Questions and solutions. `ComlanGiovanni` `GitHub`
-- [Common Core Exams](http://www.anit.az/?author=1) - Questions and solutions with mains. `anario`
-
-#### SUBJECTS
-> _All current 42 subjects._
-- [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects. `akaylee` `GitHub`
-- [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers) `GitHub`
-- [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects) `agavrel` `GitHub`
-
-#### ALL-IN-ONE TESTERS
-> _Test your code with already made all-in-one testers._
-- [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `Libft` `ft_printf` `get_next_line` `minitalk` `pipex`
-- [42 Cursus Tester](https://github.com/Abaker-Hype/42-Cursus-Tester) `abaker-hype` `Libft` `ft_printf` `get_next_line`
-
-#### TOOLS
-> _Some useful tools I used in my 42 journeys._
-- [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) - A awesome cheatsheet for C and 42 in general. `agavrel` `GitHub`
-- [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42. `alexandregv` `GitHub`
-- [42 XP Calculator](https://42.tbailleu.dev) - Calculate how much exp you need for the next level.
-- [42 Stupidity](https://github.com/mirror12k/42us-stupidity) - A tool for quickly testing solutions for the piscine exercises. `mirror12k` `GitHub` 
-- [RP42](https://github.com/alexandregv/RP42) - Discord Rich Presence integration for 42 School. `alexandregv` `GitHub` 
-- [Find Peers](https://find-peers.codam.nl) - Website meant to help students to find peers that are working on the same project.
-- [S42](https://s42.app) - You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul 🇰🇷 and Vienna 🇦🇹.
-- [42 Evaluators](https://42evaluators.com) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats.
-- [Scribe](https://scribehow.com) - Turn any process into a step-by-step guide, instantly.
-- [Profile README.md Generator](https://profile-readme-generator.com) - Create your GitHub README.md in a simple and fast way.
-
-#### TIPS
-> _Useful tips to improve your coding/learning._
--  [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) - Extended Bourne shell with many improvements, including some features of Bash, ksh, and tcsh. `GitHub`
-- [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki) - Open source, community-driven framework for managing your zsh configuration. `GitHub`
-- [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) - Useful ones: `git` `autojump` `colored-man-pages` `copyfile` `copypath` `github` `sudo` `vscode` but feel free to explore other options. `GitHub`
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) - More colorful syntax. `GitHub`
-- `echo "set number\nsyntax on" > ~/.vimrc` - It will set the syntax for your files and put the little numbers on your left. (vim only)
-- [.vimrc](https://vim.fandom.com/wiki/Example_vimrc#Example_vimrc) - If you're feeling adventurous. `Website`
-- [OnlineGDB](https://www.onlinegdb.com/online_c_compiler) - Debugging tool, but there are more powerful tools like `lldb` and `gdb` on your terminal. `Website`
-
-#### PEER-TO-PEER
-> _Usefull information about peer-to-peer evaluation, and some beginner videos about Shell and Git._
-- [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) `Youtube`
-- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE) - What to do before the evaluation? (as evaluated student) `Youtube`
-- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY) - What to do before the evaluation? (as evaluator) `Youtube`
-- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ) - What to do during the evaluation? `Youtube`
-- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug) - What to do after the evaluation? (as evaluated student) `Youtube`
-- [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF`
 
 - - - -
 
