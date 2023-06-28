@@ -1057,6 +1057,7 @@ WIKIMEDIA FOUNDATION
 - 🇨🇭 [42 Lausanne](https://42lausanne.ch) - Switzerland
 - 🇹🇷 [42 Istanbul](https://42istanbul.com.tr) - Turkey
 - 🇬🇧 [42 London](https://42london.com) - United Kingdom
+- 🇵🇱 [42 Warsaw](https://42warsaw.pl/) - Poland
 
 #### ASIA
 - 🇯🇵 [42 Tokyo](https://42tokyo.jp) - Japan
