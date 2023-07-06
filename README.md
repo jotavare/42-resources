@@ -207,6 +207,7 @@ COMMON CORE PROJECTS
 - [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/libft_evaluation_page.pdf) `PNG`
 > _Information and Resources_
 - [Libft Functions](https://www.asidesigned.com/project-libft.html) `Website`
+- [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) `Website`
 - [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make) `Nuno-Jesus` `GitHub`
 - [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles) `pulgamecanica` `Blog`
 > _Testers_
