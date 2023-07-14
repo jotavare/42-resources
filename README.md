@@ -205,7 +205,7 @@ COMMON CORE PROJECTS
 #### [00] LIBFT
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/libft_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 > _Information and Resources_
 - [Libft Functions](https://www.asidesigned.com/project-libft.html) `Website`
 - [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) `Website`
@@ -222,7 +222,7 @@ COMMON CORE PROJECTS
 #### [01] BORN2BEROOT
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/born2beroot_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 > _Information and Resources_
 - [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) `Youtube`
 - [Guide](https://github.com/lbordonal/01-Born2beroot/wiki) `lbordonal` `GitHub`
@@ -237,7 +237,7 @@ COMMON CORE PROJECTS
 #### [01] FT_PRINTF
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_printf.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/ft_printf_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 - [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html) `Website`
 > _Testers_
 - [Debugging main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c) `Kuninoto` `GitHub`
@@ -247,7 +247,7 @@ COMMON CORE PROJECTS
 #### [01] GET_NEXT_LINE
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/get_next_line.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/get_next_line_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 > _Testers_
 - [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
 - [Get Next Line Tester (Tripouille)](https://github.com/Tripouille/gnlTester) `Tripouille` `GitHub`
@@ -255,7 +255,7 @@ COMMON CORE PROJECTS
 #### [02] MINITALK
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minitalk_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 > _Information and Resources_
 - [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp) `Website`
 - [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators) `agavrel` `GitHub`
@@ -270,7 +270,7 @@ COMMON CORE PROJECTS
 #### [02] PIPEX
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/pipex.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/pipex_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 > _Information and Resources_
 - [Pipex Tutorial](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901) `Website`
 - [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) `Youtube`
@@ -282,7 +282,7 @@ COMMON CORE PROJECTS
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/so_long.pdf) `PDF`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/so_long) `Files`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/so_long_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 > _MinilibX_
 - [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx) `Website`
 - [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial) `pulgamecanica` `Blog`
@@ -297,14 +297,14 @@ COMMON CORE PROJECTS
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fract%E2%80%99ol.pdf) `PDF`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fract-ol) `Files`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/fractol_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 > _Information and Resources_
 - [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`
 
 #### [02] FDF
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fdf.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/fdf_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fdf) `Files`
 > _Information and Resources_
 - [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets) `Generator`
@@ -314,7 +314,7 @@ COMMON CORE PROJECTS
 #### [02] PUSH_SWAP
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/push_swap.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/push_swap_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/push_swap) `Files`
 > _Information and Resources_
 - [push_swap Resources](https://push_swap.simple.ink) `Website`
@@ -338,7 +338,7 @@ COMMON CORE PROJECTS
 #### [03] PHILOSOPHERS
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/philosophers.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/philosophers_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 > _Information and Resources_
 - [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) `Wikipedia`
 - [The Dining Philosopher’s Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) `Wikipedia`
@@ -357,7 +357,7 @@ COMMON CORE PROJECTS
 #### [03] MINISHELL
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minishell.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/minishell_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 > _Information and Resources_
 - [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual) `Website`
 - [42 Docs](https://harm-smits.github.io/42docs/projects/minishell) `Website`
@@ -381,7 +381,7 @@ COMMON CORE PROJECTS
 #### [04] NETPRACTICE
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/netpractice.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/netpractice_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 > _Information and Resources_
 - [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a) `Website`
 - [ipcalc](https://linuxhint.com/ipcalc-command-linux) `Website`
@@ -394,7 +394,7 @@ COMMON CORE PROJECTS
 #### [04] CUB3D
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/cub3d.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cub3d_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cub3d) `Files`
 > _Information and Resources_
 - [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html) `Website`
@@ -410,26 +410,26 @@ COMMON CORE PROJECTS
 #### [04] MINIRT
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/miniRT.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/miniRT_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/miniRT) `Files`
 
 #### [04] CPP MODULE (00-09)
 > _Project Files_
-- [Evaluation Page - 00](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_00_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP00.pdf) `PDF` • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp00) `Files`
-- [Evaluation Page - 01](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_01_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP01.pdf) `PDF`
-- [Evaluation Page - 02](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_02_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP02.pdf) `PDF`
-- [Evaluation Page - 03](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_03_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP03.pdf) `PDF`
-- [Evaluation Page - 04](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_04_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP04.pdf) `PDF`
-- [Evaluation Page - 05](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_05_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP05.pdf) `PDF`
-- [Evaluation Page - 06](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_06_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP06.pdf) `PDF`
-- [Evaluation Page - 07](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_07_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP07.pdf) `PDF` • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp07) `Files`
-- [Evaluation Page - 08](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_08_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP08.pdf) `PDF`
-- [Evaluation Page - 09](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/cpp_module_09_evaluation_page.pdf) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP09.pdf) `PDF` • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp09) `Files`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP00.pdf) `PDF` • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp00) `Files`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP01.pdf) `PDF`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP02.pdf) `PDF`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP03.pdf) `PDF`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP04.pdf) `PDF`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP05.pdf) `PDF`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP06.pdf) `PDF`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP07.pdf) `PDF` • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp07) `Files`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP08.pdf) `PDF`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP09.pdf) `PDF` • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp09) `Files`
 
 #### [05] WEBSERV
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/webserv.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/webserv_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/webserv) `Files`
 > _Information and Resources_
 - [Building an HTTP Server From Scratch in C++](https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7) `Website`
@@ -440,13 +440,13 @@ COMMON CORE PROJECTS
 #### [05] FT_IRC
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_irc.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/ft_irc_evaluation_page.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/ft_irc) `Files`
 
 #### [05] INCEPTION
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/inception.pdf) `PDF`
-- [Evaluation Page](https://github.com/jotavare/jotavare/blob/main/42/project_evaluations/inception_evaluation_page_new.pdf) `PNG`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 > _Information and Resources_
 - [Exploring the Inception Project](https://medium.com/@navoos/streamlining-infrastructure-deployment-with-docker-exploring-the-inception-project-3bb0055686a8) `Website`
 - [Inception](https://github.com/iimyzf/Inception) `iimyzf` `GitHub`
@@ -454,7 +454,7 @@ COMMON CORE PROJECTS
 #### [06] FT_TRANSCENDENCE
 > _Project Files_
 - [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_transcendence.pdf) `PDF`
-- [Evaluation Page](https://github.com/42pde-bakk/ft_transcendence) - README file with the project guidelines. `42pde-bakk` `GitHub`
+- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 > _Information and Resources_
 - [Vue.js Guide](https://vuejs.org/guide/introduction.html) `Website`
 - [Props vs Data in Vue](https://michaelnthiessen.com/vue-props-vs-data) `Website`
