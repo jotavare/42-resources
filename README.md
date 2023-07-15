@@ -389,6 +389,7 @@ COMMON CORE PROJECTS
 - [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html) `Website`
 - [Practical Networking](https://youtu.be/BWZ-MHIhqjM) `Youtube`
 - [Default Gateway Explained](https://youtu.be/pCcJFdYNamc) `Youtube`
+- [Subnet Mask - Explained](https://youtu.be/s_Ntt6eTn94) `Youtube`
 - [CCNA](https://youtu.be/Ct4PU6CyvTQ) `Youtube`
 
 #### [04] CUB3D
