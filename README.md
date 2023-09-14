@@ -804,6 +804,7 @@ AI
 - [Futurepedia](https://www.futurepedia.io) - Largest AI tools directory.
 - [Future Tools](https://www.futuretools.io) - All The Best AI Tools.
 - [Hugging Face](https://huggingface.co) - Trained AI models to use with other AI tools.
+- [Altern](https://altern.ai) - The place to discover new AI tools and products
 
 - - - -
 
