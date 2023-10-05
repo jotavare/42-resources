@@ -398,6 +398,7 @@ COMMON CORE PROJECTS
 - [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cub3d) `Files`
 > _Information and Resources_
+- [Wolfenstein 3D](http://users.atw.hu/wolf3d/) `Website` `Game`
 - [Guide to RayCasting](https://harm-smits.github.io/42docs/projects/cub3d.html) `harm-smits` `GitHub`
 - [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html) `Website`
 - [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch) `Website`
