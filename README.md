@@ -406,6 +406,7 @@ COMMON CORE PROJECTS
 - [Online Computer Graphics II](https://www.youtube.com/watch?v=U0-58hpucp4) `Youtube`
 - [Binary Space Partitioning](https://www.youtube.com/watch?v=6vrPCkHqWwg) `Youtube`
 - [Super Fast Ray Casting in Tiled Worlds using DDA](https://www.youtube.com/watch?v=NbSee-XM7WA) `Youtube`
+- [Make Your Own Raycaster Part 1](https://www.youtube.com/watch?v=gYRrGTC7GtA) [Part 2](https://www.youtube.com/watch?v=PC1RaETIx3Y) [Part 3](https://www.youtube.com/watch?v=w0Bm4IA-Ii8)
 > _Testers_
 - [cub3D Map Tester](https://github.com/humblEgo/cub3D_map_tester) `humblEgo` `GitHub`
 
