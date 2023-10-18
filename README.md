@@ -507,7 +507,7 @@ CYBER SECURITY AND HACKING
 - [Sololearn](https://www.sololearn.com) - Courses designed by experts with real-world practice.
 - [LeetCode](https://leetcode.com) - Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews.
 - [GeeksforGeeks](https://www.geeksforgeeks.org) - Every problem usually starts from an explanatory article. Good for learning about algorithms and new techniques.
-- [HackerRank](https://www.hackerrank.com) - Lots of programming problems, as well as math, AI, etc. Good to improve problem-solving skills.
+- [HackerRank](https://www.hackerrank.com) - Lots of programming problems, as well as math, AI, etc. Good for improving problem-solving skills.
 - [Codeforces](https://codeforces.com) - Similar to hackerrank, with more focus on conducting programming contests, has huge problems with archives and auto-tests.
 - [Topcoder](https://www.topcoder.com) - For programming contests professionals.
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - How to implement X in language Y.
