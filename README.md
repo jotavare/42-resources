@@ -400,6 +400,7 @@ COMMON CORE PROJECTS
 > _Information and Resources_
 - [Wolfenstein 3D](http://users.atw.hu/wolf3d/) `Website` `Game`
 - [Guide to RayCasting](https://harm-smits.github.io/42docs/projects/cub3d.html) `harm-smits` `GitHub`
+- [Minilibx Examples](https://github.com/terry-yes/mlx_example) `terry-yes` `GitHub`
 - [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html) `Website`
 - [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch) `Website`
 - [Ray-Casting Tutorial](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents) `Website`
@@ -408,6 +409,10 @@ COMMON CORE PROJECTS
 - [Binary Space Partitioning](https://www.youtube.com/watch?v=6vrPCkHqWwg) `Youtube`
 - [Super Fast Ray Casting in Tiled Worlds using DDA](https://www.youtube.com/watch?v=NbSee-XM7WA) `Youtube`
 - [Make Your Own Raycaster - Part 1](https://www.youtube.com/watch?v=gYRrGTC7GtA) | [Part 2](https://www.youtube.com/watch?v=PC1RaETIx3Y) | [Part 3](https://www.youtube.com/watch?v=w0Bm4IA-Ii8) `Youtube`
+- [Introduction to the MinilibX](https://www.youtube.com/watch?v=bYS93r6U0zg) `Youtube`
+- [Minilibx Linux](https://github.com/42Paris/minilibx-linux) `42Paris` `GitHub`
+- [x.org Documentation](https://www.x.org/wiki/)
+- [libX11 Documentation](https://www.x.org/releases/X11R7.6/doc/libX11/specs/libX11/libX11.html)
 > _Testers_
 - [cub3D Map Tester](https://github.com/humblEgo/cub3D_map_tester) `humblEgo` `GitHub`
 
