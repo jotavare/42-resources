@@ -35,13 +35,11 @@ WELCOME
 Thank you for visiting my repository!<br/>
 Here, you will find a collection of resources that I have found helpful during my time at 42 School, as well as some that were not as useful.<br/>
 
-If you are a fellow 42 student and have a link or a correction to suggest, please don't hesitate to contact me.<br/>
-I highly value any contributions and will evaluate them for possible inclusion in the repository.
-
 This repository is published under the terms of <a href="https://github.com/jotavare/jotavare/blob/main/LICENSE">42 Unlicense</a>.
 
-> _**TIP**: For links use `Ctrl` + `Click` to open a new tab and use the index to improve your search efficiency._
-
+> [!NOTE]
+> If you are a fellow 42 student and have a link or a correction to suggest, please don't hesitate to do a pull request or contact me.<br/>
+> I highly value any contributions and will evaluate them for possible inclusion in the repository.
 - - - -
 
 <!---
