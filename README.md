@@ -32,14 +32,10 @@ WELCOME
 
 ## WELCOME
 
-Thank you for visiting my repository!<br/>
-Here, you will find a collection of resources that I have found helpful during my time at 42 School, as well as some that were not as useful.<br/>
-
-This repository is published under the terms of <a href="https://github.com/jotavare/jotavare/blob/main/LICENSE">42 Unlicense</a>.
+Thank you for visiting my repository! Here, you will find a collection of resources that I have found helpful during my time at 42 School, as well as some that were not as useful.
 
 > [!NOTE]
-> If you are a fellow 42 student and have a link or a correction to suggest, please don't hesitate to do a pull request or contact me.<br/>
-> I highly value any contributions and will evaluate them for possible inclusion in the repository.
+> If you are a fellow 42 student and have a link or a correction to suggest, please don't hesitate to do a pull request or contact me. I highly value any contributions and will evaluate them for possible inclusion in the repository.
 - - - -
 
 <!---
@@ -48,7 +44,7 @@ This repository is published under the terms of <a href="https://github.com/jota
 
 ## 42 SCHOOL
 #### TRIVIA
-> _Some fun and interesting facts about 42._
+> _Interesting facts about 42._
 - [42 School](https://en.wikipedia.org/wiki/42_(school)) - `Wikipedia`
 - [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) - `Wikipedia` `Book`
 - [Why the number 42?](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy) - `Wikipedia`
