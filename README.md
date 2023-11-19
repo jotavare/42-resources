@@ -547,6 +547,9 @@ CYBER SECURITY AND HACKING
 - [LeakCheck](https://leakcheck.io) - Data breach search engine.
 - [Intelligence X](https://intelx.io) - Search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more.
 - [Bitwarden Password Strenght](https://bitwarden.com/password-strength) - Find out if you have a strong password.
+- [OSINT Framework](https://osintframework.com) - Gather information from free tools or resources.
+- [sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
+
 
 #### VPN
 > _Secure your internet connection with a Virtual Private Network._
