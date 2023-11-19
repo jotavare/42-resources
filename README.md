@@ -146,7 +146,7 @@ PISCINE AND COMMON CORE
 - [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ) - What to do during the evaluation? `Youtube`
 - [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug) - What to do after the evaluation? (as evaluated student) `Youtube`
 - [Rules in Evaluations](https://github.com/jotavare/jotavare/blob/main/42/pdf/rules_in_evals.png) - Important evaluation rules. `PNG` `GitHub`
-- [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) - Peer-to-Peer evaluation state of mind & rules you should know. `PDF` `42`
+- [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) - Peer-to-Peer evaluation state of mind and rules you should know. `PDF` `42`
 
 - - - -
 
@@ -417,13 +417,16 @@ COMMON CORE PROJECTS
 - [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
 - [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/miniRT) `Files`
 
-#### [04] CPP MODULE (00-09)
+#### [04] CPP MODULE (00-04)
 > _Project Files_
 - [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP00.pdf) `PDF` • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp00) `Files`
 - [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP01.pdf) `PDF`
 - [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP02.pdf) `PDF`
 - [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP03.pdf) `PDF`
 - [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP04.pdf) `PDF`
+
+#### [05] CPP MODULE (05-09)
+> _Project Files_
 - [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP05.pdf) `PDF`
 - [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP06.pdf) `PDF`
 - [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP07.pdf) `PDF` • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp07) `Files`
