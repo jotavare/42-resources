@@ -32,7 +32,9 @@ WELCOME
 
 ## WELCOME
 
-Thank you for visiting my repository! Here, you will find a collection of resources that I have found helpful during my time at 42 School, as well as some that were not as useful.
+Thank you for visiting my repository! Here, you will find a collection of resources that I have found helpful during my time at 42 School, as well as some that were not as useful but interesting nonetheless.
+
+Also, I wrote an article called ["One Year of 42"](https://www.linkedin.com/pulse/one-year-42-jo%2525C3%2525A3o-oliveira%3FtrackingId=JXfh9y%252BmQh6t82Ka1utcWQ%253D%253D/?trackingId=JXfh9y%2BmQh6t82Ka1utcWQ%3D%3D). Basically is a resume of my life experiences, achievements and the educational milestones I achieved this last year at 42. So, if you're a fellow (42) student, a professional considering a return to education or unsure about the future, I hope this helps ease your path and not feel alone.
 
 > [!NOTE]
 > If you are a fellow 42 student and have a link or a correction to suggest, please don't hesitate to do a pull request or contact me. I highly value any contributions and will evaluate them for possible inclusion in the repository.
@@ -695,6 +697,7 @@ EXTENSIONS
 
 #### BADGE
 - [Badge 42](https://github.com/JaeSeoKim/badge42) - Dynamically generated 42 badges for your git readmes.
+- [42 Project Badges](https://github.com/vinicius-f-pereira/42-project-badges) - Awesome little badges for 42 curriculum projects.
 - [1337 Readme](https://github.com/mohouyizme/1337-readme) - Share your progress with the world via GitHub README.md. `Not working?`
 
 #### ADD-ONS
