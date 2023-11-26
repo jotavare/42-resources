@@ -19,9 +19,9 @@ WELCOME
 	<a href="#42-school">42 School</a> •
 	<a href="#---1">Piscine and Common Core</a> •
 	<a href="#---2">Common Core Projects</a> •
-	<a href="#---3">Cyber Security and Hacking</a> •
-	<a href="#---4">Ide, Compilers & Debuggers</a> •
-	<a href="#---5">Extensions</a> •
+	<a href="#---3">Extensions</a> •
+	<a href="#---4">Cyber Security and Hacking</a> •
+	<a href="#---5">Ide, Compilers & Debuggers</a> •
 	<a href="#---6">Moocs and Books</a> •
 	<a href="#---7">AI</a> •
 	<a href="#---8">Tools</a> •
@@ -34,10 +34,10 @@ WELCOME
 
 Thank you for visiting my repository! Here, you will find a collection of resources that I have found helpful during my time at 42 School, as well as some that were not as useful but interesting nonetheless.
 
-Also, I wrote an article called ["One Year of 42"](https://www.linkedin.com/pulse/one-year-42-jo%2525C3%2525A3o-oliveira%3FtrackingId=JXfh9y%252BmQh6t82Ka1utcWQ%253D%253D/?trackingId=JXfh9y%2BmQh6t82Ka1utcWQ%3D%3D). Basically is a resume of my life experiences, achievements and the educational milestones I achieved this last year at 42. So, if you're a fellow (42) student, a professional considering a return to education or unsure about the future, I hope this helps ease your path and not feel alone.
+Also, I wrote an article called ["One Year of 42"](https://www.linkedin.com/pulse/one-year-42-jo%2525C3%2525A3o-oliveira%3FtrackingId=JXfh9y%252BmQh6t82Ka1utcWQ%253D%253D/?trackingId=JXfh9y%2BmQh6t82Ka1utcWQ%3D%3D). Basically is a resume of my life experiences, achievements and the educational milestones I achieved this last year at 42. So, if you're a (42) student, a professional considering a return to education or unsure about the future, I hope this helps ease your path and not feel alone.
 
 > [!NOTE]
-> If you are a fellow 42 student and have a link or a correction to suggest, please don't hesitate to do a pull request or contact me. I highly value any contributions and will evaluate them for possible inclusion in the repository.
+> If you have a link or a correction to suggest, please don't hesitate to do a pull request or contact me. I highly value any contributions and will evaluate them for possible inclusion in the repository.
 - - - -
 
 <!---
@@ -482,156 +482,6 @@ COMMON CORE PROJECTS
 - - - -
 
 <!---
-CYBER SECURITY AND HACKING
--->
-
-<h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/cyber_hacking_banner.png">
-</h1>
-
-<p align="center">
-	<a href="#crack-the-code">Crack the Code</a> •
-	<a href="#pentesting-tools">Pentesting Tools</a> •
-	<a href="#digital-footprint">Digital Footprint</a> •
-	<a href="#vpn">VPN</a> •
-	<a href="#bootable-usb">Bootable USB</a> •
-	<a href="#operating-system">Operating System</a> •
-	<a href="#exploits-and-vulnerabilities">Explois and Vulnerabulities</a> •
-	<a href="#terminology">Terminology</a> •
-	<a href="#guides">Guides</a> •
-	<a href="#podcasts">Podcasts</a> •
-	<a href="#hacking-google">Hacking Google</a> •
-	<a href="#--">↥ Back To Top</a>
-</p>
-
-#### CRACK THE CODE
-> _Challenges/resources about cyber security and hacking in general._
-- [Capture The Flag 101](https://ctf101.org) - Introduction to CTFs (Capture The Flag). `Website`
-- [42 CTF](https://www.42ctf.org/en) - A cybersecurity challenges platform with various challenges from 42. `Website`
-- [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking. `Website`
-- [Sololearn](https://www.sololearn.com) - Courses designed by experts with real-world practice. `Website`
-- [LeetCode](https://leetcode.com) - Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews. `Website`
-- [GeeksforGeeks](https://www.geeksforgeeks.org) - Every problem usually starts from an explanatory article. Good for learning about algorithms and new techniques. `Website`
-- [HackerRank](https://www.hackerrank.com) - Lots of programming problems, as well as math, AI, etc. Good for improving problem-solving skills. `Website`
-- [Codeforces](https://codeforces.com) - Similar to hackerrank, with more focus on conducting programming contests, has huge problems with archives and auto-tests. `Website`
-- [Topcoder](https://www.topcoder.com) - For programming contests professionals. `Website`
-- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - How to implement X in language Y. `Website`
-- [CodinGame](https://www.codingame.com) - Automated platform for writing game bots and alike. Definitely improves your coding and math skills. `Website`
-- [Codewars](https://www.codewars.com) - Platform for software developers on which people can solve programming puzzles known also as “katas”. `Website`
-- [Hacker101](https://www.hacker101.com) - Free class for web security. `Website`
-- [HackerOne](https://www.hackerone.com) - Web security classes. `Website`
-- [TryHackMe](https://tryhackme.com) - Learn cyber security, using hands-on exercises and labs. `Website`
-- [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills. `Website`
-- [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more. `Website`
-- [Cyberseek](https://www.cyberseek.org) - Explore career paths, skills, and certifications in the field of cyber security. `Website`
-- [Advent of Code](https://adventofcode.com) - Annual set of Christmas-themed computer programming challenges that follow an Advent calendar. `Website`
-
-#### PENTESTING TOOLS
-> _Collection of tools used to perform penetration testing or ethical hacking._
-- [Wireshark](https://www.wireshark.org) - Wireshark is a free and open-source packet analyzer. `Website`
-- [Responder](https://www.kali.org/tools/responder) - Penetration testing tool is a Link-Local Multicast Name Resolution (LLMNR), NBT-NS, and MDNS poisoner. `Website`
-- [Hashcat](https://hashcat.net/hashcat) - Powerful tool that helps to crack password hashes. `Website`
-- [Metasploit](https://www.metasploit.com) - Security project that provides data about security vulnerabilities and assists penetration testing. `Website`
-- [Shodan](https://www.shodan.io) - Search engine for Internet-connected devices. `Website`
-- [ExifTool](https://github.com/exiftool/exiftool) - Reading and writing of meta information in a wide variety of files. `exiftool` `GitHub`
-- [Remote Administration Tool](https://github.com/topics/remote-administration-tool) - Full control of a tech device, remotely. `GitHub`
-- [DNScat2](https://github.com/iagox86/dnscat2) - Create an encrypted command-and-control channel over the DNS protocol. `iagox86` `GitHub`
-- [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) - Penetration testing framework designed for social engineering. `trustedsec` `GitHub`
-- [VirusTotal](https://www.virustotal.com) - Analyzes suspicious files, URLs, domains and IP addresses to detect malware and other types of threats. `Website`
-- [CyberChef](https://gchq.github.io/CyberChef) - Web app for encryption, encoding, compression and data analysis. `CyberChef` `GitHub`
-- [dCode](https://www.dcode.fr/en) - Collection of over 800 tools to help solve games, riddles, cyphers, mathematics, puzzles, etc. `Website`
-- [Firefox DevTools Docs](https://firefox-source-docs.mozilla.org/devtools-user) -  Set of web developer tools built into Firefox. `Website`
-- [Burp Suite](https://portswigger.net/burp) - Integrated platform for performing security testing of web applications.  `Website`
-- [WiFi Map](https://www.wifimap.io) -  WiFi Map will navigate you to the nearest shared hotspots, show passwords, and let you connect to the internet in a few taps. `Website`
-- [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) - Docker image useful for solving Steganography challenges. `DominicBreuker` `GitHub`
-
-#### DIGITAL FOOTPRINT
-> _Discover the imprint left by your online activities._
-- [Firefox Monitor](https://monitor.firefox.com) - Check if you've been the victim of an online data breach. `Website`
-- [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address or phone number has been compromised. `Website`
-- [DeHashed](https://www.dehashed.com) - Free deep-web scans and protection against credential leaks. `Website`
-- [LeakCheck](https://leakcheck.io) - Data breach search engine. `Website`
-- [Intelligence X](https://intelx.io) - Search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more. `Website`
-- [Bitwarden Password Strenght](https://bitwarden.com/password-strength) - Find out if you have a strong password. `Website`
-- [OSINT Framework](https://osintframework.com) - Gather information from free tools or resources. `Website`
-- [sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks. `sherlock-project` `GitHub`
-
-#### VPN
-> _Secure your internet connection with a Virtual Private Network._
-- [Proton](https://proton.me) - End-to-end encrypted VPN, mail, drive and calendar. `Website`
-- [OpenVPN](https://openvpn.net) - Secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. `Website`
-- [Tailscale](https://tailscale.com) - Zero configs VPN for building secure networks. `Website`
-
-#### BOOTABLE USB
-> _Create portable storage to install or repair operating systems._
-- [Rufus](https://rufus.ie) – Open-source portable application for Microsoft Windows, that can be used to format and create bootable USB flash drives or Live USBs. `Website`
-- [Ventoy](https://www.ventoy.net) – Open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files. `Website`
-- [Etcher](https://www.balena.io/etcher) – A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily. `Website`
-
-#### OPERATING SYSTEM
-> _Operating systems for every occasion._
-- [Tails](https://tails.boum.org) - Linux distribution aimed at preserving privacy and anonymity. It connects to the Internet exclusively through the anonymity network Tor. `Website`
-- [Kali Linux](https://www.kali.org) - Linux distribution geared towards penetration testing, security research, computer forensics and reverse engineering. `Website`
-- [Tiny11](https://github.com/ntdevlabs/tiny11builder) - Trimmed-down Windows 11 image. `ntdevlabs` `GitHub`
-
-#### EXPLOITS AND VULNERABILITIES
-> _Resources on how to learn/use exploits and vulnerabilities._
-- [OWASP Top Ten](https://owasp.org/www-project-top-ten) - Standard awareness document for developers and web application security. `Website`
-- [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory. `ParrotSec` `GitHub`
-- [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Identify highly complex attack paths that would otherwise be impossible to quickly identify. `BloodHoundAD` `GitHub`
-- [EternalBlue](https://pt.wikipedia.org/wiki/EternalBlue) - Exploit developed by the U.S. NSA. It was leaked by the Shadow Brokers. `Wikipedia`
-- [MouseJack](https://www.mousejack.com/mousejack) - Vulnerabilities that affect the vast majority of wireless, non-Bluetooth keyboards and mice. `Website`
-
-#### GUIDES
-> _Guides in general about important topics that may help with cyber security._
-- [Introduction to the World of Reversing](https://medium.com/@m0ab1d42/reversing-everything-except-love-27fe7a3d9e76) `Medium`
-- [Exploring the Heap](https://medium.com/@m0ab1d42/heap-the-witchcraft-dungeon-ac08e782fb49) `Medium`
-
-#### PODCASTS
-> _Stories specifically intended to capture, preserve, and explain the culture around hacking and cyber security._
-- [Jack Rhysider](https://www.youtube.com/@JackRhysider) - Podcast about true stories from the dark side of the internet. `Youtube`
-
-#### HACKING GOOGLE
-> _Five elite security teams. Six never-before-told stories._ 
-- [EP000: Operation Aurora](https://youtu.be/przDcQe6n5o) `Youtube` `Documentary`
-- [EP001: Threat Analysis Group](https://youtu.be/N7N4EC20-cM) `Youtube` `Documentary`
-- [EP002: Detection and Response](https://youtu.be/QZ0cpBocl3c) `Youtube` `Documentary`
-- [EP003: Red Team](https://youtu.be/TusQWn2TQxQ) `Youtube` `Documentary`
-- [EP004: Bug Hunters](https://youtu.be/IoXiXlCNoXg) `Youtube` `Documentary`
-- [EP005: Project Zero](https://youtu.be/My_13FXODdU) `Youtube` `Documentary`
-
-- - - -
-
-<!---
-IDE, COMPILERS AND DEBUGGERS
--->
-
-<h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/ide_compilers_debuggers_banner.png">
-</h1>
-
-- [GDB Online Debugger](https://www.onlinegdb.com) - Online compiler and debugger for a lot of programming languages.
-- [Python Tutor](https://pythontutor.com) - Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.
-- [Thonny](https://thonny.org) - Thonny is an IDE for Python that is designed for beginners.
-- [Sublime Text](https://www.sublimetext.com) - Sophisticated text editor for code, markup and prose.
-- [Replit](https://replit.com) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
-- [JSFiddle](https://jsfiddle.net) - Test your JavaScript, CSS, HTML or CoffeeScript online with the JSFiddle code editor.
-- [CodeSandbox](https://codesandbox.io) - Cloud development platform that empowers developers to code, collaborate and ship projects of any size from any device in record time.
-- [CodeAnywhere](https://codeanywhere.com) - Cross Platform Cloud IDE and it has all the features of Desktop IDE but with additional features.
-- [StackBlitz](https://stackblitz.com) - Instant full-stack web IDE for the JavaScript ecosystem. 
-- [AWS Cloud9](https://aws.amazon.com/pt/cloud9) - Cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.
-- [Gitpod](https://www.gitpod.io) - Cloud development environment for teams to efficiently and securely develop software. 
-- [Eclipse Theia](https://theia-ide.org) - Framework for building tools and IDEs.
-- [GitHub Codespaces](https://github.com/features/codespaces) - Use Visual Studio Code, Jupyter, or JetBrains with the editor, terminal, debugger, version control, settings sync, and all of your extensions.
-- [JetBrains Space](https://www.jetbrains.com/space) - A complete software development platform, collaboration, and team and project management. 
-- [CodeTasty](https://codetasty.com) - Powerful online code editor in the cloud. It supports over 40 languages, including PHP, Node.JS, Python, Java, Ruby, and C.
-- [PaizaCloud](https://paiza.cloud/en) - Cloud IDE. Supports programming languages, including C, C++, PHP, Ruby, Perl, Python, JavaScript com Node.js e Go.
-- [Scrimba](https://scrimba.com) - Interactive courses and tutorials that will teach you React, Vue, Angular, JavaScript, HTML, CSS, etc.
-- [CodePen](https://codepen.io) - Social development environment for front-end designers and developers.
-
-- - - -
-
-<!---
 EXTENSIONS
 -->
 
@@ -692,17 +542,178 @@ EXTENSIONS
 - [Wordnik](https://www.wordnik.com)
 
 #### APPS
-- [Intra 42](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=en&gl=US) - `Java` `Android`
-- [Intra 42](https://apps.apple.com/fr/app/intra-42/id1475507162) - `Swift` `iOS`
+- [Intra 42](https://play.google.com/store/search?q=42+intra) - `Android`
+- [Intra 42](https://apps.apple.com/app/intra-42-mobile-app/id1661283873) - `iOS`
 
 #### BADGE
-- [Badge 42](https://github.com/JaeSeoKim/badge42) - Dynamically generated 42 badges for your git readmes.
-- [42 Project Badges](https://github.com/vinicius-f-pereira/42-project-badges) - Awesome little badges for 42 curriculum projects.
-- [1337 Readme](https://github.com/mohouyizme/1337-readme) - Share your progress with the world via GitHub README.md. `Not working?`
+- [Badge 42](https://github.com/JaeSeoKim/badge42) - Dynamically generated 42 badges for your git readmes. `JaeSeoKim` `GitHub`
+- [42 Project Badges](https://github.com/vinicius-f-pereira/42-project-badges) - Awesome little badges for 42 curriculum projects. `vinicius-f-pereira` `GitHub`
+- [1337 Readme](https://github.com/mohouyizme/1337-readme) - Share your progress with the world via GitHub README.md. `mohouyizme` `GitHub`
 
 #### ADD-ONS
 - [Spicetify](https://spicetify.app) - Powerful CLI tool to take control of the Spotify client.
 - [Discord Plugins](https://betterdiscord.app/plugins) - Community custom-made plugins for Discord.
+
+- - - -
+
+<!---
+CYBER SECURITY AND HACKING
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/cyber_hacking_banner.png">
+</h1>
+
+<p align="center">
+	<a href="#crack-the-code">Crack the Code</a> •
+	<a href="#pentesting-tools">Pentesting Tools</a> •
+	<a href="#digital-footprint">Digital Footprint</a> •
+	<a href="#vpn">VPN</a> •
+	<a href="#bootable-usb">Bootable USB</a> •
+	<a href="#operating-system">Operating System</a> •
+	<a href="#exploits-and-vulnerabilities">Explois and Vulnerabulities</a> •
+	<a href="#terminology">Terminology</a> •
+	<a href="#guides-and-resources">Guides and Resources</a> •
+	<a href="#podcasts">Podcasts</a> •
+	<a href="#hacking-google">Hacking Google</a> •
+	<a href="#--">↥ Back To Top</a>
+</p>
+
+#### CRACK THE CODE
+> _Challenges/resources about cyber security and hacking in general._
+- [Capture The Flag 101](https://ctf101.org) - Introduction to CTFs (Capture The Flag). `Website`
+- [42 CTF](https://www.42ctf.org/en) - A cybersecurity challenges platform with various challenges from 42. `Website`
+- [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking. `Website`
+- [Sololearn](https://www.sololearn.com) - Courses designed by experts with real-world practice. `Website`
+- [LeetCode](https://leetcode.com) - Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews. `Website`
+- [GeeksforGeeks](https://www.geeksforgeeks.org) - Every problem usually starts from an explanatory article. Good for learning about algorithms and new techniques. `Website`
+- [HackerRank](https://www.hackerrank.com) - Lots of programming problems, as well as math, AI, etc. Good for improving problem-solving skills. `Website`
+- [Codeforces](https://codeforces.com) - Similar to hackerrank, with more focus on conducting programming contests, has huge problems with archives and auto-tests. `Website`
+- [Topcoder](https://www.topcoder.com) - For programming contests professionals. `Website`
+- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - How to implement X in language Y. `Website`
+- [CodinGame](https://www.codingame.com) - Automated platform for writing game bots and alike. Definitely improves your coding and math skills. `Website`
+- [Codewars](https://www.codewars.com) - Platform for software developers on which people can solve programming puzzles known also as “katas”. `Website`
+- [Hacker101](https://www.hacker101.com) - Free class for web security. `Website`
+- [HackerOne](https://www.hackerone.com) - Web security classes. `Website`
+- [TryHackMe](https://tryhackme.com) - Learn cyber security, using hands-on exercises and labs. `Website`
+- [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills. `Website`
+- [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more. `Website`
+- [Cyberseek](https://www.cyberseek.org) - Explore career paths, skills, and certifications in the field of cyber security. `Website`
+- [Advent of Code](https://adventofcode.com) - Annual set of Christmas-themed computer programming challenges that follow an Advent calendar. `Website`
+
+#### PENTESTING TOOLS
+> _Collection of tools used to perform penetration testing or ethical hacking._
+- [Wireshark](https://www.wireshark.org) - Wireshark is a free and open-source packet analyzer. `Website`
+- [Responder](https://www.kali.org/tools/responder) - Penetration testing tool is a Link-Local Multicast Name Resolution (LLMNR), NBT-NS, and MDNS poisoner. `Website`
+- [Hashcat](https://hashcat.net/hashcat) - Powerful tool that helps to crack password hashes. `Website`
+- [Metasploit](https://www.metasploit.com) - Security project that provides data about security vulnerabilities and assists penetration testing. `Website`
+- [Shodan](https://www.shodan.io) - Search engine for Internet-connected devices. `Website`
+- [ExifTool](https://github.com/exiftool/exiftool) - Reading and writing of meta information in a wide variety of files. `exiftool` `GitHub`
+- [Remote Administration Tool](https://github.com/topics/remote-administration-tool) - Full control of a tech device, remotely. `GitHub`
+- [DNScat2](https://github.com/iagox86/dnscat2) - Create an encrypted command-and-control channel over the DNS protocol. `iagox86` `GitHub`
+- [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) - Penetration testing framework designed for social engineering. `trustedsec` `GitHub`
+- [VirusTotal](https://www.virustotal.com) - Analyzes suspicious files, URLs, domains and IP addresses to detect malware and other types of threats. `Website`
+- [CyberChef](https://gchq.github.io/CyberChef) - Web app for encryption, encoding, compression and data analysis. `CyberChef` `GitHub`
+- [dCode](https://www.dcode.fr/en) - Collection of over 800 tools to help solve games, riddles, cyphers, mathematics, puzzles, etc. `Website`
+- [Firefox DevTools Docs](https://firefox-source-docs.mozilla.org/devtools-user) -  Set of web developer tools built into Firefox. `Website`
+- [Burp Suite](https://portswigger.net/burp) - Integrated platform for performing security testing of web applications.  `Website`
+- [WiFi Map](https://www.wifimap.io) -  WiFi Map will navigate you to the nearest shared hotspots, show passwords, and let you connect to the internet in a few taps. `Website`
+- [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) - Docker image useful for solving Steganography challenges. `DominicBreuker` `GitHub`
+
+#### DIGITAL FOOTPRINT
+> _Discover the imprint left by your online activities._
+- [Firefox Monitor](https://monitor.firefox.com) - Check if you've been the victim of an online data breach. `Website`
+- [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address or phone number has been compromised. `Website`
+- [DeHashed](https://www.dehashed.com) - Free deep-web scans and protection against credential leaks. `Website`
+- [LeakCheck](https://leakcheck.io) - Data breach search engine. `Website`
+- [Intelligence X](https://intelx.io) - Search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more. `Website`
+- [Bitwarden Password Strenght](https://bitwarden.com/password-strength) - Find out if you have a strong password. `Website`
+- [OSINT Framework](https://osintframework.com) - Gather information from free tools or resources. `Website`
+- [sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks. `sherlock-project` `GitHub`
+- [Password Game](https://neal.fun/password-game) - A simple but frustrating password game. `Website`
+
+#### VPN
+> _Secure your internet connection with a Virtual Private Network._
+- [Proton](https://proton.me) - End-to-end encrypted VPN, mail, drive and calendar. `Website`
+- [OpenVPN](https://openvpn.net) - Secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. `Website`
+- [Tailscale](https://tailscale.com) - Zero configs VPN for building secure networks. `Website`
+
+#### BOOTABLE USB
+> _Create portable storage to install or repair operating systems._
+- [Rufus](https://rufus.ie) – Open-source portable application for Microsoft Windows, that can be used to format and create bootable USB flash drives or Live USBs. `Website`
+- [Ventoy](https://www.ventoy.net) – Open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files. `Website`
+- [Etcher](https://www.balena.io/etcher) – A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily. `Website`
+
+#### OPERATING SYSTEM
+> _Operating systems for every occasion._
+- [Tails](https://tails.boum.org) - Linux distribution aimed at preserving privacy and anonymity. It connects to the Internet exclusively through the anonymity network Tor. `Website`
+- [Kali Linux](https://www.kali.org) - Linux distribution geared towards penetration testing, security research, computer forensics and reverse engineering. `Website`
+- [Tiny11](https://github.com/ntdevlabs/tiny11builder) - Trimmed-down Windows 11 image. `ntdevlabs` `GitHub`
+
+#### EXPLOITS AND VULNERABILITIES
+> _Information and resources on how to learn/use exploits and vulnerabilities._
+- [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory. `ParrotSec` `GitHub`
+- [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Identify highly complex attack paths that would otherwise be impossible to quickly identify. `BloodHoundAD` `GitHub`
+- [EternalBlue](https://pt.wikipedia.org/wiki/EternalBlue) - Exploit developed by the U.S. NSA. It was leaked by the Shadow Brokers. `Wikipedia`
+- [MouseJack](https://www.mousejack.com/mousejack) - Vulnerabilities that affect the vast majority of wireless, non-Bluetooth keyboards and mice. `Website`
+- [Follina](https://www.youtube.com/watch?v=3ytqP1QvhUc) - CVE-2022-30190, this vulnerability takes advantage of the Microsoft Support Diagnostic Tool (msdt) in Microsoft Office. `Youtube`
+
+#### GUIDES AND RESOURCES
+> _Guides and resources in general about important topics that may help with cyber security._
+- [CVE](https://www.cve.org) - Reference method for publicly known information-security vulnerabilities and exposures. `Website`
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten) - Standard awareness document for developers and web application security. `Website`
+- [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) - Authoritative source of vulnerabilities that have been exploited in the wild. `Website`
+- [Privacy Network - Guidelines and Tools](https://www.nist.gov/privacy-framework/resource-repository/browse/guidelines-and-tools) `Website`
+- [Exploit Prediction Scoring System (EPSS)](https://www.secopsolution.com/blog/what-is-the-epss-scoring-system#:~:text=An%20exploit%20Prediction%20Scoring%20System,be%20exploited%20in%20the%20system.) `Website`
+- [Common Vulnerability Scoring System (CVSS)](https://www.sans.org/blog/what-is-cvss) `Website`
+- [What is MD5?](https://www.okta.com/identity-101/md5) `Website`
+- [Introduction to the World of Reversing](https://medium.com/@m0ab1d42/reversing-everything-except-love-27fe7a3d9e76) `Medium`
+- [Exploring the Heap](https://medium.com/@m0ab1d42/heap-the-witchcraft-dungeon-ac08e782fb49) `Medium`
+
+#### PODCASTS, NEWS AND VIDEOS
+> _Information specifically intended to capture, preserve, and explain the culture around hacking and cyber security._
+- [Jack Rhysider](https://www.youtube.com/@JackRhysider) - Podcast about true stories from the dark side of the internet. `Youtube`
+- [SecurityWeek](https://www.securityweek.com) - Leading source of cybersecurity news, insights and expert analysis. `Website` `News`
+- [The Hacker News](https://thehackernews.com) - The most trusted and popular cybersecurity publication for information security professionals seeking breaking news. `Website` `News`
+- [Heartbleed - What Happened?](https://www.youtube.com/watch?v=eCGKf1XD-ME) - The bug that nearly broke the internet. Back in 2014, the Heartbleed bug hit headlines across the world. `Youtube`
+
+#### HACKING GOOGLE
+> _Five elite security teams. Six never-before-told stories._ 
+- [EP000: Operation Aurora](https://youtu.be/przDcQe6n5o) `Youtube` `Documentary`
+- [EP001: Threat Analysis Group](https://youtu.be/N7N4EC20-cM) `Youtube` `Documentary`
+- [EP002: Detection and Response](https://youtu.be/QZ0cpBocl3c) `Youtube` `Documentary`
+- [EP003: Red Team](https://youtu.be/TusQWn2TQxQ) `Youtube` `Documentary`
+- [EP004: Bug Hunters](https://youtu.be/IoXiXlCNoXg) `Youtube` `Documentary`
+- [EP005: Project Zero](https://youtu.be/My_13FXODdU) `Youtube` `Documentary`
+
+- - - -
+
+<!---
+IDE, COMPILERS AND DEBUGGERS
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/ide_compilers_debuggers_banner.png">
+</h1>
+
+- [GDB Online Debugger](https://www.onlinegdb.com) - Online compiler and debugger for a lot of programming languages.
+- [Python Tutor](https://pythontutor.com) - Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.
+- [Thonny](https://thonny.org) - Thonny is an IDE for Python that is designed for beginners.
+- [Sublime Text](https://www.sublimetext.com) - Sophisticated text editor for code, markup and prose.
+- [Replit](https://replit.com) - Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.
+- [JSFiddle](https://jsfiddle.net) - Test your JavaScript, CSS, HTML or CoffeeScript online with the JSFiddle code editor.
+- [CodeSandbox](https://codesandbox.io) - Cloud development platform that empowers developers to code, collaborate and ship projects of any size from any device in record time.
+- [CodeAnywhere](https://codeanywhere.com) - Cross Platform Cloud IDE and it has all the features of Desktop IDE but with additional features.
+- [StackBlitz](https://stackblitz.com) - Instant full-stack web IDE for the JavaScript ecosystem. 
+- [AWS Cloud9](https://aws.amazon.com/pt/cloud9) - Cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.
+- [Gitpod](https://www.gitpod.io) - Cloud development environment for teams to efficiently and securely develop software. 
+- [Eclipse Theia](https://theia-ide.org) - Framework for building tools and IDEs.
+- [GitHub Codespaces](https://github.com/features/codespaces) - Use Visual Studio Code, Jupyter, or JetBrains with the editor, terminal, debugger, version control, settings sync, and all of your extensions.
+- [JetBrains Space](https://www.jetbrains.com/space) - A complete software development platform, collaboration, and team and project management. 
+- [CodeTasty](https://codetasty.com) - Powerful online code editor in the cloud. It supports over 40 languages, including PHP, Node.JS, Python, Java, Ruby, and C.
+- [PaizaCloud](https://paiza.cloud/en) - Cloud IDE. Supports programming languages, including C, C++, PHP, Ruby, Perl, Python, JavaScript com Node.js e Go.
+- [Scrimba](https://scrimba.com) - Interactive courses and tutorials that will teach you React, Vue, Angular, JavaScript, HTML, CSS, etc.
+- [CodePen](https://codepen.io) - Social development environment for front-end designers and developers.
 
 - - - -
 
