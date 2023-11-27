@@ -706,8 +706,8 @@ CYBER SECURITY AND HACKING
 #### HACKING GOOGLE
 > _Five elite security teams. Six never-before-told stories._ 
 
-|   |   |   |
-| - | - | - |
+|   |   |
+| - | - |
 | [EP000: Operation Aurora](https://youtu.be/przDcQe6n5o) | `Youtube` |
 | [EP001: Threat Analysis Group](https://youtu.be/N7N4EC20-cM) | `Youtube` |
 | [EP002: Detection and Response](https://youtu.be/QZ0cpBocl3c) | `Youtube` |
@@ -1039,8 +1039,8 @@ WIKIMEDIA FOUNDATION
 
 > Wikimedia is a global movement whose mission is to bring free educational content to the world.
 
-| Name | Description |
-|------|-------------|
+|   |   |
+| - | - |
 | [Wikipedia](https://en.wikipedia.org) | Online encyclopedia. |
 | [Wiktionary](https://www.wiktionary.org) | Online dictionary and thesaurus. |
 | [Wikibooks](https://en.wikibooks.org) | Collection of books, mostly textbooks. |
@@ -1084,8 +1084,8 @@ WIKIMEDIA FOUNDATION
 
 #### EUROPE
 
-| School | Country |
-|--------|---------|
+|   |   |
+| - | - |
 | 🇦🇲 [42 Yerevan](https://42yerevan.am) | Armenia |
 | 🇦🇹 [42 Vienna](https://www.42vienna.com) | Austria |
 | 🇧🇪 [19 – Antwerp](https://campus19.be) | Belgium |
@@ -1122,8 +1122,8 @@ WIKIMEDIA FOUNDATION
 
 #### ASIA
 
-| School | Country |
-|--------|---------|
+|   |   |
+| - | - |
 | 🇯🇵 [42 Tokyo](https://42tokyo.jp) | Japan |
 | 🇯🇴 [42 Amman](https://www.42network.org/campuses/42-amman) | Jordan |
 | 🇲🇾 [42 Kuala](https://42kl.edu.my) | Malaysia |
@@ -1135,8 +1135,8 @@ WIKIMEDIA FOUNDATION
 
 #### AMERICA
 
-| School | Country |
-|--------|---------|
+|   |   |
+| - | - |
 | 🇧🇷 [42 Belo Horizonte](https://www.42bh.org.br) | Brazil |
 | 🇧🇷 [42 Rio](https://42.rio) | Brazil |
 | 🇧🇷 [42 São Paulo](https://www.42sp.org.br) | Brazil |
@@ -1144,8 +1144,8 @@ WIKIMEDIA FOUNDATION
 
 #### AFRICA
 
-| School | Country |
-|--------|---------|
+|   |   |
+| - | - |
 | 🇲🇬 [42 Antananarivo](https://www.42network.org/campuses/42-antananarivo) | Madagascar |
 | 🇲🇦 [1337 – Ben Guerir](https://1337.ma/en/campuses) | Morocco |
 | 🇲🇦 [1337 – Khouribga](https://1337.ma/en/campuses) | Morocco |
@@ -1153,8 +1153,8 @@ WIKIMEDIA FOUNDATION
 
 #### OCEANIA
 
-| School | Country |
-|--------|---------|
+|   |   |
+| - | - |
 | 🇦🇺 [42 Adelaide](https://www.42adel.org.au) | Australia |
 
 - - - -
