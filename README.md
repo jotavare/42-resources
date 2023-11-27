@@ -600,7 +600,7 @@ CYBER SECURITY AND HACKING
 | [HackerOne](https://www.hackerone.com) | Web security classes. | `Website` |
 | [TryHackMe](https://tryhackme.com) | Learn cyber security through hands-on exercises and labs. | `Website` |
 | [Hack The Box](https://www.hackthebox.com) | Cybersecurity training platform to level up hacking skills. | `Website` |
-| [Hack This Site](https://www.hackthissite.org) | Safe and legal training ground for ethical hacking skills with challenges, CTFs, and more. | `Website` |
+| [Hack This Site](https://www.hackthissite.org) | Training ground for ethical hacking with challenges, CTFs, and more. | `Website` |
 | [Cyberseek](https://www.cyberseek.org) | Explore career paths, skills, and certifications in cyber security. | `Website` |
 | [Advent of Code](https://adventofcode.com) | Christmas-themed programming challenges following an Advent calendar. | `Website` |
 
@@ -618,12 +618,12 @@ CYBER SECURITY AND HACKING
 | [Remote Admin Tool](https://github.com/topics/remote-administration-tool) | Allows full control of a tech device remotely. | `GitHub` |
 | [DNScat2](https://github.com/iagox86/dnscat2) | Creates an encrypted command-and-control channel over DNS. | `GitHub` |
 | [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) | Framework designed for social engineering in penetration testing. | `GitHub` |
-| [VirusTotal](https://www.virustotal.com) | Analyzes suspicious files, URLs, domains, and IP addresses to detect threats. | `Website` |
+| [VirusTotal](https://www.virustotal.com) | Scans files, URLs, domains, and IPs for threats. | `Website` |
 | [CyberChef](https://gchq.github.io/CyberChef) | Web app for encryption, encoding, compression, and data analysis. | `GitHub` |
 | [dCode](https://www.dcode.fr/en) | Collection of over 800 tools solving games, riddles, cyphers, math, puzzles, etc. | `Website` |
 | [Firefox DevTools Docs](https://firefox-source-docs.mozilla.org/devtools-user) | Set of web developer tools built into Firefox. | `Website` |
 | [Burp Suite](https://portswigger.net/burp) | Integrated platform for security testing of web applications. | `Website` |
-| [WiFi Map](https://www.wifimap.io) | Navigates to nearest shared hotspots, displays passwords, facilitates internet connection. | `Website` |
+| [WiFi Map](https://www.wifimap.io) | Locates nearby hotspots, displays passwords and enables connection. | `Website` |
 | [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) | Docker image useful for solving Steganography challenges. | `GitHub` |
 
 #### DIGITAL FOOTPRINT
