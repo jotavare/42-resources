@@ -612,7 +612,7 @@ CYBER SECURITY AND HACKING
 | [Wireshark](https://www.wireshark.org) | Free and open-source packet analyzer. | `Website` |
 | [Responder](https://www.kali.org/tools/responder) | Penetration testing tool for various network protocol poisoning. | `Website` |
 | [Hashcat](https://hashcat.net/hashcat) | Powerful tool for cracking password hashes. | `Website` |
-| [Metasploit](https://www.metasploit.com) | Security project providing vulnerability data and aiding penetration testing. | `Website` |
+| [Metasploit](https://www.metasploit.com) | Security project providing vulnerability data and aiding penetration tests. | `Website` |
 | [Shodan](https://www.shodan.io) | Search engine for Internet-connected devices. | `Website` |
 | [ExifTool](https://github.com/exiftool/exiftool) | Reads and writes meta information in a wide variety of files. | `GitHub` |
 | [Remote Admin Tool](https://github.com/topics/remote-administration-tool) | Allows full control of a tech device remotely. | `GitHub` |
@@ -636,7 +636,7 @@ CYBER SECURITY AND HACKING
 | [DeHashed](https://www.dehashed.com) | Offers free deep-web scans and guards against credential leaks. | `Website` |
 | [LeakCheck](https://leakcheck.io) | Engine to search for data breaches. | `Website` |
 | [Intelligence X](https://intelx.io) | Searches across Tor, I2P, data leaks, and the web using diverse parameters. | `Website` |
-| [Bitwarden Password Strenght](https://bitwarden.com/password-strength) | Checks password strength. | `Website` |
+| [Password Strenght](https://bitwarden.com/password-strength) | Checks password strength. | `Website` |
 | [OSINT Framework](https://osintframework.com) | Gathers information from various free tools/resources. | `Website` |
 | [sherlock](https://github.com/sherlock-project/sherlock) | Locates social media accounts via usernames on multiple platforms. | `GitHub` |
 | [Password Game](https://neal.fun/password-game) | Engaging yet challenging password game. | `Website` |
