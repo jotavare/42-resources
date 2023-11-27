@@ -1153,7 +1153,7 @@ WIKIMEDIA FOUNDATION
 
 #### OCEANIA
 
-|   |   |
+[]()| []()| 
 | - | - |
 | 🇦🇺 [42 Adelaide](https://www.42adel.org.au) | Australia |
 
