@@ -620,7 +620,7 @@ CYBER SECURITY AND HACKING
 | [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) | Framework designed for social engineering in penetration testing. | `GitHub` |
 | [VirusTotal](https://www.virustotal.com) | Scans files, URLs, domains, and IPs for threats. | `Website` |
 | [CyberChef](https://gchq.github.io/CyberChef) | Web app for encryption, encoding, compression, and data analysis. | `GitHub` |
-| [dCode](https://www.dcode.fr/en) | Collection of over 800 tools solving games, riddles, cyphers, math, puzzles, etc. | `Website` |
+| [dCode](https://www.dcode.fr/en) | 800+ tools for games, riddles, cyphers, math, and puzzles. | `Website` |
 | [Firefox DevTools Docs](https://firefox-source-docs.mozilla.org/devtools-user) | Set of web developer tools built into Firefox. | `Website` |
 | [Burp Suite](https://portswigger.net/burp) | Integrated platform for security testing of web applications. | `Website` |
 | [WiFi Map](https://www.wifimap.io) | Locates nearby hotspots, displays passwords and enables connection. | `Website` |
@@ -636,7 +636,7 @@ CYBER SECURITY AND HACKING
 | [DeHashed](https://www.dehashed.com) | Offers free deep-web scans and guards against credential leaks. | `Website` |
 | [LeakCheck](https://leakcheck.io) | Engine to search for data breaches. | `Website` |
 | [Intelligence X](https://intelx.io) | Searches across Tor, I2P, data leaks, and the web using diverse parameters. | `Website` |
-| [Password Strenght](https://bitwarden.com/password-strength) | Checks password strength. | `Website` |
+| [Bitwarden Password Strenght](https://bitwarden.com/password-strength) | Checks password strength. | `Website` |
 | [OSINT Framework](https://osintframework.com) | Gathers information from various free tools/resources. | `Website` |
 | [sherlock](https://github.com/sherlock-project/sherlock) | Locates social media accounts via usernames on multiple platforms. | `GitHub` |
 | [Password Game](https://neal.fun/password-game) | Engaging yet challenging password game. | `Website` |
