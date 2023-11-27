@@ -665,7 +665,7 @@ CYBER SECURITY AND HACKING
 | Name | Description | Source |
 |------|-------------|--------|
 | [Tails](https://tails.boum.org) | Privacy-focused Linux distro connecting exclusively through Tor for anonymity. | `Website` |
-| [Kali Linux](https://www.kali.org) | Linux distro specializing in penetration testing, security research, forensics, and reverse engineering. | `Website` |
+| [Kali](https://www.kali.org) | Linux distro specializing in penetration testing, security research, forensics, and reverse engineering. | `Website` |
 | [Tiny11](https://github.com/ntdevlabs/tiny11builder) | Trimmed-down Windows 11 image available on GitHub. | `GitHub` |
 
 #### EXPLOITS AND VULNERABILITIES
@@ -686,12 +686,12 @@ CYBER SECURITY AND HACKING
 |------|-------------|------|
 | [CVE](https://www.cve.org) | Reference for known information-security vulnerabilities and exposures. | `Website` |
 | [OWASP Top Ten](https://owasp.org/www-project-top-ten) | Developer's guide for web application security. | `Website` |
-| [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) | Catalog of exploited vulnerabilities in the wild. | `Website` |
-| [Privacy Network - Guidelines and Tools](https://www.nist.gov/privacy-framework/resource-repository/browse/guidelines-and-tools) | Repository offering privacy guidelines and tools. | `Website` |
-| [Exploit Prediction Scoring System (EPSS)](https://www.secopsolution.com/blog/what-is-the-epss-scoring-system#:~:text=An%20exploit%20Prediction%20Scoring%20System,be%20exploited%20in%20the%20system.) | Predictive system for potential vulnerabilities. | `Website` |
-| [Common Vulnerability Scoring System (CVSS)](https://www.sans.org/blog/what-is-cvss) | System to assess and prioritize vulnerabilities. | `Website` |
+| [Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) | Catalog of exploited vulnerabilities in the wild. | `Website` |
+| [Privacy Network](https://www.nist.gov/privacy-framework/resource-repository/browse/guidelines-and-tools) | Repository offering privacy guidelines and tools. | `Website` |
+| [EPSS](https://www.secopsolution.com/blog/what-is-the-epss-scoring-system#:~:text=An%20exploit%20Prediction%20Scoring%20System,be%20exploited%20in%20the%20system.) | Predictive system for potential vulnerabilities. | `Website` |
+| [CVSS](https://www.sans.org/blog/what-is-cvss) | System to assess and prioritize vulnerabilities. | `Website` |
 | [What is MD5?](https://www.okta.com/identity-101/md5) | Explanation of MD5, a widely-used cryptographic hash function. | `Website` |
-| [Introduction to the World of Reversing](https://medium.com/@m0ab1d42/reversing-everything-except-love-27fe7a3d9e76) | Article introducing reversing concepts. | `Medium` |
+| [World of Reversing](https://medium.com/@m0ab1d42/reversing-everything-except-love-27fe7a3d9e76) | Article introducing reversing concepts. | `Medium` |
 | [Exploring the Heap](https://medium.com/@m0ab1d42/heap-the-witchcraft-dungeon-ac08e782fb49) | Article exploring the computing concept of the heap. | `Medium` |
 
 
@@ -703,7 +703,7 @@ CYBER SECURITY AND HACKING
 | [Jack Rhysider](https://www.youtube.com/@JackRhysider) | Podcast sharing true stories from the internet's darker side. | `Youtube` |
 | [SecurityWeek](https://www.securityweek.com) | Premier hub for cybersecurity news, insights, and expert analysis. | `News` |
 | [The Hacker News](https://thehackernews.com) | Trusted publication for breaking cybersecurity news and insights. | `News` |
-| [Heartbleed - What Happened?](https://www.youtube.com/watch?v=eCGKf1XD-ME) | Insightful review of the 2014 Heartbleed bug that shook the internet. | `Youtube` |
+| [Heartbleed](https://www.youtube.com/watch?v=eCGKf1XD-ME) | Insightful review of the 2014 Heartbleed bug that shook the internet. | `Youtube` |
 
 #### HACKING GOOGLE
 > _Five elite security teams. Six never-before-told stories._ 
