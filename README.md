@@ -588,7 +588,7 @@ CYBER SECURITY AND HACKING
 | [42 CTF](https://www.42ctf.org/en) | Cybersecurity challenges platform with various challenges from 42. | `Website` |
 | [Root Me](https://www.root-me.org) | Platform for testing and improving knowledge in computer security and hacking. | `Website` |
 | [Sololearn](https://www.sololearn.com) | Courses designed by experts with real-world practice. | `Website` |
-| [LeetCode](https://leetcode.com) | Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews. | `Website` |
+| [LeetCode](https://leetcode.com) | Auto-tests. Fast lane to practice coding for interviews. | `Website` |
 | [GeeksforGeeks](https://www.geeksforgeeks.org) | Explanatory articles for algorithms and techniques. | `Website` |
 | [HackerRank](https://www.hackerrank.com) | Programming problems, math, AI, etc. Good website for problem-solving skills. | `Website` |
 | [Codeforces](https://codeforces.com) | Programming contests platform with archives and auto-tests. | `Website` |
@@ -602,7 +602,7 @@ CYBER SECURITY AND HACKING
 | [Hack The Box](https://www.hackthebox.com) | Cybersecurity training platform to level up hacking skills. | `Website` |
 | [Hack This Site](https://www.hackthissite.org) | Safe and legal training ground for ethical hacking skills with challenges, CTFs, and more. | `Website` |
 | [Cyberseek](https://www.cyberseek.org) | Explore career paths, skills, and certifications in cyber security. | `Website` |
-| [Advent of Code](https://adventofcode.com) | Annual Christmas-themed programming challenges following an Advent calendar. | `Website` |
+| [Advent of Code](https://adventofcode.com) | Christmas-themed programming challenges following an Advent calendar. | `Website` |
 
 #### PENTESTING TOOLS
 > _Collection of tools used to perform penetration testing or ethical hacking._
@@ -647,7 +647,7 @@ CYBER SECURITY AND HACKING
 | Name | Description | Source |
 |------|-------------|--------|
 | [Proton](https://proton.me) | Offers end-to-end encrypted VPN, mail, drive, and calendar services. | `Website` |
-| [OpenVPN](https://openvpn.net) | Provides secure connections for point-to-point or site-to-site setups, including remote access facilities. | `Website` |
+| [OpenVPN](https://openvpn.net) | Enables secure point-to-point, site-to-site connections, and remote access facilities. | `Website` |
 | [Tailscale](https://tailscale.com) | Offers a zero-config VPN for constructing secure networks. | `Website` |
 
 #### BOOTABLE USB
