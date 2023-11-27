@@ -706,9 +706,8 @@ CYBER SECURITY AND HACKING
 #### HACKING GOOGLE
 > _Five elite security teams. Six never-before-told stories._ 
 
-| Name     | Source       |
+| [EP000: Operation Aurora](https://youtu.be/przDcQe6n5o)	| `Youtube` |
 |----------|--------------|
-| [EP000: Operation Aurora](https://youtu.be/przDcQe6n5o) | `Youtube` |
 | [EP001: Threat Analysis Group](https://youtu.be/N7N4EC20-cM) | `Youtube` |
 | [EP002: Detection and Response](https://youtu.be/QZ0cpBocl3c) | `Youtube` |
 | [EP003: Red Team](https://youtu.be/TusQWn2TQxQ) | `Youtube` |
