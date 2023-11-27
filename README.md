@@ -581,8 +581,8 @@ CYBER SECURITY AND HACKING
 #### CRACK THE CODE
 > _Challenges about cyber security and hacking in general._
 
-| Name | Description | Source |
-|------|-------------|--------|
+|   |   |   |
+| - | - | - |
 | [CTF 101](https://ctf101.org) | Introduction to CTFs (Capture The Flag). | `Website` |
 | [42 CTF](https://www.42ctf.org/en) | Cybersecurity challenges platform with various challenges from 42. | `Website` |
 | [Root Me](https://www.root-me.org) | Platform for testing and improving knowledge in computer security and hacking. | `Website` |
@@ -606,8 +606,8 @@ CYBER SECURITY AND HACKING
 #### PENTESTING TOOLS
 > _Collection of tools used to perform penetration testing or ethical hacking._
 
-| Name | Description | Source |
-|------|-------------|--------|
+|   |   |   |
+| - | - | - |
 | [Wireshark](https://www.wireshark.org) | Free and open-source packet analyzer. | `Website` |
 | [Responder](https://www.kali.org/tools/responder) | Penetration testing tool for various network protocol poisoning. | `Website` |
 | [Hashcat](https://hashcat.net/hashcat) | Powerful tool for cracking password hashes. | `Website` |
@@ -628,8 +628,8 @@ CYBER SECURITY AND HACKING
 #### DIGITAL FOOTPRINT
 > _Discover the imprint left by your online activities._
 
-| Name | Description | Source |
-|------|-------------|--------|
+|   |   |   |
+| - | - | - |
 | [Firefox Monitor](https://monitor.firefox.com) | Checks if your data has been involved in an online breach. | `Website` |
 | [Have I Been Pwned](https://haveibeenpwned.com) | Scans multiple breaches for your compromised email or phone. | `Website` |
 | [DeHashed](https://www.dehashed.com) | Offers free deep-web scans and guards against credential leaks. | `Website` |
@@ -643,8 +643,8 @@ CYBER SECURITY AND HACKING
 #### VPN
 > _Secure your internet connection with a Virtual Private Network._
 
-| Name | Description | Source |
-|------|-------------|--------|
+|   |   |   |
+| - | - | - |
 | [Proton](https://proton.me) | Offers end-to-end encrypted VPN, mail, drive, and calendar services. | `Website` |
 | [OpenVPN](https://openvpn.net) | Enables secure point-to-point, site-to-site connections, and remote access facilities. | `Website` |
 | [Tailscale](https://tailscale.com) | Offers a zero-config VPN for constructing secure networks. | `Website` |
@@ -652,8 +652,8 @@ CYBER SECURITY AND HACKING
 #### BOOTABLE USB
 > _Create portable storage to install or repair operating systems._
 
-| Name | Description | Source |
-|------|-------------|--------|
+|   |   |   |
+| - | - | - |
 | [Rufus](https://rufus.ie) | Open-source portable app for Windows, creating bootable USB flash drives or Live USBs. | `Website` |
 | [Ventoy](https://www.ventoy.net) | Open-source tool for creating bootable USB drives supporting various file types. | `Website` |
 | [Etcher](https://www.balena.io/etcher) | Cross-platform tool for safely flashing OS images onto SD cards and USB drives. | `Website` |
@@ -661,8 +661,8 @@ CYBER SECURITY AND HACKING
 #### OPERATING SYSTEM
 > _Operating systems for every occasion._
 
-| Name | Description | Source |
-|------|-------------|--------|
+|   |   |   |
+| - | - | - |
 | [Tails](https://tails.boum.org) | Privacy-focused Linux distro connecting exclusively through Tor for anonymity. | `Website` |
 | [Kali](https://www.kali.org) | Linux distro for penetration testing, security research, forensics, and reverse engineering. | `Website` |
 | [Tiny11](https://github.com/ntdevlabs/tiny11builder) | Trimmed-down Windows 11 image available on GitHub. | `GitHub` |
@@ -670,8 +670,8 @@ CYBER SECURITY AND HACKING
 #### EXPLOITS AND VULNERABILITIES
 > _Information and resources on how to learn/use exploits and vulnerabilities._
 
-| Name | Description | Source |
-|------|-------------|--------|
+|   |   |   |
+| - | - | - |
 | [Mimikatz](https://github.com/ParrotSec/mimikatz) | Windows exploit extracting passwords from memory. | `GitHub` |
 | [BloodHound](https://github.com/BloodHoundAD/BloodHound) | Identifies complex attack paths otherwise hard to spot. | `GitHub` |
 | [EternalBlue](https://pt.wikipedia.org/wiki/EternalBlue) | NSA-developed exploit leaked by Shadow Brokers. | `Wikipedia` |
@@ -681,8 +681,8 @@ CYBER SECURITY AND HACKING
 #### GUIDES AND RESOURCES
 > _Guides and resources in general about important topics that may help with cyber security or hacking._
 
-| Name | Description | Type |
-|------|-------------|------|
+|   |   |   |
+| - | - | - |
 | [CVE](https://www.cve.org) | Reference for known information-security vulnerabilities and exposures. | `Website` |
 | [OWASP Top Ten](https://owasp.org/www-project-top-ten) | Developer's guide for web application security. | `Website` |
 | [Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) | Catalog of exploited vulnerabilities in the wild. | `Website` |
@@ -696,8 +696,8 @@ CYBER SECURITY AND HACKING
 #### PODCASTS, NEWS AND VIDEOS
 > _Information specifically intended to capture, preserve, and explain the culture around hacking and cyber security._
 
-| Name | Description | Source |
-|------|-------------|--------|
+|   |   |   |
+| - | - | - |
 | [Jack Rhysider](https://www.youtube.com/@JackRhysider) | Podcast sharing true stories from the internet's darker side. | `Youtube` |
 | [SecurityWeek](https://www.securityweek.com) | Premier hub for cybersecurity news, insights, and expert analysis. | `News` |
 | [The Hacker News](https://thehackernews.com) | Trusted publication for breaking cybersecurity news and insights. | `News` |
@@ -706,8 +706,8 @@ CYBER SECURITY AND HACKING
 #### HACKING GOOGLE
 > _Five elite security teams. Six never-before-told stories._ 
 
-|			|				|
-|-----------|---------------|
+|   |   |   |
+| - | - | - |
 | [EP000: Operation Aurora](https://youtu.be/przDcQe6n5o) | `Youtube` |
 | [EP001: Threat Analysis Group](https://youtu.be/N7N4EC20-cM) | `Youtube` |
 | [EP002: Detection and Response](https://youtu.be/QZ0cpBocl3c) | `Youtube` |
