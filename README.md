@@ -603,41 +603,24 @@ CYBER SECURITY AND HACKING
 
 #### PENTESTING TOOLS
 > _Collection of tools used to perform penetration testing or ethical hacking._
-- [Wireshark](https://www.wireshark.org) - Wireshark is a free and open-source packet analyzer. `Website`
-- [Responder](https://www.kali.org/tools/responder) - Penetration testing tool is a Link-Local Multicast Name Resolution (LLMNR), NBT-NS, and MDNS poisoner. `Website`
-- [Hashcat](https://hashcat.net/hashcat) - Powerful tool that helps to crack password hashes. `Website`
-- [Metasploit](https://www.metasploit.com) - Security project that provides data about security vulnerabilities and assists penetration testing. `Website`
-- [Shodan](https://www.shodan.io) - Search engine for Internet-connected devices. `Website`
-- [ExifTool](https://github.com/exiftool/exiftool) - Reading and writing of meta information in a wide variety of files. `exiftool` `GitHub`
-- [Remote Administration Tool](https://github.com/topics/remote-administration-tool) - Full control of a tech device, remotely. `GitHub`
-- [DNScat2](https://github.com/iagox86/dnscat2) - Create an encrypted command-and-control channel over the DNS protocol. `iagox86` `GitHub`
-- [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) - Penetration testing framework designed for social engineering. `trustedsec` `GitHub`
-- [VirusTotal](https://www.virustotal.com) - Analyzes suspicious files, URLs, domains and IP addresses to detect malware and other types of threats. `Website`
-- [CyberChef](https://gchq.github.io/CyberChef) - Web app for encryption, encoding, compression and data analysis. `CyberChef` `GitHub`
-- [dCode](https://www.dcode.fr/en) - Collection of over 800 tools to help solve games, riddles, cyphers, mathematics, puzzles, etc. `Website`
-- [Firefox DevTools Docs](https://firefox-source-docs.mozilla.org/devtools-user) -  Set of web developer tools built into Firefox. `Website`
-- [Burp Suite](https://portswigger.net/burp) - Integrated platform for performing security testing of web applications.  `Website`
-- [WiFi Map](https://www.wifimap.io) -  WiFi Map will navigate you to the nearest shared hotspots, show passwords, and let you connect to the internet in a few taps. `Website`
-- [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) - Docker image useful for solving Steganography challenges. `DominicBreuker` `GitHub`
-
 | Tool Name | Description | Source |
-| :---------| :-----------| :------|
+| :-------- | :---------- | :----- |
 | [Wireshark](https://www.wireshark.org) | Free and open-source packet analyzer. | `Website` |
-| [Responder](https://www.kali.org/tools/responder) | Penetration testing tool for LLMNR, NBT-NS, and MDNS poisoning. | `Website` |
-| [Hashcat](https://hashcat.net/hashcat) | Powerful tool for cracking password hashes. | `Website` |
-| [Metasploit](https://www.metasploit.com) | Security project providing vulnerability data and aiding penetration testing. | `Website` |
+| [Responder](https://www.kali.org/tools/responder) | Penetration testing tool for Link-Local Multicast Name Resolution (LLMNR), NBT-NS, and MDNS poisoning. | `Website` |
+| [Hashcat](https://hashcat.net/hashcat) | Powerful tool that helps to crack password hashes. | `Website` |
+| [Metasploit](https://www.metasploit.com) | Security project that provides data about security vulnerabilities and assists penetration testing. | `Website` |
 | [Shodan](https://www.shodan.io) | Search engine for Internet-connected devices. | `Website` |
-| [ExifTool](https://github.com/exiftool/exiftool) | Reads and writes meta information in various files. | `exiftool` `GitHub` |
-| [Remote Administration Tool](https://github.com/topics/remote-administration-tool) | Enables full control of tech devices remotely. | `GitHub` |
-| [DNScat2](https://github.com/iagox86/dnscat2) | Creates encrypted command-and-control channels over DNS. | `iagox86` `GitHub` |
-| [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) | Framework designed for social engineering in penetration testing. | `trustedsec` `GitHub` |
-| [VirusTotal](https://www.virustotal.com) | Analyzes files, URLs, domains, and IPs to detect malware and threats. | `Website` |
+| [ExifTool](https://github.com/exiftool/exiftool) | Reading and writing of meta information in a wide variety of files. | `exiftool` `GitHub` |
+| [Remote Administration Tool](https://github.com/topics/remote-administration-tool) | Full control of a tech device, remotely. | `GitHub` |
+| [DNScat2](https://github.com/iagox86/dnscat2) | Create an encrypted command-and-control channel over the DNS protocol. | `iagox86` `GitHub` |
+| [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) | Penetration testing framework designed for social engineering. | `trustedsec` `GitHub` |
+| [VirusTotal](https://www.virustotal.com) | Analyzes suspicious files, URLs, domains, and IP addresses to detect malware and other types of threats. | `Website` |
 | [CyberChef](https://gchq.github.io/CyberChef) | Web app for encryption, encoding, compression, and data analysis. | `CyberChef` `GitHub` |
-| [dCode](https://www.dcode.fr/en) | Collection of over 800 tools for solving games, riddles, cyphers, puzzles, etc. | `Website` |
+| [dCode](https://www.dcode.fr/en) | Collection of over 800 tools to help solve games, riddles, cyphers, mathematics, puzzles, etc. | `Website` |
 | [Firefox DevTools Docs](https://firefox-source-docs.mozilla.org/devtools-user) | Set of web developer tools built into Firefox. | `Website` |
-| [Burp Suite](https://portswigger.net/burp) | Integrated platform for security testing of web applications. | `Website` |
-| [WiFi Map](https://www.wifimap.io) | Finds and connects to shared WiFi hotspots. | `Website` |
-| [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) | Docker image for solving Steganography challenges. | `DominicBreuker` `GitHub` |
+| [Burp Suite](https://portswigger.net/burp) | Integrated platform for performing security testing of web applications. | `Website` |
+| [WiFi Map](https://www.wifimap.io) | WiFi Map will navigate you to the nearest shared hotspots, show passwords, and let you connect to the internet in a few taps. | `Website` |
+| [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) | Docker image useful for solving Steganography challenges. | `DominicBreuker` `GitHub` |
 
 #### DIGITAL FOOTPRINT
 > _Discover the imprint left by your online activities._
