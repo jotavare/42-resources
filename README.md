@@ -584,7 +584,7 @@ CYBER SECURITY AND HACKING
 
 | Name | Description | Source |
 |------|-------------|--------|
-| [Capture The Flag 101](https://ctf101.org) | Introduction to CTFs (Capture The Flag). | `Website` |
+| [CTF 101](https://ctf101.org) | Introduction to CTFs (Capture The Flag). | `Website` |
 | [42 CTF](https://www.42ctf.org/en) | Cybersecurity challenges platform with various challenges from 42. | `Website` |
 | [Root Me](https://www.root-me.org) | Platform for testing and improving knowledge in computer security and hacking. | `Website` |
 | [Sololearn](https://www.sololearn.com) | Courses designed by experts with real-world practice. | `Website` |
@@ -615,7 +615,7 @@ CYBER SECURITY AND HACKING
 | [Metasploit](https://www.metasploit.com) | Security project providing vulnerability data and aiding penetration testing. | `Website` |
 | [Shodan](https://www.shodan.io) | Search engine for Internet-connected devices. | `Website` |
 | [ExifTool](https://github.com/exiftool/exiftool) | Reads and writes meta information in a wide variety of files. | `GitHub` |
-| [Remote Administration Tool](https://github.com/topics/remote-administration-tool) | Allows full control of a tech device remotely. | `GitHub` |
+| [Remote Admin Tool](https://github.com/topics/remote-administration-tool) | Allows full control of a tech device remotely. | `GitHub` |
 | [DNScat2](https://github.com/iagox86/dnscat2) | Creates an encrypted command-and-control channel over DNS. | `GitHub` |
 | [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) | Framework designed for social engineering in penetration testing. | `GitHub` |
 | [VirusTotal](https://www.virustotal.com) | Analyzes suspicious files, URLs, domains, and IP addresses to detect threats. | `Website` |
@@ -636,7 +636,7 @@ CYBER SECURITY AND HACKING
 | [DeHashed](https://www.dehashed.com) | Offers free deep-web scans and guards against credential leaks. | `Website` |
 | [LeakCheck](https://leakcheck.io) | Engine to search for data breaches. | `Website` |
 | [Intelligence X](https://intelx.io) | Searches across Tor, I2P, data leaks, and the web using diverse parameters. | `Website` |
-| [Bitwarden Password Strenght](https://bitwarden.com/password-strength) | Checks password strength. | `Website` |
+| [Password Strenght](https://bitwarden.com/password-strength) | Checks password strength. | `Website` |
 | [OSINT Framework](https://osintframework.com) | Gathers information from various free tools/resources. | `Website` |
 | [sherlock](https://github.com/sherlock-project/sherlock) | Locates social media accounts via usernames on multiple platforms. | `GitHub` |
 | [Password Game](https://neal.fun/password-game) | Engaging yet challenging password game. | `Website` |
@@ -665,7 +665,7 @@ CYBER SECURITY AND HACKING
 | Name | Description | Source |
 |------|-------------|--------|
 | [Tails](https://tails.boum.org) | Privacy-focused Linux distro connecting exclusively through Tor for anonymity. | `Website` |
-| [Kali](https://www.kali.org) | Linux distro specializing in penetration testing, security research, forensics, and reverse engineering. | `Website` |
+| [Kali](https://www.kali.org) | Linux distro for penetration testing, security research, forensics, and reverse engineering. | `Website` |
 | [Tiny11](https://github.com/ntdevlabs/tiny11builder) | Trimmed-down Windows 11 image available on GitHub. | `GitHub` |
 
 #### EXPLOITS AND VULNERABILITIES
@@ -677,7 +677,7 @@ CYBER SECURITY AND HACKING
 | [BloodHound](https://github.com/BloodHoundAD/BloodHound) | Identifies complex attack paths otherwise hard to spot. | `GitHub` |
 | [EternalBlue](https://pt.wikipedia.org/wiki/EternalBlue) | NSA-developed exploit leaked by Shadow Brokers. | `Wikipedia` |
 | [MouseJack](https://www.mousejack.com/mousejack) | Vulnerabilities in wireless, non-Bluetooth keyboards and mice. | `Website` |
-| [Follina](https://www.youtube.com/watch?v=3ytqP1QvhUc) | Exploits CVE-2022-30190 using Microsoft Support Diagnostic Tool (msdt) in Microsoft Office. | `Youtube` |
+| [Follina](https://www.youtube.com/watch?v=3ytqP1QvhUc) | Exploits the MSDT tool in Microsoft Office. | `Youtube` |
 
 #### GUIDES AND RESOURCES
 > _Guides and resources in general about important topics that may help with cyber security._
