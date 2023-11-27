@@ -572,9 +572,8 @@ CYBER SECURITY AND HACKING
 	<a href="#bootable-usb">Bootable USB</a> •
 	<a href="#operating-system">Operating System</a> •
 	<a href="#exploits-and-vulnerabilities">Explois and Vulnerabulities</a> •
-	<a href="#terminology">Terminology</a> •
 	<a href="#guides-and-resources">Guides and Resources</a> •
-	<a href="#podcasts">Podcasts</a> •
+	<a href="#podcasts-news-and-videos">Podcasts, News and Videos</a> •
 	<a href="#hacking-google">Hacking Google</a> •
 	<a href="#--">↥ Back To Top</a>
 </p>
@@ -693,7 +692,6 @@ CYBER SECURITY AND HACKING
 | [What is MD5?](https://www.okta.com/identity-101/md5) | Explanation of MD5, a widely-used cryptographic hash function. | `Website` |
 | [World of Reversing](https://medium.com/@m0ab1d42/reversing-everything-except-love-27fe7a3d9e76) | Article introducing reversing concepts. | `Medium` |
 | [Exploring the Heap](https://medium.com/@m0ab1d42/heap-the-witchcraft-dungeon-ac08e782fb49) | Article exploring the computing concept of the heap. | `Medium` |
-
 
 #### PODCASTS, NEWS AND VIDEOS
 > _Information specifically intended to capture, preserve, and explain the culture around hacking and cyber security._
