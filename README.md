@@ -581,113 +581,141 @@ CYBER SECURITY AND HACKING
 
 #### CRACK THE CODE
 > _Challenges/resources about cyber security and hacking in general._
-- [Capture The Flag 101](https://ctf101.org) - Introduction to CTFs (Capture The Flag). `Website`
-- [42 CTF](https://www.42ctf.org/en) - A cybersecurity challenges platform with various challenges from 42. `Website`
-- [Root Me](https://www.root-me.org) - Platform for everyone to test and improve knowledge in computer security and hacking. `Website`
-- [Sololearn](https://www.sololearn.com) - Courses designed by experts with real-world practice. `Website`
-- [LeetCode](https://leetcode.com) - Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews. `Website`
-- [GeeksforGeeks](https://www.geeksforgeeks.org) - Every problem usually starts from an explanatory article. Good for learning about algorithms and new techniques. `Website`
-- [HackerRank](https://www.hackerrank.com) - Lots of programming problems, as well as math, AI, etc. Good for improving problem-solving skills. `Website`
-- [Codeforces](https://codeforces.com) - Similar to hackerrank, with more focus on conducting programming contests, has huge problems with archives and auto-tests. `Website`
-- [Topcoder](https://www.topcoder.com) - For programming contests professionals. `Website`
-- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - How to implement X in language Y. `Website`
-- [CodinGame](https://www.codingame.com) - Automated platform for writing game bots and alike. Definitely improves your coding and math skills. `Website`
-- [Codewars](https://www.codewars.com) - Platform for software developers on which people can solve programming puzzles known also as “katas”. `Website`
-- [Hacker101](https://www.hacker101.com) - Free class for web security. `Website`
-- [HackerOne](https://www.hackerone.com) - Web security classes. `Website`
-- [TryHackMe](https://tryhackme.com) - Learn cyber security, using hands-on exercises and labs. `Website`
-- [Hack The Box](https://www.hackthebox.com) - Cybersecurity training platform to level up your hacking skills. `Website`
-- [Hack This Site](https://www.hackthissite.org) - Safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more. `Website`
-- [Cyberseek](https://www.cyberseek.org) - Explore career paths, skills, and certifications in the field of cyber security. `Website`
-- [Advent of Code](https://adventofcode.com) - Annual set of Christmas-themed computer programming challenges that follow an Advent calendar. `Website`
+
+| Name | Description | Source |
+|------|-------------|--------|
+| [Capture The Flag 101](https://ctf101.org) | Introduction to CTFs (Capture The Flag). | `Website` |
+| [42 CTF](https://www.42ctf.org/en) | Cybersecurity challenges platform with various challenges from 42. | `Website` |
+| [Root Me](https://www.root-me.org) | Platform for testing and improving knowledge in computer security and hacking. | `Website` |
+| [Sololearn](https://www.sololearn.com) | Courses designed by experts with real-world practice. | `Website` |
+| [LeetCode](https://leetcode.com) | Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews. | `Website` |
+| [GeeksforGeeks](https://www.geeksforgeeks.org) | Explanatory articles for algorithms and techniques. | `Website` |
+| [HackerRank](https://www.hackerrank.com) | Programming problems, math, AI, etc. Good for problem-solving skills. | `Website` |
+| [Codeforces](https://codeforces.com) | Programming contests platform with archives and auto-tests. | `Website` |
+| [Topcoder](https://www.topcoder.com) | Platform for programming contests professionals. | `Website` |
+| [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) | Implementation guide for X in language Y. | `Website` |
+| [CodinGame](https://www.codingame.com) | Automated platform for writing game bots, improving coding, and math skills. | `Website` |
+| [Codewars](https://www.codewars.com) | Platform for solving programming puzzles known as “katas”. | `Website` |
+| [Hacker101](https://www.hacker101.com) | Free class for web security. | `Website` |
+| [HackerOne](https://www.hackerone.com) | Web security classes. | `Website` |
+| [TryHackMe](https://tryhackme.com) | Learn cyber security through hands-on exercises and labs. | `Website` |
+| [Hack The Box](https://www.hackthebox.com) | Cybersecurity training platform to level up hacking skills. | `Website` |
+| [Hack This Site](https://www.hackthissite.org) | Safe and legal training ground for ethical hacking skills with challenges, CTFs, and more. | `Website` |
+| [Cyberseek](https://www.cyberseek.org) | Explore career paths, skills, and certifications in cyber security. | `Website` |
+| [Advent of Code](https://adventofcode.com) | Annual Christmas-themed programming challenges following an Advent calendar. | `Website` |
 
 #### PENTESTING TOOLS
 > _Collection of tools used to perform penetration testing or ethical hacking._
 
-| Tool Name | Description | Source |
-| :-------- | :---------- | :----- |
+| Name | Description | Source |
+|------|-------------|--------|
 | [Wireshark](https://www.wireshark.org) | Free and open-source packet analyzer. | `Website` |
-| [Responder](https://www.kali.org/tools/responder) | Penetration testing tool for Link-Local Multicast Name Resolution (LLMNR), NBT-NS, and MDNS poisoning. | `Website` |
-| [Hashcat](https://hashcat.net/hashcat) | Powerful tool that helps to crack password hashes. | `Website` |
-| [Metasploit](https://www.metasploit.com) | Security project that provides data about security vulnerabilities and assists penetration testing. | `Website` |
+| [Responder](https://www.kali.org/tools/responder) | Penetration testing tool for various network protocol poisoning. | `Website` |
+| [Hashcat](https://hashcat.net/hashcat) | Powerful tool for cracking password hashes. | `Website` |
+| [Metasploit](https://www.metasploit.com) | Security project providing vulnerability data and aiding penetration testing. | `Website` |
 | [Shodan](https://www.shodan.io) | Search engine for Internet-connected devices. | `Website` |
-| [ExifTool](https://github.com/exiftool/exiftool) | Reading and writing of meta information in a wide variety of files. | `exiftool` `GitHub` |
-| [Remote Administration Tool](https://github.com/topics/remote-administration-tool) | Full control of a tech device, remotely. | `GitHub` |
-| [DNScat2](https://github.com/iagox86/dnscat2) | Create an encrypted command-and-control channel over the DNS protocol. | `iagox86` `GitHub` |
-| [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) | Penetration testing framework designed for social engineering. | `trustedsec` `GitHub` |
-| [VirusTotal](https://www.virustotal.com) | Analyzes suspicious files, URLs, domains, and IP addresses to detect malware and other types of threats. | `Website` |
-| [CyberChef](https://gchq.github.io/CyberChef) | Web app for encryption, encoding, compression, and data analysis. | `CyberChef` `GitHub` |
-| [dCode](https://www.dcode.fr/en) | Collection of over 800 tools to help solve games, riddles, cyphers, mathematics, puzzles, etc. | `Website` |
+| [ExifTool](https://github.com/exiftool/exiftool) | Reads and writes meta information in a wide variety of files. | `GitHub` |
+| [Remote Administration Tool](https://github.com/topics/remote-administration-tool) | Allows full control of a tech device remotely. | `GitHub` |
+| [DNScat2](https://github.com/iagox86/dnscat2) | Creates an encrypted command-and-control channel over DNS. | `GitHub` |
+| [Social Engineer Toolkit](https://github.com/trustedsec/social-engineer-toolkit) | Framework designed for social engineering in penetration testing. | `GitHub` |
+| [VirusTotal](https://www.virustotal.com) | Analyzes suspicious files, URLs, domains, and IP addresses to detect threats. | `Website` |
+| [CyberChef](https://gchq.github.io/CyberChef) | Web app for encryption, encoding, compression, and data analysis. | `GitHub` |
+| [dCode](https://www.dcode.fr/en) | Collection of over 800 tools solving games, riddles, cyphers, math, puzzles, etc. | `Website` |
 | [Firefox DevTools Docs](https://firefox-source-docs.mozilla.org/devtools-user) | Set of web developer tools built into Firefox. | `Website` |
-| [Burp Suite](https://portswigger.net/burp) | Integrated platform for performing security testing of web applications. | `Website` |
-| [WiFi Map](https://www.wifimap.io) | WiFi Map will navigate you to the nearest shared hotspots, show passwords, and let you connect to the internet in a few taps. | `Website` |
-| [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) | Docker image useful for solving Steganography challenges. | `DominicBreuker` `GitHub` |
+| [Burp Suite](https://portswigger.net/burp) | Integrated platform for security testing of web applications. | `Website` |
+| [WiFi Map](https://www.wifimap.io) | Navigates to nearest shared hotspots, displays passwords, facilitates internet connection. | `Website` |
+| [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) | Docker image useful for solving Steganography challenges. | `GitHub` |
 
 #### DIGITAL FOOTPRINT
 > _Discover the imprint left by your online activities._
-- [Firefox Monitor](https://monitor.firefox.com) - Check if you've been the victim of an online data breach. `Website`
-- [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address or phone number has been compromised. `Website`
-- [DeHashed](https://www.dehashed.com) - Free deep-web scans and protection against credential leaks. `Website`
-- [LeakCheck](https://leakcheck.io) - Data breach search engine. `Website`
-- [Intelligence X](https://intelx.io) - Search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more. `Website`
-- [Bitwarden Password Strenght](https://bitwarden.com/password-strength) - Find out if you have a strong password. `Website`
-- [OSINT Framework](https://osintframework.com) - Gather information from free tools or resources. `Website`
-- [sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks. `sherlock-project` `GitHub`
-- [Password Game](https://neal.fun/password-game) - A simple but frustrating password game. `Website`
+
+| Name | Description | Source |
+|------|-------------|--------|
+| [Firefox Monitor](https://monitor.firefox.com) | Checks if your data has been involved in an online breach. | `Website` |
+| [Have I Been Pwned](https://haveibeenpwned.com) | Scans multiple breaches for your compromised email or phone. | `Website` |
+| [DeHashed](https://www.dehashed.com) | Offers free deep-web scans and guards against credential leaks. | `Website` |
+| [LeakCheck](https://leakcheck.io) | Engine to search for data breaches. | `Website` |
+| [Intelligence X](https://intelx.io) | Searches across Tor, I2P, data leaks, and the web using diverse parameters. | `Website` |
+| [Bitwarden Password Strenght](https://bitwarden.com/password-strength) | Checks password strength. | `Website` |
+| [OSINT Framework](https://osintframework.com) | Gathers information from various free tools/resources. | `Website` |
+| [sherlock](https://github.com/sherlock-project/sherlock) | Locates social media accounts via usernames on multiple platforms. | `GitHub` |
+| [Password Game](https://neal.fun/password-game) | Engaging yet challenging password game. | `Website` |
 
 #### VPN
 > _Secure your internet connection with a Virtual Private Network._
-- [Proton](https://proton.me) - End-to-end encrypted VPN, mail, drive and calendar. `Website`
-- [OpenVPN](https://openvpn.net) - Secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. `Website`
-- [Tailscale](https://tailscale.com) - Zero configs VPN for building secure networks. `Website`
+
+| Name | Description | Source |
+|------|-------------|--------|
+| [Proton](https://proton.me) | Offers end-to-end encrypted VPN, mail, drive, and calendar services. | `Website` |
+| [OpenVPN](https://openvpn.net) | Provides secure connections for point-to-point or site-to-site setups, including remote access facilities. | `Website` |
+| [Tailscale](https://tailscale.com) | Offers a zero-config VPN for constructing secure networks. | `Website` |
 
 #### BOOTABLE USB
 > _Create portable storage to install or repair operating systems._
-- [Rufus](https://rufus.ie) – Open-source portable application for Microsoft Windows, that can be used to format and create bootable USB flash drives or Live USBs. `Website`
-- [Ventoy](https://www.ventoy.net) – Open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files. `Website`
-- [Etcher](https://www.balena.io/etcher) – A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily. `Website`
+
+| Name | Description | Source |
+|------|-------------|--------|
+| [Rufus](https://rufus.ie) | Open-source portable app for Windows, creating bootable USB flash drives or Live USBs. | `Website` |
+| [Ventoy](https://www.ventoy.net) | Open-source tool for creating bootable USB drives supporting various file types. | `Website` |
+| [Etcher](https://www.balena.io/etcher) | Cross-platform tool for safely flashing OS images onto SD cards and USB drives. | `Website` |
 
 #### OPERATING SYSTEM
 > _Operating systems for every occasion._
-- [Tails](https://tails.boum.org) - Linux distribution aimed at preserving privacy and anonymity. It connects to the Internet exclusively through the anonymity network Tor. `Website`
-- [Kali Linux](https://www.kali.org) - Linux distribution geared towards penetration testing, security research, computer forensics and reverse engineering. `Website`
-- [Tiny11](https://github.com/ntdevlabs/tiny11builder) - Trimmed-down Windows 11 image. `ntdevlabs` `GitHub`
+
+| Name | Description | Source |
+|------|-------------|--------|
+| [Tails](https://tails.boum.org) | Privacy-focused Linux distro connecting exclusively through Tor for anonymity. | `Website` |
+| [Kali Linux](https://www.kali.org) | Linux distro specializing in penetration testing, security research, forensics, and reverse engineering. | `Website` |
+| [Tiny11](https://github.com/ntdevlabs/tiny11builder) | Trimmed-down Windows 11 image available on GitHub. | `GitHub` |
 
 #### EXPLOITS AND VULNERABILITIES
 > _Information and resources on how to learn/use exploits and vulnerabilities._
-- [Mimikatz](https://github.com/ParrotSec/mimikatz) - Exploit on Windows that extracts passwords stored in memory. `ParrotSec` `GitHub`
-- [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Identify highly complex attack paths that would otherwise be impossible to quickly identify. `BloodHoundAD` `GitHub`
-- [EternalBlue](https://pt.wikipedia.org/wiki/EternalBlue) - Exploit developed by the U.S. NSA. It was leaked by the Shadow Brokers. `Wikipedia`
-- [MouseJack](https://www.mousejack.com/mousejack) - Vulnerabilities that affect the vast majority of wireless, non-Bluetooth keyboards and mice. `Website`
-- [Follina](https://www.youtube.com/watch?v=3ytqP1QvhUc) - CVE-2022-30190, this vulnerability takes advantage of the Microsoft Support Diagnostic Tool (msdt) in Microsoft Office. `Youtube`
+
+| Name | Description | Source |
+|------|-------------|--------|
+| [Mimikatz](https://github.com/ParrotSec/mimikatz) | Windows exploit extracting passwords from memory. | `GitHub` |
+| [BloodHound](https://github.com/BloodHoundAD/BloodHound) | Identifies complex attack paths otherwise hard to spot. | `GitHub` |
+| [EternalBlue](https://pt.wikipedia.org/wiki/EternalBlue) | NSA-developed exploit leaked by Shadow Brokers. | `Wikipedia` |
+| [MouseJack](https://www.mousejack.com/mousejack) | Vulnerabilities in wireless, non-Bluetooth keyboards and mice. | `Website` |
+| [Follina](https://www.youtube.com/watch?v=3ytqP1QvhUc) | Exploits CVE-2022-30190 using Microsoft Support Diagnostic Tool (msdt) in Microsoft Office. | `Youtube` |
 
 #### GUIDES AND RESOURCES
 > _Guides and resources in general about important topics that may help with cyber security._
-- [CVE](https://www.cve.org) - Reference method for publicly known information-security vulnerabilities and exposures. `Website`
-- [OWASP Top Ten](https://owasp.org/www-project-top-ten) - Standard awareness document for developers and web application security. `Website`
-- [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) - Authoritative source of vulnerabilities that have been exploited in the wild. `Website`
-- [Privacy Network - Guidelines and Tools](https://www.nist.gov/privacy-framework/resource-repository/browse/guidelines-and-tools) `Website`
-- [Exploit Prediction Scoring System (EPSS)](https://www.secopsolution.com/blog/what-is-the-epss-scoring-system#:~:text=An%20exploit%20Prediction%20Scoring%20System,be%20exploited%20in%20the%20system.) `Website`
-- [Common Vulnerability Scoring System (CVSS)](https://www.sans.org/blog/what-is-cvss) `Website`
-- [What is MD5?](https://www.okta.com/identity-101/md5) `Website`
-- [Introduction to the World of Reversing](https://medium.com/@m0ab1d42/reversing-everything-except-love-27fe7a3d9e76) `Medium`
-- [Exploring the Heap](https://medium.com/@m0ab1d42/heap-the-witchcraft-dungeon-ac08e782fb49) `Medium`
+
+| Name | Description | Type |
+|------|-------------|------|
+| [CVE](https://www.cve.org) | Reference for known information-security vulnerabilities and exposures. | `Website` |
+| [OWASP Top Ten](https://owasp.org/www-project-top-ten) | Developer's guide for web application security. | `Website` |
+| [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) | Catalog of exploited vulnerabilities in the wild. | `Website` |
+| [Privacy Network - Guidelines and Tools](https://www.nist.gov/privacy-framework/resource-repository/browse/guidelines-and-tools) | Repository offering privacy guidelines and tools. | `Website` |
+| [Exploit Prediction Scoring System (EPSS)](https://www.secopsolution.com/blog/what-is-the-epss-scoring-system#:~:text=An%20exploit%20Prediction%20Scoring%20System,be%20exploited%20in%20the%20system.) | Predictive system for potential vulnerabilities. | `Website` |
+| [Common Vulnerability Scoring System (CVSS)](https://www.sans.org/blog/what-is-cvss) | System to assess and prioritize vulnerabilities. | `Website` |
+| [What is MD5?](https://www.okta.com/identity-101/md5) | Explanation of MD5, a widely-used cryptographic hash function. | `Website` |
+| [Introduction to the World of Reversing](https://medium.com/@m0ab1d42/reversing-everything-except-love-27fe7a3d9e76) | Article introducing reversing concepts. | `Medium` |
+| [Exploring the Heap](https://medium.com/@m0ab1d42/heap-the-witchcraft-dungeon-ac08e782fb49) | Article exploring the computing concept of the heap. | `Medium` |
+
 
 #### PODCASTS, NEWS AND VIDEOS
 > _Information specifically intended to capture, preserve, and explain the culture around hacking and cyber security._
-- [Jack Rhysider](https://www.youtube.com/@JackRhysider) - Podcast about true stories from the dark side of the internet. `Youtube`
-- [SecurityWeek](https://www.securityweek.com) - Leading source of cybersecurity news, insights and expert analysis. `Website` `News`
-- [The Hacker News](https://thehackernews.com) - The most trusted and popular cybersecurity publication for information security professionals seeking breaking news. `Website` `News`
-- [Heartbleed - What Happened?](https://www.youtube.com/watch?v=eCGKf1XD-ME) - The bug that nearly broke the internet. Back in 2014, the Heartbleed bug hit headlines across the world. `Youtube`
+
+| Name | Description | Source |
+|------|-------------|--------|
+| [Jack Rhysider](https://www.youtube.com/@JackRhysider) | Podcast sharing true stories from the internet's darker side. | `Youtube` |
+| [SecurityWeek](https://www.securityweek.com) | Premier hub for cybersecurity news, insights, and expert analysis. | `News` |
+| [The Hacker News](https://thehackernews.com) | Trusted publication for breaking cybersecurity news and insights. | `News` |
+| [Heartbleed - What Happened?](https://www.youtube.com/watch?v=eCGKf1XD-ME) | Insightful review of the 2014 Heartbleed bug that shook the internet. | `Youtube` |
 
 #### HACKING GOOGLE
 > _Five elite security teams. Six never-before-told stories._ 
-- [EP000: Operation Aurora](https://youtu.be/przDcQe6n5o) `Youtube` `Documentary`
-- [EP001: Threat Analysis Group](https://youtu.be/N7N4EC20-cM) `Youtube` `Documentary`
-- [EP002: Detection and Response](https://youtu.be/QZ0cpBocl3c) `Youtube` `Documentary`
-- [EP003: Red Team](https://youtu.be/TusQWn2TQxQ) `Youtube` `Documentary`
-- [EP004: Bug Hunters](https://youtu.be/IoXiXlCNoXg) `Youtube` `Documentary`
-- [EP005: Project Zero](https://youtu.be/My_13FXODdU) `Youtube` `Documentary`
+
+| Name     | Source       |
+|----------|--------------|
+| [EP000: Operation Aurora](https://youtu.be/przDcQe6n5o) | `Youtube` |
+| [EP001: Threat Analysis Group](https://youtu.be/N7N4EC20-cM) | `Youtube` |
+| [EP002: Detection and Response](https://youtu.be/QZ0cpBocl3c) | `Youtube` |
+| [EP003: Red Team](https://youtu.be/TusQWn2TQxQ) | `Youtube` |
+| [EP004: Bug Hunters](https://youtu.be/IoXiXlCNoXg) | `Youtube` |
+| [EP005: Project Zero](https://youtu.be/My_13FXODdU) | `Youtube` |
 
 - - - -
 
