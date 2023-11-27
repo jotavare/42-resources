@@ -1078,9 +1078,13 @@ WIKIMEDIA FOUNDATION
 	<a href="#--">↥ Back To Top</a>
 </p>
 
+> All 42 schools around the world.
+
 #### WORLD
-- 🌍 [All 42 Campuses](https://www.42network.org/42-schools)
-- 🗺️ [42 World Map](https://github.com/jotavare/jotavare/blob/main/42/extra/42-campuses-world-map.jpg)
+|   |
+| - |
+| 🌍 [All 42 Campuses](https://www.42network.org/42-schools) |
+| 🗺️ [42 World Map](https://github.com/jotavare/jotavare/blob/main/42/extra/42-campuses-world-map.jpg) |
 
 #### EUROPE
 
@@ -1153,7 +1157,7 @@ WIKIMEDIA FOUNDATION
 
 #### OCEANIA
 
-[]()| []()| 
+|   |   |
 | - | - |
 | 🇦🇺 [42 Adelaide](https://www.42adel.org.au) | Australia |
 
