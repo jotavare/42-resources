@@ -580,7 +580,7 @@ CYBER SECURITY AND HACKING
 </p>
 
 #### CRACK THE CODE
-> _Challenges/resources about cyber security and hacking in general._
+> _Challenges about cyber security and hacking in general._
 
 | Name | Description | Source |
 |------|-------------|--------|
@@ -590,7 +590,7 @@ CYBER SECURITY AND HACKING
 | [Sololearn](https://www.sololearn.com) | Courses designed by experts with real-world practice. | `Website` |
 | [LeetCode](https://leetcode.com) | Crack the coding interview. Auto-tests. Fast lane to practice coding for interviews. | `Website` |
 | [GeeksforGeeks](https://www.geeksforgeeks.org) | Explanatory articles for algorithms and techniques. | `Website` |
-| [HackerRank](https://www.hackerrank.com) | Programming problems, math, AI, etc. Good for problem-solving skills. | `Website` |
+| [HackerRank](https://www.hackerrank.com) | Programming problems, math, AI, etc. Good website for problem-solving skills. | `Website` |
 | [Codeforces](https://codeforces.com) | Programming contests platform with archives and auto-tests. | `Website` |
 | [Topcoder](https://www.topcoder.com) | Platform for programming contests professionals. | `Website` |
 | [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) | Implementation guide for X in language Y. | `Website` |
@@ -680,7 +680,7 @@ CYBER SECURITY AND HACKING
 | [Follina](https://www.youtube.com/watch?v=3ytqP1QvhUc) | Exploits the MSDT tool in Microsoft Office. | `Youtube` |
 
 #### GUIDES AND RESOURCES
-> _Guides and resources in general about important topics that may help with cyber security._
+> _Guides and resources in general about important topics that may help with cyber security or hacking._
 
 | Name | Description | Type |
 |------|-------------|------|
