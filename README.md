@@ -254,8 +254,8 @@ COMMON CORE PROJECTS
 	<a href="#--">↥ Back To Top</a>
 </p>
 
-> [!IMPORTANT]  
-> Please note that the projects at 42 are regularly updated, which means that the information below may not be up-to-date.
+> [!NOTE]  
+> The projects at 42 are regularly updated, which means that the information below may not be up-to-date.
 
 #### SUBJECTS
 > _All current 42 subjects in one place._
@@ -270,8 +270,12 @@ COMMON CORE PROJECTS
 
 #### [00] LIBFT
 > _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
+
+|   |   |
+| - | - |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf) | `PDF` |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                          | `PNG` |
+
 > _Information and Resources_
 - [Libft Functions](https://www.asidesigned.com/project-libft.html) `Website`
 - [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) `Website`
