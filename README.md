@@ -267,26 +267,22 @@ COMMON CORE PROJECTS
 | [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects)   | `agavrel`        | `GitHub` |
 
 #### [00] LIBFT
-| Project Files |   |
-| :------------ | - |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf) | `PDF` |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                          | `PNG` |
-
-| Resources |   |   |
-| :-------- | - | - |
-| [Libft Functions](https://www.asidesigned.com/project-libft.html)                                              |                 | `Website` |
-| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) |                 | `Website` |
-| [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                       | `Nuno-Jesus`    | `GitHub`  |
-| [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles)                                          | `pulgamecanica` | `Blog`    |
-
-| Testers |   |   |
-| :------ | - | - |
-| [Francinette](https://github.com/xicodomingues/francinette)            | `xicodomingues` | `GitHub` |
-| [Libft Tester](https://github.com/Tripouille/libftTester)              | `Tripouille`    | `GitHub` |
-| [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker) | `Nuno-Jesus`    | `GitHub` |
-| [Libft Unit Test](https://github.com/alelievr/libft-unit-test)         | `alelievr`      | `GitHub` |
-| [Libft Test](https://github.com/jtoty/Libftest)                        | `jtoty`         | `GitHub` |
-| [Libft War Machine](https://github.com/0x050f/libft-war-machine)       | `0x050f`        | `GitHub` |
+| **Project Files**                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf)                        | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                 | `PNG`     |
+| **Resources**                                                                                                  |           | 
+| [Libft Functions](https://www.asidesigned.com/project-libft.html)                                              | `Website` |
+| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Website` |
+| [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                       | `GitHub`  |
+| [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles)                                          | `Blog`    |
+| **Testers**                                                                                                    |           |
+| [Francinette](https://github.com/xicodomingues/francinette)                                                    | `GitHub`  |
+| [Libft Tester](https://github.com/Tripouille/libftTester)                                                      | `GitHub`  |
+| [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker)                                         | `GitHub`  |
+| [Libft Unit Test](https://github.com/alelievr/libft-unit-test)                                                 | `GitHub`  |
+| [Libft Test](https://github.com/jtoty/Libftest)                                                                | `GitHub`  |
+| [Libft War Machine](https://github.com/0x050f/libft-war-machine)                                               | `GitHub`  |
 
 #### [01] BORN2BEROOT
 | Project Files |   |
