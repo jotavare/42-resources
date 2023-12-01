@@ -131,7 +131,7 @@ PISCINE AND COMMON CORE
 > _Tools that I found useful in my 42 journey._
 
 |                                                                       |                                                             |           |
-|-----------------------------------------------------------------------|------------------------------------------------------------ |-----------|
+|-----------------------------------------------------------------------|-------------------------------------------------------------|-----------|
 | [42 Evaluators](https://42evaluators.com)                             | Calculator, Leaderboard, PeerFinder, Blackhole, Stats, ...  | `Website` |
 | [Find Peers](https://find-peers.codam.nl)                             | Find peers working on the same project.                     | `Website` |
 | [42 XP Calculator](https://42.tbailleu.dev)                           | Calculate how much exp you need for the next level.         | `Website` |
@@ -141,6 +141,8 @@ PISCINE AND COMMON CORE
 | [Scribe](https://scribehow.com)                                       | Turn any process into a step-by-step guide, instantly.      | `Website` |
 
 #### GUIDES
+|                                                            |                                                                   |           |
+|------------------------------------------------------------|-------------------------------------------------------------------|-----------|
 | [42 Cheat Sheet](https://github.com/agavrel/42_CheatSheet) | An awesome cheatsheet for C and 42 in general.                    | `GitHub`  |
 | [tldr-pages](https://github.com/tldr-pages/tldr)           | Community-maintained help pages offering simplified explanations. | `GitHub`  |
 | [Developer Roadmaps](https://roadmap.sh)                   | Roadmaps, guides, and other educational content.                  | `Website` |
