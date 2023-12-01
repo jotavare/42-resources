@@ -260,160 +260,160 @@ COMMON CORE PROJECTS
 #### OLD SUBJECTS
 > _Respositories with all 42 subjects in one place, they are outdated but still usefull._
 
-|                                                                 |          |
-| --------------------------------------------------------------- | -------- |
-| [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph)  | `GitHub` |
-| [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers) | `GitHub` |
-| [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects)   | `GitHub` |
+|                                                                                                                                                                |          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph)                                                                                                 | `GitHub` |
+| [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers)                                                                                                | `GitHub` |
+| [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects)                                                                                                  | `GitHub` |
 
 #### [00] LIBFT
-| **_Project Files_**                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf)                        | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                 | `PNG`     |
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf)                                                                        | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
 
-| **_Resources_**                                                                                                  |           |
-| :------------------------------------------------------------------------------------------------------------- | --------- |
-| [Libft Functions](https://www.asidesigned.com/project-libft.html)                                              | `Website` |
-| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Website` |
-| [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                       | `GitHub`  |
-| [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles)                                          | `Blog`    |
+| **Resources**                                                                                                                                                  |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Libft Functions](https://www.asidesigned.com/project-libft.html)                                                                                              | `Website` |
+| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96)                                                 | `Website` |
+| [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                                                                       | `GitHub`  |
+| [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles)                                                                                          | `Blog`    |
 
-| **_Testers_**                                                                                                    |           |
-| :------------------------------------------------------------------------------------------------------------- | --------- |
-| [Francinette](https://github.com/xicodomingues/francinette)                                                    | `GitHub`  |
-| [Libft Tester](https://github.com/Tripouille/libftTester)                                                      | `GitHub`  |
-| [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker)                                         | `GitHub`  |
-| [Libft Unit Test](https://github.com/alelievr/libft-unit-test)                                                 | `GitHub`  |
-| [Libft Test](https://github.com/jtoty/Libftest)                                                                | `GitHub`  |
-| [Libft War Machine](https://github.com/0x050f/libft-war-machine)                                               | `GitHub`  |
+| **Testers**                                                                                                                                                    |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Francinette](https://github.com/xicodomingues/francinette)                                                                                                    | `GitHub`  |
+| [Libft Tester](https://github.com/Tripouille/libftTester)                                                                                                      | `GitHub`  |
+| [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker)                                                                                         | `GitHub`  |
+| [Libft Unit Test](https://github.com/alelievr/libft-unit-test)                                                                                                 | `GitHub`  |
+| [Libft Test](https://github.com/jtoty/Libftest)                                                                                                                | `GitHub`  |
+| [Libft War Machine](https://github.com/0x050f/libft-war-machine)                                                                                               | `GitHub`  |
 
 #### [01] BORN2BEROOT
-| **Project Files**                                                                             |           |
-| :-------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                | `PNG`     |
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf)                                                                  | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
 
-| **Resources**                                                                                 |           |
-| :-------------------------------------------------------------------------------------------- | --------- |
-| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)     | `Youtube` |
-| [Born2beroot](https://github.com/lbordonal/01-Born2beroot/wiki)                               | `GitHub`  |
-| [Born2beroot Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide)                       | `GitHub`  |
-| [Born2beroot Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial)                    | `GitHub`  |
-| [Debian](https://www.debian.org/)                                                             | `Website` |
-| [Rocky](https://rockylinux.org/)                                                              | `Website` |
+| **Resources**                                                                                                                                                  |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)                                                                      | `Youtube` |
+| [Born2beroot](https://github.com/lbordonal/01-Born2beroot/wiki)                                                                                                | `GitHub`  |
+| [Born2beroot Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide)                                                                                        | `GitHub`  |
+| [Born2beroot Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial)                                                                                     | `GitHub`  |
+| [Debian](https://www.debian.org/)                                                                                                                              | `Website` |
+| [Rocky](https://rockylinux.org/)                                                                                                                               | `Website` |
 
-| **Testers**                                                                                   |           |
-| :-------------------------------------------------------------------------------------------- | --------- |
-| [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester)                            | `GitHub`  |
-| [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester)                        | `GitHub`  |
+| **Testers**                                                                                                                                                    |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester)                                                                                             | `GitHub`  |
+| [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester)                                                                                         | `GitHub`  |
 
 #### [01] FT_PRINTF
-| **Project Files**                                                                                                  |           |
-| :----------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_printf.pdf)                        | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                     | `PNG`     |
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_printf.pdf)                                                                    | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
 
-| **Resources**                                                                                                      |           |
-| :----------------------------------------------------------------------------------------------------------------- | --------- |
-| [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html) | `Website` |
+| **Resources**                                                                                                                                                  |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)                                             | `Website` |
 
-| **Testers**                                                                                                        |           |
-| :----------------------------------------------------------------------------------------------------------------- | --------- |
-| [Debugging main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c)                    | `GitHub`  |
-| [Francinette](https://github.com/xicodomingues/francinette)                                                        | `GitHub`  |
-| [printfTester](https://github.com/Tripouille/printfTester)                                                         | `GitHub`  |
+| **Testers**                                                                                                                                                    |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Debugging main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c)                                                                | `GitHub`  |
+| [Francinette](https://github.com/xicodomingues/francinette)                                                                                                    | `GitHub`  |
+| [printfTester](https://github.com/Tripouille/printfTester)                                                                                                     | `GitHub`  |
 
 #### [01] GET_NEXT_LINE
-| **Project Files**                                                                               |          |
-| :---------------------------------------------------------------------------------------------- | -------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/get_next_line.pdf) | `PDF`    |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                  | `PNG`    |
+| **Project Files**                                                                                                                                              |          |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/get_next_line.pdf)                                                                | `PDF`    |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`    |
 
-| **Testers**                                                                                     |          |
-| :---------------------------------------------------------------------------------------------- | -------- |
-| [Francinette](https://github.com/xicodomingues/francinette)                                     | `GitHub` |
-| [Get Next Line Tester](https://github.com/Tripouille/gnlTester)                                 | `GitHub` |
+| **Testers**                                                                                                                                                    |          |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Francinette](https://github.com/xicodomingues/francinette)                                                                                                    | `GitHub` |
+| [Get Next Line Tester](https://github.com/Tripouille/gnlTester)                                                                                                | `GitHub` |
 
 #### [02] MINITALK
-| **Project Files**                                                                          |           |
-| :----------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf) | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                             | `PNG`     |
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf)                                                                     | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
 
-| **Resources**                                                                              |           |
-| :----------------------------------------------------------------------------------------- | --------- |
-| [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp)     | `Website` |
-| [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators)                       | `GitHub`  |
-| [Sending and Handling Signals in C](https://www.youtube.com/watch?v=83M5-NPDeWs)           | `Youtube` |
-| [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs)                         | `Youtube` |
-| [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U)                            | `Youtube` |
+| **Resources**                                                                                                                                                  |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp)                                                                         | `Website` |
+| [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators)                                                                                           | `GitHub`  |
+| [Sending and Handling Signals in C](https://www.youtube.com/watch?v=83M5-NPDeWs)                                                                               | `Youtube` |
+| [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs)                                                                                             | `Youtube` |
+| [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U)                                                                                                | `Youtube` |
 
-| **Testers**                                                                                |           |
-| :----------------------------------------------------------------------------------------- | --------- |
-| [Lorem Ipsum Generator](https://www.lipsum.com)                                            | `Website` |
-| [Emojis](https://getemoji.com)                                                             | `Website` |
-| [Francinette](https://github.com/xicodomingues/francinette)                                | `GitHub`  |
+| **Testers**                                                                                                                                                    |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Lorem Ipsum Generator](https://www.lipsum.com)                                                                                                                | `Website` |
+| [Emojis](https://getemoji.com)                                                                                                                                 | `Website` |
+| [Francinette](https://github.com/xicodomingues/francinette)                                                                                                    | `GitHub`  |
 
 #### [02] PIPEX
-| **Project Files**                                                                               |           |
-| :---------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/pipex.pdf)         | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                  | `PNG`     |
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/pipex.pdf)                                                                        | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
 
-| **Resources**                                                                                   |           |
-| :---------------------------------------------------------------------------------------------- | --------- |
-| [Pipex Tutorial](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901)             | `Website` |
-| [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) | `Youtube` |
-| [Pipes Explained (Spanish)](https://www.youtube.com/watch?v=8LdQ09Ep9RY)                        | `Youtube` |
+| **Resources**                                                                                                                                                  |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Pipex Tutorial](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901)                                                                            | `Website` |
+| [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)                                                                | `Youtube` |
+| [Pipes Explained (Spanish)](https://www.youtube.com/watch?v=8LdQ09Ep9RY)                                                                                       | `Youtube` |
 
-| **Testers**                                                                                     |           |
-| :---------------------------------------------------------------------------------------------- | --------- |
-| [Pipex Medic](https://github.com/gmarcha/pipexMedic)                                            | `GitHub`  |
+| **Testers**                                                                                                                                                    |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Pipex Medic](https://github.com/gmarcha/pipexMedic)                                                                                                           | `GitHub`  |
 
 #### [02] SO_LONG
-| **Project Files**                                                                         |           |
-| :---------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/so_long.pdf) | `PDF`     |
-| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/so_long)  | `Files`   |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                            | `PNG`     |
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/so_long.pdf)                                                                      | `PDF`     |
+| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/so_long)                                                                       | `Files`   |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
 
-| **Resources**                                                                             |           |
-| :---------------------------------------------------------------------------------------- | --------- |
-| [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)               | `Website` |
-| [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial)          | `Blog`    |
-| [MiniLibX Animations Tutorial)](https://pulgamecanica.herokuapp.com/posts/mlx-animations) | `Blog`    |
-| [raylib](https://www.raylib.com)                                                          | `Website` |
-| [miniaudio](https://github.com/mackron/miniaudio)                                         | `GitHub`  |
-| [Pacman so_long](https://github.com/madebypixel02/so_long)                                | `GitHub`  |
+| **Resources**                                                                                                                                                  |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)                                                                                    | `Website` |
+| [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial)                                                                               | `Blog`    |
+| [MiniLibX Animations Tutorial)](https://pulgamecanica.herokuapp.com/posts/mlx-animations)                                                                      | `Blog`    |
+| [raylib](https://www.raylib.com)                                                                                                                               | `Website` |
+| [miniaudio](https://github.com/mackron/miniaudio)                                                                                                              | `GitHub`  |
+| [Pacman so_long](https://github.com/madebypixel02/so_long)                                                                                                     | `GitHub`  |
 
-| **Testers**                                                                               |           |
-| :---------------------------------------------------------------------------------------- | --------- |
-| [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator) | `GitHub`  |
+| **Testers**                                                                                                                                                    |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator)                                                                      | `GitHub`  |
 
 #### [02] FRACT-OL
-| **Project Files**                                                                                  |             |
-| :------------------------------------------------------------------------------------------------- | ----------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fract%E2%80%99ol.pdf) | `PDF`       |
-| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fract-ol)          | `Files`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                     | `PNG`       |
+| **Project Files**                                                                                                                                              |             |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fract%E2%80%99ol.pdf)                                                             | `PDF`       |
+| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fract-ol)                                                                      | `Files`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`       |
 
-| **Resources**                                                                                      |             |
-| :------------------------------------------------------------------------------------------------- | ----------- |
-| [Fractal](https://en.wikipedia.org/wiki/Fractal)                                                   | `Wikipedia` |
+| **Resources**                                                                                                                                                  |             |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Fractal](https://en.wikipedia.org/wiki/Fractal)                                                                                                               | `Wikipedia` |
 
 #### [02] FDF
-| **Project Files**                                                                        |             |
-| :--------------------------------------------------------------------------------------- | ----------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fdf.pdf)    | `PDF`       |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                           | `PNG`       |
-| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fdf)     | `Files`     |
+| **Project Files**                                                                                                                                              |             |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fdf.pdf)                                                                          | `PDF`       |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`       |
+| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fdf)                                                                           | `Files`     |
 
-| **Resources**                                                                            |             |
-| :--------------------------------------------------------------------------------------- | ----------- |
-| [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)                           | `Generator` |
-| [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) | `Wikipedia` |
-| [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm)               | `Wikipedia` |
+| **Resources**                                                                                                                                                  |             |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)                                                                                                 | `Generator` |
+| [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)                                                                       | `Wikipedia` |
+| [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm)                                                                                     | `Wikipedia` |
 
 #### [02] PUSH_SWAP
 | **Project Files**                                                                                                                                              |           |
