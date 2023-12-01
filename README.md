@@ -546,21 +546,23 @@ COMMON CORE PROJECTS
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [cub3D Map Tester](https://github.com/humblEgo/cub3D_map_tester)                                                                                               | `GitHub`  |
 
-==very important words==
-
 #### [04] MINIRT
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/miniRT.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/miniRT) `Files`
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/miniRT.pdf)                                                                       | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
+| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/miniRT)                                                                        | `Files`   |
 
 #### [04] CPP MODULE (00-04)
-> _Project Files_
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP00.pdf) `PDF` • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp00) `Files`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP01.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP02.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP03.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG` • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP04.pdf) `PDF`
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
+• [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP00.pdf) 
+• [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp00)                                                                         | `PNG` `PDF` `Files` |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP01.pdf)       | `PDF` `PNG` |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP02.pdf)       | `PDF` `PNG` |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP03.pdf)       | `PDF` `PNG` |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP04.pdf)       | `PDF` `PNG` |
 
 #### [05] CPP MODULE (05-09)
 > _Project Files_
