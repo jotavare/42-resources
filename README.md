@@ -230,7 +230,7 @@ COMMON CORE PROJECTS
 </h1>
 
 <p align="center">
-	<a href="#subjects">Subjects</a> •
+	<a href="#old-subjects">Old Subjects</a> •
 	<a href="#00-libft">Libft</a> •
 	<a href="#01-born2beroot">Born2beroot</a> •
 	<a href="#01-ft_printf">Ft_printf</a> •
@@ -255,9 +255,9 @@ COMMON CORE PROJECTS
 </p>
 
 > [!NOTE]  
-> The projects at 42 are regularly updated, which means that the information below may not be up-to-date.
+> The subjects at 42 undergo regular updates, so the information provided below might not be current. Additionally, as some projects are optional, resources might not be available if I haven't completed them.
 
-#### SUBJECTS
+#### OLD SUBJECTS
 > _Respositories with all 42 subjects in one place, they are outdated but still usefull._
 
 |                                                                 |          |
