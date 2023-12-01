@@ -231,7 +231,6 @@ COMMON CORE PROJECTS
 
 <p align="center">
 	<a href="#subjects">Subjects</a> •
-	<a href="#all-in-one-testers">All-In-One Testers</a> •
 	<a href="#00-libft">Libft</a> •
 	<a href="#01-born2beroot">Born2beroot</a> •
 	<a href="#01-ft_printf">Ft_printf</a> •
@@ -500,42 +499,52 @@ COMMON CORE PROJECTS
 | [Minishell Panic](https://github.com/ChewyToast/mpanic)                                                                                                        | `GitHub`  |
 
 #### [04] NETPRACTICE
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/netpractice.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-> _Information and Resources_
-- [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a) `Website`
-- [ipcalc](https://linuxhint.com/ipcalc-command-linux) `Website`
-- [Guide to NetPractice](https://github.com/lpaube/NetPractice) `lpaube` `GitHub`
-- [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html) `Website`
-- [Practical Networking](https://youtu.be/BWZ-MHIhqjM) `Youtube`
-- [Default Gateway Explained](https://youtu.be/pCcJFdYNamc) `Youtube`
-- [Subnet Mask - Explained](https://youtu.be/s_Ntt6eTn94) `Youtube`
-- [CCNA](https://youtu.be/Ct4PU6CyvTQ) `Youtube`
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/netpractice.pdf)                                                                  | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
+
+| **Resources**                                                                                                                                                  |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a)                                                                                                   | `Website` |
+| [ipcalc](https://linuxhint.com/ipcalc-command-linux)                                                                                                           | `Website` |
+| [Guide to NetPractice](https://github.com/lpaube/NetPractice)                                                                                                  | `GitHub`  |
+| [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)                                                                                   | `Website` |
+| [Practical Networking](https://youtu.be/BWZ-MHIhqjM)                                                                                                           | `Youtube` |
+| [Default Gateway Explained](https://youtu.be/pCcJFdYNamc)                                                                                                      | `Youtube` |
+| [Subnet Mask - Explained](https://youtu.be/s_Ntt6eTn94)                                                                                                        | `Youtube` |
+| [CCNA](https://youtu.be/Ct4PU6CyvTQ)                                                                                                                           | `Youtube` |
 
 #### [04] CUB3D
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/cub3d.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cub3d) `Files`
-> _Information and Resources_
-- [Wolfenstein 3D](http://users.atw.hu/wolf3d/) `Website` `Game`
-- [Guide to RayCasting](https://harm-smits.github.io/42docs/projects/cub3d.html) `harm-smits` `GitHub`
-- [Minilibx Examples](https://github.com/terry-yes/mlx_example) `terry-yes` `GitHub`
-- [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html) `Website`
-- [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch) `Website`
-- [Ray-Casting Tutorial](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents) `Website`
-- [Ray Tracing with the BSP Tree](http://www.sci.utah.edu/~thiago/papers/BSP_RT08.pdf) `PDF`
-- [Online Computer Graphics II](https://www.youtube.com/watch?v=U0-58hpucp4) `Youtube`
-- [Binary Space Partitioning](https://www.youtube.com/watch?v=6vrPCkHqWwg) `Youtube`
-- [Super Fast Ray Casting in Tiled Worlds using DDA](https://www.youtube.com/watch?v=NbSee-XM7WA) `Youtube`
-- [Make Your Own Raycaster - Part 1](https://www.youtube.com/watch?v=gYRrGTC7GtA) | [Part 2](https://www.youtube.com/watch?v=PC1RaETIx3Y) | [Part 3](https://www.youtube.com/watch?v=w0Bm4IA-Ii8) `Youtube`
-- [Introduction to the MinilibX](https://www.youtube.com/watch?v=bYS93r6U0zg) `Youtube`
-- [Minilibx Linux](https://github.com/42Paris/minilibx-linux) `42Paris` `GitHub`
-- [x.org Documentation](https://www.x.org/wiki/)
-- [libX11 Documentation](https://www.x.org/releases/X11R7.6/doc/libX11/specs/libX11/libX11.html)
-> _Testers_
-- [cub3D Map Tester](https://github.com/humblEgo/cub3D_map_tester) `humblEgo` `GitHub`
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/cub3d.pdf)                                                                        | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
+| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cub3d)                                                                         | `Files`   |
+
+| **Resources**                                                                                                                                                  |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Wolfenstein 3D](http://users.atw.hu/wolf3d/)                                                                                                                  | `Game`    |
+| [Guide to RayCasting](https://harm-smits.github.io/42docs/projects/cub3d.html)                                                                                 | `GitHub`  |
+| [Minilibx Examples](https://github.com/terry-yes/mlx_example)                                                                                                  | `GitHub`  |
+| [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html)                                                                                 | `Website` |
+| [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch)                                                                   | `Website` |
+| [Ray-Casting Tutorial](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents)                                                                     | `Website` |
+| [Ray Tracing with the BSP Tree](http://www.sci.utah.edu/~thiago/papers/BSP_RT08.pdf)                                                                           | `PDF`     |
+| [Online Computer Graphics II](https://www.youtube.com/watch?v=U0-58hpucp4)                                                                                     | `Youtube` |
+| [Binary Space Partitioning](https://www.youtube.com/watch?v=6vrPCkHqWwg)                                                                                       | `Youtube` |
+| [Super Fast Ray Casting in Tiled Worlds using DDA](https://www.youtube.com/watch?v=NbSee-XM7WA)                                                                | `Youtube` |
+| [Make Your Own Raycaster - Part 1](https://www.youtube.com/watch?v=gYRrGTC7GtA)                                                                                | `Youtube` |
+| [Make Your Own Raycaster - Part 2](https://www.youtube.com/watch?v=PC1RaETIx3Y)                                                                                | `Youtube` |
+| [Make Your Own Raycaster - Part 3](https://www.youtube.com/watch?v=w0Bm4IA-Ii8)                                                                                | `Youtube` |
+| [Introduction to the MinilibX](https://www.youtube.com/watch?v=bYS93r6U0zg)                                                                                    | `Youtube` |
+| [Minilibx Linux](https://github.com/42Paris/minilibx-linux)                                                                                                    | `GitHub`  |
+| [x.org Documentation](https://www.x.org/wiki/)                                                                                                                 | `Website` |
+| [libX11 Documentation](https://www.x.org/releases/X11R7.6/doc/libX11/specs/libX11/libX11.html)                                                                 | `Website` |
+
+| **Testers**                                                                                                                                                    |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [cub3D Map Tester](https://github.com/humblEgo/cub3D_map_tester)                                                                                               | `GitHub`  |
 
 #### [04] MINIRT
 > _Project Files_
