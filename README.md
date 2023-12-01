@@ -69,7 +69,7 @@ Thank you for visiting my repository! Here, you will find a collection of resour
 |                                                                            |                                                                                              |                |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------|
 | [42 Intra](https://intra.42.fr)                                            | Official portal for everything related to 42.                                                | `42` `Website` |
-| [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1)  | Official Slack channel for 42 students (after Piscine).                                      | `Website`      |
+| [Slack](https://app.slack.com/client/T039P7U66/C04971HPWQ1)  | Official Slack channel for 42 students (after Piscine).                                      | `Website`      |
 | [StackOverflow](https://stackoverflowteams.com/c/42network/)               | Official 42 forum (after Piscine).                                                           | `Website`      |
 | [Alumni](https://alumni.42.fr)                                             | 42Alumni Network (only for alumni students).                                                 | `42` `Website` |
 | [Clusters](https://meta.intra.42.fr/clusters)                              | Check who is online in your 42 school cluster.                                               | `42` `Website` |
