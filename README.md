@@ -258,7 +258,7 @@ COMMON CORE PROJECTS
 > The projects at 42 are regularly updated, which means that the information below may not be up-to-date.
 
 #### SUBJECTS
-> _Respositories with all 42 subjects in one place, they are all old._
+> _Respositories with all 42 subjects in one place, they are outdated but still usefull._
 
 |   |   |
 | - | - |
@@ -289,16 +289,12 @@ COMMON CORE PROJECTS
 | [Libft War Machine](https://github.com/0x050f/libft-war-machine)       | `0x050f`        | `GitHub` |
 
 #### [01] BORN2BEROOT
-> _Project Files_
-
-| | |
+| Project Files | |
 | :- | - |
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) | `PDF` |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                | `PNG` |
 
-> _Resources_
-
-| | | |
+| Resources | | |
 | :- | - | - |
 | [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) |                 | `Youtube` |
 | [Guide by lbordonal](https://github.com/lbordonal/01-Born2beroot/wiki)                    | `lbordonal`     | `GitHub`  |
@@ -307,9 +303,7 @@ COMMON CORE PROJECTS
 | [Debian](https://www.debian.org/)                                                         |                 | `Website` |
 | [Rocky](https://rockylinux.org/)                                                          |                 | `Website` |
 
-> _Testers_
-
-| | | |
+| Testers | | |
 | :- | - | - |
 | [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester)     | `Pixailz`    | `GitHub` |
 | [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester) | `gemartin99` | `GitHub` |
