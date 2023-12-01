@@ -668,7 +668,7 @@ CYBER SECURITY AND HACKING
 </p>
 
 #### CRACK THE CODE
-> _Challenges about cyber security and hacking in general._
+> _Challenges and learning plataforms about cyber security and hacking._
 
 |   |   |   |
 | - | - | - |
@@ -768,7 +768,7 @@ CYBER SECURITY AND HACKING
 | [Follina](https://www.youtube.com/watch?v=3ytqP1QvhUc) | Exploits the MSDT tool in Microsoft Office. | `Youtube` |
 
 #### GUIDES AND RESOURCES
-> _Guides and resources in general about important topics that may help with cyber security or hacking._
+> _Guides and resources about important topics that may help with cyber security or hacking._
 
 |   |   |   |
 | - | - | - |
