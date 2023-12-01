@@ -135,23 +135,25 @@ PISCINE AND COMMON CORE
 | [42 Evaluators](https://42evaluators.com)                             | Calculator, Leaderboard, PeerFinder, Blackhole, Stats, ...  | `Website` |
 | [Find Peers](https://find-peers.codam.nl)                             | Find peers working on the same project.                     | `Website` |
 | [42 XP Calculator](https://42.tbailleu.dev)                           | Calculate how much exp you need for the next level.         | `Website` |
-| [42 Cheat Sheet](https://github.com/agavrel/42_CheatSheet)            | An awesome cheatsheet for C and 42 in general.              | `GitHub`  |
-| [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                 | Open source, community-driven framework.                    | `GitHub`  |
-| [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) | List of plugins for Oh My Zsh!                              | `GitHub`  |
 | [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)              | Debugging online tool. *(learn how to use `gdb` or `lldb`)* | `Website` |
-| [42 Toolbox](https://github.com/alexandregv/42toolbox)                | A bunch of scripts to make your life better at 42.          | `GitHub`  |
 | [RP42](https://github.com/alexandregv/RP42)                           | Discord addon integration for 42 School.                    | `GitHub`  |
 | [S42](https://s42.app)                                                | Clusters from various 42 schools.                           | `Website` |
 | [Scribe](https://scribehow.com)                                       | Turn any process into a step-by-step guide, instantly.      | `Website` |
-| [Developer Roadmaps](https://roadmap.sh)                              | Roadmaps, guides, and other educational content.            | `Website` |
+
+#### GUIDES
+| [42 Cheat Sheet](https://github.com/agavrel/42_CheatSheet) | An awesome cheatsheet for C and 42 in general.                    | `GitHub`  |
+| [tldr-pages](https://github.com/tldr-pages/tldr)           | Community-maintained help pages offering simplified explanations. | `GitHub`  |
+| [Developer Roadmaps](https://roadmap.sh)                   | Roadmaps, guides, and other educational content.                  | `Website` |
 
 #### EXTENSIONS
-|                                               |                                                                                                          |
-|-----------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| [Installette (Kuninoto)](https://github.com/Kuninoto/installette) | A Bash script to install Norminette, a Norminette Formatter, Vim, and 42 Header for Vim.                  |
-| [PowerLevel10k](https://github.com/romkatv/powerlevel10k) | A customizable Zsh theme focusing on speed, flexibility, and user experience.                                |
-| [tldr-pages](https://github.com/tldr-pages/tldr) | Community-maintained help pages offering simplified explanations for command-line tools.                     |
-| [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) | Compilation of Neofetch configurations gathered in one location.                                             |
+|                                                                       |                                                                                   |          |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------|
+| [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                 | Open source, community-driven framework.                                          | `GitHub` |
+| [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) | List of plugins for Oh My Zsh!                                                    | `GitHub` |
+| [Installette](https://github.com/Kuninoto/installette)                | Script to install Norminette, a Norminette Formatter, Vim, and 42 Header for Vim. | `GitHub` |
+| [42 Toolbox](https://github.com/alexandregv/42toolbox)                | A bunch of scripts to make your life better at 42.                                | `GitHub` |
+| [PowerLevel10k](https://github.com/romkatv/powerlevel10k)             | A customizable zsh theme focusing on speed, flexibility, and user experience.     | `GitHub` |
+| [Neofetch Themes](https://github.com/Chick2D/neofetch-themes)         | Compilation of Neofetch configurations gathered in one location.                  | `GitHub` |
 
 #### VS CODE
 |                                                                                                                                |
@@ -163,14 +165,6 @@ PISCINE AND COMMON CORE
 | [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format)                                           |
 | [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)                                 |
 
-#### BROWSER
-> _I recommend only installing 'Improved Intra 42' because it's an all-in-one extension for both Chrome and Firefox._
-
-|                                                                 |                                                                                |
-|-----------------------------------------------------------------|--------------------------------------------------------------------------------|
-| [Improved Intra 42](https://github.com/FreekBes/improved_intra) | Browser extension for Chrome and Firefox to enhance Intra 42 experience.       |
-| [Better Black Hole](https://github.com/jkctech/BetterBlackHole) | Extension available for Chrome and Firefox. Improves Black Hole functionality. |
-
 #### DICTIONARY AND LANGUAGE CORRECTION
 |                                                     |                                                     |
 |-----------------------------------------------------|-----------------------------------------------------|
@@ -179,6 +173,14 @@ PISCINE AND COMMON CORE
 | [Grammarly](https://www.grammarly.com)              | Writing assistant for grammar and punctuation.      |
 | [Wiktionary](https://en.wiktionary.org)             | Online dictionary and language reference.           |
 | [Urban Dictionary](https://www.urbandictionary.com) | Slang dictionary with user-contributed definitions. |
+
+#### BROWSER
+> _I recommend only installing 'Improved Intra 42' because it's an all-in-one extension for both Chrome and Firefox._
+
+|                                                                 |                                                                                |
+|-----------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [Improved Intra 42](https://github.com/FreekBes/improved_intra) | Browser extension for Chrome and Firefox to enhance Intra 42 experience.       |
+| [Better Black Hole](https://github.com/jkctech/BetterBlackHole) | Extension available for Chrome and Firefox. Improves Black Hole functionality. |
 
 #### APPS
 |                                                                                            |           |
