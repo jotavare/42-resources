@@ -336,18 +336,18 @@ COMMON CORE PROJECTS
 | [Get Next Line Tester](https://github.com/Tripouille/gnlTester) | `Tripouille`    | `GitHub` |
 
 #### [02] MINITALK
-| Project Files |   | |
-| :------------ | - | |
+| Project Files |   |   |
+| :------------ | - | - |
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf) | `PDF` | |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                             | `PNG` | |
 | **Project Files** | | |
-| **Resources** |   | |
+| **Resources**     | | |
 | [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp) |           | `Website` |
 | [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators)                   | `agavrel` | `GitHub`  |
 | [Sending and Handling Signals in C](https://www.youtube.com/watch?v=83M5-NPDeWs)       |           | `Youtube` |
 | [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs)                     |           | `Youtube` |
 | [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U)                        |           | `Youtube` |
-| **Testers** |   |   |
+| **Testers**       | | |
 | [Lorem Ipsum Generator](https://www.lipsum.com)             |               | `Website` |
 | [Emojis](https://getemoji.com)                              |               | `Website` |
 | [Francinette](https://github.com/xicodomingues/francinette) |`xicodomingues`| `GitHub`  |
