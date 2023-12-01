@@ -43,7 +43,7 @@ Thank you for visiting my repository! Here, you will find a collection of resour
 
 ## 42 SCHOOL
 #### TRIVIA
-> _Facts about 42 school and the number 42._
+> _Facts about 42 schools and the number 42._
 
 |                                                                                                             |             |
 |-------------------------------------------------------------------------------------------------------------|-------------|
@@ -171,7 +171,7 @@ PISCINE AND COMMON CORE
 
 
 #### LANGUAGE
-> _Tools to have a correct communication and documentation._
+> _Tools to have correct communication and documentation._
 
 |                                                     |                                                     |           |
 |-----------------------------------------------------|-----------------------------------------------------|-----------|
@@ -190,7 +190,7 @@ PISCINE AND COMMON CORE
 | [Better Black Hole](https://github.com/jkctech/BetterBlackHole) | Extension available for Chrome and Firefox. Improves Black Hole functionality. | `GitHub` |
 
 #### APPS
-> _Avaialable apps for android and iOS._
+> _Avaialable apps for Android and iOS._
 
 |                                                                                            |           |
 |--------------------------------------------------------------------------------------------|-----------|
@@ -208,7 +208,7 @@ PISCINE AND COMMON CORE
 | [1337 Readme](https://github.com/mohouyizme/1337-readme)                     | Share your progress via GitHub README.md.              | `GitHub`  |
 
 #### OTHERS
-> _Miscellaneous resources of no particular category, that may proved helpful._
+> _Miscellaneous resources of no particular category, that may prove helpful._
 
 |                                                                       |                                                                         |           |
 |-----------------------------------------------------------------------|-------------------------------------------------------------------------|-----------|
@@ -258,13 +258,13 @@ COMMON CORE PROJECTS
 > The subjects at 42 undergo regular updates, so the information provided below might not be current. Additionally, as some projects are optional, resources might not be available if I haven't completed them.
 
 #### OLD SUBJECTS
-> _Respositories with all 42 subjects in one place, they are outdated but still usefull._
+> _Respositories with all 42 subjects in one place, they are outdated but still useful._
 
 |                                                                                                                                                                |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph)                                                                                                 | `GitHub` |
-| [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers)                                                                                                | `GitHub` |
-| [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects)                                                                                                  | `GitHub` |
+| [Binary Hackers (2017)](https://github.com/Binary-Hackers)                                                                                                     | `GitHub` |
+| [Agavrel (2016)](https://github.com/agavrel/42_Subjects)                                                                                                       | `GitHub` |
 
 #### [00] LIBFT
 | **Project Files**                                                                                                                                              |           |
@@ -305,8 +305,8 @@ COMMON CORE PROJECTS
 
 | **Testers**                                                                                                                                                    |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester)                                                                                             | `GitHub`  |
-| [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester)                                                                                         | `GitHub`  |
+| [Born2beroot Tester (Pixailz)](https://github.com/Pixailz/Born2BeRootTester)                                                                                   | `GitHub`  |
+| [Born2beroot Tester (gemartin99)](https://github.com/gemartin99/Born2beroot-Tester)                                                                            | `GitHub`  |
 
 #### [01] FT_PRINTF
 | **Project Files**                                                                                                                                              |           |
@@ -333,7 +333,7 @@ COMMON CORE PROJECTS
 | **Testers**                                                                                                                                                    |          |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [Francinette](https://github.com/xicodomingues/francinette)                                                                                                    | `GitHub` |
-| [Get Next Line Tester](https://github.com/Tripouille/gnlTester)                                                                                                | `GitHub` |
+| [GNL Tester](https://github.com/Tripouille/gnlTester)                                                                                                          | `GitHub` |
 
 #### [02] MINITALK
 | **Project Files**                                                                                                                                              |           |
@@ -382,7 +382,7 @@ COMMON CORE PROJECTS
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)                                                                                    | `Website` |
 | [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial)                                                                               | `Blog`    |
-| [MiniLibX Animations Tutorial)](https://pulgamecanica.herokuapp.com/posts/mlx-animations)                                                                      | `Blog`    |
+| [MiniLibX Animations Tutorial](https://pulgamecanica.herokuapp.com/posts/mlx-animations)                                                                       | `Blog`    |
 | [raylib](https://www.raylib.com)                                                                                                                               | `Website` |
 | [miniaudio](https://github.com/mackron/miniaudio)                                                                                                              | `GitHub`  |
 | [Pacman so_long](https://github.com/madebypixel02/so_long)                                                                                                     | `GitHub`  |
@@ -436,11 +436,11 @@ COMMON CORE PROJECTS
 
 | **Testers**                                                                                                                                                    |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer)                                                                                          | `GitHub`  |
-| [Push Swap Visualizer](https://github.com/Niimphu/push_swap_visualiser)                                                                                        | `GitHub`  |
-| [Push Swap Tester](https://github.com/laisarena/push_swap_tester)                                                                                              | `GitHub`  |
+| [Push Swap Visualizer (o-reo)](https://github.com/o-reo/push_swap_visualizer)                                                                                  | `GitHub`  |
+| [Push Swap Visualizer (Niimphu)](https://github.com/Niimphu/push_swap_visualiser)                                                                              | `GitHub`  |
+| [Push Swap Tester (gemartin99)](https://github.com/gemartin99/Push-Swap-Tester)                                                                                | `GitHub`  |
+| [Push Swap Tester (laisarena)](https://github.com/laisarena/push_swap_tester)                                                                                  | `GitHub`  |
 | [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester)                                                                                        | `GitHub`  |
-| [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester)                                                                                             | `GitHub`  |
 | [Random Number Generator](https://numbergenerator.org/randomnumbergenerator)                                                                                   | `Website` |
 | [Push Swap Visualizer and Number Generator](https://push-swap-visualizer.vercel.app)                                                                           | `Website` |
 
@@ -531,7 +531,6 @@ COMMON CORE PROJECTS
 | [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html)                                                                                 | `Website` |
 | [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch)                                                                   | `Website` |
 | [Ray-Casting Tutorial](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents)                                                                     | `Website` |
-| [Ray Tracing with the BSP Tree](http://www.sci.utah.edu/~thiago/papers/BSP_RT08.pdf)                                                                           | `PDF`     |
 | [Online Computer Graphics II](https://www.youtube.com/watch?v=U0-58hpucp4)                                                                                     | `Youtube` |
 | [Binary Space Partitioning](https://www.youtube.com/watch?v=6vrPCkHqWwg)                                                                                       | `Youtube` |
 | [Super Fast Ray Casting in Tiled Worlds using DDA](https://www.youtube.com/watch?v=NbSee-XM7WA)                                                                | `Youtube` |
@@ -554,23 +553,27 @@ COMMON CORE PROJECTS
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
 | [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/miniRT)                                                                        | `Files`   |
 
+| **Resources**                                                                                                                                                  |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Ray Tracing with the BSP Tree](http://www.sci.utah.edu/~thiago/papers/BSP_RT08.pdf)                                                                           | `PDF`     |
+
 #### [04] CPP MODULE (00-04)
 | **Project Files**                                                                                                                                              |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [00 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP00.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp00)                                                                                                   | `PNG` `PDF` `Files` |
-| [01 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP01.pdf)  | `PDF` `PNG` |
-| [02 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP02.pdf)  | `PDF` `PNG` |
-| [03 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP03.pdf)  | `PDF` `PNG` |
-| [04 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP04.pdf)  | `PDF` `PNG` |
+| [(00) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP00.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp00)                                                                                                   | `PNG` `PDF` `Files` |
+| [(01) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP01.pdf)  | `PDF` `PNG` |
+| [(02) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP02.pdf)  | `PDF` `PNG` |
+| [(03) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP03.pdf)  | `PDF` `PNG` |
+| [(04) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP04.pdf)  | `PDF` `PNG` |
 
 #### [05] CPP MODULE (05-09)
 | **Project Files**                                                                                                                                              |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [05 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP05.pdf)  | `PNG` `PDF` |
-| [06 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP06.pdf)  | `PNG` `PDF` |
-| [07 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP07.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp07)                                                                                                   | `PNG` `PDF` `Files` |
-| [08 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP08.pdf)  | `PNG` `PDF` |
-| [09 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP09.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp09)                                                                                                   | `PNG` `PDF` `Files` |
+| [(05) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP05.pdf)  | `PNG` `PDF` |
+| [(06) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP06.pdf)  | `PNG` `PDF` |
+| [(07) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP07.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp07)                                                                                                   | `PNG` `PDF` `Files` |
+| [(08) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP08.pdf)  | `PNG` `PDF` |
+| [(09) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP09.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp09)                                                                                                   | `PNG` `PDF` `Files` |
 
 #### [05] WEBSERV
 | **Project Files**                                                                                                                                              |           |
@@ -603,6 +606,20 @@ COMMON CORE PROJECTS
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [Exploring the Inception Project](https://medium.com/@navoos/streamlining-infrastructure-deployment-with-docker-exploring-the-inception-project-3bb0055686a8)  | `Website` |
 | [Inception](https://github.com/iimyzf/Inception)                                                                                                               | `GitHub`  |
+| [VirtualBox](https://www.virtualbox.org)                                                                                                                       | `Website` |
+| [Debian](https://www.debian.org)                                                                                                                               | `Website` |
+
+| **Guides**                                                                                                                                                     |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [jotavare](https://github.com/jotavare/inception)                                                                                                              | `GitHub`  |
+| [codesshaman](https://github.com/codesshaman/inception)                                                                                                        | `GitHub`  |
+| [vbachele](https://github.com/vbachele/Inception)                                                                                                              | `GitHub`  |
+| [llescure](https://github.com/llescure/42_Inception)                                                                                                           | `GitHub`  |
+| [rbiodies](https://github.com/rbiodies/Inception)                                                                                                              | `GitHub`  |
+| [Forstman1](https://github.com/Forstman1/inception-42)                                                                                                         | `GitHub`  |
+| [Theo2lt](https://github.com/Theo2lt/Inception)                                                                                                                | `GitHub`  |
+| [SavchenkoDV](https://github.com/SavchenkoDV/inception_School21_Ecole42)                                                                                       | `GitHub`  |
+| [iimyzf](https://github.com/iimyzf/Inception)                                                                                                                  | `GitHub`  |
 
 #### [06] FT_TRANSCENDENCE
 | **Project Files**                                                                                                                                              |           |
