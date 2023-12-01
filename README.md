@@ -260,11 +260,11 @@ COMMON CORE PROJECTS
 #### SUBJECTS
 > _Respositories with all 42 subjects in one place, they are outdated but still usefull._
 
-|   |   |   |
-| - | - | - |
-| [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph)  | `akaylee`        | `GitHub` |
-| [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers) | `Binary-Hackers` | `GitHub` |
-| [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects)   | `agavrel`        | `GitHub` |
+|                                                                 |          |
+| --------------------------------------------------------------- | -------- |
+| [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph)  | `GitHub` |
+| [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers) | `GitHub` |
+| [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects)   | `GitHub` |
 
 #### [00] LIBFT
 | **Project Files**                                                                                              |           |
@@ -279,28 +279,32 @@ COMMON CORE PROJECTS
 | [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                       | `GitHub`  |
 | [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles)                                          | `Blog`    |
 
-| **Testers**                                                                                                    |           |                 |
-| :------------------------------------------------------------------------------------------------------------- | --------- | --------------- |
-| [Francinette](https://github.com/xicodomingues/francinette)                                                    | `GitHub`  | `xicodomingues` |
-| [Libft Tester](https://github.com/Tripouille/libftTester)                                                      | `GitHub`  | `Tripouille`    |
-| [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker)                                         | `GitHub`  | `Nuno-Jesus`    |
-| [Libft Unit Test](https://github.com/alelievr/libft-unit-test)                                                 | `GitHub`  | `alelievr`      |
-| [Libft Test](https://github.com/jtoty/Libftest)                                                                | `GitHub`  | `jtoty`         |
-| [Libft War Machine](https://github.com/0x050f/libft-war-machine)                                               | `GitHub`  | `0x050f`        |
+| **Testers**                                                                                                    |           |
+| :------------------------------------------------------------------------------------------------------------- | --------- |
+| [Francinette](https://github.com/xicodomingues/francinette)                                                    | `GitHub`  |
+| [Libft Tester](https://github.com/Tripouille/libftTester)                                                      | `GitHub`  |
+| [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker)                                         | `GitHub`  |
+| [Libft Unit Test](https://github.com/alelievr/libft-unit-test)                                                 | `GitHub`  |
+| [Libft Test](https://github.com/jtoty/Libftest)                                                                | `GitHub`  |
+| [Libft War Machine](https://github.com/0x050f/libft-war-machine)                                               | `GitHub`  |
 
 #### [01] BORN2BEROOT
 | **Project Files**                                                                             |           |
 | :-------------------------------------------------------------------------------------------- | --------- |
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) | `PDF`     |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                | `PNG`     |
+
 | **Resources**                                                                                 |           |
+| :-------------------------------------------------------------------------------------------- | --------- |
 | [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)     | `Youtube` |
-| [Guide by lbordonal](https://github.com/lbordonal/01-Born2beroot/wiki)                        | `GitHub`  |
-| [Guide by pasquelerossi](https://github.com/pasqualerossi/Born2BeRoot-Guide)                  | `GitHub`  |
-| [Guide by gemartin99](https://github.com/gemartin99/Born2beroot-Tutorial)                     | `GitHub`  |
+| [Born2beroot](https://github.com/lbordonal/01-Born2beroot/wiki)                               | `GitHub`  |
+| [Born2beroot Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide)                       | `GitHub`  |
+| [Born2beroot Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial)                    | `GitHub`  |
 | [Debian](https://www.debian.org/)                                                             | `Website` |
 | [Rocky](https://rockylinux.org/)                                                              | `Website` |
+
 | **Testers**                                                                                   |           |
+| :-------------------------------------------------------------------------------------------- | --------- |
 | [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester)                            | `GitHub`  |
 | [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester)                        | `GitHub`  |
 
@@ -309,9 +313,13 @@ COMMON CORE PROJECTS
 | :----------------------------------------------------------------------------------------------------------------- | --------- |
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_printf.pdf)                        | `PDF`     |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                     | `PNG`     |
+
 | **Resources**                                                                                                      |           |
+| :----------------------------------------------------------------------------------------------------------------- | --------- |
 | [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html) | `Website` |
+
 | **Testers**                                                                                                        |           |
+| :----------------------------------------------------------------------------------------------------------------- | --------- |
 | [Debugging main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c)                    | `GitHub`  |
 | [Francinette](https://github.com/xicodomingues/francinette)                                                        | `GitHub`  |
 | [printfTester](https://github.com/Tripouille/printfTester)                                                         | `GitHub`  |
@@ -321,7 +329,9 @@ COMMON CORE PROJECTS
 | :---------------------------------------------------------------------------------------------- | -------- |
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/get_next_line.pdf) | `PDF`    |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                  | `PNG`    |
+
 | **Testers**                                                                                     |          |
+| :---------------------------------------------------------------------------------------------- | -------- |
 | [Francinette](https://github.com/xicodomingues/francinette)                                     | `GitHub` |
 | [Get Next Line Tester](https://github.com/Tripouille/gnlTester)                                 | `GitHub` |
 
@@ -330,42 +340,56 @@ COMMON CORE PROJECTS
 | :----------------------------------------------------------------------------------------- | --------- |
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf) | `PDF`     |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                             | `PNG`     |
+
 | **Resources**                                                                              |           |
+| :----------------------------------------------------------------------------------------- | --------- |
 | [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp)     | `Website` |
 | [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators)                       | `GitHub`  |
 | [Sending and Handling Signals in C](https://www.youtube.com/watch?v=83M5-NPDeWs)           | `Youtube` |
 | [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs)                         | `Youtube` |
 | [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U)                            | `Youtube` |
+
 | **Testers**                                                                                |           |
+| :----------------------------------------------------------------------------------------- | --------- |
 | [Lorem Ipsum Generator](https://www.lipsum.com)                                            | `Website` |
 | [Emojis](https://getemoji.com)                                                             | `Website` |
 | [Francinette](https://github.com/xicodomingues/francinette)                                | `GitHub`  |
 
 #### [02] PIPEX
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/pipex.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-> _Information and Resources_
-- [Pipex Tutorial](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901) `Website`
-- [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) `Youtube`
-- [Pipes Explained (Spanish)](https://www.youtube.com/watch?v=8LdQ09Ep9RY) `Youtube`
-> _Testers_
-- [Pipex Medic](https://github.com/gmarcha/pipexMedic) `gmarcha` `GitHub`
+| **Project Files**                                                                               |           |
+| :---------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/pipex.pdf)         | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                  | `PNG`     |
+
+| **Resources**                                                                                   |           |
+| :---------------------------------------------------------------------------------------------- | --------- |
+| [Pipex Tutorial](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901)             | `Website` |
+| [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) | `Youtube` |
+| [Pipes Explained (Spanish)](https://www.youtube.com/watch?v=8LdQ09Ep9RY)                        | `Youtube` |
+
+| **Testers**                                                                                     |           |
+| :---------------------------------------------------------------------------------------------- | --------- |
+| [Pipex Medic](https://github.com/gmarcha/pipexMedic)                                            | `GitHub`  |
 
 #### [02] SO_LONG
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/so_long.pdf) `PDF`
-- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/so_long) `Files`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-> _MinilibX_
-- [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx) `Website`
-- [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial) `pulgamecanica` `Blog`
-- [MiniLibX Animations Tutorial)](https://pulgamecanica.herokuapp.com/posts/mlx-animations) `pulgamecanica` `Blog`
-- [raylib](https://www.raylib.com) `Website`
-- [miniaudio](https://github.com/mackron/miniaudio) `mackron` `GitHub`
-- [Pacman so_long](https://github.com/madebypixel02/so_long) `madebypixel02` `GitHub`
-> _Testers_
-- [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator) `Nuno-Jesus` `GitHub`
+| **Project Files**                                                                         |           |
+| :---------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/so_long.pdf) | `PDF`     |
+| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/so_long)  | `Files`   |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                            | `PNG`     |
+
+| **Resources**                                                                             |           |
+| :---------------------------------------------------------------------------------------- | --------- |
+| [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)               | `Website` |
+| [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial)          | `Blog`    |
+| [MiniLibX Animations Tutorial)](https://pulgamecanica.herokuapp.com/posts/mlx-animations) | `Blog`    |
+| [raylib](https://www.raylib.com)                                                          | `Website` |
+| [miniaudio](https://github.com/mackron/miniaudio)                                         | `GitHub`  |
+| [Pacman so_long](https://github.com/madebypixel02/so_long)                                | `GitHub`  |
+
+| **Testers**                                                                               |           |
+| :---------------------------------------------------------------------------------------- | --------- |
+| [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator) | `GitHub`  |
 
 #### [02] FRACT-OL
 > _Project Files_
