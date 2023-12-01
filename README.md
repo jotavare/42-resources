@@ -279,14 +279,14 @@ COMMON CORE PROJECTS
 | [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                       | `GitHub`  |
 | [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles)                                          | `Blog`    |
 
-| **Testers**                                                                                                    |           |
-| :------------------------------------------------------------------------------------------------------------- | --------- |
-| [Francinette](https://github.com/xicodomingues/francinette)                                                    | `GitHub`  |
-| [Libft Tester](https://github.com/Tripouille/libftTester)                                                      | `GitHub`  |
-| [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker)                                         | `GitHub`  |
-| [Libft Unit Test](https://github.com/alelievr/libft-unit-test)                                                 | `GitHub`  |
-| [Libft Test](https://github.com/jtoty/Libftest)                                                                | `GitHub`  |
-| [Libft War Machine](https://github.com/0x050f/libft-war-machine)                                               | `GitHub`  |
+| **Testers**                                                                                                    |           |                 |
+| :------------------------------------------------------------------------------------------------------------- | --------- | --------------- |
+| [Francinette](https://github.com/xicodomingues/francinette)                                                    | `GitHub`  | `xicodomingues` |
+| [Libft Tester](https://github.com/Tripouille/libftTester)                                                      | `GitHub`  | `Tripouille`    |
+| [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker)                                         | `GitHub`  | `Nuno-Jesus`    |
+| [Libft Unit Test](https://github.com/alelievr/libft-unit-test)                                                 | `GitHub`  | `alelievr`      |
+| [Libft Test](https://github.com/jtoty/Libftest)                                                                | `GitHub`  | `jtoty`         |
+| [Libft War Machine](https://github.com/0x050f/libft-war-machine)                                               | `GitHub`  | `0x050f`        |
 
 #### [01] BORN2BEROOT
 | **Project Files**                                                                             |           |
