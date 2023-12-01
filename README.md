@@ -144,6 +144,7 @@ PISCINE AND COMMON CORE
 
 #### GUIDES
 > _Guides and walkthroughs to navigate 42's curriculum._
+
 |                                                            |                                                                   |           |
 |------------------------------------------------------------|-------------------------------------------------------------------|-----------|
 | [42 Cheat Sheet](https://github.com/agavrel/42_CheatSheet) | An awesome cheatsheet for C and 42 in general.                    | `GitHub`  |
@@ -152,6 +153,7 @@ PISCINE AND COMMON CORE
 
 #### VS CODE
 > _Extensions for VS Code for enhancing your development experience._
+
 |                                                                                                                                |
 |--------------------------------------------------------------------------------------------------------------------------------|
 | [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)                                                 |
@@ -163,6 +165,7 @@ PISCINE AND COMMON CORE
 
 #### DICTIONARY AND LANGUAGE CORRECTION
 > _Platforms aiding in language correction and offering dictionaries, ensuring precise communication and documentation._
+
 |                                                     |                                                     |
 |-----------------------------------------------------|-----------------------------------------------------|
 | [QuillBot](https://quillbot.com)                    | Tool for paraphrasing and improving writing.        |
@@ -181,6 +184,7 @@ PISCINE AND COMMON CORE
 
 #### APPS
 > _Avaialable apps for android and iOS._
+
 |                                                                                            |           |
 |--------------------------------------------------------------------------------------------|-----------|
 | [Intra 42 Mobile App](https://play.google.com/store/apps/details?id=com.linkkader.intra42) | `Android` |
@@ -188,6 +192,7 @@ PISCINE AND COMMON CORE
 
 #### README AND BADGES
 > _Insights on crafting effective README files and integrating badges for your projects._
+
 |                                                                              |                                                        |           |
 |------------------------------------------------------------------------------|--------------------------------------------------------|-----------|
 | [README.md Generator](https://profile-readme-generator.com)                  | Create your GitHub README.md in a simple and fast way. | `Website` |
@@ -197,6 +202,7 @@ PISCINE AND COMMON CORE
 
 #### OTHERS
 > _Miscellaneous resources of no particular category, that may proved helpful._
+
 |                                                                       |                                                                                   |           |
 |-----------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------|
 | [RP42](https://github.com/alexandregv/RP42)                           | Discord addon integration for 42 School.                                          | `GitHub`  |
