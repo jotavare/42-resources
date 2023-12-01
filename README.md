@@ -144,8 +144,45 @@ PISCINE AND COMMON CORE
 | [RP42](https://github.com/alexandregv/RP42)                           | Discord addon integration for 42 School.                    | `GitHub`  |
 | [S42](https://s42.app)                                                | Clusters from various 42 schools.                           | `Website` |
 | [Scribe](https://scribehow.com)                                       | Turn any process into a step-by-step guide, instantly.      | `Website` |
-| [README.md Generator](https://profile-readme-generator.com)           | Create your GitHub README.md in a simple and fast way.      | `Website` |
 | [Developer Roadmaps](https://roadmap.sh)                              | Roadmaps, guides, and other educational content.            | `Website` |
+
+#### EXTENSIONS
+- [Installette (Kuninoto)](https://github.com/Kuninoto/installette) - A Bash script to install Norminette, a Norminette Formatter, Vim and 42 Header for Vim.
+- [PowerLevel10k](https://github.com/romkatv/powerlevel10k) - Theme that I personally use for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
+- [tldr-pages](https://github.com/tldr-pages/tldr) - A collection of community-maintained help pages for command-line tools.
+- [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) - A bunch of Neofetch configs in a single place.
+
+#### VS CODE
+- [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)
+- [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42)
+- [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3)
+- [42 Norminette](https://marketplace.visualstudio.com/items?itemName=dalexhd.42-norminette)
+- [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format)
+- [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)
+
+#### BROWSER
+> _I recommend only installing 'Improved Intra 42' because it's an all-in-one extension for both Chrome and Firefox._
+- [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
+- [Better Black Hole](https://github.com/jkctech/BetterBlackHole) `chrome` `firefox`
+
+#### DICTIONARY AND LANGUAGE CORRECTION
+- [QuillBot](https://quillbot.com)
+- [LanguageTool](https://languagetool.org)
+- [Grammarly](https://www.grammarly.com)
+- [Wiktionary](https://en.wiktionary.org)
+- [Urban Dictionary](https://www.urbandictionary.com)
+
+#### APPS
+- [Intra 42 Mobile App](hhttps://play.google.com/store/apps/details?id=com.linkkader.intra42) - `Android`
+- [Intra 42 Mobile App](https://apps.apple.com/pt/app/intra-42-mobile-app/id1661283873) - `iOS`
+
+#### README AND BADGES
+|                                                                              |                                                        |           |
+|------------------------------------------------------------------------------|--------------------------------------------------------|-----------|
+| [README.md Generator](https://profile-readme-generator.com)                  | Create your GitHub README.md in a simple and fast way. | `Website` |
+| [Badge 42](https://github.com/JaeSeoKim/badge42)                             | Dynamically generated 42 badges for your git readmes.  | `GitHub`  |
+| [42 Project Badges](https://github.com/vinicius-f-pereira/42-project-badges) | Badges designed for 42 curriculum projects.            | `GitHub`  |
+| [1337 Readme](https://github.com/mohouyizme/1337-readme)                     | Share your progress via GitHub README.md.              | `GitHub`  |
 
 - - - -
 
@@ -475,77 +512,6 @@ COMMON CORE PROJECTS
 - [Build a Realtime Chat App with Vue.js](https://youtu.be/SZlsP5uxYjk) `Youtube`
 - [WEBSOCKETS with NestJS - Build Real-Time Web Apps](https://youtu.be/atbdpX4CViM) `Youtube`
 - [NestJS Authentication](https://www.youtube.com/watch?v=_L225zpUK0M) `Youtube`
-
-- - - -
-
-<!---
-EXTENSIONS
--->
-
-<h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/extensions_banner.png">
-</h1>
-
-<p align="center">
-	<a href="#scripts">Scripts</a> •
-	<a href="#vs-code">VS Code</a> •
-	<a href="#browser">Browser</a> •
-	<a href="#dictionary-and-language-correction">Dictionary and Language Correction</a> •
-	<a href="#apps">Apps</a> •
-	<a href="#badge">Badge</a> •
-	<a href="#add-ons">Add-ons</a> •
-	<a href="#--">↥ Back To Top</a>
-</p>
-
-#### SCRIPTS
-- [Installette (Kuninoto)](https://github.com/Kuninoto/installette) - A Bash script to install Norminette, a Norminette Formatter, Vim and 42 Header for Vim.
-- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Open source, community-driven framework for managing your Zsh configuration.
-- [PowerLevel10k](https://github.com/romkatv/powerlevel10k) - Theme that I personally use for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
-- [tldr-pages](https://github.com/tldr-pages/tldr) - A collection of community-maintained help pages for command-line tools.
-- [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) - A bunch of Neofetch configs in a single place.
-
-#### VS CODE
-- [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)
-- [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42)
-- [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3)
-- [42 Norminette](https://marketplace.visualstudio.com/items?itemName=dalexhd.42-norminette)
-- [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format)
-- [42 Header (Long)](https://marketplace.visualstudio.com/items?itemName=secondfry.42header-long)
-- [42 Snippets](https://marketplace.visualstudio.com/items?itemName=ColeHughes.42-snippets)
-- [42 Comment](https://marketplace.visualstudio.com/items?itemName=nasanov.42-comment)
-- [42 Header OneShot](https://marketplace.visualstudio.com/items?itemName=nakamo326.42-header-oneshot)
-- [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)
-
-#### BROWSER
-> _I recommend only installing 'Improved Intra 42' because it's an all-in-one extension for both Chrome and Firefox._
-- [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
-- [Better Black Hole](https://github.com/jkctech/BetterBlackHole) `chrome` `firefox`
-- [42 Logtime & Darkmode](https://chrome.google.com/webstore/detail/42-logtime-darkmode/kkcjiilcfieknbpdhihhhncdbligjplg) `chrome`
-- [42 Log time](https://chrome.google.com/webstore/detail/42logtime/fkcfecmfcfmealjioddcpgghpmdgbeag) `chrome`
-- [ft_logtime](https://chrome.google.com/webstore/detail/ftlogtime/mnohnflacgkmhaocfhhmjeeciibiciep) `chrome`
-- [ft_blackhole](https://chrome.google.com/webstore/detail/ftblackhole/pofhnleglcpmmkkaohhadcmombagfeie) `chrome`
-- [Intra Friends 42](https://chrome.google.com/webstore/detail/intrafriends42/baehliedggippdholddgbdlhhmiaoioc) `chrome`
-- [42 Assistant](https://chrome.google.com/webstore/detail/42assistant/nadppnpnlnbcihgpaacbibidcdigdllh) `chrome`
-- [42 Subject Mirror](https://chrome.google.com/webstore/detail/42-subject-mirror/ongjcdapbojoapngcpkfbhabflfikcej) `chrome`
-- [Remove Intra 42 Red Button](https://chrome.google.com/webstore/detail/remove-intra-42-red-butto/njmhifmlnfnpemhnfkbmmlemjgbleleh) `chrome`
-- [42 Launcher](https://chrome.google.com/webstore/detail/42-launcher/ilfaiabliekooeinlfonleniaeaijabe) `chrome`
-- [Legion 42](https://chrome.google.com/webstore/detail/legion-42/lhcpcklejelnbmoecdnbfemeghipjmgb) `chrome`
-
-#### DICTIONARY AND LANGUAGE CORRECTION
-- [LanguageTool](https://languagetool.org)
-- [Grammarly](https://www.grammarly.com)
-- [Wiktionary](https://en.wiktionary.org)
-- [Urban Dictionary](https://www.urbandictionary.com)
-- [Wordnik](https://www.wordnik.com)
-
-#### APPS
-- [Intra 42](https://play.google.com/store/search?q=42+intra) - `Android`
-- [Intra 42](https://apps.apple.com/app/intra-42-mobile-app/id1661283873) - `iOS`
-
-#### BADGE
-- [Badge 42](https://github.com/JaeSeoKim/badge42) - Dynamically generated 42 badges for your git readmes. `JaeSeoKim` `GitHub`
-- [42 Project Badges](https://github.com/vinicius-f-pereira/42-project-badges) - Awesome little badges for 42 curriculum projects. `vinicius-f-pereira` `GitHub`
-- [1337 Readme](https://github.com/mohouyizme/1337-readme) - Share your progress with the world via GitHub README.md. `mohouyizme` `GitHub`
 
 - - - -
 
