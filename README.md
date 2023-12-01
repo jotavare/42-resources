@@ -269,19 +269,25 @@ COMMON CORE PROJECTS
 - [42 Cursus Tester](https://github.com/Abaker-Hype/42-Cursus-Tester) `abaker-hype` `Libft` `ft_printf` `get_next_line`
 
 #### [00] LIBFT
-| Project Files | |
+> _Project Files_
+
+|   |   |
 | - | - |
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf) | `PDF` |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                          | `PNG` |
 
-| Information and Resources | |
+> _Information and Resources_
+
+|   |   |
 | - | - |
 | [Libft Functions](https://www.asidesigned.com/project-libft.html)                                              | `Website` |
 | [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Website` |
 | [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                       | `GitHub`  |
 | [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles)                                          | `Blog`    |
 
-| Testers | |
+> _Testers_
+
+|   |   |
 | - | - |
 | [Francinette](https://github.com/xicodomingues/francinette)            | `xicodomingues` `GitHub` |
 | [Libft Tester](https://github.com/Tripouille/libftTester)              | `Tripouille` `GitHub`    |
