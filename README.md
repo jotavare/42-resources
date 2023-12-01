@@ -133,7 +133,7 @@ PISCINE AND COMMON CORE
 
 |                                                                                                        |                                                                            |           |
 |--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------|
-| [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet)                                      | An awesome cheatsheet for C and 42 in general.                             | `GitHub`  |
+| [42 Cheat Sheet](https://github.com/agavrel/42_CheatSheet)                                             | An awesome cheatsheet for C and 42 in general.                             | `GitHub`  |
 | [42 Toolbox](https://github.com/alexandregv/42toolbox)                                                 | A bunch of scripts to make your life better at 42.                         | `GitHub`  |
 | [42 XP Calculator](https://42.tbailleu.dev)                                                            | Calculate how much exp you need for the next level.                        | `Website` |
 | [RP42](https://github.com/alexandregv/RP42)                                                            | Discord Rich Presence integration for 42 School.                           | `GitHub`  |
@@ -141,7 +141,7 @@ PISCINE AND COMMON CORE
 | [S42](https://s42.app)                                                                                 | Clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul 🇰🇷, and Vienna 🇦🇹.    | `Website` |
 | [42 Evaluators](https://42evaluators.com)                                                              | Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats. | `Website` |
 | [Scribe](https://scribehow.com)                                                                        | Turn any process into a step-by-step guide, instantly.                     | `Website` |
-| [Profile README.md Generator](https://profile-readme-generator.com)                                    | Create your GitHub README.md in a simple and fast way.                     | `Website` |
+| [README.md Generator](https://profile-readme-generator.com)                                            | Create your GitHub README.md in a simple and fast way.                     | `Website` |
 | [Developer Roadmaps](https://roadmap.sh)                                                               | Roadmaps, guides, and other educational content.                           | `Website` |
 | [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                                                  | Open source, community-driven framework for managing zsh configurations.   | `GitHub`  |
 | [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)                                  | Plugins for Oh My Zsh!.                                                    | `GitHub`  |
