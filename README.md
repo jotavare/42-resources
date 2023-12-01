@@ -68,12 +68,12 @@ Thank you for visiting my repository! Here, you will find a collection of resour
 
 |                                                                            |                                                                                              |           |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------|
-| [42 Intra](https://intra.42.fr)                                            | Official portal for everything related to 42 *(you need to be logged in)*.                   | `42`      |
-| [Clusters](https://meta.intra.42.fr/clusters)                              | Check who is online in your 42 school cluster *(you need to be logged in)*.                  | `42`      |
-| [F.A.Q](https://meta.intra.42.fr/articles)                                 | Frequently asked questions about your school *(you need to be logged in)*.                   | `42`      |
-| [42 API](https://api.intra.42.fr/apidoc)                                   | If you are looking to build an official 42 integration for your service, this will help you. | `42`      |
-| [Slack](https://app.slack.com/client/T039P7U66/C04971HPWQ1)                | Official Slack channel for 42 students (after Piscine and official email only).              | `Website` |
-| [StackOverflow](https://stackoverflowteams.com/c/42network/)               | Official 42 forum (after Piscine and official email only).                                   | `Website` |
+| [42 Intra](https://intra.42.fr)                                            | Official portal for everything related to 42.*(you need to be logged in)*                    | `42`      |
+| [Clusters](https://meta.intra.42.fr/clusters)                              | Check who is online in your 42 school cluster.*(you need to be logged in)*                   | `42`      |
+| [F.A.Q](https://meta.intra.42.fr/articles)                                 | Frequently asked questions about your school.*(you need to be logged in)*                    | `42`      |
+| [42 API](https://api.intra.42.fr/apidoc)                                   | Documentation to build an application with 42 API.                                           | `42`      |
+| [Slack](https://app.slack.com/client/T039P7U66/C04971HPWQ1)                | Official Slack channel for 42 students.*(after Piscine and official email only)*             | `Website` |
+| [StackOverflow](https://stackoverflowteams.com/c/42network/)               | Official 42 forum.*(after Piscine and official email only)*                                  | `Website` |
 
 #### SOCIAL
 > _For a specific 42 School social media, check the section **[CAMPUSES](#---11)** and pick a school of your choice._
@@ -120,32 +120,32 @@ PISCINE AND COMMON CORE
 #### PEER-TO-PEER
 > _Information about peer-to-peer evaluation, and beginner videos about Shell and Git._
 
-|                                                                                                   |                                                          |           |
-|---------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------|
-| [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) | YouTube playlist covering P2P, Shell, and Git basics.    | `Youtube` |
-| [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE)                                             | What to do before the evaluation? (as evaluated student) | `Youtube` |
-| [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY)                                             | What to do before the evaluation? (as evaluator)         | `Youtube` |
-| [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ)                                             | What to do during the evaluation?                        | `Youtube` |
-| [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug)                                             | What to do after the evaluation? (as evaluated student)  | `Youtube` |
+|                                                                                                   |                                                           |           |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----------|
+| [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) | YouTube playlist covering P2P, Shell, and Git basics.     | `Youtube` |
+| [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE)                                             | What to do before the evaluation?*(as evaluated student)* | `Youtube` |
+| [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY)                                             | What to do before the evaluation?*(as evaluator)*         | `Youtube` |
+| [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ)                                             | What to do during the evaluation?                         | `Youtube` |
+| [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug)                                             | What to do after the evaluation?*(as evaluated student)*  | `Youtube` |
 
 #### TOOLS
 > _Tools that I found useful in my 42 journey._
 
 |                                                                                                        |                                                                            |           |
 |--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------|
-| [42 Cheat Sheet](https://github.com/agavrel/42_CheatSheet)                                             | An awesome cheatsheet for C and 42 in general.                             | `GitHub`  |
-| [42 Toolbox](https://github.com/alexandregv/42toolbox)                                                 | A bunch of scripts to make your life better at 42.                         | `GitHub`  |
-| [42 XP Calculator](https://42.tbailleu.dev)                                                            | Calculate how much exp you need for the next level.                        | `Website` |
-| [RP42](https://github.com/alexandregv/RP42)                                                            | Discord Rich Presence integration for 42 School.                           | `GitHub`  |
+| [42 Evaluators](https://42evaluators.com)                                                              | Calculator, Leaderboard, PeerFinder, Blackhole, Stats, ...                 | `Website` |
 | [Find Peers](https://find-peers.codam.nl)                                                              | Find peers working on the same project.                                    | `Website` |
-| [S42](https://s42.app)                                                                                 | Clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul 🇰🇷, and Vienna 🇦🇹.    | `Website` |
-| [42 Evaluators](https://42evaluators.com)                                                              | Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats. | `Website` |
+| [42 XP Calculator](https://42.tbailleu.dev)                                                            | Calculate how much exp you need for the next level.                        | `Website` |
+| [42 Cheat Sheet](https://github.com/agavrel/42_CheatSheet)                                             | An awesome cheatsheet for C and 42 in general.                             | `GitHub`  |
+| [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                                                  | Open source, community-driven framework.                                   | `GitHub`  |
+| [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)                                  | List of plugins for Oh My Zsh!                                             | `GitHub`  |
+| [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)                                               | Debugging online tool.*(but learn to use `lldb` or `gdb`)*                 | `Website` |
+| [42 Toolbox](https://github.com/alexandregv/42toolbox)                                                 | A bunch of scripts to make your life better at 42.                         | `GitHub`  |
+| [RP42](https://github.com/alexandregv/RP42)                                                            | Discord addon integration for 42 School.                                   | `GitHub`  |
+| [S42](https://s42.app)                                                                                 | Clusters from 🇫🇮, 🇪🇸, 🇫🇷, 🇰🇷, and 🇦🇹.                                       | `Website` |
 | [Scribe](https://scribehow.com)                                                                        | Turn any process into a step-by-step guide, instantly.                     | `Website` |
 | [README.md Generator](https://profile-readme-generator.com)                                            | Create your GitHub README.md in a simple and fast way.                     | `Website` |
 | [Developer Roadmaps](https://roadmap.sh)                                                               | Roadmaps, guides, and other educational content.                           | `Website` |
-| [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                                                  | Open source, community-driven framework for managing zsh configurations.   | `GitHub`  |
-| [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)                                  | Plugins for Oh My Zsh!.                                                    | `GitHub`  |
-| [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)                                               | Debugging online tool. (`lldb` and `gdb` are available in the terminal)    | `Website` |
 
 - - - -
 
