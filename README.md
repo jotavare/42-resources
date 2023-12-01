@@ -66,15 +66,15 @@ Thank you for visiting my repository! Here, you will find a collection of resour
 #### NETWORK
 > _Main websites of 42._
 
-|                                                                            |                                                                                              |                |
-|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------|
-| [42 Intra](https://intra.42.fr)                                            | Official portal for everything related to 42.                                                | `42` `Website` |
-| [Slack](https://app.slack.com/client/T039P7U66/C04971HPWQ1)  | Official Slack channel for 42 students (after Piscine).                                      | `Website`      |
-| [StackOverflow](https://stackoverflowteams.com/c/42network/)               | Official 42 forum (after Piscine).                                                           | `Website`      |
-| [Alumni](https://alumni.42.fr)                                             | 42Alumni Network (only for alumni students).                                                 | `42` `Website` |
-| [Clusters](https://meta.intra.42.fr/clusters)                              | Check who is online in your 42 school cluster.                                               | `42` `Website` |
-| [F.A.Q](https://meta.intra.42.fr/articles)                                 | Frequently asked questions about your school.                                                | `42` `Website` |
-| [42 API](https://api.intra.42.fr/apidoc)                                   | If you are looking to build an official 42 integration for your service, this will help you. | `42` `Website` |
+|                                                                            |                                                                                              |           |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------|
+| [42 Intra](https://intra.42.fr)                                            | Official portal for everything related to 42.                                                | `42`      |
+| [Slack](https://app.slack.com/client/T039P7U66/C04971HPWQ1)                | Official Slack channel for 42 students (after Piscine).                                      | `Website` |
+| [StackOverflow](https://stackoverflowteams.com/c/42network/)               | Official 42 forum (after Piscine).                                                           | `Website` |
+| [Alumni](https://alumni.42.fr)                                             | 42Alumni Network (only for alumni students).                                                 | `42`      |
+| [Clusters](https://meta.intra.42.fr/clusters)                              | Check who is online in your 42 school cluster.                                               | `42`      |
+| [F.A.Q](https://meta.intra.42.fr/articles)                                 | Frequently asked questions about your school.                                                | `42`      |
+| [42 API](https://api.intra.42.fr/apidoc)                                   | If you are looking to build an official 42 integration for your service, this will help you. | `42`      |
 
 #### SOCIAL
 > _For a specific 42 School social media, check the section **[CAMPUSES](#---11)** and pick a school of your choice._
