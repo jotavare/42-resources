@@ -556,64 +556,74 @@ COMMON CORE PROJECTS
 #### [04] CPP MODULE (00-04)
 | **Project Files**                                                                                                                                              |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP00.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp00)                                                                                                   | `PNG` `PDF` `Files` |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP01.pdf)       | `PDF` `PNG` |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP02.pdf)       | `PDF` `PNG` |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP03.pdf)       | `PDF` `PNG` |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP04.pdf)       | `PDF` `PNG` |
+| [00 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP00.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp00)                                                                                                   | `PNG` `PDF` `Files` |
+| [01 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP01.pdf)  | `PDF` `PNG` |
+| [02 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP02.pdf)  | `PDF` `PNG` |
+| [03 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP03.pdf)  | `PDF` `PNG` |
+| [04 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP04.pdf)  | `PDF` `PNG` |
 
 #### [05] CPP MODULE (05-09)
 | **Project Files**                                                                                                                                              |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP05.pdf)       | `PNG` `PDF` |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP06.pdf)       | `PNG` `PDF` |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP07.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp07)                                                                                                   | `PNG` `PDF` `Files` |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP08.pdf)       | `PNG` `PDF` |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP09.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp09)                                                                                                   | `PNG` `PDF` `Files` |
+| [05 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP05.pdf)  | `PNG` `PDF` |
+| [06 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP06.pdf)  | `PNG` `PDF` |
+| [07 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP07.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp07)                                                                                                   | `PNG` `PDF` `Files` |
+| [08 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP08.pdf)  | `PNG` `PDF` |
+| [09 - Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP09.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp09)                                                                                                   | `PNG` `PDF` `Files` |
 
 #### [05] WEBSERV
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/webserv.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/webserv) `Files`
-> _Information and Resources_
-- [Building an HTTP Server From Scratch in C++](https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7) `Website`
-- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html) `Website`
-- [RFC Index](https://www.rfc-editor.org/rfc-index.html) `Website`
-- [The Hypertext Transfer Protocol](https://datatracker.ietf.org/doc/html/rfc2616) `Website`
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/webserv.pdf)                                                                      | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
+| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/webserv)                                                                       | `Files`   |
+
+| **Resources**                                                                                                                                                  |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Building an HTTP Server From Scratch in C++](https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7)                  | `Website` |
+| [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html)                                                                                        | `Website` |
+| [RFC Index](https://www.rfc-editor.org/rfc-index.html)                                                                                                         | `Website` |
+| [The Hypertext Transfer Protocol](https://datatracker.ietf.org/doc/html/rfc2616)                                                                               | `Website` |
 
 #### [05] FT_IRC
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_irc.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/ft_irc) `Files`
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_irc.pdf)                                                                       | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
+| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/ft_irc)                                                                        | `Files`   |
 
 #### [05] INCEPTION
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/inception.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-> _Information and Resources_
-- [Exploring the Inception Project](https://medium.com/@navoos/streamlining-infrastructure-deployment-with-docker-exploring-the-inception-project-3bb0055686a8) `Website`
-- [Inception](https://github.com/iimyzf/Inception) `iimyzf` `GitHub`
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/inception.pdf)                                                                    | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
+
+| **Resources**                                                                                                                                                  |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Exploring the Inception Project](https://medium.com/@navoos/streamlining-infrastructure-deployment-with-docker-exploring-the-inception-project-3bb0055686a8)  | `Website` |
+| [Inception](https://github.com/iimyzf/Inception)                                                                                                               | `GitHub`  |
 
 #### [06] FT_TRANSCENDENCE
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_transcendence.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-> _Information and Resources_
-- [Vue.js Guide](https://vuejs.org/guide/introduction.html) `Website`
-- [Props vs Data in Vue](https://michaelnthiessen.com/vue-props-vs-data) `Website`
-- [getBoundClientRect in vue.js](https://thewebdev.info/2022/03/15/how-to-get-left-top-position-of-element-in-vue-js) `Website`
-- [Guide to CSS Flexbox Layout](https://css-tricks.com/snippets/css/a-guide-to-flexbox) `Website`
-- [Building a multiplayer game using WebSockets](https://dev.to/sauravmh/building-a-multiplayer-game-using-websockets-1n63) `Website`
-- [Socket.IO - Basic Chat Application](https://socket.io/get-started/chat) `Website`
-- [Build Lobby Based Online Multiplayer Browser Games with React and NodeJS](https://francois-steinel.fr/articles/build-lobby-based-online-multiplayer-browser-games-with-react-and-nodejs) `Website`
-- [Integrating Vue.js and Socket.io](https://www.digitalocean.com/community/tutorials/vuejs-vue-socketio) `Website`
-- [Vue.js Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs) `Youtube`
-- [Beginner JavaScript Game Dev Project - Pong](https://www.youtube.com/watch?v=PeY6lXPrPaA) `Youtube`
-- [Build a Realtime Chat App with Vue.js](https://youtu.be/SZlsP5uxYjk) `Youtube`
-- [WEBSOCKETS with NestJS - Build Real-Time Web Apps](https://youtu.be/atbdpX4CViM) `Youtube`
-- [NestJS Authentication](https://www.youtube.com/watch?v=_L225zpUK0M) `Youtube`
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_transcendence.pdf)                                                             | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
+
+| **Resources**                                                                                                                                                  |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Vue.js Guide](https://vuejs.org/guide/introduction.html)                                                                                                      | `Website` |
+| [Props vs Data in Vue](https://michaelnthiessen.com/vue-props-vs-data)                                                                                         | `Website` |
+| [getBoundClientRect in vue.js](https://thewebdev.info/2022/03/15/how-to-get-left-top-position-of-element-in-vue-js)                                            | `Website` |
+| [Guide to CSS Flexbox Layout](https://css-tricks.com/snippets/css/a-guide-to-flexbox)                                                                          | `Website` |
+| [Building a multiplayer game using WebSockets](https://dev.to/sauravmh/building-a-multiplayer-game-using-websockets-1n63)                                      | `Website` |
+| [Socket.IO - Basic Chat Application](https://socket.io/get-started/chat)                                                                                       | `Website` |
+| [Build Games with React and NodeJS](https://francois-steinel.fr/articles/build-lobby-based-online-multiplayer-browser-games-with-react-and-nodejs)             | `Website` |
+| [Integrating Vue.js and Socket.io](https://www.digitalocean.com/community/tutorials/vuejs-vue-socketio)                                                        | `Website` |
+| [Vue.js Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)                                                                                             | `Youtube` |
+| [Beginner JavaScript Game Dev Project - Pong](https://www.youtube.com/watch?v=PeY6lXPrPaA)                                                                     | `Youtube` |
+| [Build a Realtime Chat App with Vue.js](https://youtu.be/SZlsP5uxYjk)                                                                                          | `Youtube` |
+| [WEBSOCKETS with NestJS - Build Real-Time Web Apps](https://youtu.be/atbdpX4CViM)                                                                              | `Youtube` |
+| [NestJS Authentication](https://www.youtube.com/watch?v=_L225zpUK0M)                                                                                           | `Youtube` |
 
 - - - -
 
