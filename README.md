@@ -292,21 +292,21 @@ COMMON CORE PROJECTS
 | Project Files | |
 | :- | - |
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) | `PDF` |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | `PNG` |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                | `PNG` |
 
-| Resources | |
-| :- | - |
-| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` |
-| [Guide](https://github.com/lbordonal/01-Born2beroot/wiki) | `lbordonal` `GitHub` |
-| [Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide) | `pasquelerossi` `GitHub` |
-| [Guide](https://github.com/gemartin99/Born2beroot-Tutorial) | `gemartin99` `GitHub` |
-| [Debian](https://www.debian.org/) | `Website` |
-| [Rocky](https://rockylinux.org/) | `Website` |
+| Resources | | |
+| :- | - | |
+| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) |                 | `Youtube` |
+| [Guide by lbordonal](https://github.com/lbordonal/01-Born2beroot/wiki)                    | `lbordonal`     | `GitHub`  |
+| [Guide by pasquelerossi](https://github.com/pasqualerossi/Born2BeRoot-Guide)              | `pasquelerossi` | `GitHub`  |
+| [Guide by gemartin99](https://github.com/gemartin99/Born2beroot-Tutorial)                 | `gemartin99`    | `GitHub`  |
+| [Debian](https://www.debian.org/)                                                         |                 | `Website` |
+| [Rocky](https://rockylinux.org/)                                                          |                 | `Website` |
 
-| Testers | |
-| :- | - |
-| [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester) | `Pixailz` `GitHub` |
-| [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester) | `gemartin99` `GitHub` |
+| Testers | | |
+| :- | - | - |
+| [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester)     | `Pixailz`    | `GitHub` |
+| [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester) | `gemartin99` | `GitHub` |
 
 #### [01] FT_PRINTF
 > _Project Files_
