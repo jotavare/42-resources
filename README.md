@@ -101,8 +101,13 @@ PISCINE AND COMMON CORE
 
 <p align="center">
 	<a href="#exams">Exams</a> •
+		<a href="#peer-to-peer">Peer-To-Peer</a> •
 	<a href="#tools">Tools</a> •
-	<a href="#peer-to-peer">Peer-To-Peer</a> •
+	<a href="#guides">Tools</a> •
+	<a href="#vs-code">Tools</a> •
+	<a href="#dictionary-and-lana">Tools</a> •
+	<a href="#tools">Tools</a> •
+
 	<a href="#--">↥ Back To Top</a>
 </p>
 
@@ -153,33 +158,33 @@ PISCINE AND COMMON CORE
 #### VS CODE
 > _Extensions for VS Code for enhancing your development experience._
 
-|                                                                                                                                |
-|--------------------------------------------------------------------------------------------------------------------------------|
-| [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)                                                 |
-| [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42)                                     |
-| [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3) |
-| [42 Norminette](https://marketplace.visualstudio.com/items?itemName=dalexhd.42-norminette)                                     |
-| [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format)                                           |
-| [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)                                 |
+|                                                                                                                                |           |
+|--------------------------------------------------------------------------------------------------------------------------------|           |
+| [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)                                                 | `Website` |
+| [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42)                                     | `Website` |
+| [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3) | `Website` |
+| [42 Norminette](https://marketplace.visualstudio.com/items?itemName=dalexhd.42-norminette)                                     | `Website` |
+| [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format)                                           | `Website` |
+| [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)                                 | `Website` |
 
-#### DICTIONARY AND LANGUAGE CORRECTION
-> _language correction and dictionaries, ensuring precise communication and documentation._
+#### LANGUAGE AND DICTIONARY
+> _Tools to have a correct communication and documentation._
 
-|                                                     |                                                     |
-|-----------------------------------------------------|-----------------------------------------------------|
-| [QuillBot](https://quillbot.com)                    | Tool for paraphrasing and improving writing.        |
-| [LanguageTool](https://languagetool.org)            | Grammar and style checker for multiple languages.   |
-| [Grammarly](https://www.grammarly.com)              | Writing assistant for grammar and punctuation.      |
-| [Wiktionary](https://en.wiktionary.org)             | Online dictionary and language reference.           |
-| [Urban Dictionary](https://www.urbandictionary.com) | Slang dictionary with user-contributed definitions. |
+|                                                     |                                                     |           |
+|-----------------------------------------------------|-----------------------------------------------------|-----------|
+| [QuillBot](https://quillbot.com)                    | Tool for paraphrasing and improving writing.        | `Website` |
+| [LanguageTool](https://languagetool.org)            | Grammar and style checker for multiple languages.   | `Website` |
+| [Grammarly](https://www.grammarly.com)              | Writing assistant for grammar and punctuation.      | `Website` |
+| [Wiktionary](https://en.wiktionary.org)             | Online dictionary and language reference.           | `Website` |
+| [Urban Dictionary](https://www.urbandictionary.com) | Slang dictionary with user-contributed definitions. | `Website` |
 
 #### BROWSER
 > _I recommend only installing 'Improved Intra 42' because it's an all-in-one extension for both Chrome and Firefox._
 
-|                                                                 |                                                                                |
-|-----------------------------------------------------------------|--------------------------------------------------------------------------------|
-| [Improved Intra 42](https://github.com/FreekBes/improved_intra) | Browser extension for Chrome and Firefox to enhance Intra 42 experience.       |
-| [Better Black Hole](https://github.com/jkctech/BetterBlackHole) | Extension available for Chrome and Firefox. Improves Black Hole functionality. |
+|                                                                 |                                                                                |          |
+|-----------------------------------------------------------------|--------------------------------------------------------------------------------|----------|
+| [Improved Intra 42](https://github.com/FreekBes/improved_intra) | Browser extension for Chrome and Firefox to enhance Intra 42 experience.       | `GitHub` |
+| [Better Black Hole](https://github.com/jkctech/BetterBlackHole) | Extension available for Chrome and Firefox. Improves Black Hole functionality. | `GitHub` |
 
 #### APPS
 > _Avaialable apps for android and iOS._
