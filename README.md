@@ -271,12 +271,16 @@ COMMON CORE PROJECTS
 | :------------------------------------------------------------------------------------------------------------- | --------- |
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf)                        | `PDF`     |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                 | `PNG`     |
-| **Resources**                                                                                                  |           | 
+
+| **Resources**                                                                                                  |           |
+| :------------------------------------------------------------------------------------------------------------- | --------- |
 | [Libft Functions](https://www.asidesigned.com/project-libft.html)                                              | `Website` |
 | [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Website` |
 | [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                       | `GitHub`  |
 | [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles)                                          | `Blog`    |
+
 | **Testers**                                                                                                    |           |
+| :------------------------------------------------------------------------------------------------------------- | --------- |
 | [Francinette](https://github.com/xicodomingues/francinette)                                                    | `GitHub`  |
 | [Libft Tester](https://github.com/Tripouille/libftTester)                                                      | `GitHub`  |
 | [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker)                                         | `GitHub`  |
