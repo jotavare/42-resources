@@ -181,10 +181,10 @@ PISCINE AND COMMON CORE
 | [Urban Dictionary](https://www.urbandictionary.com) | Slang dictionary with user-contributed definitions. |
 
 #### APPS
-|                                                                                             |           |
-|---------------------------------------------------------------------------------------------|-----------|
-| [Intra 42 Mobile App](hhttps://play.google.com/store/apps/details?id=com.linkkader.intra42) | `Android` |
-| [Intra 42 Mobile App](https://apps.apple.com/pt/app/intra-42-mobile-app/id1661283873)       | `iOS`     |
+|                                                                                            |           |
+|--------------------------------------------------------------------------------------------|-----------|
+| [Intra 42 Mobile App](https://play.google.com/store/apps/details?id=com.linkkader.intra42) | `Android` |
+| [Intra 42 Mobile App](https://apps.apple.com/pt/app/intra-42-mobile-app/id1661283873)      | `iOS`     |
 
 #### README AND BADGES
 |                                                                              |                                                        |           |
