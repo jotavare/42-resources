@@ -258,21 +258,13 @@ COMMON CORE PROJECTS
 > The projects at 42 are regularly updated, which means that the information below may not be up-to-date.
 
 #### SUBJECTS
-> _All current 42 subjects in one place._
+> _Respositories with all 42 subjects in one place, they are all old._
 
 |   |   |
 | - | - |
 | [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph)  | `akaylee` `GitHub`        |
 | [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers) | `Binary-Hackers` `GitHub` |
 | [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects)   | `agavrel` `GitHub`        |
-
-#### ALL-IN-ONE TESTERS
-> _Test your code with already made all-in-one testers._
-
-|   |   |
-| - | - |
-| [Francinette](https://github.com/xicodomingues/francinette)         | `xicodomingues` `Libft` `ft_printf` `get_next_line` `minitalk` `pipex` |
-| [42 Cursus Tester](https://github.com/Abaker-Hype/42-Cursus-Tester) | `abaker-hype` `Libft` `ft_printf` `get_next_line`                      |
 
 #### [00] LIBFT
 > _Project Files_
@@ -303,19 +295,24 @@ COMMON CORE PROJECTS
 | [Libft War Machine](https://github.com/0x050f/libft-war-machine)       | `0x050f` `GitHub`        |
 
 #### [01] BORN2BEROOT
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-> _Information and Resources_
-- [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) `Youtube`
-- [Guide](https://github.com/lbordonal/01-Born2beroot/wiki) `lbordonal` `GitHub`
-- [Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide) `pasquelerossi` `GitHub`
-- [Guide](https://github.com/gemartin99/Born2beroot-Tutorial) `gemartin99` `GitHub`
-- [Debian](https://www.debian.org/) `Website`
-- [Rocky](https://rockylinux.org/) `Website`
-> _Testers_
-- [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester) `Pixailz` `GitHub`
-- [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester) `gemartin99` `GitHub`
+| Project Files |   |
+| - | - |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) | `PDF` |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | `PNG` |
+
+| Resources  |   |
+| - | - |
+| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` |
+| [Guide](https://github.com/lbordonal/01-Born2beroot/wiki) | `lbordonal` `GitHub` |
+| [Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide) | `pasquelerossi` `GitHub` |
+| [Guide](https://github.com/gemartin99/Born2beroot-Tutorial) | `gemartin99` `GitHub` |
+| [Debian](https://www.debian.org/) | `Website` |
+| [Rocky](https://rockylinux.org/) | `Website` |
+
+| Testers  |   |
+| - | - |
+| [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester) | `Pixailz` `GitHub` |
+| [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester) | `gemartin99` `GitHub` |
 
 #### [01] FT_PRINTF
 > _Project Files_
