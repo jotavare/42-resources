@@ -58,23 +58,22 @@ Thank you for visiting my repository! Here, you will find a collection of resour
 
 |                                                                         |                                                                   |           |
 |-------------------------------------------------------------------------|-------------------------------------------------------------------|-----------|
-| [Office 365](https://www.microsoft.com/en-us/education/products/office) | Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. | `Website` |
 | [GitHub Student Pack](https://github-portal.42.fr/login)                | Portal to activate the GitHub Student Pack.                       | `Website` |
-| [Lucidchart](https://www.lucidchart.com/pages)                          | Web-based diagramming application.                                | `Website` |
+| [Office 365](https://www.microsoft.com/en-us/education/products/office) | Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. | `Website` |
 | [JetBrains](https://www.jetbrains.com/community/education)              | Integrated development environment Software (IDE).                | `Website` |
+| [Lucidchart](https://www.lucidchart.com/pages)                          | Web-based diagramming application.                                | `Website` |
 
 #### NETWORK
 > _Main websites of 42._
 
 |                                                                            |                                                                                              |           |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------|
-| [42 Intra](https://intra.42.fr)                                            | Official portal for everything related to 42.                                                | `42`      |
-| [Slack](https://app.slack.com/client/T039P7U66/C04971HPWQ1)                | Official Slack channel for 42 students (after Piscine).                                      | `Website` |
-| [StackOverflow](https://stackoverflowteams.com/c/42network/)               | Official 42 forum (after Piscine).                                                           | `Website` |
-| [Alumni](https://alumni.42.fr)                                             | 42Alumni Network (only for alumni students).                                                 | `42`      |
-| [Clusters](https://meta.intra.42.fr/clusters)                              | Check who is online in your 42 school cluster.                                               | `42`      |
-| [F.A.Q](https://meta.intra.42.fr/articles)                                 | Frequently asked questions about your school.                                                | `42`      |
+| [42 Intra](https://intra.42.fr)                                            | Official portal for everything related to 42 *(you need to be logged in)*.                   | `42`      |
+| [Clusters](https://meta.intra.42.fr/clusters)                              | Check who is online in your 42 school cluster *(you need to be logged in)*.                  | `42`      |
+| [F.A.Q](https://meta.intra.42.fr/articles)                                 | Frequently asked questions about your school *(you need to be logged in)*.                   | `42`      |
 | [42 API](https://api.intra.42.fr/apidoc)                                   | If you are looking to build an official 42 integration for your service, this will help you. | `42`      |
+| [Slack](https://app.slack.com/client/T039P7U66/C04971HPWQ1)                | Official Slack channel for 42 students (after Piscine and official email only).              | `Website` |
+| [StackOverflow](https://stackoverflowteams.com/c/42network/)               | Official 42 forum (after Piscine and official email only).                                   | `Website` |
 
 #### SOCIAL
 > _For a specific 42 School social media, check the section **[CAMPUSES](#---11)** and pick a school of your choice._
@@ -116,8 +115,6 @@ PISCINE AND COMMON CORE
 | [GradeMe](https://grademe.fr)                                                                                    | Simulate a 42 exam.                 | `Website` |
 | [Piscine Exams](http://nigal.freeshell.org/42)                                                                   | Questions and solutions.            | `Website` |
 | [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams)                                       | Questions and solutions.            | `GitHub`  |
-| [Piscine and Common Core Exams](https://github.com/48d31kh413k/1337-exam_rank_02-42)                             | Questions and solutions.            | `GitHub`  |
-| [Piscine and Common Core Exams](https://github.com/ComlanGiovanni?tab=repositories&q=exam&type=&language=&sort=) | Questions and solutions.            | `GitHub`  |
 | [Common Core Exams](http://www.anit.az/?author=1)                                                                | Questions and solutions with mains. | `Website` |
 
 #### PEER-TO-PEER
@@ -139,7 +136,6 @@ PISCINE AND COMMON CORE
 | [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet)                                      | An awesome cheatsheet for C and 42 in general.                             | `GitHub`  |
 | [42 Toolbox](https://github.com/alexandregv/42toolbox)                                                 | A bunch of scripts to make your life better at 42.                         | `GitHub`  |
 | [42 XP Calculator](https://42.tbailleu.dev)                                                            | Calculate how much exp you need for the next level.                        | `Website` |
-| [42 Stupidity](https://github.com/mirror12k/42us-stupidity)                                            | A tool for quickly testing solutions for the piscine exercises.            | `GitHub`  |
 | [RP42](https://github.com/alexandregv/RP42)                                                            | Discord Rich Presence integration for 42 School.                           | `GitHub`  |
 | [Find Peers](https://find-peers.codam.nl)                                                              | Find peers working on the same project.                                    | `Website` |
 | [S42](https://s42.app)                                                                                 | Clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul 🇰🇷, and Vienna 🇦🇹.    | `Website` |
@@ -147,11 +143,8 @@ PISCINE AND COMMON CORE
 | [Scribe](https://scribehow.com)                                                                        | Turn any process into a step-by-step guide, instantly.                     | `Website` |
 | [Profile README.md Generator](https://profile-readme-generator.com)                                    | Create your GitHub README.md in a simple and fast way.                     | `Website` |
 | [Developer Roadmaps](https://roadmap.sh)                                                               | Roadmaps, guides, and other educational content.                           | `Website` |
-| [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)                                          | Extended Bourne shell with improvements from Bash, ksh, and tcsh.          | `GitHub`  |
 | [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                                                  | Open source, community-driven framework for managing zsh configurations.   | `GitHub`  |
 | [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)                                  | Plugins for Oh My Zsh!.                                                    | `GitHub`  |
-| [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) | Adds colorful syntax highlighting to zsh.                                  | `GitHub`  |
-| [.vimrc](https://vim.fandom.com/wiki/Example_vimrc#Example_vimrc)                                      | A potential vim configuration for the adventurous.                         | `Website` |
 | [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)                                               | Debugging online tool. (`lldb` and `gdb` are available in the terminal)    | `Website` |
 
 - - - -
