@@ -309,14 +309,20 @@ COMMON CORE PROJECTS
 | [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester) | `gemartin99` | `GitHub` |
 
 #### [01] FT_PRINTF
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_printf.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-- [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html) `Website`
-> _Testers_
-- [Debugging main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c) `Kuninoto` `GitHub`
-- [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
-- [printfTester](https://github.com/Tripouille/printfTester) `Tripouille` `GitHub`
+| Project Files |   |
+| :------------ | - |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_printf.pdf) | `PDF` |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                              | `PNG` |
+
+| Resources |   |   |
+| :-------- | - | - |
+| [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html) | `Website` |
+
+| Testers |   |   |
+| :------ | - | - |
+| [Debugging main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c) | `Kuninoto`      | `GitHub` |
+| [Francinette](https://github.com/xicodomingues/francinette)                                     | `xicodomingues` | `GitHub` |
+| [printfTester](https://github.com/Tripouille/printfTester)                                      | `Tripouille`    | `GitHub` |
 
 #### [01] GET_NEXT_LINE
 > _Project Files_
