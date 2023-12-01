@@ -336,11 +336,12 @@ COMMON CORE PROJECTS
 | [Get Next Line Tester](https://github.com/Tripouille/gnlTester) | `Tripouille`    | `GitHub` |
 
 #### [02] MINITALK
-| Project Files |   |
-| :------------ | - |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf) | `PDF` |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                             | `PNG` |
-| **Resources** |   |
+| Project Files |   | |
+| :------------ | - | |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf) | `PDF` | |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                             | `PNG` | |
+| **Project Files** | | |
+| **Resources** |   | |
 | [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp) |           | `Website` |
 | [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators)                   | `agavrel` | `GitHub`  |
 | [Sending and Handling Signals in C](https://www.youtube.com/watch?v=83M5-NPDeWs)       |           | `Youtube` |
