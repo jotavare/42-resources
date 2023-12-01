@@ -267,25 +267,19 @@ COMMON CORE PROJECTS
 | [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects)   | `agavrel` `GitHub`        |
 
 #### [00] LIBFT
-> _Project Files_
-
-|   |   |
+| Project Files | |
 | - | - |
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf) | `PDF` |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                          | `PNG` |
 
-> _Information and Resources_
-
-|   |   |
+| Resources | |
 | - | - |
 | [Libft Functions](https://www.asidesigned.com/project-libft.html)                                              | `Website` |
 | [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Website` |
 | [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                       | `GitHub`  |
 | [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles)                                          | `Blog`    |
 
-> _Testers_
-
-|   |   |
+| Testers | |
 | - | - |
 | [Francinette](https://github.com/xicodomingues/francinette)            | `xicodomingues` `GitHub` |
 | [Libft Tester](https://github.com/Tripouille/libftTester)              | `Tripouille` `GitHub`    |
@@ -295,12 +289,12 @@ COMMON CORE PROJECTS
 | [Libft War Machine](https://github.com/0x050f/libft-war-machine)       | `0x050f` `GitHub`        |
 
 #### [01] BORN2BEROOT
-| Project Files |   |
+| Project Files | |
 | - | - |
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) | `PDF` |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | `PNG` |
 
-| Resources  |   |
+| Resources | |
 | - | - |
 | [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` |
 | [Guide](https://github.com/lbordonal/01-Born2beroot/wiki) | `lbordonal` `GitHub` |
@@ -309,7 +303,7 @@ COMMON CORE PROJECTS
 | [Debian](https://www.debian.org/) | `Website` |
 | [Rocky](https://rockylinux.org/) | `Website` |
 
-| Testers  |   |
+| Testers | |
 | - | - |
 | [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester) | `Pixailz` `GitHub` |
 | [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester) | `gemartin99` `GitHub` |
