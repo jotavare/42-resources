@@ -314,8 +314,8 @@ COMMON CORE PROJECTS
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_printf.pdf) | `PDF` |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                              | `PNG` |
 
-| Resources |   |   |
-| :-------- | - | - |
+| Resources |   |
+| :-------- | - |
 | [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html) | `Website` |
 
 | Testers |   |   |
@@ -325,27 +325,33 @@ COMMON CORE PROJECTS
 | [printfTester](https://github.com/Tripouille/printfTester)                                      | `Tripouille`    | `GitHub` |
 
 #### [01] GET_NEXT_LINE
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/get_next_line.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-> _Testers_
-- [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
-- [Get Next Line Tester (Tripouille)](https://github.com/Tripouille/gnlTester) `Tripouille` `GitHub`
+| Project Files |   |
+| :------------ | - |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/get_next_line.pdf) | `PDF`|
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                  | `PNG`|
+
+| Testers |   |   |
+| :------ | - | - |
+| [Francinette](https://github.com/xicodomingues/francinette)     | `xicodomingues` | `GitHub` |
+| [Get Next Line Tester](https://github.com/Tripouille/gnlTester) | `Tripouille`    | `GitHub` |
 
 #### [02] MINITALK
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-> _Information and Resources_
-- [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp) `Website`
-- [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators) `agavrel` `GitHub`
-- [Sending and Handling Signals in C](https://www.youtube.com/watch?v=83M5-NPDeWs) `Youtube`
-- [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs) `Youtube`
-- [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U) `Youtube`
-> _Testers_
-- [Lorem Ipsum Generator](https://www.lipsum.com) `Website`
-- [Emojis](https://getemoji.com) `Website`
-- [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `GitHub`
+| Project Files |   |
+| :------------ | - |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf) | `PDF` |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                             | `PNG` |
+| Resources |   |
+| :-------- | - |
+| [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp) |           | `Website` |
+| [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators)                   | `agavrel` | `GitHub`  |
+| [Sending and Handling Signals in C](https://www.youtube.com/watch?v=83M5-NPDeWs)       |           | `Youtube` |
+| [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs)                     |           | `Youtube` |
+| [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U)                        |           | `Youtube` |
+| Testers |   |   |
+| :------ | - | - |
+| [Lorem Ipsum Generator](https://www.lipsum.com)             |               | `Website` |
+| [Emojis](https://getemoji.com)                              |               | `Website` |
+| [Francinette](https://github.com/xicodomingues/francinette) |`xicodomingues`| `GitHub`  |
 
 #### [02] PIPEX
 > _Project Files_
