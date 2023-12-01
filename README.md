@@ -114,12 +114,12 @@ PISCINE AND COMMON CORE
 #### EXAMS
 > _Websites that I found useful for studying 42 exams._
 
-|                                                                            |                                     |           |
-|--------------------------------------------------------------------------- |-------------------------------------|-----------|
-| [GradeMe](https://grademe.fr)                                              | Simulate a 42 exam.                 | `Website` |
-| [Piscine Exams](http://nigal.freeshell.org/42)                             | Questions and solutions.            | `Website` |
-| [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams) | Questions and solutions.            | `GitHub`  |
-| [Common Core Exams](http://www.anit.az/?author=1)                          | Questions and solutions with mains. | `Website` |
+|                                                                            |                                         |           |
+|--------------------------------------------------------------------------- |-----------------------------------------|-----------|
+| [GradeMe](https://grademe.fr)                                              | Simulate piscine and common core exams. | `Website` |
+| [Piscine Exams](http://nigal.freeshell.org/42)                             | Questions and solutions.                | `Website` |
+| [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams) | Questions and solutions.                | `GitHub`  |
+| [Common Core Exams](http://www.anit.az/?author=1)                          | Questions and solutions with mains.     | `Website` |
 
 #### PEER-TO-PEER
 > _Information about peer-to-peer evaluation, and beginner videos about Shell and Git._
