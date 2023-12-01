@@ -136,14 +136,13 @@ PISCINE AND COMMON CORE
 | [Find Peers](https://find-peers.codam.nl)                             | Find peers working on the same project.                                       | `Website` |
 | [42 XP Calculator](https://42.tbailleu.dev)                           | Calculate how much exp you need for the next level.                           | `Website` |
 | [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)              | Debugging online tool. *(learn how to use `gdb` or `lldb`)*                   | `Website` |
-| [Scribe](https://scribehow.com)                                       | Turn any process into a step-by-step guide, instantly.                        | `Website` |
-| [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                 | Open source, community-driven framework.                                      | `GitHub` |
-| [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) | List of plugins for Oh My Zsh!                                                | `GitHub` |
-| [PowerLevel10k](https://github.com/romkatv/powerlevel10k)             | A customizable zsh theme focusing on speed, flexibility, and user experience. | `GitHub` |
+| [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                 | Open source, community-driven framework.                                      | `GitHub`  |
+| [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) | List of plugins for Oh My Zsh!                                                | `GitHub`  |
+| [PowerLevel10k](https://github.com/romkatv/powerlevel10k)             | A customizable zsh theme focusing on speed, flexibility, and user experience. | `GitHub`  |
 
 
 #### GUIDES
-> _Guides and walkthroughs to navigate 42's curriculum._
+> _Guides and walkthroughs to navigate 42 Piscine and Common Core._
 
 |                                                            |                                                                   |           |
 |------------------------------------------------------------|-------------------------------------------------------------------|-----------|
@@ -164,7 +163,7 @@ PISCINE AND COMMON CORE
 | [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)                                 |
 
 #### DICTIONARY AND LANGUAGE CORRECTION
-> _Platforms aiding in language correction and offering dictionaries, ensuring precise communication and documentation._
+> _language correction and dictionaries, ensuring precise communication and documentation._
 
 |                                                     |                                                     |
 |-----------------------------------------------------|-----------------------------------------------------|
@@ -203,13 +202,14 @@ PISCINE AND COMMON CORE
 #### OTHERS
 > _Miscellaneous resources of no particular category, that may proved helpful._
 
-|                                                                       |                                                                                   |           |
-|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------|
-| [RP42](https://github.com/alexandregv/RP42)                           | Discord addon integration for 42 School.                                          | `GitHub`  |
-| [S42](https://s42.app)                                                | Clusters from various 42 schools.                                                 | `Website` |
-| [Installette](https://github.com/Kuninoto/installette)                | Script to install Norminette, a Norminette Formatter, Vim, and 42 Header for Vim. | `GitHub`  |
-| [42 Toolbox](https://github.com/alexandregv/42toolbox)                | A bunch of scripts to make your life better at 42.                                | `GitHub`  |
-| [Neofetch Themes](https://github.com/Chick2D/neofetch-themes)         | Compilation of Neofetch configurations gathered in one location.                  | `GitHub`  |
+|                                                                       |                                                                         |           |
+|-----------------------------------------------------------------------|-------------------------------------------------------------------------|-----------|
+| [RP42](https://github.com/alexandregv/RP42)                           | Discord addon integration for 42 School.                                | `GitHub`  |
+| [S42](https://s42.app)                                                | Clusters from various 42 schools.                                       | `Website` |
+| [Installette](https://github.com/Kuninoto/installette)                | Script to install Norminette, Norminette Formatter, Vim, and 42 Header. | `GitHub`  |
+| [42 Toolbox](https://github.com/alexandregv/42toolbox)                | A bunch of scripts to make your life better at 42.                      | `GitHub`  |
+| [Neofetch Themes](https://github.com/Chick2D/neofetch-themes)         | Compilation of Neofetch configurations gathered in one location.        | `GitHub`  |
+| [Scribe](https://scribehow.com)                                       | Turn any process into a step-by-step guide, instantly.                  | `Website` |
 
 - - - -
 
