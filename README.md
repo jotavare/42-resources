@@ -43,7 +43,7 @@ Thank you for visiting my repository! Here, you will find a collection of resour
 
 ## 42 SCHOOL
 #### TRIVIA
-> _Facts about 42._
+> _Facts about 42 school and the number 42._
 
 |                                                                                                             |             |
 |-------------------------------------------------------------------------------------------------------------|-------------|
@@ -63,7 +63,7 @@ Thank you for visiting my repository! Here, you will find a collection of resour
 | [Lucidchart](https://www.lucidchart.com/pages)                          | Web-based diagramming application.                                | `Website` |
 
 #### NETWORK
-> _Main websites of 42._
+> _Main websites of 42 Network._
 
 |                                                              |                                                                                   |           |
 |------------------------------------------------------------- |---------------------------------------------------------------------------------- |-----------|
@@ -75,7 +75,7 @@ Thank you for visiting my repository! Here, you will find a collection of resour
 | [StackOverflow](https://stackoverflowteams.com/c/42network/) | Official 42 forum. *(after Piscine and official email only)*                      | `Website` |
 
 #### SOCIAL
-> _For a specific 42 School social media, check the section **[CAMPUSES](#---11)** and pick a school of your choice._
+> _For a specific 42 School social media, check the section **[CAMPUSES](#---11)** and choose a school._
 
 |                                                       |                                                  |             |
 |-------------------------------------------------------|--------------------------------------------------|-------------|
@@ -259,14 +259,20 @@ COMMON CORE PROJECTS
 
 #### SUBJECTS
 > _All current 42 subjects in one place._
-- [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph) - Graph with attached links to all 42 subjects. `akaylee` `GitHub`
-- [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers) `GitHub`
-- [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects) `agavrel` `GitHub`
+
+|   |   |
+| - | - |
+| [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph)  | `akaylee` `GitHub`        |
+| [[FR] Binary Hackers (2017)](https://github.com/Binary-Hackers) | `Binary-Hackers` `GitHub` |
+| [[FR] Agavrel (2016)](https://github.com/agavrel/42_Subjects)   | `agavrel` `GitHub`        |
 
 #### ALL-IN-ONE TESTERS
 > _Test your code with already made all-in-one testers._
-- [Francinette](https://github.com/xicodomingues/francinette) `xicodomingues` `Libft` `ft_printf` `get_next_line` `minitalk` `pipex`
-- [42 Cursus Tester](https://github.com/Abaker-Hype/42-Cursus-Tester) `abaker-hype` `Libft` `ft_printf` `get_next_line`
+
+|   |   |
+| - | - |
+| [Francinette](https://github.com/xicodomingues/francinette)         | `xicodomingues` `Libft` `ft_printf` `get_next_line` `minitalk` `pipex` |
+| [42 Cursus Tester](https://github.com/Abaker-Hype/42-Cursus-Tester) | `abaker-hype` `Libft` `ft_printf` `get_next_line`                      |
 
 #### [00] LIBFT
 > _Project Files_
