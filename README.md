@@ -295,7 +295,7 @@ COMMON CORE PROJECTS
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                | `PNG` |
 
 | Resources | | |
-| :- | - | |
+| :- | - | - |
 | [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) |                 | `Youtube` |
 | [Guide by lbordonal](https://github.com/lbordonal/01-Born2beroot/wiki)                    | `lbordonal`     | `GitHub`  |
 | [Guide by pasquelerossi](https://github.com/pasqualerossi/Born2BeRoot-Guide)              | `pasquelerossi` | `GitHub`  |
