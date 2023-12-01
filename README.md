@@ -101,13 +101,15 @@ PISCINE AND COMMON CORE
 
 <p align="center">
 	<a href="#exams">Exams</a> •
-		<a href="#peer-to-peer">Peer-To-Peer</a> •
+	<a href="#peer-to-peer">Peer-To-Peer</a> •
 	<a href="#tools">Tools</a> •
-	<a href="#guides">Tools</a> •
-	<a href="#vs-code">Tools</a> •
-	<a href="#dictionary-and-lana">Tools</a> •
-	<a href="#tools">Tools</a> •
-
+	<a href="#guides">Guides</a> •
+	<a href="#vs-code">VS Code</a> •
+	<a href="#language">Language</a> •
+	<a href="#browser">Broswer</a> •
+	<a href="#apps">Apps</a> •
+	<a href="#readme">Readme</a> •
+	<a href="#others">Others</a> •
 	<a href="#--">↥ Back To Top</a>
 </p>
 
@@ -167,7 +169,7 @@ PISCINE AND COMMON CORE
 | [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format)                                           | `Website` |
 | [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)                                 | `Website` |
 
-#### LANGUAGE AND DICTIONARY
+#### LANGUAGE
 > _Tools to have a correct communication and documentation._
 
 |                                                     |                                                     |           |
@@ -194,7 +196,7 @@ PISCINE AND COMMON CORE
 | [Intra 42 Mobile App](https://play.google.com/store/apps/details?id=com.linkkader.intra42) | `Android` |
 | [Intra 42 Mobile App](https://apps.apple.com/pt/app/intra-42-mobile-app/id1661283873)      | `iOS`     |
 
-#### README AND BADGES
+#### README
 > _Insights on crafting effective README files and integrating badges for your projects._
 
 |                                                                              |                                                        |           |
