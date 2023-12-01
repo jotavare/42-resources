@@ -34,8 +34,6 @@ WELCOME
 
 Thank you for visiting my repository! Here, you will find a collection of resources that I have found helpful during my time at 42 School, as well as some that were not as useful but interesting nonetheless.
 
-Also, I wrote an article called ["One Year of 42"](https://www.linkedin.com/pulse/one-year-42-jo%2525C3%2525A3o-oliveira%3FtrackingId=JXfh9y%252BmQh6t82Ka1utcWQ%253D%253D/?trackingId=JXfh9y%2BmQh6t82Ka1utcWQ%3D%3D). Basically is a resume of my life experiences, achievements and the educational milestones I achieved this last year at 42. So, if you're a (42) student, a professional considering a return to education or unsure about the future, I hope this helps ease your path and not feel alone.
-
 > [!NOTE]
 > If you have a link or a correction to suggest, please don't hesitate to do a pull request or contact me. I highly value any contributions and will evaluate them for possible inclusion in the repository.
 - - - -
@@ -47,46 +45,51 @@ Also, I wrote an article called ["One Year of 42"](https://www.linkedin.com/puls
 ## 42 SCHOOL
 #### TRIVIA
 > _Facts about 42._
-- [42 School](https://en.wikipedia.org/wiki/42_(school)) - `Wikipedia`
-- [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) - `Book` `Wikipedia`
-- [Why the number 42?](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy) - `Wikipedia`
-- [42 and Douglas Adams](https://www.youtube.com/watch?v=D6tINlNluuY) - `Youtube`
+
+|                                                                                                             |                    |
+|-------------------------------------------------------------------------------------------------------------|--------------------|
+| [42 School](https://en.wikipedia.org/wiki/42_(school))                                                      | `Wikipedia`        |
+| [The Hitchhikers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) | `Book` `Wikipedia` |
+| [Why the number 42?](https://en.wikipedia.org/wiki/42_(number)#The_Hitchhiker's_Guide_to_the_Galaxy)        | `Wikipedia`        |
+| [42 and Douglas Adams](https://www.youtube.com/watch?v=D6tINlNluuY)                                         | `Youtube`          |
 
 #### REWARDS
-> _Rewards you may have access to as a 42 student._
-- [Office 365](https://www.microsoft.com/en-us/education/products/office) - Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. `Sign up with 42 email`
-- [GitHub Student Pack](https://github-portal.42.fr/login) - Portal to activate the GitHub Student Pack. `Sign up with 42 email`
-- [Lucidchart](https://www.lucidchart.com/pages) - Web-based diagramming application. `Sign up with 42 email`
-- [JetBrains](https://www.jetbrains.com/community/education) - Integrated development environment Software (IDE). `Sign up with 42 email`
+> _Rewards you may have access to as a 42 student. Sign up with a 42 email._
+
+|                                                                         |                                                                   |           |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------|-----------|
+| [Office 365](https://www.microsoft.com/en-us/education/products/office) | Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. | `Website` |
+| [GitHub Student Pack](https://github-portal.42.fr/login)                | Portal to activate the GitHub Student Pack.                       | `Website` |
+| [Lucidchart](https://www.lucidchart.com/pages)                          | Web-based diagramming application.                                | `Website` |
+| [JetBrains](https://www.jetbrains.com/community/education)              | Integrated development environment Software (IDE).                | `Website` |
 
 #### NETWORK
 > _Main websites of 42._
-- [42 Intra](https://intra.42.fr) - Official portal for everything related to 42.
-- [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1) - Official Slack channel for 42 students (after Piscine).
-- [StackOverflow](https://stackoverflowteams.com/c/42network/join?returnurl=%2fc%2f42network) - Official 42 forum (after Piscine).
-- [Alumni](https://alumni.42.fr) - 42Alumni Network (only for alumni students).
-- [Clusters](https://meta.intra.42.fr/clusters) - Check who is online in your 42 school cluster.
-- [F.A.Q](https://meta.intra.42.fr/articles) - Frequently asked questions about your school.
-- [42 API](https://api.intra.42.fr/apidoc) - The API is RESTful, uses JSON over HTTPS and lets you authenticate users with OAuth 2.0. 
-- [Black Hole Deep Dive](https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2) - Interesting information about blackhole.
+
+|                                                                            |                                                                                              |                |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------|
+| [42 Intra](https://intra.42.fr)                                            | Official portal for everything related to 42.                                                | `42` `Website` |
+| [Slack (42born2code)](https://app.slack.com/client/T039P7U66/C04971HPWQ1)  | Official Slack channel for 42 students (after Piscine).                                      | `Website`      |
+| [StackOverflow](https://stackoverflowteams.com/c/42network/)               | Official 42 forum (after Piscine).                                                           | `Website`      |
+| [Alumni](https://alumni.42.fr)                                             | 42Alumni Network (only for alumni students).                                                 | `42` `Website` |
+| [Clusters](https://meta.intra.42.fr/clusters)                              | Check who is online in your 42 school cluster.                                               | `42` `Website` |
+| [F.A.Q](https://meta.intra.42.fr/articles)                                 | Frequently asked questions about your school.                                                | `42` `Website` |
+| [42 API](https://api.intra.42.fr/apidoc)                                   | If you are looking to build an official 42 integration for your service, this will help you. | `42` `Website` |
 
 #### SOCIAL
 > _For a specific 42 School social media, check the section **[CAMPUSES](#---11)** and pick a school of your choice._
-- [42 Network](https://www.42network.org)
-- [Instagram](https://www.instagram.com/42_network)
-- [Youtube](https://www.youtube.com/c/42thenetwork)
-- [Twitter](https://twitter.com/42Network)
-- [Facebook](https://www.facebook.com/42Network)
-- [Linkedin](https://www.linkedin.com/school/42network)
-- [GitHub](https://github.com/42School)
-- [Official Discord](https://discord.com/invite/42)
-- [Unofficial Discord](https://discord.gg/wsrkKE4)
 
-#### ASSOCIATIONS
-> _Associations and groups made by 42 staff/students._
-- [[FR] 42AI - Association](https://www.42ai.fr) - Artificial Intelligence.
-- [[FR] La Contre-Voie](https://lacontrevoie.fr) - Free culture and ethics.
-- [[FR] APT42](https://apt42.fr) - Security.
+|                                                       |                                                  |
+|-------------------------------------------------------|--------------------------------------------------|
+| [42 Network](https://www.42network.org)               | Official website of 42 Network.                  |
+| [Instagram](https://www.instagram.com/42_network)     | 42 Network's Instagram profile.                  |
+| [Youtube](https://www.youtube.com/c/42thenetwork)     | 42 Network's YouTube channel.                    |
+| [Twitter](https://twitter.com/42Network)              | 42 Network's Twitter handle.                     |
+| [Facebook](https://www.facebook.com/42Network)        | 42 Network's Facebook page.                      |
+| [Linkedin](https://www.linkedin.com/school/42network) | 42 Network's Linkedin profile.                   |
+| [GitHub](https://github.com/42School)                 | 42 School's GitHub page.                         |
+| [Official Discord](https://discord.com/invite/42)     | Official Discord server of 42 Network.           |
+| [Unofficial Discord](https://discord.gg/wsrkKE4)      | Unofficial Discord server related to 42 Network. |
 
 - - - -
 
@@ -139,6 +142,7 @@ PISCINE AND COMMON CORE
 - `echo "set number\nsyntax on" > ~/.vimrc` - It will set the syntax for your files and put the little numbers on your left. (vim only)
 - [.vimrc](https://vim.fandom.com/wiki/Example_vimrc#Example_vimrc) - If you're feeling adventurous. `Website`
 - [OnlineGDB](https://www.onlinegdb.com/online_c_compiler) - Debugging tool, but there are more powerful tools like `lldb` and `gdb` on your terminal. `Website`
+- [Black Hole Deep Dive](https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2) - Interesting information about blackhole.
 
 #### PEER-TO-PEER
 > _Information about peer-to-peer evaluation, and beginner videos about Shell and Git._
@@ -549,10 +553,6 @@ EXTENSIONS
 - [Badge 42](https://github.com/JaeSeoKim/badge42) - Dynamically generated 42 badges for your git readmes. `JaeSeoKim` `GitHub`
 - [42 Project Badges](https://github.com/vinicius-f-pereira/42-project-badges) - Awesome little badges for 42 curriculum projects. `vinicius-f-pereira` `GitHub`
 - [1337 Readme](https://github.com/mohouyizme/1337-readme) - Share your progress with the world via GitHub README.md. `mohouyizme` `GitHub`
-
-#### ADD-ONS
-- [Spicetify](https://spicetify.app) - Powerful CLI tool to take control of the Spotify client.
-- [Discord Plugins](https://betterdiscord.app/plugins) - Community custom-made plugins for Discord.
 
 - - - -
 
@@ -1026,6 +1026,8 @@ MISCELLANEOUS
 - [Uneed](https://www.uneed.best) - Curated list of the best tools on the internet. 
 - [iLovePDF](https://www.ilovepdf.com) - Every tool you need to use PDFs, at your fingertips.
 - [FreezingCam](https://freezingcam.com) - Freeze your webcam at any time during video calls. You can even play a video instead!
+- [Spicetify](https://spicetify.app) - Powerful CLI tool to take control of the Spotify client.
+- [Discord Plugins](https://betterdiscord.app/plugins) - Community custom-made plugins for Discord.
 
 - - - -
 
@@ -1075,6 +1077,7 @@ WIKIMEDIA FOUNDATION
 	<a href="#america">America</a> •
 	<a href="#africa">Africa</a> •
 	<a href="#oceania">Oceania</a> •
+	<a href="#soon">Soon</a> •
 	<a href="#--">↥ Back To Top</a>
 </p>
 
