@@ -285,51 +285,41 @@ COMMON CORE PROJECTS
 | [Libft War Machine](https://github.com/0x050f/libft-war-machine)                                               | `GitHub`  |
 
 #### [01] BORN2BEROOT
-| Project Files |   |
-| :------------ | - |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) | `PDF` |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                | `PNG` |
-
-| Resources |   |   |
-| :-------- | - | - |
-| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) |                 | `Youtube` |
-| [Guide by lbordonal](https://github.com/lbordonal/01-Born2beroot/wiki)                    | `lbordonal`     | `GitHub`  |
-| [Guide by pasquelerossi](https://github.com/pasqualerossi/Born2BeRoot-Guide)              | `pasquelerossi` | `GitHub`  |
-| [Guide by gemartin99](https://github.com/gemartin99/Born2beroot-Tutorial)                 | `gemartin99`    | `GitHub`  |
-| [Debian](https://www.debian.org/)                                                         |                 | `Website` |
-| [Rocky](https://rockylinux.org/)                                                          |                 | `Website` |
-
-| Testers |   |   |
-| :------ | - | - |
-| [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester)     | `Pixailz`    | `GitHub` |
-| [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester) | `gemartin99` | `GitHub` |
+| **Project Files**                                                                             |           |
+| :-------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                | `PNG`     |
+| **Resources**                                                                                 |           |
+| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)     | `Youtube` |
+| [Guide by lbordonal](https://github.com/lbordonal/01-Born2beroot/wiki)                        | `GitHub`  |
+| [Guide by pasquelerossi](https://github.com/pasqualerossi/Born2BeRoot-Guide)                  | `GitHub`  |
+| [Guide by gemartin99](https://github.com/gemartin99/Born2beroot-Tutorial)                     | `GitHub`  |
+| [Debian](https://www.debian.org/)                                                             | `Website` |
+| [Rocky](https://rockylinux.org/)                                                              | `Website` |
+| **Testers**                                                                                   |           |
+| [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester)                            | `GitHub`  |
+| [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester)                        | `GitHub`  |
 
 #### [01] FT_PRINTF
-| Project Files |   |
-| :------------ | - |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_printf.pdf) | `PDF` |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                              | `PNG` |
-
-| Resources |   |
-| :-------- | - |
+| **Project Files**                                                                                                  |           |
+| :----------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_printf.pdf)                        | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                     | `PNG`     |
+| **Resources**                                                                                                      |           |
 | [Table of Output Conversions](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html) | `Website` |
-
-| Testers |   |   |
-| :------ | - | - |
-| [Debugging main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c) | `Kuninoto`      | `GitHub` |
-| [Francinette](https://github.com/xicodomingues/francinette)                                     | `xicodomingues` | `GitHub` |
-| [printfTester](https://github.com/Tripouille/printfTester)                                      | `Tripouille`    | `GitHub` |
+| **Testers**                                                                                                        |           |
+| [Debugging main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c)                    | `GitHub`  |
+| [Francinette](https://github.com/xicodomingues/francinette)                                                        | `GitHub`  |
+| [printfTester](https://github.com/Tripouille/printfTester)                                                         | `GitHub`  |
 
 #### [01] GET_NEXT_LINE
-| Project Files |   |
-| :------------ | - |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/get_next_line.pdf) | `PDF`|
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                  | `PNG`|
-
-| Testers |   |   |
-| :------ | - | - |
-| [Francinette](https://github.com/xicodomingues/francinette)     | `xicodomingues` | `GitHub` |
-| [Get Next Line Tester](https://github.com/Tripouille/gnlTester) | `Tripouille`    | `GitHub` |
+| **Project Files**                                                                               |          |
+| :---------------------------------------------------------------------------------------------- | -------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/get_next_line.pdf) | `PDF`    |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                  | `PNG`    |
+| **Testers**                                                                                     |          |
+| [Francinette](https://github.com/xicodomingues/francinette)                                     | `GitHub` |
+| [Get Next Line Tester](https://github.com/Tripouille/gnlTester)                                 | `GitHub` |
 
 #### [02] MINITALK
 | **Project Files**                                                                          |           |
