@@ -19,14 +19,14 @@ WELCOME
 	<a href="#42-school">42 School</a> •
 	<a href="#---1">Piscine and Common Core</a> •
 	<a href="#---2">Common Core Projects</a> •
-	<a href="#---4">Cyber Security and Hacking</a> •
-	<a href="#---5">Ide, Compilers & Debuggers</a> •
-	<a href="#---6">Moocs and Books</a> •
-	<a href="#---7">AI</a> •
-	<a href="#---8">Tools</a> •
-	<a href="#---9">Miscellaneous</a> •
-	<a href="#---10">Wikimedia Foundation</a> •
-	<a href="#---11">42 Campuses</a>
+	<a href="#---3">Cyber Security and Hacking</a> •
+	<a href="#---4">Ide, Compilers & Debuggers</a> •
+	<a href="#---5">Moocs and Books</a> •
+	<a href="#---6">AI</a> •
+	<a href="#---7">Tools</a> •
+	<a href="#---8">Miscellaneous</a> •
+	<a href="#---9">Wikimedia Foundation</a> •
+	<a href="#---10">42 Campuses</a>
 </p>
 
 ## WELCOME
