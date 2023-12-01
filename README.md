@@ -291,7 +291,7 @@ COMMON CORE PROJECTS
 #### [01] BORN2BEROOT
 > _Project Files_
 
-| |
+| | |
 | :- | - |
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/born2beroot.pdf) | `PDF` |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                | `PNG` |
