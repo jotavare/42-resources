@@ -19,7 +19,6 @@ WELCOME
 	<a href="#42-school">42 School</a> •
 	<a href="#---1">Piscine and Common Core</a> •
 	<a href="#---2">Common Core Projects</a> •
-	<a href="#---3">Extensions</a> •
 	<a href="#---4">Cyber Security and Hacking</a> •
 	<a href="#---5">Ide, Compilers & Debuggers</a> •
 	<a href="#---6">Moocs and Books</a> •
@@ -147,34 +146,45 @@ PISCINE AND COMMON CORE
 | [Developer Roadmaps](https://roadmap.sh)                              | Roadmaps, guides, and other educational content.            | `Website` |
 
 #### EXTENSIONS
-- [Installette (Kuninoto)](https://github.com/Kuninoto/installette) - A Bash script to install Norminette, a Norminette Formatter, Vim and 42 Header for Vim.
-- [PowerLevel10k](https://github.com/romkatv/powerlevel10k) - Theme that I personally use for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
-- [tldr-pages](https://github.com/tldr-pages/tldr) - A collection of community-maintained help pages for command-line tools.
-- [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) - A bunch of Neofetch configs in a single place.
+|                                               |                                                                                                          |
+|-----------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| [Installette (Kuninoto)](https://github.com/Kuninoto/installette) | A Bash script to install Norminette, a Norminette Formatter, Vim, and 42 Header for Vim.                  |
+| [PowerLevel10k](https://github.com/romkatv/powerlevel10k) | A customizable Zsh theme focusing on speed, flexibility, and user experience.                                |
+| [tldr-pages](https://github.com/tldr-pages/tldr) | Community-maintained help pages offering simplified explanations for command-line tools.                     |
+| [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) | Compilation of Neofetch configurations gathered in one location.                                             |
 
 #### VS CODE
-- [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)
-- [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42)
-- [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3)
-- [42 Norminette](https://marketplace.visualstudio.com/items?itemName=dalexhd.42-norminette)
-- [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format)
-- [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)
+|                                                                                                                                |
+|--------------------------------------------------------------------------------------------------------------------------------|
+| [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)                                                 |
+| [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42)                                     |
+| [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3) |
+| [42 Norminette](https://marketplace.visualstudio.com/items?itemName=dalexhd.42-norminette)                                     |
+| [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format)                                           |
+| [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)                                 |
 
 #### BROWSER
 > _I recommend only installing 'Improved Intra 42' because it's an all-in-one extension for both Chrome and Firefox._
-- [Improved Intra 42](https://github.com/FreekBes/improved_intra) `chrome` `firefox`
-- [Better Black Hole](https://github.com/jkctech/BetterBlackHole) `chrome` `firefox`
+
+|                                                                 |                                                                                |
+|-----------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [Improved Intra 42](https://github.com/FreekBes/improved_intra) | Browser extension for Chrome and Firefox to enhance Intra 42 experience.       |
+| [Better Black Hole](https://github.com/jkctech/BetterBlackHole) | Extension available for Chrome and Firefox. Improves Black Hole functionality. |
 
 #### DICTIONARY AND LANGUAGE CORRECTION
-- [QuillBot](https://quillbot.com)
-- [LanguageTool](https://languagetool.org)
-- [Grammarly](https://www.grammarly.com)
-- [Wiktionary](https://en.wiktionary.org)
-- [Urban Dictionary](https://www.urbandictionary.com)
+|                                                     |                                                     |
+|-----------------------------------------------------|-----------------------------------------------------|
+| [QuillBot](https://quillbot.com)                    | Tool for paraphrasing and improving writing.        |
+| [LanguageTool](https://languagetool.org)            | Grammar and style checker for multiple languages.   |
+| [Grammarly](https://www.grammarly.com)              | Writing assistant for grammar and punctuation.      |
+| [Wiktionary](https://en.wiktionary.org)             | Online dictionary and language reference.           |
+| [Urban Dictionary](https://www.urbandictionary.com) | Slang dictionary with user-contributed definitions. |
 
 #### APPS
-- [Intra 42 Mobile App](hhttps://play.google.com/store/apps/details?id=com.linkkader.intra42) - `Android`
-- [Intra 42 Mobile App](https://apps.apple.com/pt/app/intra-42-mobile-app/id1661283873) - `iOS`
+|                                                                                             |           |
+|---------------------------------------------------------------------------------------------|-----------|
+| [Intra 42 Mobile App](hhttps://play.google.com/store/apps/details?id=com.linkkader.intra42) | `Android` |
+| [Intra 42 Mobile App](https://apps.apple.com/pt/app/intra-42-mobile-app/id1661283873)       | `iOS`     |
 
 #### README AND BADGES
 |                                                                              |                                                        |           |
