@@ -75,7 +75,7 @@ Thank you for visiting my repository! Here, you will find a collection of resour
 | [StackOverflow](https://stackoverflowteams.com/c/42network/) | Official 42 forum. *(after Piscine and official email only)*                      | `Website` |
 
 #### SOCIAL
-> _For a specific 42 School social media, check the section **[CAMPUSES](#---11)** and choose a school._
+> _For a specific 42 School social media, check the section **[CAMPUSES](#---10)** and choose a school._
 
 |                                                       |                                                  |             |
 |-------------------------------------------------------|--------------------------------------------------|-------------|
