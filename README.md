@@ -104,55 +104,55 @@ PISCINE AND COMMON CORE
 <p align="center">
 	<a href="#exams">Exams</a> •
 	<a href="#tools">Tools</a> •
-	<a href="#tips">Tips</a> •
 	<a href="#peer-to-peer">Peer-To-Peer</a> •
-	<a href="#ctf">CTF</a> •
 	<a href="#--">↥ Back To Top</a>
 </p>
 
 #### EXAMS
-> _Websites to help you with 42 exams._
-- [GradeMe](https://grademe.fr) - Script that helps you check Common Core projects, simulate an exam or create a Makefile. `Website`
-- [Piscine Exams](http://nigal.freeshell.org/42) - Questions and solutions. `Website`
-- [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams) - Questions and solutions. `pasqualerossi` `GitHub`
-- [Piscine and Common Core Exams](https://github.com/48d31kh413k/1337-exam_rank_02-42) - Questions and solutions. `48d31kh413k` `GitHub`
-- [Piscine and Common Core Exams](https://github.com/ComlanGiovanni?tab=repositories&q=exam&type=&language=&sort=) - Questions and solutions. `ComlanGiovanni` `GitHub`
-- [Common Core Exams](http://www.anit.az/?author=1) - Questions and solutions with mains. `anario` `Website`
+> _Websites that I found useful for studying 42 exams._
 
-#### TOOLS
-> _Tools I use in my 42 journey._
-- [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet) - A awesome cheatsheet for C and 42 in general. `agavrel` `GitHub`
-- [42 Toolbox](https://github.com/alexandregv/42toolbox) - A bunch of scripts to make your life better at 42. `alexandregv` `GitHub`
-- [42 XP Calculator](https://42.tbailleu.dev) - Calculate how much exp you need for the next level. `Website`
-- [42 Stupidity](https://github.com/mirror12k/42us-stupidity) - A tool for quickly testing solutions for the piscine exercises. `mirror12k` `GitHub` 
-- [RP42](https://github.com/alexandregv/RP42) - Discord Rich Presence integration for 42 School. `alexandregv` `GitHub` 
-- [Find Peers](https://find-peers.codam.nl) - Website meant to help students to find peers that are working on the same project. `Website`
-- [S42](https://s42.app) - You can check clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul 🇰🇷 and Vienna 🇦🇹. `Website`
-- [42 Evaluators](https://42evaluators.com) - Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats. `Website`
-- [Scribe](https://scribehow.com) - Turn any process into a step-by-step guide, instantly. `Website`
-- [Profile README.md Generator](https://profile-readme-generator.com) - Create your GitHub README.md in a simple and fast way. `Website`
-- [Developer Roadmaps](https://roadmap.sh) - Roadmaps, guides and other educational content. `Website`
-
-#### TIPS
-> _Tips to improve your coding/learning._
-- [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) - Extended Bourne shell with many improvements, including some features of Bash, ksh, and tcsh. `GitHub`
-- [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki) - Open source, community-driven framework for managing your zsh configuration. `GitHub`
-- [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) - Useful ones: `git` `autojump` `colored-man-pages` `copyfile` `copypath` `github` `sudo` `vscode` but feel free to explore other options. `GitHub`
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) - More colorful syntax. `GitHub`
-- `echo "set number\nsyntax on" > ~/.vimrc` - It will set the syntax for your files and put the little numbers on your left. (vim only)
-- [.vimrc](https://vim.fandom.com/wiki/Example_vimrc#Example_vimrc) - If you're feeling adventurous. `Website`
-- [OnlineGDB](https://www.onlinegdb.com/online_c_compiler) - Debugging tool, but there are more powerful tools like `lldb` and `gdb` on your terminal. `Website`
-- [Black Hole Deep Dive](https://medium.com/@benjaminmerchin/42-black-hole-deep-dive-cbc4b343c6b2) - Interesting information about blackhole.
+|                                                                                                                  |                                     |           |
+|------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----------|
+| [GradeMe](https://grademe.fr)                                                                                    | Simulate a 42 exam.                 | `Website` |
+| [Piscine Exams](http://nigal.freeshell.org/42)                                                                   | Questions and solutions.            | `Website` |
+| [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams)                                       | Questions and solutions.            | `GitHub`  |
+| [Piscine and Common Core Exams](https://github.com/48d31kh413k/1337-exam_rank_02-42)                             | Questions and solutions.            | `GitHub`  |
+| [Piscine and Common Core Exams](https://github.com/ComlanGiovanni?tab=repositories&q=exam&type=&language=&sort=) | Questions and solutions.            | `GitHub`  |
+| [Common Core Exams](http://www.anit.az/?author=1)                                                                | Questions and solutions with mains. | `Website` |
 
 #### PEER-TO-PEER
 > _Information about peer-to-peer evaluation, and beginner videos about Shell and Git._
-- [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) `Youtube`
-- [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE) - What to do before the evaluation? (as evaluated student) `Youtube`
-- [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY) - What to do before the evaluation? (as evaluator) `Youtube`
-- [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ) - What to do during the evaluation? `Youtube`
-- [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug) - What to do after the evaluation? (as evaluated student) `Youtube`
-- [Rules in Evaluations](https://github.com/jotavare/jotavare/blob/main/42/pdf/rules_in_evals.png) - Important evaluation rules. `PNG` `GitHub`
-- [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) - Peer-to-Peer evaluation state of mind and rules you should know. `PDF` `42`
+
+|                                                                                                   |                                                          |           |
+|---------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------|
+| [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) | YouTube playlist covering P2P, Shell, and Git basics.    | `Youtube` |
+| [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE)                                             | What to do before the evaluation? (as evaluated student) | `Youtube` |
+| [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY)                                             | What to do before the evaluation? (as evaluator)         | `Youtube` |
+| [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ)                                             | What to do during the evaluation?                        | `Youtube` |
+| [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug)                                             | What to do after the evaluation? (as evaluated student)  | `Youtube` |
+
+#### TOOLS
+> _Tools that I found useful in my 42 journey._
+
+|                                                                                                        |                                                                            |           |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------|
+| [42 School Cheat Sheet](https://github.com/agavrel/42_CheatSheet)                                      | An awesome cheatsheet for C and 42 in general.                             | `GitHub`  |
+| [42 Toolbox](https://github.com/alexandregv/42toolbox)                                                 | A bunch of scripts to make your life better at 42.                         | `GitHub`  |
+| [42 XP Calculator](https://42.tbailleu.dev)                                                            | Calculate how much exp you need for the next level.                        | `Website` |
+| [42 Stupidity](https://github.com/mirror12k/42us-stupidity)                                            | A tool for quickly testing solutions for the piscine exercises.            | `GitHub`  |
+| [RP42](https://github.com/alexandregv/RP42)                                                            | Discord Rich Presence integration for 42 School.                           | `GitHub`  |
+| [Find Peers](https://find-peers.codam.nl)                                                              | Find peers working on the same project.                                    | `Website` |
+| [S42](https://s42.app)                                                                                 | Clusters from Helsinki 🇫🇮, Malaga 🇪🇸, Paris 🇫🇷, Seoul 🇰🇷, and Vienna 🇦🇹.    | `Website` |
+| [42 Evaluators](https://42evaluators.com)                                                              | Calculator, Leaderboard, PeerFinder, Blackhole, 42 Network Maps and Stats. | `Website` |
+| [Scribe](https://scribehow.com)                                                                        | Turn any process into a step-by-step guide, instantly.                     | `Website` |
+| [Profile README.md Generator](https://profile-readme-generator.com)                                    | Create your GitHub README.md in a simple and fast way.                     | `Website` |
+| [Developer Roadmaps](https://roadmap.sh)                                                               | Roadmaps, guides, and other educational content.                           | `Website` |
+| [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)                                          | Extended Bourne shell with improvements from Bash, ksh, and tcsh.          | `GitHub`  |
+| [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                                                  | Open source, community-driven framework for managing zsh configurations.   | `GitHub`  |
+| [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)                                  | Plugins for Oh My Zsh!.                                                    | `GitHub`  |
+| [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) | Adds colorful syntax highlighting to zsh.                                  | `GitHub`  |
+| [.vimrc](https://vim.fandom.com/wiki/Example_vimrc#Example_vimrc)                                      | A potential vim configuration for the adventurous.                         | `Website` |
+| [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)                                               | Debugging online tool. (`lldb` and `gdb` are available in the terminal)    | `Website` |
 
 - - - -
 
