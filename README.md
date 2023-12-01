@@ -116,12 +116,12 @@ PISCINE AND COMMON CORE
 #### EXAMS
 > _Websites that I found useful for studying 42 exams._
 
-|                                                                            |                                         |           |
-|--------------------------------------------------------------------------- |-----------------------------------------|-----------|
-| [GradeMe](https://grademe.fr)                                              | Simulate piscine and common core exams. | `Website` |
-| [Piscine Exams](http://nigal.freeshell.org/42)                             | Questions and solutions.                | `Website` |
-| [Piscine and Common Core Exams](https://github.com/pasqualerossi/42-Exams) | Questions and solutions.                | `GitHub`  |
-| [Common Core Exams](http://www.anit.az/?author=1)                          | Questions and solutions with mains.     | `Website` |
+|                                                                   |                                         |           |
+|-------------------------------------------------------------------|-----------------------------------------|-----------|
+| [GradeMe](https://grademe.fr)                                     | Simulate piscine and common core exams. | `Website` |
+| [Piscine and Common Core Exams](https://github.com/pasqualerossi) | Questions and solutions.                | `GitHub`  |
+| [(Old) Piscine Exams](http://nigal.freeshell.org/42)              | Questions and solutions.                | `Website` |
+| [(Old) Common Core Exams](http://www.anit.az/?author=1)           | Questions and solutions with mains.     | `Website` |
 
 #### PEER-TO-PEER
 > _Information about peer-to-peer evaluation, and beginner videos about Shell and Git._
@@ -140,12 +140,12 @@ PISCINE AND COMMON CORE
 |                                                                       |                                                                               |           |
 |-----------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------|
 | [42 Evaluators](https://42evaluators.com)                             | Calculator, Leaderboard, PeerFinder, Blackhole, Stats, ...                    | `Website` |
-| [Find Peers](https://find-peers.codam.nl)                             | Find peers working on the same project.                                       | `Website` |
 | [42 XP Calculator](https://42.tbailleu.dev)                           | Calculate how much exp you need for the next level.                           | `Website` |
-| [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)              | Debugging online tool. *(learn how to use `gdb` or `lldb`)*                   | `Website` |
+| [Find Peers](https://find-peers.codam.nl)                             | Find peers working on the same project.                                       | `Website` |
 | [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                 | Open source, community-driven framework.                                      | `GitHub`  |
 | [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) | List of plugins for Oh My Zsh!                                                | `GitHub`  |
 | [PowerLevel10k](https://github.com/romkatv/powerlevel10k)             | A customizable zsh theme focusing on speed, flexibility, and user experience. | `GitHub`  |
+| [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)              | Debugging online tool. *(learn how to use `gdb` or `lldb`)*                   | `Website` |
 
 
 #### GUIDES
@@ -154,31 +154,32 @@ PISCINE AND COMMON CORE
 |                                                            |                                                                   |           |
 |------------------------------------------------------------|-------------------------------------------------------------------|-----------|
 | [42 Cheat Sheet](https://github.com/agavrel/42_CheatSheet) | An awesome cheatsheet for C and 42 in general.                    | `GitHub`  |
-| [tldr-pages](https://github.com/tldr-pages/tldr)           | Community-maintained help pages offering simplified explanations. | `GitHub`  |
 | [Developer Roadmaps](https://roadmap.sh)                   | Roadmaps, guides, and other educational content.                  | `Website` |
+| [tldr-pages](https://github.com/tldr-pages/tldr)           | Community-maintained help pages offering simplified explanations. | `GitHub`  |
 
 #### VS CODE
 > _Extensions for VS Code for enhancing your development experience._
 
 |                                                                                                                                |           |
 |--------------------------------------------------------------------------------------------------------------------------------|-----------|
-| [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)                                                 | `Website` |
-| [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42)                                     | `Website` |
-| [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3) | `Website` |
-| [42 Norminette](https://marketplace.visualstudio.com/items?itemName=dalexhd.42-norminette)                                     | `Website` |
 | [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format)                                           | `Website` |
 | [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)                                 | `Website` |
+| [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)                                                 | `Website` |
+| [42 Norminette](https://marketplace.visualstudio.com/items?itemName=dalexhd.42-norminette)                                     | `Website` |
+| [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42)                                     | `Website` |
+| [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3) | `Website` |
+
 
 #### LANGUAGE
 > _Tools to have a correct communication and documentation._
 
 |                                                     |                                                     |           |
 |-----------------------------------------------------|-----------------------------------------------------|-----------|
-| [QuillBot](https://quillbot.com)                    | Tool for paraphrasing and improving writing.        | `Website` |
-| [LanguageTool](https://languagetool.org)            | Grammar and style checker for multiple languages.   | `Website` |
 | [Grammarly](https://www.grammarly.com)              | Writing assistant for grammar and punctuation.      | `Website` |
-| [Wiktionary](https://en.wiktionary.org)             | Online dictionary and language reference.           | `Website` |
+| [LanguageTool](https://languagetool.org)            | Grammar and style checker for multiple languages.   | `Website` |
+| [QuillBot](https://quillbot.com)                    | Tool for paraphrasing and improving writing.        | `Website` |
 | [Urban Dictionary](https://www.urbandictionary.com) | Slang dictionary with user-contributed definitions. | `Website` |
+| [Wiktionary](https://en.wiktionary.org)             | Online dictionary and language reference.           | `Website` |
 
 #### BROWSER
 > _I recommend installing 'Improved Intra 42', it's an all-in-one extension for both Chrome and Firefox._
