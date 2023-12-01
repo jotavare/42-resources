@@ -392,89 +392,112 @@ COMMON CORE PROJECTS
 | [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator) | `GitHub`  |
 
 #### [02] FRACT-OL
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fract%E2%80%99ol.pdf) `PDF`
-- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fract-ol) `Files`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-> _Information and Resources_
-- [Fractal](https://en.wikipedia.org/wiki/Fractal) `Wikipedia`
+| **Project Files**                                                                                  |             |
+| :------------------------------------------------------------------------------------------------- | ----------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fract%E2%80%99ol.pdf) | `PDF`       |
+| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fract-ol)          | `Files`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                     | `PNG`       |
+
+| **Resources**                                                                                      |             |
+| :------------------------------------------------------------------------------------------------- | ----------- |
+| [Fractal](https://en.wikipedia.org/wiki/Fractal)                                                   | `Wikipedia` |
 
 #### [02] FDF
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fdf.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fdf) `Files`
-> _Information and Resources_
-- [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets) `Generator`
-- [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) `Wikipedia`
-- [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm) `Wikipedia`
+| **Project Files**                                                                        |             |
+| :--------------------------------------------------------------------------------------- | ----------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fdf.pdf)    | `PDF`       |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                           | `PNG`       |
+| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fdf)     | `Files`     |
+
+| **Resources**                                                                            |             |
+| :--------------------------------------------------------------------------------------- | ----------- |
+| [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)                           | `Generator` |
+| [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) | `Wikipedia` |
+| [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm)               | `Wikipedia` |
 
 #### [02] PUSH_SWAP
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/push_swap.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-- [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/push_swap) `Files`
-> _Information and Resources_
-- [push_swap Resources](https://push_swap.simple.ink) `Website`
-- [Medium - Push_Swap Tutorial](https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e) `Website`
-- [Medium - Push_Swap: The least amount of moves with two stacks](https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a) `Website`
-- [42 Heilbronn Student Journey with push_swap](https://medium.com/p/c1f5d2d41e97) `Website`
-- [Sorting Algorithms (28 total)](https://www.geeksforgeeks.org/sorting-algorithms/?ref=lbp) `Website`
-- [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site) `Website`
-- [Data Structures - Stacks Introduction](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgWh1emltdMOz8O2m5X3YYn) `Youtube`
-- [push_swap Project - 42](https://www.youtube.com/watch?v=7KW59UO55TQ) `Youtube`
-- [Algorithms Playlist](https://youtube.com/playlist?list=PL3edoBgC7ScV9WPytQ2dtso21YrTuUSBd) `Youtube`
-> _Testers_
-- [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer) `o-reo` `GitHub`
-- [Push Swap Visualizer](https://github.com/Niimphu/push_swap_visualiser) `Niimphu` `GitHub`
-- [Push Swap Tester](https://github.com/laisarena/push_swap_tester) `laisarena` `GitHub`
-- [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester) `IDC87` `GitHub`
-- [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester) `gemartin99` `GitHub`
-- [Random Number Generator](https://numbergenerator.org/randomnumbergenerator) `Generator` `Website`
-- [Push Swap Visualizer and Number Generator](https://push-swap-visualizer.vercel.app) `Generator` `Website`
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/push_swap.pdf)                                                                    | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
+| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/push_swap)                                                                     | `Files`   |
+
+| **Resources**                                                                                                                                                  |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [push_swap Resources](https://push_swap.simple.ink)                                                                                                            | `Website` |
+| [Push_Swap Tutorial](https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e)                                                                         | `Website` |
+| [Push_Swap: The least amount of moves with two stacks](https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a) | `Website` |
+| [42 Heilbronn Student Journey with push_swap](https://medium.com/p/c1f5d2d41e97)                                                                               | `Website` |
+| [Sorting Algorithms (28 total)](https://www.geeksforgeeks.org/sorting-algorithms/?ref=lbp)                                                                     | `Website` |
+| [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site)                                                                                              | `Website` |
+| [Data Structures - Stacks Introduction](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgWh1emltdMOz8O2m5X3YYn)                                              | `Youtube` |
+| [push_swap Project - 42](https://www.youtube.com/watch?v=7KW59UO55TQ)                                                                                          | `Youtube` |
+| [Algorithms Playlist](https://youtube.com/playlist?list=PL3edoBgC7ScV9WPytQ2dtso21YrTuUSBd)                                                                    | `Youtube` |
+
+| **Testers**                                                                                                                                                    |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer)                                                                                          | `GitHub`  |
+| [Push Swap Visualizer](https://github.com/Niimphu/push_swap_visualiser)                                                                                        | `GitHub`  |
+| [Push Swap Tester](https://github.com/laisarena/push_swap_tester)                                                                                              | `GitHub`  |
+| [Push Swap Leak Tester](https://github.com/IDC87/push_swap_leak_tester)                                                                                        | `GitHub`  |
+| [Push Swap Tester](https://github.com/gemartin99/Push-Swap-Tester)                                                                                             | `GitHub`  |
+| [Random Number Generator](https://numbergenerator.org/randomnumbergenerator)                                                                                   | `Website` |
+| [Push Swap Visualizer and Number Generator](https://push-swap-visualizer.vercel.app)                                                                           | `Website` |
 
 #### [03] PHILOSOPHERS
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/philosophers.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-> _Information and Resources_
-- [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) `Wikipedia`
-- [The Dining Philosopher’s Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) `Wikipedia`
-- [Deadlock](https://en.wikipedia.org/wiki/Deadlock) `Wikipedia`
-- [Data Race/Race Condition](https://en.wikipedia.org/wiki/Race_condition) `Wikipedia`
-- [Medium - The Dining Philosopher’s Problem](https://medium.com/swlh/the-dining-philosophers-problem-bbdb92e6b788) `Website`
-- [Unix Threads in C](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2) `Youtube`
-- [The Dining Philosophers Problem (Neso Academy)](https://www.youtube.com/watch?v=FYUi-u7UWgw) `Youtube`
-- [Dining Philosophers Problem Explanation](https://www.youtube.com/watch?v=UGQsvVKwe90) `Youtube`
-> _Testers_
-- [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer) `nafuka11` `Visualizer` `Website`
-- [Socrates](https://github.com/nesvoboda/socrates) `nesvoboda` `GitHub`
-- [Philosophers Test](https://github.com/cacharle/philosophers_test) `cacharle` `GitHub`
-- [Philosophers Project Tester](https://github.com/newlinuxbot/Philosphers-42Project-Tester) `newlinuxbot` `GitHub`
+| **Project Files**                                                                                                                                              |             |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/philosophers.pdf)                                                                 | `PDF`       |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`       |
+
+| **Resources**                                                                                                                                                  |             |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)                                                                       | `Wikipedia` |
+| [The Dining Philosopher’s Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)                                                                  | `Wikipedia` |
+| [Deadlock](https://en.wikipedia.org/wiki/Deadlock)                                                                                                             | `Wikipedia` |
+| [Data Race/Race Condition](https://en.wikipedia.org/wiki/Race_condition)                                                                                       | `Wikipedia` |
+| [Medium - The Dining Philosopher’s Problem](https://medium.com/swlh/the-dining-philosophers-problem-bbdb92e6b788)                                              | `Website`   |
+| [Unix Threads in C](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)                                                       | `Youtube`   |
+| [The Dining Philosophers Problem (Neso Academy)](https://www.youtube.com/watch?v=FYUi-u7UWgw)                                                                  | `Youtube`   |
+| [Dining Philosophers Problem Explanation](https://www.youtube.com/watch?v=UGQsvVKwe90)                                                                         | `Youtube`   |
+
+| **Testers**                                                                                                                                                    |             |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer)                                                                                  | `Website`   |
+| [Socrates](https://github.com/nesvoboda/socrates)                                                                                                              | `GitHub`    |
+| [Philosophers Test](https://github.com/cacharle/philosophers_test)                                                                                             | `GitHub`    |
+| [Philosophers Project Tester](https://github.com/newlinuxbot/Philosphers-42Project-Tester)                                                                     | `GitHub`    |
 
 #### [03] MINISHELL
-> _Project Files_
-- [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minishell.pdf) `PDF`
-- [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) `PNG`
-> _Information and Resources_
-- [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual) `Website`
-- [42 Docs](https://harm-smits.github.io/42docs/projects/minishell) `Website`
-- [Explain Shell](https://explainshell.com) `Website`
-- [Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c) `Website`
-- [Shell Command Language](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html) `Website`
-- ['Here Documents' in Bash](https://www.howtogeek.com/719058/how-to-use-here-documents-in-bash-on-linux) `Website`
-- [Medium - Minishell](https://achrafbelarif.medium.com/42cursus-minishell-29cd25f972e6) `Website`
-- [Writing a Unix Shell - Part 1](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1) [| Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2) [| Part 3](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3) `Website`
-- [Tiny Shell - Case Study](http://www.cems.uwe.ac.uk/~irjohnso/coursenotes/lrc/system/shell/) `Website`
-- [Writing Your Own Shell](https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf) `PDF`
-- [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY) `Youtube`
-- [Shell Program - Explained](https://youtu.be/ubt-UjcQUYg) [| More Detail](https://youtu.be/ubt-UjcQUYg) `Youtube`
-- [mysh](https://github.com/Swoorup/mysh) `Swoorup` `GitHub`
-- [42 Minishell](https://github.com/DimitriDaSilva/42_minishell) `DimitriDaSilva` `GitHub`
-> _Testers_
-- [42 Minishell Tester](https://github.com/zstenger93/42_minishell_tester) `zstenger93` `GitHub`
-- [Minishell Tester](https://github.com/thallard/minishell_tester) `thallard` `GitHub`
-- [Minishell Panic](https://github.com/ChewyToast/mpanic) `ChewyToast` `GitHub`
+| **Project Files**                                                                                                                                              |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minishell.pdf)                                                                    | `PDF`     |
+| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
+
+| **Resources**                                                                                                                                                  |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual)                                                                                           | `Website` |
+| [42 Docs](https://harm-smits.github.io/42docs/projects/minishell)                                                                                              | `Website` |
+| [Explain Shell](https://explainshell.com)                                                                                                                      | `Website` |
+| [Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c)                                                                              | `Website` |
+| [Shell Command Language](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html)                                                            | `Website` |
+| ['Here Documents' in Bash](https://www.howtogeek.com/719058/how-to-use-here-documents-in-bash-on-linux)                                                        | `Website` |
+| [Medium - Minishell](https://achrafbelarif.medium.com/42cursus-minishell-29cd25f972e6)                                                                         | `Website` |
+| [Writing a Unix Shell - Part 1](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1)                                                               | `Website` |
+| [Writing a Unix Shell - Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2)                                                               | `Website` |
+| [Writing a Unix Shell - Part 3](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3)                                                               | `Website` |
+| [Tiny Shell - Case Study](http://www.cems.uwe.ac.uk/~irjohnso/coursenotes/lrc/system/shell/)                                                                   | `Website` |
+| [Writing Your Own Shell](https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf)                                     | `PDF`     |
+| [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)                                                                | `Youtube` |
+| [Shell Program - Explained](https://youtu.be/ubt-UjcQUYg)                                                                                                      | `Youtube` |
+| [mysh](https://github.com/Swoorup/mysh)                                                                                                                        | `GitHub`  |
+| [42 Minishell](https://github.com/DimitriDaSilva/42_minishell)                                                                                                 | `GitHub`  |
+
+| **Testers**                                                                                                                                                    |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [42 Minishell Tester](https://github.com/zstenger93/42_minishell_tester)                                                                                       | `GitHub`  |
+| [Minishell Tester](https://github.com/thallard/minishell_tester)                                                                                               | `GitHub`  |
+| [Minishell Panic](https://github.com/ChewyToast/mpanic)                                                                                                        | `GitHub`  |
 
 #### [04] NETPRACTICE
 > _Project Files_
