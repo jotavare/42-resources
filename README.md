@@ -687,7 +687,7 @@ CYBER SECURITY AND HACKING
 </p>
 
 #### CRACK THE CODE
-> _Challenges and learning platforms about cyber security and hacking._
+> _Challenges and learning platforms about cyber security and ethical hacking._
 
 |   |   |   |
 | - | - | - |
@@ -768,6 +768,8 @@ CYBER SECURITY AND HACKING
 | [Etcher](https://www.balena.io/etcher) | Cross-platform tool for safely flashing OS images onto SD cards and USB drives. | `Website` |
 
 #### PACKAGE MANAGER
+> _Collection of software tools that automates the process of installing, upgrading, configuring, and removing programs._
+
 |   |   |   |
 | - | - | - |
 | [Chocolatey](https://chocolatey.org) | Windows tool that wraps installers, executables, zips, and scripts into compiled packages. | `Website` |
@@ -795,7 +797,7 @@ CYBER SECURITY AND HACKING
 | [Follina](https://www.youtube.com/watch?v=3ytqP1QvhUc) | Exploits the MSDT tool in Microsoft Office. | `Youtube` |
 
 #### GUIDES AND RESOURCES
-> _Guides and resources about important topics that may help with cyber security or hacking._
+> _Guides and resources about important topics that may help with cyber security or ethical hacking._
 
 |   |   |   |
 | - | - | - |
@@ -810,7 +812,7 @@ CYBER SECURITY AND HACKING
 | [Exploring the Heap](https://medium.com/@m0ab1d42/heap-the-witchcraft-dungeon-ac08e782fb49) | Article exploring the computing concept of the heap. | `Medium` |
 
 #### PODCASTS, NEWS AND VIDEOS
-> _Information specifically intended to capture, preserve, and explain the culture around hacking and cyber security._
+> _Information specifically intended to capture, preserve, and explain the culture around cyber security and ethical hacking._
 
 |   |   |   |
 | - | - | - |
@@ -977,17 +979,6 @@ MISCELLANEOUS
 
 <h1 align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/misc_banner.png">
-</h1>
-
-
-- - - -
-
-<!---
-MOOCS AND BOOKS
--->
-
-<h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/moocs_books_cheatsheets_banner.png">
 </h1>
 
 #### PLATFORMS
