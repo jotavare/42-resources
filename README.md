@@ -899,11 +899,8 @@ WIKIMEDIA FOUNDATION
 	<a href="#--">Scroll To Top</a>
 </p>
 
-#### WORLD
-|   |
-| - |
-| 🌍 [All 42 Campuses](https://www.42network.org/42-schools) |
-| 🗺️ [42 World Map](https://github.com/jotavare/jotavare/blob/main/42/extra/42-campuses-world-map.jpg) |
+> [!NOTE]
+> You can check all available 42 schools [here](https://www.42network.org/42-schools).
 
 #### EUROPE
 |   |   |
