@@ -713,6 +713,7 @@ CYBER SECURITY AND HACKING
 | [Burp Suite](https://portswigger.net/burp) | Integrated platform for security testing of web applications. | `Website` |
 | [WiFi Map](https://www.wifimap.io) | Locates nearby hotspots, displays passwords and enables connection. | `Website` |
 | [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) | Docker image useful for solving Steganography challenges. | `GitHub` |
+| [Medicat USB](https://github.com/mon5termatt/medicat_installer) | A toolkit that helps compile the latest computer diagnostic and recovery tools. | `GitHub` |
 
 #### DIGITAL FOOTPRINT
 > _Discover the imprint left by your online activities._
