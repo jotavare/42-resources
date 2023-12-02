@@ -3,7 +3,7 @@ WELCOME
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/42-resources/banners/github_42_resources_banners_resources.png">
+  <img src="https://github.com/jotavare/42-resources/tree/main/banners/github_42_resources_banners_resources.png">
 </h1>
 
 <p align="center">
@@ -38,7 +38,7 @@ Thank you for visiting my repository! Here, you will find a collection of resour
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/42-resources/banners/github_42_resources_banners_information.png">
+  <img src="https://github.com/jotavare/42-resources/tree/main/banners/github_42_resources_banners_information.png">
 </h1>
 
 <p align="center">
@@ -103,7 +103,7 @@ PISCINE AND COMMON CORE
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/42-resources/banners/github_42_resources_banners_piscine_and_common_core.png">
+  <img src="https://github.com/jotavare/42-resources/tree/main/banners/github_42_resources_banners_piscine_and_common_core.png">
 </h1>
 
 <p align="center">
@@ -253,7 +253,7 @@ COMMON CORE PROJECTS
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/42-resources/banners/github_42_resources_banners_common_core_projects.png">
+  <img src="https://github.com/jotavare/42-resources/tree/main/banners/github_42_resources_banners_common_core_projects.png">
 </h1>
 
 <p align="center">
@@ -676,7 +676,7 @@ CYBER SECURITY AND HACKING
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/42-resources/banners/github_42_resources_banners_cybersecurity.png">
+  <img src="https://github.com/jotavare/42-resources/tree/main/banners/github_42_resources_banners_cybersecurity.png">
 </h1>
 
 <p align="center">
@@ -849,7 +849,7 @@ WIKIMEDIA FOUNDATION
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/42-resources/banners/github_42_resources_banners_wikimedia_foundation.png">
+  <img src="https://github.com/jotavare/42-resources/tree/main/banners/github_42_resources_banners_wikimedia_foundation.png">
 </h1>
 
 <p align="center">
@@ -885,7 +885,7 @@ WIKIMEDIA FOUNDATION
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/42-resources/banners/github_42_resources_banners_campuses.png">
+  <img src="https://github.com/jotavare/42-resources/tree/main/banners/github_42_resources_banners_campuses.png">
 </h1>
 
 <p align="center">
@@ -990,7 +990,7 @@ MISCELLANEOUS
 -->
 
 <h1 align="center">
-  <img src="https://github.com/jotavare/42-resources/banners/github_42_resources_banners_miscellaneous.png">
+  <img src="https://github.com/jotavare/42-resources/tree/main/banners/github_42_resources_banners_miscellaneous.png">
 </h1>
 
 <p align="center">
