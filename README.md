@@ -98,13 +98,14 @@ PISCINE AND COMMON CORE
 <p align="center">
 	<a href="#exams">Exams</a> •
 	<a href="#peer-to-peer">Peer-To-Peer</a> •
-	<a href="#tools">Tools</a> •
+	<a href="#websites">Websites</a> •
 	<a href="#guides">Guides</a> •
 	<a href="#vs-code">VS Code</a> •
 	<a href="#language">Language</a> •
 	<a href="#browser">Broswer</a> •
 	<a href="#apps">Apps</a> •
 	<a href="#readme">Readme</a> •
+	<a href="#productivity-software">Productivity software</a> •
 	<a href="#others">Others</a> •
 	<a href="#--">↥ Back To Top</a>
 </p>
@@ -112,8 +113,8 @@ PISCINE AND COMMON CORE
 #### EXAMS
 > _Websites that I found useful for studying 42 exams._
 
-|                                                                   |                                         |           |
-|-------------------------------------------------------------------|-----------------------------------------|-----------|
+|   |   |
+| - | - |
 | [GradeMe](https://grademe.fr)                                     | Simulate piscine and common core exams. | `Website` |
 | [Piscine and Common Core Exams](https://github.com/pasqualerossi) | Questions and solutions.                | `GitHub`  |
 | [(Old) Piscine Exams](http://nigal.freeshell.org/42)              | Questions and solutions.                | `Website` |
@@ -122,33 +123,30 @@ PISCINE AND COMMON CORE
 #### PEER-TO-PEER
 > _Information about peer-to-peer evaluation, and beginner videos about Shell and Git._
 
-|                                                                                                   |                                                            |           |
-|---------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------|
+|   |   |
+| - | - |
 | [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) | YouTube playlist covering P2P, Shell, and Git basics.      | `Youtube` |
 | [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE)                                             | What to do before the evaluation? *(as evaluated student)* | `Youtube` |
 | [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY)                                             | What to do before the evaluation? *(as evaluator)*         | `Youtube` |
 | [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ)                                             | What to do during the evaluation?                          | `Youtube` |
 | [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug)                                             | What to do after the evaluation? *(as evaluated student)*  | `Youtube` |
 
-#### TOOLS
-> _Tools that I found useful in my 42 journey._
+#### WEBSITES
+> _Websites that I found useful in my 42 journey._
 
-|                                                                       |                                                                               |           |
-|-----------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------|
+|   |   |
+| - | - |
 | [42 Evaluators](https://42evaluators.com)                             | Calculator, Leaderboard, PeerFinder, Blackhole, Stats, ...                    | `Website` |
 | [42 XP Calculator](https://42.tbailleu.dev)                           | Calculate how much exp you need for the next level.                           | `Website` |
 | [Find Peers](https://find-peers.codam.nl)                             | Find peers working on the same project.                                       | `Website` |
-| [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                 | Open source, community-driven framework.                                      | `GitHub`  |
-| [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) | List of plugins for Oh My Zsh!                                                | `GitHub`  |
-| [PowerLevel10k](https://github.com/romkatv/powerlevel10k)             | A customizable zsh theme focusing on speed, flexibility, and user experience. | `GitHub`  |
-| [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)              | Debugging online tool. *(learn how to use `gdb` or `lldb`)*                   | `Website` |
+| [S42](https://s42.app)                                                | Clusters from various 42 schools.                                             | `Website` |
 
 
 #### GUIDES
 > _Guides and walkthroughs to navigate 42 Piscine and Common Core._
 
-|                                                            |                                                                   |           |
-|------------------------------------------------------------|-------------------------------------------------------------------|-----------|
+|   |   |
+| - | - |
 | [42 Cheat Sheet](https://github.com/agavrel/42_CheatSheet) | An awesome cheatsheet for C and 42 in general.                    | `GitHub`  |
 | [Developer Roadmaps](https://roadmap.sh)                   | Roadmaps, guides, and other educational content.                  | `Website` |
 | [tldr-pages](https://github.com/tldr-pages/tldr)           | Community-maintained help pages offering simplified explanations. | `GitHub`  |
@@ -156,8 +154,8 @@ PISCINE AND COMMON CORE
 #### VS CODE
 > _Extensions for VS Code for enhancing your development experience._
 
-|                                                                                                                                |           |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------|
+|   |   |
+| - | - |
 | [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format)                                           | `Website` |
 | [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)                                 | `Website` |
 | [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)                                                 | `Website` |
@@ -169,8 +167,8 @@ PISCINE AND COMMON CORE
 #### LANGUAGE
 > _Tools to have correct communication and documentation._
 
-|                                                     |                                                     |           |
-|-----------------------------------------------------|-----------------------------------------------------|-----------|
+|   |   |
+| - | - |
 | [Grammarly](https://www.grammarly.com)              | Writing assistant for grammar and punctuation.      | `Website` |
 | [LanguageTool](https://languagetool.org)            | Grammar and style checker for multiple languages.   | `Website` |
 | [QuillBot](https://quillbot.com)                    | Tool for paraphrasing and improving writing.        | `Website` |
@@ -180,39 +178,32 @@ PISCINE AND COMMON CORE
 #### BROWSER
 > _I recommend installing 'Improved Intra 42', it's an all-in-one extension for both Chrome and Firefox._
 
-|                                                                 |                                                                                |          |
-|-----------------------------------------------------------------|--------------------------------------------------------------------------------|----------|
-| [Improved Intra 42](https://github.com/FreekBes/improved_intra) | Browser extension for Chrome and Firefox to enhance Intra 42 experience.       | `GitHub` |
+|   |   |
+| - | - |
+| [Improved Intra 42](https://github.com/FreekBes/improved_intra) | Browser extension for Chrome and Firefox to enhance the Intra 42 experience.   | `GitHub` |
 | [Better Black Hole](https://github.com/jkctech/BetterBlackHole) | Extension available for Chrome and Firefox. Improves Black Hole functionality. | `GitHub` |
 
 #### APPS
 > _Avaialable apps for Android and iOS._
 
-|                                                                                            |           |
-|--------------------------------------------------------------------------------------------|-----------|
+|   |   |
+| - | - |
 | [Intra 42 Mobile App](https://play.google.com/store/apps/details?id=com.linkkader.intra42) | `Android` |
 | [Intra 42 Mobile App](https://apps.apple.com/pt/app/intra-42-mobile-app/id1661283873)      | `iOS`     |
 
 #### README
 > _Insights on crafting effective README files and integrating badges for your projects._
 
-|                                                                              |                                                        |           |
-|------------------------------------------------------------------------------|--------------------------------------------------------|-----------|
+|   |   |
+| - | - |
 | [README.md Generator](https://profile-readme-generator.com)                  | Create your GitHub README.md in a simple and fast way. | `Website` |
 | [Badge 42](https://github.com/JaeSeoKim/badge42)                             | Dynamically generated 42 badges for your git readmes.  | `GitHub`  |
 | [42 Project Badges](https://github.com/vinicius-f-pereira/42-project-badges) | Badges designed for 42 curriculum projects.            | `GitHub`  |
 | [1337 Readme](https://github.com/mohouyizme/1337-readme)                     | Share your progress via GitHub README.md.              | `GitHub`  |
 
-#### IDE, COMPILER AND DEBUGGERS
-|                                                  |                                                                                                  |
-|--------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [GDB Online Debugger](https://www.onlinegdb.com) | Online compiler and debugger for a lot of programming languages.                                 |
-| [Python Tutor](https://pythontutor.com)          | Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.                 |
-| [Thonny](https://thonny.org)                     | Thonny is an IDE for Python that is designed for beginners.                                      |
-| [Sublime Text](https://www.sublimetext.com)      | Sophisticated text editor for code, markup, and prose.                                           |
-| [Replit](https://replit.com)                     | Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter. |
-
 #### PRODUCTIVITY SOFTWARE
+> _Software designed to simplify tasks, and streamline workflow._
+
 |   |   |
 | - | - |
 | [Evernote](https://evernote.com) | Note-taking and task management application.  | `Website` |
@@ -226,12 +217,19 @@ PISCINE AND COMMON CORE
 
 |   |   |
 | - | - |
-| [RP42](https://github.com/alexandregv/RP42) | Discord addon integration for 42 School. | `GitHub` |
-| [S42](https://s42.app) | Clusters from various 42 schools. | `Website` |
-| [Installette](https://github.com/Kuninoto/installette) | Script to install Norminette, Norminette Formatter, Vim, and 42 Header. | `GitHub` |
-| [42 Toolbox](https://github.com/alexandregv/42toolbox) | A bunch of scripts to make your life better at 42. | `GitHub` |
-| [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) | Compilation of Neofetch configurations gathered in one location. | `GitHub` |
-| [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) | Course on how to think algorithmically and solve problems efficiently. | `Website` |
+| [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                     | Open source, community-driven framework.                                                         | `GitHub`  |
+| [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)     | List of plugins for Oh My Zsh!                                                                   | `GitHub`  |
+| [PowerLevel10k](https://github.com/romkatv/powerlevel10k)                 | A customizable zsh theme focusing on speed, flexibility, and user experience.                    | `GitHub`  |
+| [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)                  | Debugging online tool. *(learn how to use `gdb` or `lldb`)*                                      | `Website` |
+| [Python Tutor](https://pythontutor.com)                                   | Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.                 | `Website` |
+| [Thonny](https://thonny.org)                                              | Thonny is an IDE for Python designed for beginners.                                              | `Website` |
+| [Sublime Text](https://www.sublimetext.com)                               | Sophisticated text editor for code, markup, and prose.                                           | `Website` |
+| [Replit](https://replit.com)                                              | Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter. | `Website` |
+| [RP42](https://github.com/alexandregv/RP42)                               | Discord addon integration for 42 School.                                                         | `GitHub`  |
+| [Installette](https://github.com/Kuninoto/installette)                    | Script to install Norminette, Norminette Formatter, Vim, and 42 Header.                          | `GitHub`  |
+| [42 Toolbox](https://github.com/alexandregv/42toolbox)                    | A bunch of scripts to improve your life at 42.                                                   | `GitHub`  |
+| [Neofetch Themes](https://github.com/Chick2D/neofetch-themes)             | Compilation of Neofetch configurations gathered in one location.                                 | `GitHub`  |
+| [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) | Course on thinking algorithmically and solving problems efficiently.                             | `Website` |
 
 - - - -
 
