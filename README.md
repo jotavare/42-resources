@@ -21,7 +21,7 @@ WELCOME
 	<a href="#---3">Common Core Projects</a> •
 	<a href="#---4">Cyber Security</a> •
 	<a href="#---5">Wikimedia Foundation</a> •
-	<a href="#---6">42 Campuses</a> •
+	<a href="#---6">Campuses</a> •
  	<a href="#---7">Miscellaneous</a>
 </p>
 
