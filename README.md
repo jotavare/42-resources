@@ -213,23 +213,24 @@ PISCINE AND COMMON CORE
 | [Scribe](https://scribehow.com)     | Turn any process into a step-by-step guide, instantly.                                | `Website` |
 
 #### OTHERS
-> _Miscellaneous resources of no particular category, that may prove helpful._
+> _Resources of no particular order but that may prove helpful. More available [here](#---6)._
 
 |   |   |
 | - | - |
-| [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                     | Open source, community-driven framework.                                                         | `GitHub`  |
-| [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)     | List of plugins for Oh My Zsh!                                                                   | `GitHub`  |
-| [PowerLevel10k](https://github.com/romkatv/powerlevel10k)                 | A customizable zsh theme focusing on speed, flexibility, and user experience.                    | `GitHub`  |
-| [Neofetch Themes](https://github.com/Chick2D/neofetch-themes)             | Compilation of Neofetch configurations gathered in one location.                                 | `GitHub`  |
-| [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)                  | Debugging online tool. *(learn how to use `gdb` or `lldb`)*                                      | `Website` |
-| [Python Tutor](https://pythontutor.com)                                   | Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.                 | `Website` |
-| [Thonny](https://thonny.org)                                              | Thonny is an IDE for Python designed for beginners.                                              | `Website` |
-| [Sublime Text](https://www.sublimetext.com)                               | Sophisticated text editor for code, markup, and prose.                                           | `Website` |
-| [Replit](https://replit.com)                                              | Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter. | `Website` |
-| [RP42](https://github.com/alexandregv/RP42)                               | Discord addon integration for 42 School.                                                         | `GitHub`  |
-| [Installette](https://github.com/Kuninoto/installette)                    | Script to install Norminette, Norminette Formatter, Vim, and 42 Header.                          | `GitHub`  |
-| [42 Toolbox](https://github.com/alexandregv/42toolbox)                    | A bunch of scripts to improve your life at 42.                                                   | `GitHub`  |
-| [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) | Course on thinking algorithmically and solving problems efficiently.                             | `Website` |
+| [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                     | Open source, community-driven framework.                                         | `GitHub`  |
+| [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)     | List of plugins for Oh My Zsh!                                                   | `GitHub`  |
+| [PowerLevel10k](https://github.com/romkatv/powerlevel10k)                 | A customizable zsh theme focusing on speed, flexibility, and user experience.    | `GitHub`  |
+| [Neofetch Themes](https://github.com/Chick2D/neofetch-themes)             | Compilation of Neofetch configurations gathered in one location.                 | `GitHub`  |
+| [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)                  | Debugging online tool. *(learn how to use `gdb` or `lldb`)*                      | `Website` |
+| [Python Tutor](https://pythontutor.com)                                   | Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`. | `Website` |
+| [Thonny](https://thonny.org)                                              | Thonny is an IDE for Python designed for beginners.                              | `Website` |
+| [Sublime Text](https://www.sublimetext.com)                               | Sophisticated text editor for code, markup, and prose.                           | `Website` |
+| [Replit](https://replit.com)                                              | IDE, compiler, and interpreter, in +50 languages.                                | `Website` |
+| [RP42](https://github.com/alexandregv/RP42)                               | Discord addon integration for 42 School.                                         | `GitHub`  |
+| [Installette](https://github.com/Kuninoto/installette)                    | Script to install Norminette, Norminette Formatter, Vim, and 42 Header.          | `GitHub`  |
+| [42 Toolbox](https://github.com/alexandregv/42toolbox)                    | A bunch of scripts to improve your life at 42.                                   | `GitHub`  |
+| [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) | Course on thinking algorithmically and solving problems efficiently.             | `Website` |
+| [Reeborg's World](https://reeborg.ca/reeborg.html)                        | Website designed to help people learn to program through  gaming puzzles.        | `Website` |
 
 - - - -
 
@@ -1086,20 +1087,20 @@ MISCELLANEOUS
 | [GitHub Emoji API](https://api.github.com/emojis) |
 | [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html) |
 
-| Images |   |
-| - | - |
+| Images |
+| - |
 | [Lorem Picsum](https://picsum.photos) |
 | [Unsplash](https://unsplash.com) |
 | [TinEye](https://tineye.com) |
 | [Google Images](https://www.google.com/imghp) |
 
-| Colors  |   |
-| - | - |
+| Colors |
+| - |
 | [Flat UI Colors](https://flatuicolors.com) |
 | [ColorSpace](https://mycolor.space) |
 
-| Design  |   |
-| - | - |
+| Design |
+| - |
 | [Placeit](https://placeit.net) |
 | [Canva](https://www.canva.com) |
 | [Pitch](https://pitch.com) |
@@ -1108,43 +1109,49 @@ MISCELLANEOUS
 | [Envato Market](https://themeforest.net) |
 | [Elements Envato](https://elements.envato.com) |
 
-| Video  |   |
-| - | - |
+| Video |
+| - |
 | [Mixkit](https://mixkit.co) |
 
-#### GAMES
-###### _Attention, depending on your 42 school rules you may or may not play games on school computers. Avoid getting -420 and community service._
-- [Reeborg's World](https://reeborg.ca/reeborg.html) - Website designed to help people learn to program. `Recommended`
-- [Sudoku](https://sudoku.com) - Fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9.
-- [2048](https://play2048.co) - Slide numbered tiles on a grid to combine them to create a tile with the number 2048.
-- [Keybr](https://www.keybr.com) - Take a typing test, practice typing lessons, and learn to type faster.
-- [The Scale of the Universe](https://htwins.net/scale2) - This game shows the sizes of different things in our universe in relation to other different things.
-- [The Is This Prime?](https://isthisprime.com/game)
-- [Quick, Draw!](https://quickdraw.withgoogle.com) - Can a neural network learn to recognize squiggles?
-- [Random Country Generator](https://random.country) - Ever wanted to learn about all the countries in the world?
+#### ENTERTAINMENT
+> [!NOTE]
+> _Attention, depending on your 42 school rules you may or may not play games on school computers. Avoid getting -420 and community service._
 
-#### RUBIKS CUBE
-- [SpeedSolving](https://www.speedsolving.com/wiki/index.php/Main_Page) - Community focused on speed-solving puzzles, particularly the Rubik's cube and alike.
-- [Ruwix](https://ruwix.com) - Website to learn about Rubik's Cube and other twisty puzzles.
+| Media |   |
+| - | - |
+| [Sudoku](https://sudoku.com) | Fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9. |
+| [2048](https://play2048.co) | Slide numbered tiles on a grid to combine them to create a tile with the number 2048. |
+| [Keybr](https://www.keybr.com) | Take a typing test, practice typing lessons, and learn to type faster. |
+| [The Scale of the Universe](https://htwins.net/scale2) | This game shows the sizes of different things in our universe in relation to other different things. |
+| [The Is This Prime?](https://isthisprime.com/game) | |
+| [Quick, Draw!](https://quickdraw.withgoogle.com) | Can a neural network learn to recognize squiggles? |
+| [Random Country Generator](https://random.country) | Ever wanted to learn about all the countries in the world? |
 
-#### CHESS
-- [Chess](https://www.chess.com) - Chess online.
-- [Lichess](https://lichess.org) - Free and open-source chess server. Clean interface, no registration, no ads, and no plugin required.
-- [Chess24](https://chess24.com) - Chess news.
-- [Kasparovchess](https://kasparovchess.com) - Garry Kasparov masterclass, lessons from grandmasters, entertaining documentaries and interviews.
-- [ChessBase](https://en.chessbase.com) - Chess news and stand-alone database that has become the standard throughout the world.
-- [Chessgames](https://www.chessgames.com) - Database of chess games, discussion forums, forming the internet's oldest chess community.
-- [Notable Chess games of all time](https://www.chessgames.com/perl/goat.pl)
-- [Chess Tactics](https://www.chesstactics.org) - Chess tactics taught in plain English. The most complete body of instruction on the subject yet written.
-- [Chessboard.js](https://chessboardjs.com/examples#5002) - Who will win in this chess game of Math.random() vs Math.random()?
-- [Britannica](https://www.britannica.com/topic/chess) - What is chess?
-- [Chess Wikipedia](https://en.wikipedia.org/wiki/Chess)
+| Rubiks Cube |   |
+| - | - |
+| [SpeedSolving](https://www.speedsolving.com/wiki/index.php/Main_Page) | Community focused on speed-solving puzzles, particularly the Rubik's cube and alike. |
+| [Ruwix](https://ruwix.com) | Website to learn about Rubik's Cube and other twisty puzzles. |
 
-#### MEMES
-- [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) - `Youtube`
-- [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) - `Youtube`
-- [[FR] Memes](https://www.instagram.com/duoquadra_meme) - `Instagram`
-- [Know Your Meme](https://knowyourmeme.com) - Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
+| Chess |   |
+| - | - |
+| [Chess](https://www.chess.com) | Chess online. |
+| [Lichess](https://lichess.org) | Free and open-source chess server. Clean interface, no registration, no ads, and no plugin required. |
+| [Chess24](https://chess24.com) | Chess news. |
+| [Kasparovchess](https://kasparovchess.com) | Garry Kasparov masterclass, lessons from grandmasters, entertaining documentaries and interviews. |
+| [ChessBase](https://en.chessbase.com) | Chess news and stand-alone database that has become the standard throughout the world. |
+| [Chessgames](https://www.chessgames.com) | Database of chess games, discussion forums, forming the internet's oldest chess community. |
+| [Notable Chess games of all time](https://www.chessgames.com/perl/goat.pl) | |
+| [Chess Tactics](https://www.chesstactics.org) | Chess tactics taught in plain English. The most complete body of instruction on the subject yet written. |
+| [Chessboard.js](https://chessboardjs.com/examples#5002) | Who will win in this chess game of Math.random() vs Math.random()? |
+| [Britannica](https://www.britannica.com/topic/chess) | What is chess? |
+| [Chess Wikipedia](https://en.wikipedia.org/wiki/Chess) | |
+
+| Memes |   |
+| - | - |
+| [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) | `Youtube` |
+| [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) | `Youtube` |
+| [[FR] Memes](https://www.instagram.com/duoquadra_meme) | `Instagram` |
+| [Know Your Meme](https://knowyourmeme.com) | Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more. |
 
 #### OTHERS
 - [Character Counter](https://wordcounter.net/character-count)
