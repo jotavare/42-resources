@@ -876,7 +876,7 @@ WIKIMEDIA FOUNDATION
 	<a href="#asia">Asia</a> •
 	<a href="#america">America</a> •
 	<a href="#africa">Africa</a> •
-	<a href="#oceania">Oceania</a> |
+	<a href="#oceania">Oceania</a> •
 	<a href="#soon">Soon</a> •
 	<a href="#--">Scroll To Top</a>
 </p>
@@ -975,8 +975,15 @@ MISCELLANEOUS
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/misc_banner.png">
 </h1>
 
-#### AI TOOLS
-| Chatbot  |   |
+<p align="center">
+	<a href="#artificial-intelligence">Artificial Intelligence</a> •
+	<a href="#educational-resources">Educational Resources</a> •
+	<a href="#design-tools">Design Tools</a> •
+	<a href="#--">Scroll To Top</a>
+</p>
+
+#### ARTIFICIAL INTELLIGENCE
+| Chatbot |   |
 | - | - |
 | [ChatGPT](https://chat.openai.com/chat) |  Chatbot launched by OpenAI in November 2022. |
 | [Bard](https://bard.google.com) | AI chatbot, similar to ChatGPT. |
@@ -984,13 +991,13 @@ MISCELLANEOUS
 | [PromptHero](https://prompthero.com) | Specific prompts for AI tools. |
 | [BLACKBOX AI](https://www.useblackbox.io) | AI-Powered Coding Assistant. |
 
-| Text  |   |
+| Text |   |
 | - | - |
 | [Rytr](https://rytr.me) | AI writing assistant that helps you create high-quality content. |
 | [QuillBot](https://quillbot.com) | Spelling/grammar checker. |
 | [Writerly](https://writerly.ai/) | Content creation superpower. |
 
-| Media  |   |
+| Media |   |
 | - | - |
 | [Stable Diffusion](https://stablediffusionweb.com) | Latent text-to-image diffusion model capable of generating photo-realistic images. |
 | [OpenJourney](https://huggingface.co/prompthero/openjourney) | Trained art model used in Stable Diffusion (includes negative prompts). |
@@ -1000,15 +1007,15 @@ MISCELLANEOUS
 | [Gen-2](https://research.runwayml.com/gen2) | Generate novel videos with text, images, or video clips. ... No lights. No camera. All action. |
 | [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/) | Turn simple brushstrokes into realistic landscape images. |
 
-| Others  |   |
+| Others |   |
 | - | - |
 | [Futurepedia](https://www.futurepedia.io) | Largest AI tools directory. |
 | [Future Tools](https://www.futuretools.io) | All The Best AI Tools. |
 | [Hugging Face](https://huggingface.co) | Trained AI models to use with other AI tools. |
 
-#### EDUCATIONAL
-| Plataforms  |
-| - | - |
+#### EDUCATIONAL RESOURCES
+| Plataforms |
+| - |
 | [Udemy](https://www.udemy.com) |
 | [Google Codelabs](https://codelabs.developers.google.com) |
 | [Codecademy](https://www.codecademy.com) |
@@ -1022,14 +1029,14 @@ MISCELLANEOUS
 | [Google Developers Certification](https://developers.google.com/certification) |
 | [Envato Tuts+](https://tutsplus.com) |
 
-| Courses  |   |
-| - | - |
+| Courses |
+| - |
 | [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) |
 | [100 Days of Code in Python](https://www.udemy.com/course/100-days-of-code) |
 | [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) |
 
-| Books  |   |
-| - | - |
+| Books |
+| - |
 | [Programming Notes for Professionals](https://books.goalkicker.com) |
 | [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface) |
 | [Getting Things Done](https://www.google.com/search?client=firefox-b-d&q=getting+things+done) |
@@ -1037,8 +1044,8 @@ MISCELLANEOUS
 | [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) |
 | [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) |
 
-| Cheatsheets  |   |
-| - | - |
+| Cheatsheets |
+| - |
 | [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) |
 | [Explain Shell](https://explainshell.com) |
 | [Git Shell Colors](https://gist.github.com/vratiu/9780109) |
@@ -1058,46 +1065,52 @@ MISCELLANEOUS
 | [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets) |
 | [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) |
 
+#### DESIGN TOOLS
+| Generators |
+| - |
+| [ASCII Table](https://www.asciitable.com) |
+| [Lorem Ipsum](https://lipsum.com) |
+| [RANDOM.ORG](https://www.random.org) |
+| [YayText](https://yaytext.com) |
+| [Tables Generator](https://www.tablesgenerator.com) |
+| [Duplicate Word Finder](https://duplicateword.com) |
+| [Duplicate Word Finder - CodePen](https://codepen.io/finnhvman/pen/oPwXRa) |
 
-#### GENERATORS
-- [ASCII Table](https://www.asciitable.com) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
-- [Lorem Ipsum](https://lipsum.com) - Dummy text for the printing and typesetting industry.
-- [RANDOM.ORG](https://www.random.org) - Website that produces random numbers based on atmospheric noise. 
-- [YayText](https://yaytext.com) - Generate a variety of cool unicode font styles.
-- [Tables Generator](https://www.tablesgenerator.com) - Table editor and Generator. `LaTeX` `ConTeXt` `Plain TeX` `PreTeXt` `EPlain` `Markdown` `Textile` `CSV` `HTML` 
-- [Duplicate Word Finder](https://duplicateword.com) - Find duplicate words and eliminate them from your writings, posts or emails. 
-- [Duplicate Word Finder - CodePen](https://codepen.io/finnhvman/pen/oPwXRa) - Duplicate Word Finder + `HTML` `CSS` `JS` visualization.
+| Icons |
+| - |
+| [Flaticon](https://www.flaticon.com) |
+| [Reshot](https://www.reshot.com) |
+| [unDraw](https://undraw.co) |
+| [Emojipedia](https://emojipedia.org) |
+| [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) |
+| [GitHub Emoji API](https://api.github.com/emojis) |
+| [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html) |
 
-#### ICONS AND IllUSTRATIONS
-- [Flaticon](https://www.flaticon.com) - Wide catalogue of icons. `Free` `PNG` `Paid` `SVG` `EPS` `PSD`
-- [Reshot](https://www.reshot.com) - `Free`
-- [unDraw](https://undraw.co) - `Open Source`
-- [Emojipedia](https://emojipedia.org) - Emoji search engine with options to browse every emoji by name, category, or platform. `Open Source`
-- [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-- [GitHub Emoji API](https://api.github.com/emojis)
-- [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)
+| Images |   |
+| - | - |
+| [Lorem Picsum](https://picsum.photos) |
+| [Unsplash](https://unsplash.com) |
+| [TinEye](https://tineye.com) |
+| [Google Images](https://www.google.com/imghp) |
 
-#### IMAGES
-- [Lorem Picsum](https://picsum.photos) - The Lorem Ipsum for photos. `Free`
-- [Unsplash](https://unsplash.com) - Free images and photos that you can download and use for any project. `Free` `Paid`
-- [TinEye](https://tineye.com) - Reverse image search. `Free`
-- [Google Images](https://www.google.com/imghp) - Reverse image search from google. `Free`
+| Colors  |   |
+| - | - |
+| [Flat UI Colors](https://flatuicolors.com) |
+| [ColorSpace](https://mycolor.space) |
 
-#### COLORS
-- [Flat UI Colors](https://flatuicolors.com) - A total set of 14 colour palettes and 280 colours for your designs, projects, presentations and other needs.
-- [ColorSpace](https://mycolor.space) - Generate colour palettes, and colour gradients and find the perfect matching colour scheme for your project.
+| Design  |   |
+| - | - |
+| [Placeit](https://placeit.net) |
+| [Canva](https://www.canva.com) |
+| [Pitch](https://pitch.com) |
+| [Prezi](https://prezi.com) |
+| [Google Slides](https://www.google.com/slides/about) |
+| [Envato Market](https://themeforest.net) |
+| [Elements Envato](https://elements.envato.com) |
 
-#### DESIGN
-- [Placeit](https://placeit.net) - Online mockups, videos, and design templates.
-- [Canva](https://www.canva.com) - Free-to-use online graphic design tool.
-- [Pitch](https://pitch.com) - Complete platform for presentations.
-- [Prezi](https://prezi.com) - Presentation software that uses motion, zoom, and spatial relationships.
-- [Google Slides](https://www.google.com/slides/about)
-- [Envato Market](https://themeforest.net) - `Paid` `Web Themes & Templates` `Code` `Video` `Audio` `Graphics` `Photos` `3D Files`
-- [Elements Envato](https://elements.envato.com) - `7 Day Trial` `Paid` Stock Video
-
-#### VIDEO
-- [Mixkit](https://mixkit.co/) - Free assets for your next video project. `Free`
+| Video  |   |
+| - | - |
+| [Mixkit](https://mixkit.co) |
 
 #### GAMES
 ###### _Attention, depending on your 42 school rules you may or may not play games on school computers. Avoid getting -420 and community service._
