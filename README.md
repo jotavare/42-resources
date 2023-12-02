@@ -24,9 +24,9 @@ WELCOME
 	<a href="#---5">Moocs and Books</a> •
 	<a href="#---6">AI</a> •
 	<a href="#---7">Tools</a> •
-	<a href="#---8">Miscellaneous</a> •
-	<a href="#---9">Wikimedia Foundation</a> •
-	<a href="#---10">42 Campuses</a>
+	<a href="#---8">Wikimedia Foundation</a> •
+	<a href="#---9">42 Campuses</a>
+ 	<a href="#---10">Miscellaneous</a> •
 </p>
 
 ## WELCOME
@@ -216,17 +216,26 @@ PISCINE AND COMMON CORE
 | [Sublime Text](https://www.sublimetext.com)      | Sophisticated text editor for code, markup, and prose.                                           |
 | [Replit](https://replit.com)                     | Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter. |
 
+#### PRODUCTIVITY SOFTWARE
+|   |   |
+| - | - |
+| [Evernote](https://evernote.com) | Note-taking and task management application.  | `Website` |
+| [Notion](https://www.notion.so) | Freemium productivity and a note-taking web application developed by Notion Labs Inc. | `Website` |
+| [Trello](https://trello.com) | Ultimate project management tool. | `Website` |
+| [Motion](https://www.usemotion.com) | Automatically prioritize tasks, schedule meetings, and resolve calendar conflicts. | `Website` |
+| [Scribe](https://scribehow.com) | Turn any process into a step-by-step guide, instantly. | `Website` |
+
 #### OTHERS
 > _Miscellaneous resources of no particular category, that may prove helpful._
 
-|                                                                       |                                                                         |           |
-|-----------------------------------------------------------------------|-------------------------------------------------------------------------|-----------|
-| [RP42](https://github.com/alexandregv/RP42)                           | Discord addon integration for 42 School.                                | `GitHub`  |
-| [S42](https://s42.app)                                                | Clusters from various 42 schools.                                       | `Website` |
-| [Installette](https://github.com/Kuninoto/installette)                | Script to install Norminette, Norminette Formatter, Vim, and 42 Header. | `GitHub`  |
-| [42 Toolbox](https://github.com/alexandregv/42toolbox)                | A bunch of scripts to make your life better at 42.                      | `GitHub`  |
-| [Neofetch Themes](https://github.com/Chick2D/neofetch-themes)         | Compilation of Neofetch configurations gathered in one location.        | `GitHub`  |
-| [Scribe](https://scribehow.com)                                       | Turn any process into a step-by-step guide, instantly.                  | `Website` |
+|   |   |
+| - | - |
+| [RP42](https://github.com/alexandregv/RP42) | Discord addon integration for 42 School. | `GitHub` |
+| [S42](https://s42.app) | Clusters from various 42 schools. | `Website` |
+| [Installette](https://github.com/Kuninoto/installette) | Script to install Norminette, Norminette Formatter, Vim, and 42 Header. | `GitHub` |
+| [42 Toolbox](https://github.com/alexandregv/42toolbox) | A bunch of scripts to make your life better at 42. | `GitHub` |
+| [Neofetch Themes](https://github.com/Chick2D/neofetch-themes) | Compilation of Neofetch configurations gathered in one location. | `GitHub` |
+| [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) | Course on how to think algorithmically and solve problems efficiently. | `Website` |
 
 - - - -
 
@@ -757,6 +766,11 @@ CYBER SECURITY AND HACKING
 | [Ventoy](https://www.ventoy.net) | Open-source tool for creating bootable USB drives supporting various file types. | `Website` |
 | [Etcher](https://www.balena.io/etcher) | Cross-platform tool for safely flashing OS images onto SD cards and USB drives. | `Website` |
 
+#### PACKAGE MANAGEMENT
+- [Chocolatey](https://chocolatey.org) - Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
+- [Ninite](https://ninite.com) - Package management system that enables users to automatically install popular applications for their Windows operating system.
+- [FOSSHUB](https://www.fosshub.com) - Website and also a platform where people can download for free many popular and *clean* software titles.
+
 #### OPERATING SYSTEM
 > _Operating systems for every occasion._
 
@@ -813,291 +827,6 @@ CYBER SECURITY AND HACKING
 | [EP003: Red Team](https://youtu.be/TusQWn2TQxQ) | `Youtube` |
 | [EP004: Bug Hunters](https://youtu.be/IoXiXlCNoXg) | `Youtube` |
 | [EP005: Project Zero](https://youtu.be/My_13FXODdU) | `Youtube` |
-
-- - - -
-
-<!---
-MOOCS AND BOOKS
--->
-
-<h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/moocs_books_cheatsheets_banner.png">
-</h1>
-
-<p align="center">
-	<a href="#platforms">Platforms</a> •
-	<a href="#online-courses">Online Courses</a> •
-	<a href="#books">Books</a> •
-	<a href="#cheatsheets">Cheatsheets</a> •
-	<a href="#--">↥ Back To Top</a>
-</p>
-
-#### PLATFORMS
-- [Udemy](https://www.udemy.com)
-- [Google Codelabs](https://codelabs.developers.google.com)
-- [Codecademy](https://www.codecademy.com)
-- [Coursera](https://www.coursera.org)
-- [edX](https://www.edx.org)
-- [Google Cloud Skills Boost](https://www.cloudskillsboost.google) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
-- [LinkedIn Learning](https://www.linkedin.com/learning) - Learn business, creative, and technology skills to achieve your personal and professional goals.
-- [Datacamp](https://www.datacamp.com) - Learn the data skills you need online at your own pace—from non-coding essentials to data science and machine learning.
-- [Hackr](https://hackr.io) - Google search shows you hundreds of Programming courses/tutorials, but Hackr.io tells you which is the best one.
-- [Upskill](https://upskillcourses.com) - Learn how to code from scratch. · Upskill is a high-quality tech training platform. 
-- [Google Developers Certification](https://developers.google.com/certification) - Google Developers Certification lets you demonstrate your proficiency and skill. 
-- [Envato Tuts+](https://tutsplus.com) - Learn creative skills with Envato Tuts+.
-
-#### ONLINE COURSES
-- [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) `Free`
-- [100 Days of Code in Python](https://www.udemy.com/course/100-days-of-code) `Paid` `Use incognito mode for discount`
-- [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) `Free`
-- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 Day Trial`
-
-#### BOOKS
-- [Programming Notes for Professionals](https://books.goalkicker.com)
-- [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface) `Wikipedia`
-- [Getting Things Done](https://www.google.com/search?client=firefox-b-d&q=getting+things+done)
-- [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) `Wikipedia`
-- [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) `Wikipedia`
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Available in a lot of languages. `GitHub`
-
-#### CHEATSHEETS
-- [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
-- [Explain Shell](https://explainshell.com) - Explains shell commands.
-- [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colours for easier code reading.
-- [Git Cheat Sheet (RehanSaeed)](https://github.com/RehanSaeed/Git-Cheat-Sheet)
-- [Git Cheat Sheet (Atlassian)](https://github.com/jotavare/42-resources/files/10611245/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) - `PDF`
-- [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet)
-- [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Assembly - Introduction](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm)
-- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
-- [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
-- [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet)
-- [Server World](https://www.server-world.info/en) - Website for people who like to build Network Servers with CentOS, Ubuntu, Fedora, Debian, and Windows Server.
-- [Cheatography](https://cheatography.com) - Over 5,000 free cheat sheets, revision aids and quick references.
-- [Cheat Sheets](https://cheat-sheets.org) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets on one page.
-- [Devhints](https://devhints.io) - Collection of various cheat sheets.
-- [OverAPI](https://overapi.com) - A website collecting all the cheatsheets.
-- [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
-- - - -
-
-<!---
-AI
--->
-
-<h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/ai_banner.png">
-</h1>
-
-<p align="center">
-	<a href="#chatbot">Chatbot</a> •
-	<a href="#coding">Coding</a> •
-	<a href="#text">Text</a> •
-	<a href="#image/video/sound">Image/Video/Sound</a> •
-	<a href="#others-1">Others</a> •
-	<a href="#--">↥ Back To Top</a>
-</p>
-
-#### CHATBOT
-- [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
-- [Bard](https://bard.google.com) - AI chatbot, similar to ChatGPT.
-- [Bing](https://www.bing.com/new) - Microsoft Edge is necessary to use the chatbot.
-- [PromptHero](https://prompthero.com) - Specific prompts for AI tools.
-
-#### CODING
-- [BLACKBOX AI](https://www.useblackbox.io) - AI-Powered Coding Assistant.
-
-#### TEXT
-- [Rytr](https://rytr.me) - AI writing assistant that helps you create high-quality content.
-- [QuillBot](https://quillbot.com) - Spelling/grammar checker.
-- [Writerly](https://writerly.ai/) - Content creation superpower.
-
-#### IMAGE/VIDEO/SOUND
-- [Stable Diffusion](https://stablediffusionweb.com) - Latent text-to-image diffusion model capable of generating photo-realistic images.
-- [OpenJourney](https://huggingface.co/prompthero/openjourney) - Trained art model used in Stable Diffusion (includes negative prompts).
-- [Midjourney](https://www.midjourney.com) - Generates images from prompts, similar to OpenAI's DALL-E.
-- [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Generate and create stunning visual media.
-- [Boomy](https://boomy.com) - Write and produce a full song in seconds.
-- [Gen-2](https://research.runwayml.com/gen2) - Generate novel videos with text, images, or video clips. ... No lights. No camera. All action.
-- [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn simple brushstrokes into realistic landscape images. 
-
-#### OTHERS
-- [Futurepedia](https://www.futurepedia.io) - Largest AI tools directory.
-- [Future Tools](https://www.futuretools.io) - All The Best AI Tools.
-- [Hugging Face](https://huggingface.co) - Trained AI models to use with other AI tools.
-
-- - - -
-
-<!---
-TOOLS
--->
-
-<h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/tools_banner.png">
-</h1>
-
-<p align="center">
-	<a href="#generators">Generators</a> •
-	<a href="#icons-and-illustrations">Icons and Illustrations</a> •
-	<a href="#images">Images</a> •
-	<a href="#colors">Colors</a> •
-	<a href="#design">Design</a> •
-	<a href="#video">Video</a> •
-	<a href="#--">↥ Back To Top</a>
-</p>
-
-#### GENERATORS
-- [ASCII Table](https://www.asciitable.com) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
-- [Lorem Ipsum](https://lipsum.com) - Dummy text for the printing and typesetting industry.
-- [RANDOM.ORG](https://www.random.org) - Website that produces random numbers based on atmospheric noise. 
-- [YayText](https://yaytext.com) - Generate a variety of cool unicode font styles.
-- [Tables Generator](https://www.tablesgenerator.com) - Table editor and Generator. `LaTeX` `ConTeXt` `Plain TeX` `PreTeXt` `EPlain` `Markdown` `Textile` `CSV` `HTML` 
-- [Duplicate Word Finder](https://duplicateword.com) - Find duplicate words and eliminate them from your writings, posts or emails. 
-- [Duplicate Word Finder - CodePen](https://codepen.io/finnhvman/pen/oPwXRa) - Duplicate Word Finder + `HTML` `CSS` `JS` visualization.
-
-#### ICONS AND IllUSTRATIONS
-- [Flaticon](https://www.flaticon.com) - Wide catalogue of icons. `Free` `PNG` `Paid` `SVG` `EPS` `PSD`
-- [Reshot](https://www.reshot.com) - `Free`
-- [unDraw](https://undraw.co) - `Open Source`
-- [Emojipedia](https://emojipedia.org) - Emoji search engine with options to browse every emoji by name, category, or platform. `Open Source`
-- [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-- [GitHub Emoji API](https://api.github.com/emojis)
-- [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)
-
-#### IMAGES
-- [Lorem Picsum](https://picsum.photos) - The Lorem Ipsum for photos. `Free`
-- [Unsplash](https://unsplash.com) - Free images and photos that you can download and use for any project. `Free` `Paid`
-- [TinEye](https://tineye.com) - Reverse image search. `Free`
-- [Google Images](https://www.google.com/imghp) - Reverse image search from google. `Free`
-
-#### COLORS
-- [Flat UI Colors](https://flatuicolors.com) - A total set of 14 colour palettes and 280 colours for your designs, projects, presentations and other needs.
-- [ColorSpace](https://mycolor.space) - Generate colour palettes, and colour gradients and find the perfect matching colour scheme for your project.
-
-#### DESIGN
-- [Placeit](https://placeit.net) - Online mockups, videos, and design templates.
-- [Canva](https://www.canva.com) - Free-to-use online graphic design tool.
-- [Pitch](https://pitch.com) - Complete platform for presentations.
-- [Prezi](https://prezi.com) - Presentation software that uses motion, zoom, and spatial relationships.
-- [Google Slides](https://www.google.com/slides/about)
-- [Envato Market](https://themeforest.net) - `Paid` `Web Themes & Templates` `Code` `Video` `Audio` `Graphics` `Photos` `3D Files`
-- [Elements Envato](https://elements.envato.com) - `7 Day Trial` `Paid` Stock Video
-
-#### VIDEO
-- [Mixkit](https://mixkit.co/) - Free assets for your next video project. `Free`
-
-- - - -
-
-<!---
-MISCELLANEOUS
--->
-
-<h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/misc_banner.png">
-</h1>
-
-<p align="center">
-	<a href="#productivity-software">Productivity Software</a> •
-	<a href="#package-management">Package Management</a> •
-	<a href="#games">Games</a> •
-	<a href="#memes">Memes</a> •
-	<a href="#others">Others</a> •
-	<a href="#--">↥ Back To Top</a>
-</p>
-
-#### PRODUCTIVITY SOFTWARE
-- [Evernote](https://evernote.com) – Note-taking and task management application. 
-- [Notion](https://www.notion.so) – Freemium productivity and a note-taking web application developed by Notion Labs Inc.
-- [Trello](https://trello.com) – Ultimate project management tool.
-- [Motion](https://www.usemotion.com) – Automatically prioritize tasks, schedule meetings, and resolve calendar conflicts. 
-
-#### PACKAGE MANAGEMENT
-- [Chocolatey](https://chocolatey.org) - Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
-- [Ninite](https://ninite.com) - Package management system that enables users to automatically install popular applications for their Windows operating system.
-- [FOSSHUB](https://www.fosshub.com) - Website and also a platform where people can download for free many popular and *clean* software titles.
-
-#### GAMES
-###### _Attention, depending on your 42 school rules you may or may not play games on school computers. Avoid getting -420 and community service._
-- [Reeborg's World](https://reeborg.ca/reeborg.html) - Website designed to help people learn to program. `Recommended`
-- [Sudoku](https://sudoku.com) - Fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9.
-- [2048](https://play2048.co) - Slide numbered tiles on a grid to combine them to create a tile with the number 2048.
-- [Keybr](https://www.keybr.com) - Take a typing test, practice typing lessons, and learn to type faster.
-- [The Scale of the Universe](https://htwins.net/scale2) - This game shows the sizes of different things in our universe in relation to other different things.
-- [The Is This Prime?](https://isthisprime.com/game)
-- [Quick, Draw!](https://quickdraw.withgoogle.com) - Can a neural network learn to recognize squiggles?
-- [Random Country Generator](https://random.country) - Ever wanted to learn about all the countries in the world?
-
-#### RUBIKS CUBE
-- [SpeedSolving](https://www.speedsolving.com/wiki/index.php/Main_Page) - Community focused on speed-solving puzzles, particularly the Rubik's cube and alike.
-- [Ruwix](https://ruwix.com) - Website to learn about Rubik's Cube and other twisty puzzles.
-
-#### CHESS
-- [Chess](https://www.chess.com) - Chess online.
-- [Lichess](https://lichess.org) - Free and open-source chess server. Clean interface, no registration, no ads, and no plugin required.
-- [Chess24](https://chess24.com) - Chess news.
-- [Kasparovchess](https://kasparovchess.com) - Garry Kasparov masterclass, lessons from grandmasters, entertaining documentaries and interviews.
-- [ChessBase](https://en.chessbase.com) - Chess news and stand-alone database that has become the standard throughout the world.
-- [Chessgames](https://www.chessgames.com) - Database of chess games, discussion forums, forming the internet's oldest chess community.
-- [Notable Chess games of all time](https://www.chessgames.com/perl/goat.pl)
-- [Chess Tactics](https://www.chesstactics.org) - Chess tactics taught in plain English. The most complete body of instruction on the subject yet written.
-- [Chessboard.js](https://chessboardjs.com/examples#5002) - Who will win in this chess game of Math.random() vs Math.random()?
-- [Britannica](https://www.britannica.com/topic/chess) - What is chess?
-- [Chess Wikipedia](https://en.wikipedia.org/wiki/Chess)
-
-#### MEMES
-- [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) - `Youtube`
-- [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) - `Youtube`
-- [[FR] Memes](https://www.instagram.com/duoquadra_meme) - `Instagram`
-- [Know Your Meme](https://knowyourmeme.com) - Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
-
-#### OTHERS
-- [Character Counter](https://wordcounter.net/character-count)
-- [Parrot Live](https://github.com/hugomd/parrot.live)
-- [Let Me Google That For You...](https://letmegooglethat.com)
-- [PlayPhrase.me](https://www.playphrase.me) - Lets you search for very specific phrases and soundbites that have been uttered on-screen.
-- [Fake Update](https://fakeupdate.net) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`
-- [Similarsites](https://www.similarsites.com) - Explore competitors and related sites.
-- [Time.is](https://time.is) - 7 million locations, 57 languages, synchronized with atomic clock time.
-- [Time and Date](https://www.timeanddate.com) - Current Time (World Clock) and online and printable Calendars for countries worldwide.
-- [The 88x31 GIF Collection](http://cyber.dabamos.de/88x31) - A collection of 4161 classic 88x31 buttons from the 1990s, 2000s, and today in GIF format.
-- [Cool, but obscure X11 tools](http://cyber.dabamos.de/unix/x11/#xmgrace) - Small collection of some obscure tools for the X Window System.
-- [Cool, but obscure UNIX tools](https://kkovacs.eu/cool-but-obscure-unix-tools) - A little collection of cool unix terminal/console/curses tools.
-- [This website will self-destruct](https://www.thiswebsitewillselfdestruct.com)
-- [Start Your Own ISP ](https://startyourownisp.com) - This guide is about building a Wireless ISP (WISP).
-- [Where is Roadster?](https://www.whereisroadster.com) - 6 February 2018, at 20:45 UTC, the first Falcon Heavy was launched into space. It contained a very special payload, a Tesla Roadster with Starman.
-- [This person does not exist](https://www.thispersondoesnotexist.com)
-- [Google Books Ngram Viewer](https://books.google.com/ngrams) - Online search engine that charts the frequency of terms used in books over time.
-- [Keanu is immortal](https://www.keanuisimmortal.com) - Proof of Keany Reeves is immortal.
-- [YouGlish](https://youglish.com) - Don't know how to pronounce a word? Use Youtube to improve your English pronunciation.
-- [txti](http://txti.es) - Fast web pages for everybody.
-- [PageSpeed Insights](https://pagespeed.web.dev) - Analyze the score and use PageSpeed Insights suggestions to make your website faster.
-- [Testmysite.io](https://testmysite.io) - Is your site as fast and secure as it could be?
-- [Worldometer](https://www.worldometers.info) - Live world statistics. `Population` `Government` `Economics` `Society` `Media` `Environment` `Food` `Water` `Energy` `Health`
-- [Free Postcard](https://postcardmailer.herokuapp.com) - Send a free postcard with a photo to anyone in USA.
-- [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks)
-- [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.app) - Hacker News whose titles have been edited since they were first posted.
-- [Sketchy Website](https://sketchywebsite.net) - You can trust this website.
-- [CloudConvert](https://cloudconvert.com) - Online file converter. `Audio` `Video` `Document` `Ebook` `Archive` `Image` `Spreadsheet` `Presentation`.
-- [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet) - Upload a photo and instantly download it as a real spreadsheet!
-- [Radiooooo](https://radiooooo.com) - The Musical Time Machine. `Music`
-- [TV Chart](https://tvchart.benmiz.com) - View a graph of any TV show's ratings, by episode.
-- [Famous Scientists](https://www.famousscientists.org) -  Lives and achievements of the most famous scientists and inventors in history.
-- [bellingcat](https://www.bellingcat.com) - Netherlands-based investigative journalism group that specialises in fact-checking and open-source intelligence.
-- [Artvee](https://artvee.com) - Browse and download high-resolution, public-domain Paintings, Drawings, Illustrations and Posters.
-- [Lightyear.fm](http://www.lightyear.fm) - A journey through space, time, & music. Radio broadcasts leave Earth at the speed of light.
-- [Deceptive Design](https://www.deceptive.design) - What is deceptive design (also known as "dark patterns")?
-- [DuckDuckGo](https://duckduckgo.com) -  The Internet search engine that emphasizes protecting searchers' privacy.
-- [elgooG](https://elgoog.im) - Create, restore, and discover interactive Google Easter Eggs.
-- [Every Noise at Once](https://everynoise.com) - Algorithmically-generated, readability-adjusted scatter-plot of the musical genre space.
-- [Animated Knots](https://www.animatedknots.com) - Learn how to tie knots of any kind.
-- [Docusaurus](https://docusaurus.io) - An optimized site generator in React. Helps you to move fast and write content.
-- [Kickresume](https://www.kickresume.com) - Assemble your resume from more than 20,000 pre-written phrases for more than 3,200 positions.
-- [Uneed](https://www.uneed.best) - Curated list of the best tools on the internet. 
-- [iLovePDF](https://www.ilovepdf.com) - Every tool you need to use PDFs, at your fingertips.
-- [FreezingCam](https://freezingcam.com) - Freeze your webcam at any time during video calls. You can even play a video instead!
-- [Spicetify](https://spicetify.app) - Powerful CLI tool to take control of the Spotify client.
-- [Discord Plugins](https://betterdiscord.app/plugins) - Community custom-made plugins for Discord.
 
 - - - -
 
@@ -1230,7 +959,6 @@ WIKIMEDIA FOUNDATION
 | - | - |
 | 🇦🇺 [42 Adelaide](https://www.42adel.org.au) | Australia |
 
-
 #### SOON
 |   |   |
 | - | - |
@@ -1239,6 +967,223 @@ WIKIMEDIA FOUNDATION
 | 🇵🇸 [42 Nablus](https://www.42network.org/campuses/42-nablus) | Palestine |
 
 - - - -
+
+<!---
+MISCELLANEOUS
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/misc_banner.png">
+</h1>
+
+
+- - - -
+
+<!---
+MOOCS AND BOOKS
+-->
+
+<h1 align="center">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/moocs_books_cheatsheets_banner.png">
+</h1>
+
+#### PLATFORMS
+- [Udemy](https://www.udemy.com)
+- [Google Codelabs](https://codelabs.developers.google.com)
+- [Codecademy](https://www.codecademy.com)
+- [Coursera](https://www.coursera.org)
+- [edX](https://www.edx.org)
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
+- [LinkedIn Learning](https://www.linkedin.com/learning) - Learn business, creative, and technology skills to achieve your personal and professional goals.
+- [Datacamp](https://www.datacamp.com) - Learn the data skills you need online at your own pace—from non-coding essentials to data science and machine learning.
+- [Hackr](https://hackr.io) - Google search shows you hundreds of Programming courses/tutorials, but Hackr.io tells you which is the best one.
+- [Upskill](https://upskillcourses.com) - Learn how to code from scratch. · Upskill is a high-quality tech training platform. 
+- [Google Developers Certification](https://developers.google.com/certification) - Google Developers Certification lets you demonstrate your proficiency and skill. 
+- [Envato Tuts+](https://tutsplus.com) - Learn creative skills with Envato Tuts+.
+
+#### ONLINE COURSES
+- [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) `Free`
+- [100 Days of Code in Python](https://www.udemy.com/course/100-days-of-code) `Paid` `Use incognito mode for discount`
+- [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) `Free`
+- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 Day Trial`
+
+#### BOOKS
+- [Programming Notes for Professionals](https://books.goalkicker.com)
+- [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface) `Wikipedia`
+- [Getting Things Done](https://www.google.com/search?client=firefox-b-d&q=getting+things+done)
+- [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) `Wikipedia`
+- [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) `Wikipedia`
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Available in a lot of languages. `GitHub`
+
+#### CHEATSHEETS
+- [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
+- [Explain Shell](https://explainshell.com) - Explains shell commands.
+- [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colours for easier code reading.
+- [Git Cheat Sheet (RehanSaeed)](https://github.com/RehanSaeed/Git-Cheat-Sheet)
+- [Git Cheat Sheet (Atlassian)](https://github.com/jotavare/42-resources/files/10611245/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) - `PDF`
+- [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet)
+- [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Assembly - Introduction](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm)
+- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
+- [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
+- [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet)
+- [Server World](https://www.server-world.info/en) - Website for people who like to build Network Servers with CentOS, Ubuntu, Fedora, Debian, and Windows Server.
+- [Cheatography](https://cheatography.com) - Over 5,000 free cheat sheets, revision aids and quick references.
+- [Cheat Sheets](https://cheat-sheets.org) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets on one page.
+- [Devhints](https://devhints.io) - Collection of various cheat sheets.
+- [OverAPI](https://overapi.com) - A website collecting all the cheatsheets.
+- [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+#### CHATBOT
+- [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
+- [Bard](https://bard.google.com) - AI chatbot, similar to ChatGPT.
+- [Bing](https://www.bing.com/new) - Microsoft Edge is necessary to use the chatbot.
+- [PromptHero](https://prompthero.com) - Specific prompts for AI tools.
+
+#### CODING
+- [BLACKBOX AI](https://www.useblackbox.io) - AI-Powered Coding Assistant.
+
+#### TEXT
+- [Rytr](https://rytr.me) - AI writing assistant that helps you create high-quality content.
+- [QuillBot](https://quillbot.com) - Spelling/grammar checker.
+- [Writerly](https://writerly.ai/) - Content creation superpower.
+
+#### IMAGE/VIDEO/SOUND
+- [Stable Diffusion](https://stablediffusionweb.com) - Latent text-to-image diffusion model capable of generating photo-realistic images.
+- [OpenJourney](https://huggingface.co/prompthero/openjourney) - Trained art model used in Stable Diffusion (includes negative prompts).
+- [Midjourney](https://www.midjourney.com) - Generates images from prompts, similar to OpenAI's DALL-E.
+- [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Generate and create stunning visual media.
+- [Boomy](https://boomy.com) - Write and produce a full song in seconds.
+- [Gen-2](https://research.runwayml.com/gen2) - Generate novel videos with text, images, or video clips. ... No lights. No camera. All action.
+- [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn simple brushstrokes into realistic landscape images. 
+
+#### OTHERS
+- [Futurepedia](https://www.futurepedia.io) - Largest AI tools directory.
+- [Future Tools](https://www.futuretools.io) - All The Best AI Tools.
+- [Hugging Face](https://huggingface.co) - Trained AI models to use with other AI tools.
+
+#### GENERATORS
+- [ASCII Table](https://www.asciitable.com) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
+- [Lorem Ipsum](https://lipsum.com) - Dummy text for the printing and typesetting industry.
+- [RANDOM.ORG](https://www.random.org) - Website that produces random numbers based on atmospheric noise. 
+- [YayText](https://yaytext.com) - Generate a variety of cool unicode font styles.
+- [Tables Generator](https://www.tablesgenerator.com) - Table editor and Generator. `LaTeX` `ConTeXt` `Plain TeX` `PreTeXt` `EPlain` `Markdown` `Textile` `CSV` `HTML` 
+- [Duplicate Word Finder](https://duplicateword.com) - Find duplicate words and eliminate them from your writings, posts or emails. 
+- [Duplicate Word Finder - CodePen](https://codepen.io/finnhvman/pen/oPwXRa) - Duplicate Word Finder + `HTML` `CSS` `JS` visualization.
+
+#### ICONS AND IllUSTRATIONS
+- [Flaticon](https://www.flaticon.com) - Wide catalogue of icons. `Free` `PNG` `Paid` `SVG` `EPS` `PSD`
+- [Reshot](https://www.reshot.com) - `Free`
+- [unDraw](https://undraw.co) - `Open Source`
+- [Emojipedia](https://emojipedia.org) - Emoji search engine with options to browse every emoji by name, category, or platform. `Open Source`
+- [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [GitHub Emoji API](https://api.github.com/emojis)
+- [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)
+
+#### IMAGES
+- [Lorem Picsum](https://picsum.photos) - The Lorem Ipsum for photos. `Free`
+- [Unsplash](https://unsplash.com) - Free images and photos that you can download and use for any project. `Free` `Paid`
+- [TinEye](https://tineye.com) - Reverse image search. `Free`
+- [Google Images](https://www.google.com/imghp) - Reverse image search from google. `Free`
+
+#### COLORS
+- [Flat UI Colors](https://flatuicolors.com) - A total set of 14 colour palettes and 280 colours for your designs, projects, presentations and other needs.
+- [ColorSpace](https://mycolor.space) - Generate colour palettes, and colour gradients and find the perfect matching colour scheme for your project.
+
+#### DESIGN
+- [Placeit](https://placeit.net) - Online mockups, videos, and design templates.
+- [Canva](https://www.canva.com) - Free-to-use online graphic design tool.
+- [Pitch](https://pitch.com) - Complete platform for presentations.
+- [Prezi](https://prezi.com) - Presentation software that uses motion, zoom, and spatial relationships.
+- [Google Slides](https://www.google.com/slides/about)
+- [Envato Market](https://themeforest.net) - `Paid` `Web Themes & Templates` `Code` `Video` `Audio` `Graphics` `Photos` `3D Files`
+- [Elements Envato](https://elements.envato.com) - `7 Day Trial` `Paid` Stock Video
+
+#### VIDEO
+- [Mixkit](https://mixkit.co/) - Free assets for your next video project. `Free`
+
+#### GAMES
+###### _Attention, depending on your 42 school rules you may or may not play games on school computers. Avoid getting -420 and community service._
+- [Reeborg's World](https://reeborg.ca/reeborg.html) - Website designed to help people learn to program. `Recommended`
+- [Sudoku](https://sudoku.com) - Fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9.
+- [2048](https://play2048.co) - Slide numbered tiles on a grid to combine them to create a tile with the number 2048.
+- [Keybr](https://www.keybr.com) - Take a typing test, practice typing lessons, and learn to type faster.
+- [The Scale of the Universe](https://htwins.net/scale2) - This game shows the sizes of different things in our universe in relation to other different things.
+- [The Is This Prime?](https://isthisprime.com/game)
+- [Quick, Draw!](https://quickdraw.withgoogle.com) - Can a neural network learn to recognize squiggles?
+- [Random Country Generator](https://random.country) - Ever wanted to learn about all the countries in the world?
+
+#### RUBIKS CUBE
+- [SpeedSolving](https://www.speedsolving.com/wiki/index.php/Main_Page) - Community focused on speed-solving puzzles, particularly the Rubik's cube and alike.
+- [Ruwix](https://ruwix.com) - Website to learn about Rubik's Cube and other twisty puzzles.
+
+#### CHESS
+- [Chess](https://www.chess.com) - Chess online.
+- [Lichess](https://lichess.org) - Free and open-source chess server. Clean interface, no registration, no ads, and no plugin required.
+- [Chess24](https://chess24.com) - Chess news.
+- [Kasparovchess](https://kasparovchess.com) - Garry Kasparov masterclass, lessons from grandmasters, entertaining documentaries and interviews.
+- [ChessBase](https://en.chessbase.com) - Chess news and stand-alone database that has become the standard throughout the world.
+- [Chessgames](https://www.chessgames.com) - Database of chess games, discussion forums, forming the internet's oldest chess community.
+- [Notable Chess games of all time](https://www.chessgames.com/perl/goat.pl)
+- [Chess Tactics](https://www.chesstactics.org) - Chess tactics taught in plain English. The most complete body of instruction on the subject yet written.
+- [Chessboard.js](https://chessboardjs.com/examples#5002) - Who will win in this chess game of Math.random() vs Math.random()?
+- [Britannica](https://www.britannica.com/topic/chess) - What is chess?
+- [Chess Wikipedia](https://en.wikipedia.org/wiki/Chess)
+
+#### MEMES
+- [GANDALF SAX - 42 Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) - `Youtube`
+- [[FR] Gargamel est salé](https://www.youtube.com/watch?v=uAgFf0sC8hM) - `Youtube`
+- [[FR] Memes](https://www.instagram.com/duoquadra_meme) - `Instagram`
+- [Know Your Meme](https://knowyourmeme.com) - Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more.
+
+#### OTHERS
+- [Character Counter](https://wordcounter.net/character-count)
+- [Parrot Live](https://github.com/hugomd/parrot.live)
+- [Let Me Google That For You...](https://letmegooglethat.com)
+- [PlayPhrase.me](https://www.playphrase.me) - Lets you search for very specific phrases and soundbites that have been uttered on-screen.
+- [Fake Update](https://fakeupdate.net) - Prank your friends and 42 students with fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`
+- [Similarsites](https://www.similarsites.com) - Explore competitors and related sites.
+- [Time.is](https://time.is) - 7 million locations, 57 languages, synchronized with atomic clock time.
+- [Time and Date](https://www.timeanddate.com) - Current Time (World Clock) and online and printable Calendars for countries worldwide.
+- [The 88x31 GIF Collection](http://cyber.dabamos.de/88x31) - A collection of 4161 classic 88x31 buttons from the 1990s, 2000s, and today in GIF format.
+- [Cool, but obscure X11 tools](http://cyber.dabamos.de/unix/x11/#xmgrace) - Small collection of some obscure tools for the X Window System.
+- [Cool, but obscure UNIX tools](https://kkovacs.eu/cool-but-obscure-unix-tools) - A little collection of cool unix terminal/console/curses tools.
+- [This website will self-destruct](https://www.thiswebsitewillselfdestruct.com)
+- [Start Your Own ISP ](https://startyourownisp.com) - This guide is about building a Wireless ISP (WISP).
+- [Where is Roadster?](https://www.whereisroadster.com) - 6 February 2018, at 20:45 UTC, the first Falcon Heavy was launched into space. It contained a very special payload, a Tesla Roadster with Starman.
+- [This person does not exist](https://www.thispersondoesnotexist.com)
+- [Google Books Ngram Viewer](https://books.google.com/ngrams) - Online search engine that charts the frequency of terms used in books over time.
+- [Keanu is immortal](https://www.keanuisimmortal.com) - Proof of Keany Reeves is immortal.
+- [YouGlish](https://youglish.com) - Don't know how to pronounce a word? Use Youtube to improve your English pronunciation.
+- [txti](http://txti.es) - Fast web pages for everybody.
+- [PageSpeed Insights](https://pagespeed.web.dev) - Analyze the score and use PageSpeed Insights suggestions to make your website faster.
+- [Testmysite.io](https://testmysite.io) - Is your site as fast and secure as it could be?
+- [Worldometer](https://www.worldometers.info) - Live world statistics. `Population` `Government` `Economics` `Society` `Media` `Environment` `Food` `Water` `Energy` `Health`
+- [Free Postcard](https://postcardmailer.herokuapp.com) - Send a free postcard with a photo to anyone in USA.
+- [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks)
+- [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.app) - Hacker News whose titles have been edited since they were first posted.
+- [Sketchy Website](https://sketchywebsite.net) - You can trust this website.
+- [CloudConvert](https://cloudconvert.com) - Online file converter. `Audio` `Video` `Document` `Ebook` `Archive` `Image` `Spreadsheet` `Presentation`.
+- [Spreadsheet Converter](http://makeanddo4d.com/spreadsheet) - Upload a photo and instantly download it as a real spreadsheet!
+- [Radiooooo](https://radiooooo.com) - The Musical Time Machine. `Music`
+- [TV Chart](https://tvchart.benmiz.com) - View a graph of any TV show's ratings, by episode.
+- [Famous Scientists](https://www.famousscientists.org) -  Lives and achievements of the most famous scientists and inventors in history.
+- [bellingcat](https://www.bellingcat.com) - Netherlands-based investigative journalism group that specialises in fact-checking and open-source intelligence.
+- [Artvee](https://artvee.com) - Browse and download high-resolution, public-domain Paintings, Drawings, Illustrations and Posters.
+- [Lightyear.fm](http://www.lightyear.fm) - A journey through space, time, & music. Radio broadcasts leave Earth at the speed of light.
+- [Deceptive Design](https://www.deceptive.design) - What is deceptive design (also known as "dark patterns")?
+- [DuckDuckGo](https://duckduckgo.com) -  The Internet search engine that emphasizes protecting searchers' privacy.
+- [elgooG](https://elgoog.im) - Create, restore, and discover interactive Google Easter Eggs.
+- [Every Noise at Once](https://everynoise.com) - Algorithmically-generated, readability-adjusted scatter-plot of the musical genre space.
+- [Animated Knots](https://www.animatedknots.com) - Learn how to tie knots of any kind.
+- [Docusaurus](https://docusaurus.io) - An optimized site generator in React. Helps you to move fast and write content.
+- [Kickresume](https://www.kickresume.com) - Assemble your resume from more than 20,000 pre-written phrases for more than 3,200 positions.
+- [Uneed](https://www.uneed.best) - Curated list of the best tools on the internet. 
+- [iLovePDF](https://www.ilovepdf.com) - Every tool you need to use PDFs, at your fingertips.
+- [FreezingCam](https://freezingcam.com) - Freeze your webcam at any time during video calls. You can even play a video instead!
+- [Spicetify](https://spicetify.app) - Powerful CLI tool to take control of the Spotify client.
+- [Discord Plugins](https://betterdiscord.app/plugins) - Community custom-made plugins for Discord.
 
 |   |   |
 | - | - |
