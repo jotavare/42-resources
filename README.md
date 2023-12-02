@@ -845,6 +845,9 @@ WIKIMEDIA FOUNDATION
 	<a href="#--">Scroll To Top</a>
 </p>
 
+> [!NOTE]
+> Wiki is a great place to start searching but it isn't a good source to cite for projects, it can be edited by anyone. Always check the sources, that's the important material.
+
 |   |   |
 | - | - |
 | [Wikipedia](https://en.wikipedia.org) | Online encyclopedia. |
