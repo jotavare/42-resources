@@ -207,6 +207,15 @@ PISCINE AND COMMON CORE
 | [42 Project Badges](https://github.com/vinicius-f-pereira/42-project-badges) | Badges designed for 42 curriculum projects.            | `GitHub`  |
 | [1337 Readme](https://github.com/mohouyizme/1337-readme)                     | Share your progress via GitHub README.md.              | `GitHub`  |
 
+#### IDE, COMPILER AND DEBUGGERS
+|                                                  |                                                                                                  |
+|--------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| [GDB Online Debugger](https://www.onlinegdb.com) | Online compiler and debugger for a lot of programming languages.                                 |
+| [Python Tutor](https://pythontutor.com)          | Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.                 |
+| [Thonny](https://thonny.org)                     | Thonny is an IDE for Python that is designed for beginners.                                      |
+| [Sublime Text](https://www.sublimetext.com)      | Sophisticated text editor for code, markup, and prose.                                           |
+| [Replit](https://replit.com)                     | Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter. |
+
 #### OTHERS
 > _Miscellaneous resources of no particular category, that may prove helpful._
 
@@ -808,37 +817,6 @@ CYBER SECURITY AND HACKING
 - - - -
 
 <!---
-IDE, COMPILERS AND DEBUGGERS
--->
-
-<h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/ide_compilers_debuggers_banner.png">
-</h1>
-
-| Title                        | Description                                                                                                               |
-|------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| [GDB Online Debugger](https://www.onlinegdb.com)        | Online compiler and debugger for a lot of programming languages.                                                             |
-| [Python Tutor](https://pythontutor.com)                   | Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.                                           |
-| [Thonny](https://thonny.org)                               | Thonny is an IDE for Python that is designed for beginners.                                                                 |
-| [Sublime Text](https://www.sublimetext.com)            | Sophisticated text editor for code, markup, and prose.                                                                      |
-| [Replit](https://replit.com)                                   | Write and run code in 50+ languages online with Replit, a powerful IDE, compiler, & interpreter.                           |
-| [JSFiddle](https://jsfiddle.net)                              | Test your JavaScript, CSS, HTML, or CoffeeScript online with the JSFiddle code editor.                                      |
-| [CodeSandbox](https://codesandbox.io)                 | Cloud development platform that empowers developers to code, collaborate and ship projects of any size from any device.    |
-| [CodeAnywhere](https://codeanywhere.com)          | Cross Platform Cloud IDE with all the features of Desktop IDE but with additional features.                                  |
-| [StackBlitz](https://stackblitz.com)                         | Instant full-stack web IDE for the JavaScript ecosystem.                                                                    |
-| [AWS Cloud9](https://aws.amazon.com/pt/cloud9)   | Cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.    |
-| [Gitpod](https://www.gitpod.io)                            | Cloud development environment for teams to efficiently and securely develop software.                                        |
-| [Eclipse Theia](https://theia-ide.org)                 | Framework for building tools and IDEs.                                                                                      |
-| [GitHub Codespaces](https://github.com/features/codespaces) | Use Visual Studio Code, Jupyter, or JetBrains with the editor, terminal, debugger, version control, settings sync, etc.  |
-| [JetBrains Space](https://www.jetbrains.com/space) | A complete software development platform, collaboration, and team and project management.                                  |
-| [CodeTasty](https://codetasty.com)                    | Powerful online code editor in the cloud supporting over 40 languages like PHP, Node.JS, Python, Java, Ruby, and C.        |
-| [PaizaCloud](https://paiza.cloud/en)                 | Cloud IDE supporting languages including C, C++, PHP, Ruby, Perl, Python, JavaScript with Node.js and Go.                   |
-| [Scrimba](https://scrimba.com)                            | Interactive courses and tutorials teaching React, Vue, Angular, JavaScript, HTML, CSS, etc.                                 |
-| [CodePen](https://codepen.io)                             | Social development environment for front-end designers and developers.                                                     |
-
-- - - -
-
-<!---
 MOOCS AND BOOKS
 -->
 
@@ -1261,3 +1239,19 @@ WIKIMEDIA FOUNDATION
 | 🇵🇸 [42 Nablus](https://www.42network.org/campuses/42-nablus) | Palestine |
 
 - - - -
+
+|   |   |
+| - | - |
+| [JSFiddle](https://jsfiddle.net) | Test your JavaScript, CSS, HTML, or CoffeeScript online with the JSFiddle code editor. |
+| [CodeSandbox](https://codesandbox.io) | Cloud development platform that empowers developers to code, collaborate and ship projects of any size from any device. |
+| [CodeAnywhere](https://codeanywhere.com) | Cross Platform Cloud IDE with all the features of Desktop IDE but with additional features. |
+| [StackBlitz](https://stackblitz.com) | Instant full-stack web IDE for the JavaScript ecosystem. |
+| [AWS Cloud9](https://aws.amazon.com/pt/cloud9) | Cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser. |
+| [Gitpod](https://www.gitpod.io) | Cloud development environment for teams to efficiently and securely develop software. |
+| [Eclipse Theia](https://theia-ide.org) | Framework for building tools and IDEs. |
+| [GitHub Codespaces](https://github.com/features/codespaces) | Use Visual Studio Code, Jupyter, or JetBrains with the editor, terminal, debugger, version control, settings sync, etc. |
+| [JetBrains Space](https://www.jetbrains.com/space) | A complete software development platform, collaboration, and team and project management. |
+| [CodeTasty](https://codetasty.com) | Powerful online code editor in the cloud supporting over 40 languages like PHP, Node.JS, Python, Java, Ruby, and C. |
+| [PaizaCloud](https://paiza.cloud/en) | Cloud IDE supporting languages including C, C++, PHP, Ruby, Perl, Python, JavaScript with Node.js and Go. |
+| [Scrimba](https://scrimba.com) | Interactive courses and tutorials teaching React, Vue, Angular, JavaScript, HTML, CSS, etc. |
+| [CodePen](https://codepen.io) | Social development environment for front-end designers and developers. |
