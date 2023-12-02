@@ -975,9 +975,40 @@ MISCELLANEOUS
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/misc_banner.png">
 </h1>
 
-#### EDUCATIONAL PLATAFORMS
-|   |
-| - |
+#### AI TOOLS
+| Chatbot  |   |
+| - | - |
+| [ChatGPT](https://chat.openai.com/chat) |  Chatbot launched by OpenAI in November 2022. |
+| [Bard](https://bard.google.com) | AI chatbot, similar to ChatGPT. |
+| [Bing](https://www.bing.com/new) | Microsoft Edge is necessary to use the chatbot. |
+| [PromptHero](https://prompthero.com) | Specific prompts for AI tools. |
+| [BLACKBOX AI](https://www.useblackbox.io) | AI-Powered Coding Assistant. |
+
+| Text  |   |
+| - | - |
+| [Rytr](https://rytr.me) | AI writing assistant that helps you create high-quality content. |
+| [QuillBot](https://quillbot.com) | Spelling/grammar checker. |
+| [Writerly](https://writerly.ai/) | Content creation superpower. |
+
+| Media  |   |
+| - | - |
+| [Stable Diffusion](https://stablediffusionweb.com) | Latent text-to-image diffusion model capable of generating photo-realistic images. |
+| [OpenJourney](https://huggingface.co/prompthero/openjourney) | Trained art model used in Stable Diffusion (includes negative prompts). |
+| [Midjourney](https://www.midjourney.com) | Generates images from prompts, similar to OpenAI's DALL-E. |
+| [InvokeAI](https://github.com/invoke-ai/InvokeAI) | Generate and create stunning visual media. |
+| [Boomy](https://boomy.com) | Write and produce a full song in seconds. |
+| [Gen-2](https://research.runwayml.com/gen2) | Generate novel videos with text, images, or video clips. ... No lights. No camera. All action. |
+| [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/) | Turn simple brushstrokes into realistic landscape images. |
+
+| Others  |   |
+| - | - |
+| [Futurepedia](https://www.futurepedia.io) | Largest AI tools directory. |
+| [Future Tools](https://www.futuretools.io) | All The Best AI Tools. |
+| [Hugging Face](https://huggingface.co) | Trained AI models to use with other AI tools. |
+
+#### EDUCATIONAL
+| Plataforms  |
+| - | - |
 | [Udemy](https://www.udemy.com) |
 | [Google Codelabs](https://codelabs.developers.google.com) |
 | [Codecademy](https://www.codecademy.com) |
@@ -991,16 +1022,14 @@ MISCELLANEOUS
 | [Google Developers Certification](https://developers.google.com/certification) |
 | [Envato Tuts+](https://tutsplus.com) |
 
-#### ONLINE COURSES
-|   |
-| - |
+| Courses  |   |
+| - | - |
 | [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) |
 | [100 Days of Code in Python](https://www.udemy.com/course/100-days-of-code) |
 | [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) |
 
-#### BOOKS
-|   |
-| - |
+| Books  |   |
+| - | - |
 | [Programming Notes for Professionals](https://books.goalkicker.com) |
 | [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface) |
 | [Getting Things Done](https://www.google.com/search?client=firefox-b-d&q=getting+things+done) |
@@ -1008,9 +1037,8 @@ MISCELLANEOUS
 | [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) |
 | [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) |
 
-#### CHEATSHEETS
-|   |
-| - |
+| Cheatsheets  |   |
+| - | - |
 | [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) |
 | [Explain Shell](https://explainshell.com) |
 | [Git Shell Colors](https://gist.github.com/vratiu/9780109) |
@@ -1030,36 +1058,6 @@ MISCELLANEOUS
 | [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets) |
 | [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) |
 
-#### AI TOOLS
-| Chatbot  |   |
-| - | - |
-| [ChatGPT](https://chat.openai.com/chat) |  Chatbot launched by OpenAI in November 2022. |
-| [Bard](https://bard.google.com) | AI chatbot, similar to ChatGPT. |
-| [Bing](https://www.bing.com/new) | Microsoft Edge is necessary to use the chatbot. |
-| [PromptHero](https://prompthero.com) | Specific prompts for AI tools. |
-| [BLACKBOX AI](https://www.useblackbox.io) | AI-Powered Coding Assistant. |
-
-| Text  |   |
-| - | - |
-| [Rytr](https://rytr.me) | AI writing assistant that helps you create high-quality content. |
-| [QuillBot](https://quillbot.com) | Spelling/grammar checker. |
-| [Writerly](https://writerly.ai/) | Content creation superpower. |
-
-| Image/Video/Sound  |   |
-| - | - |
-| [Stable Diffusion](https://stablediffusionweb.com) | Latent text-to-image diffusion model capable of generating photo-realistic images. |
-| [OpenJourney](https://huggingface.co/prompthero/openjourney) | Trained art model used in Stable Diffusion (includes negative prompts). |
-| [Midjourney](https://www.midjourney.com) | Generates images from prompts, similar to OpenAI's DALL-E. |
-| [InvokeAI](https://github.com/invoke-ai/InvokeAI) | Generate and create stunning visual media. |
-| [Boomy](https://boomy.com) | Write and produce a full song in seconds. |
-| [Gen-2](https://research.runwayml.com/gen2) | Generate novel videos with text, images, or video clips. ... No lights. No camera. All action. |
-| [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/) | Turn simple brushstrokes into realistic landscape images. |
-
-| Others  |   |
-| - | - |
-| [Futurepedia](https://www.futurepedia.io) | Largest AI tools directory. |
-| [Future Tools](https://www.futuretools.io) | All The Best AI Tools. |
-| [Hugging Face](https://huggingface.co) | Trained AI models to use with other AI tools. |
 
 #### GENERATORS
 - [ASCII Table](https://www.asciitable.com) - ASCII table contains letters, numbers, control characters, and other symbols. Each character is assigned a unique 7-bit code.
