@@ -846,7 +846,7 @@ WIKIMEDIA FOUNDATION
 </p>
 
 > [!NOTE]
-> Wiki is a great place to start searching but it isn't a good source to cite for projects, it can be edited by anyone. Always check the sources, that's the important material.
+> Wiki is a great place to start searching and a good foundation but it isn't a good source to cite for projects, it can be edited by laypeople. Always check the sources first, that's the important material.
 
 |   |   |
 | - | - |
