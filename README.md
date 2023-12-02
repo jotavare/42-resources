@@ -136,10 +136,10 @@ PISCINE AND COMMON CORE
 
 |   |   |
 | - | - |
-| [42 Evaluators](https://42evaluators.com)                             | Calculator, Leaderboard, PeerFinder, Blackhole, Stats, ...                    | `Website` |
-| [42 XP Calculator](https://42.tbailleu.dev)                           | Calculate how much exp you need for the next level.                           | `Website` |
-| [Find Peers](https://find-peers.codam.nl)                             | Find peers working on the same project.                                       | `Website` |
-| [S42](https://s42.app)                                                | Clusters from various 42 schools.                                             | `Website` |
+| [42 Evaluators](https://42evaluators.com)   | Calculator, Leaderboard, PeerFinder, Blackhole, Stats, ... | `Website` |
+| [42 XP Calculator](https://42.tbailleu.dev) | Calculate how much exp you need for the next level.        | `Website` |
+| [Find Peers](https://find-peers.codam.nl)   | Find peers working on the same project.                    | `Website` |
+| [S42](https://s42.app)                      | Clusters from various 42 schools.                          | `Website` |
 
 
 #### GUIDES
@@ -206,11 +206,11 @@ PISCINE AND COMMON CORE
 
 |   |   |
 | - | - |
-| [Evernote](https://evernote.com) | Note-taking and task management application.  | `Website` |
-| [Notion](https://www.notion.so) | Freemium productivity and a note-taking web application developed by Notion Labs Inc. | `Website` |
-| [Trello](https://trello.com) | Ultimate project management tool. | `Website` |
-| [Motion](https://www.usemotion.com) | Automatically prioritize tasks, schedule meetings, and resolve calendar conflicts. | `Website` |
-| [Scribe](https://scribehow.com) | Turn any process into a step-by-step guide, instantly. | `Website` |
+| [Evernote](https://evernote.com)    | Note-taking and task management application.                                          | `Website` |
+| [Notion](https://www.notion.so)     | Freemium productivity and a note-taking web application developed by Notion Labs Inc. | `Website` |
+| [Trello](https://trello.com)        | Ultimate project management tool.                                                     | `Website` |
+| [Motion](https://www.usemotion.com) | Automatically prioritize tasks, schedule meetings, and resolve calendar conflicts.    | `Website` |
+| [Scribe](https://scribehow.com)     | Turn any process into a step-by-step guide, instantly.                                | `Website` |
 
 #### OTHERS
 > _Miscellaneous resources of no particular category, that may prove helpful._
@@ -876,9 +876,9 @@ WIKIMEDIA FOUNDATION
 	<a href="#asia">Asia</a> •
 	<a href="#america">America</a> •
 	<a href="#africa">Africa</a> •
-	<a href="#oceania">Oceania</a> •
+	<a href="#oceania">Oceania</a> |
 	<a href="#soon">Soon</a> •
-	<a href="#--">↥ Back To Top</a>
+	<a href="#--">Scroll To Top</a>
 </p>
 
 #### WORLD
@@ -976,54 +976,61 @@ MISCELLANEOUS
 </h1>
 
 #### EDUCATIONAL PLATAFORMS
-- [Udemy](https://www.udemy.com)
-- [Google Codelabs](https://codelabs.developers.google.com)
-- [Codecademy](https://www.codecademy.com)
-- [Coursera](https://www.coursera.org)
-- [edX](https://www.edx.org)
-- [Google Cloud Skills Boost](https://www.cloudskillsboost.google) - Collection of courses, quests, and labs that have been curated to boost your cloud skills in a particular area.
-- [LinkedIn Learning](https://www.linkedin.com/learning) - Learn business, creative, and technology skills to achieve your personal and professional goals.
-- [Datacamp](https://www.datacamp.com) - Learn the data skills you need online at your own pace—from non-coding essentials to data science and machine learning.
-- [Hackr](https://hackr.io) - Google search shows you hundreds of Programming courses/tutorials, but Hackr.io tells you which is the best one.
-- [Upskill](https://upskillcourses.com) - Learn how to code from scratch. · Upskill is a high-quality tech training platform. 
-- [Google Developers Certification](https://developers.google.com/certification) - Google Developers Certification lets you demonstrate your proficiency and skill. 
-- [Envato Tuts+](https://tutsplus.com) - Learn creative skills with Envato Tuts+.
+|   |
+| - |
+| [Udemy](https://www.udemy.com) |
+| [Google Codelabs](https://codelabs.developers.google.com) |
+| [Codecademy](https://www.codecademy.com) |
+| [Coursera](https://www.coursera.org) |
+| [edX](https://www.edx.org) |
+| [Google Cloud Skills Boost](https://www.cloudskillsboost.google) |
+| [LinkedIn Learning](https://www.linkedin.com/learning) |
+| [Datacamp](https://www.datacamp.com) |
+| [Hackr](https://hackr.io) |
+| [Upskill](https://upskillcourses.com) |
+| [Google Developers Certification](https://developers.google.com/certification) |
+| [Envato Tuts+](https://tutsplus.com) |
 
 #### ONLINE COURSES
-- [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) `Free`
-- [100 Days of Code in Python](https://www.udemy.com/course/100-days-of-code) `Paid` `Use incognito mode for discount`
-- [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) `Free`
-- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) `7 Day Trial`
+|   |
+| - |
+| [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) |
+| [100 Days of Code in Python](https://www.udemy.com/course/100-days-of-code) |
+| [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) |
 
 #### BOOKS
-- [Programming Notes for Professionals](https://books.goalkicker.com)
-- [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface) `Wikipedia`
-- [Getting Things Done](https://www.google.com/search?client=firefox-b-d&q=getting+things+done)
-- [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) `Wikipedia`
-- [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) `Wikipedia`
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Available in a lot of languages. `GitHub`
+|   |
+| - |
+| [Programming Notes for Professionals](https://books.goalkicker.com) |
+| [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface) |
+| [Getting Things Done](https://www.google.com/search?client=firefox-b-d&q=getting+things+done) |
+| [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) |
+| [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) |
+| [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) |
 
 #### CHEATSHEETS
-- [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
-- [Explain Shell](https://explainshell.com) - Explains shell commands.
-- [Git Shell Colors](https://gist.github.com/vratiu/9780109) - Shell predefined colours for easier code reading.
-- [Git Cheat Sheet (RehanSaeed)](https://github.com/RehanSaeed/Git-Cheat-Sheet)
-- [Git Cheat Sheet (Atlassian)](https://github.com/jotavare/42-resources/files/10611245/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) - `PDF`
-- [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet)
-- [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Assembly - Introduction](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm)
-- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)
-- [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b)
-- [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet)
-- [Server World](https://www.server-world.info/en) - Website for people who like to build Network Servers with CentOS, Ubuntu, Fedora, Debian, and Windows Server.
-- [Cheatography](https://cheatography.com) - Over 5,000 free cheat sheets, revision aids and quick references.
-- [Cheat Sheets](https://cheat-sheets.org) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets on one page.
-- [Devhints](https://devhints.io) - Collection of various cheat sheets.
-- [OverAPI](https://overapi.com) - A website collecting all the cheatsheets.
-- [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets) - Awesome cheat sheets for popular programming languages, frameworks and development tools.
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+|   |
+| - |
+| [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) |
+| [Explain Shell](https://explainshell.com) |
+| [Git Shell Colors](https://gist.github.com/vratiu/9780109) |
+| [Git Cheat Sheet (RehanSaeed)](https://github.com/RehanSaeed/Git-Cheat-Sheet) |
+| [Git Cheat Sheet (Atlassian)](https://github.com/jotavare/42-resources/files/10611245/SWTM-2088_Atlassian-Git-Cheatsheet.pdf) |
+| [Markdown Cheat Sheet (tchapi)](https://github.com/tchapi/markdown-cheatsheet) |
+| [Markdown CheatSheet (adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) |
+| [Assembly - Introduction](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm) |
+| [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions) |
+| [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b) |
+| [Python Cheat Sheet](https://github.com/gto76/python-cheatsheet) |
+| [Server World](https://www.server-world.info/en) |
+| [Cheatography](https://cheatography.com) |
+| [Cheat Sheets](https://cheat-sheets.org) |
+| [Devhints](https://devhints.io) |
+| [OverAPI](https://overapi.com) |
+| [Awesome Cheat Sheets](https://lecoupa.github.io/awesome-cheatsheets) |
+| [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) |
 
-#### CHATBOT
+#### AI CHATBOT
 - [ChatGPT](https://chat.openai.com/chat) -  Chatbot launched by OpenAI in November 2022.
 - [Bard](https://bard.google.com) - AI chatbot, similar to ChatGPT.
 - [Bing](https://www.bing.com/new) - Microsoft Edge is necessary to use the chatbot.
