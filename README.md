@@ -107,7 +107,7 @@ PISCINE AND COMMON CORE
 	<a href="#readme">Readme</a> •
 	<a href="#productivity-software">Productivity software</a> •
 	<a href="#others">Others</a> •
-	<a href="#--">↥ Back To Top</a>
+	<a href="#--">Scroll To Top</a>
 </p>
 
 #### EXAMS
@@ -220,6 +220,7 @@ PISCINE AND COMMON CORE
 | [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                     | Open source, community-driven framework.                                                         | `GitHub`  |
 | [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)     | List of plugins for Oh My Zsh!                                                                   | `GitHub`  |
 | [PowerLevel10k](https://github.com/romkatv/powerlevel10k)                 | A customizable zsh theme focusing on speed, flexibility, and user experience.                    | `GitHub`  |
+| [Neofetch Themes](https://github.com/Chick2D/neofetch-themes)             | Compilation of Neofetch configurations gathered in one location.                                 | `GitHub`  |
 | [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)                  | Debugging online tool. *(learn how to use `gdb` or `lldb`)*                                      | `Website` |
 | [Python Tutor](https://pythontutor.com)                                   | Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`.                 | `Website` |
 | [Thonny](https://thonny.org)                                              | Thonny is an IDE for Python designed for beginners.                                              | `Website` |
@@ -228,7 +229,6 @@ PISCINE AND COMMON CORE
 | [RP42](https://github.com/alexandregv/RP42)                               | Discord addon integration for 42 School.                                                         | `GitHub`  |
 | [Installette](https://github.com/Kuninoto/installette)                    | Script to install Norminette, Norminette Formatter, Vim, and 42 Header.                          | `GitHub`  |
 | [42 Toolbox](https://github.com/alexandregv/42toolbox)                    | A bunch of scripts to improve your life at 42.                                                   | `GitHub`  |
-| [Neofetch Themes](https://github.com/Chick2D/neofetch-themes)             | Compilation of Neofetch configurations gathered in one location.                                 | `GitHub`  |
 | [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) | Course on thinking algorithmically and solving problems efficiently.                             | `Website` |
 
 - - - -
@@ -263,7 +263,7 @@ COMMON CORE PROJECTS
 	<a href="#05-webserv">Webserv</a> •
 	<a href="#05-inception">Inception</a> •
 	<a href="#06-ft_transcendence">Ft_transcendence</a> •
-	<a href="#--">↥ Back To Top</a>
+	<a href="#--">Scroll To Top</a>
 </p>
 
 > [!NOTE]  
@@ -623,7 +623,6 @@ COMMON CORE PROJECTS
 
 | **Guides**                                                                                                                                                     |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [jotavare](https://github.com/jotavare/inception)                                                                                                              | `GitHub`  |
 | [codesshaman](https://github.com/codesshaman/inception)                                                                                                        | `GitHub`  |
 | [vbachele](https://github.com/vbachele/Inception)                                                                                                              | `GitHub`  |
 | [llescure](https://github.com/llescure/42_Inception)                                                                                                           | `GitHub`  |
@@ -677,7 +676,7 @@ CYBER SECURITY AND HACKING
 	<a href="#guides-and-resources">Guides and Resources</a> •
 	<a href="#podcasts-news-and-videos">Podcasts, News and Videos</a> •
 	<a href="#hacking-google">Hacking Google</a> •
-	<a href="#--">↥ Back To Top</a>
+	<a href="#--">Scroll To Top</a>
 </p>
 
 #### CRACK THE CODE
@@ -726,7 +725,7 @@ CYBER SECURITY AND HACKING
 | [Burp Suite](https://portswigger.net/burp) | Integrated platform for security testing of web applications. | `Website` |
 | [WiFi Map](https://www.wifimap.io) | Locates nearby hotspots, displays passwords and enables connection. | `Website` |
 | [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) | Docker image useful for solving Steganography challenges. | `GitHub` |
-| [Medicat USB](https://github.com/mon5termatt/medicat_installer) | A toolkit that helps compile the latest computer diagnostic and recovery tools. | `GitHub` |
+| [Medicat USB](https://github.com/mon5termatt/medicat_installer) | Toolkit to compile the latest computer diagnostic and recovery tools. | `GitHub` |
 | [Wazuh](https://github.com/wazuh/wazuh) | Open source platform used for threat prevention, detection, and response. | `GitHub` |
 
 #### DIGITAL FOOTPRINT
@@ -763,7 +762,7 @@ CYBER SECURITY AND HACKING
 | [Etcher](https://www.balena.io/etcher) | Cross-platform tool for safely flashing OS images onto SD cards and USB drives. | `Website` |
 
 #### PACKAGE MANAGER
-> _Collection of software tools that automates the process of installing, upgrading, configuring, and removing programs._
+> _Software tools that automate the process of installing, upgrading, configuring, and removing programs._
 
 |   |   |   |
 | - | - | - |
@@ -807,7 +806,7 @@ CYBER SECURITY AND HACKING
 | [Exploring the Heap](https://medium.com/@m0ab1d42/heap-the-witchcraft-dungeon-ac08e782fb49) | Article exploring the computing concept of the heap. | `Medium` |
 
 #### PODCASTS, NEWS AND VIDEOS
-> _Information specifically intended to capture, preserve, and explain the culture around cyber security and ethical hacking._
+> _Information intended to capture, preserve, and explain the culture around cyber security and ethical hacking._
 
 |   |   |   |
 | - | - | - |
@@ -838,7 +837,9 @@ WIKIMEDIA FOUNDATION
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/wikimedia_banner.png">
 </h1>
 
-> Wikimedia is a global movement whose mission is to bring free educational content to the world.
+<p align="center">
+	<a href="#--">Scroll To Top</a>
+</p>
 
 |   |   |
 | - | - |
@@ -879,8 +880,6 @@ WIKIMEDIA FOUNDATION
 	<a href="#soon">Soon</a> •
 	<a href="#--">↥ Back To Top</a>
 </p>
-
-> All 42 schools around the world.
 
 #### WORLD
 |   |
@@ -976,7 +975,7 @@ MISCELLANEOUS
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/resources/misc_banner.png">
 </h1>
 
-#### PLATFORMS
+#### EDUCATIONAL PLATAFORMS
 - [Udemy](https://www.udemy.com)
 - [Google Codelabs](https://codelabs.developers.google.com)
 - [Codecademy](https://www.codecademy.com)
