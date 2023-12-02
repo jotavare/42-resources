@@ -677,6 +677,7 @@ CYBER SECURITY AND HACKING
 	<a href="#digital-footprint">Digital Footprint</a> •
 	<a href="#vpn">VPN</a> •
 	<a href="#bootable-usb">Bootable USB</a> •
+	<a href="#package-manager">Package Manager</a> •
 	<a href="#operating-system">Operating System</a> •
 	<a href="#exploits-and-vulnerabilities">Explois and Vulnerabulities</a> •
 	<a href="#guides-and-resources">Guides and Resources</a> •
@@ -766,10 +767,12 @@ CYBER SECURITY AND HACKING
 | [Ventoy](https://www.ventoy.net) | Open-source tool for creating bootable USB drives supporting various file types. | `Website` |
 | [Etcher](https://www.balena.io/etcher) | Cross-platform tool for safely flashing OS images onto SD cards and USB drives. | `Website` |
 
-#### PACKAGE MANAGEMENT
-- [Chocolatey](https://chocolatey.org) - Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
-- [Ninite](https://ninite.com) - Package management system that enables users to automatically install popular applications for their Windows operating system.
-- [FOSSHUB](https://www.fosshub.com) - Website and also a platform where people can download for free many popular and *clean* software titles.
+#### PACKAGE MANAGER
+|   |   |   |
+| - | - | - |
+| [Chocolatey](https://chocolatey.org) | Windows tool that wraps installers, executables, zips, and scripts into compiled packages. | `Website` |
+| [Ninite](https://ninite.com) | Package management system that automatically install popular applications | `Website` |
+| [FOSSHUB](https://www.fosshub.com) | Platform to download for free many popular and *clean* software titles. | `Website` |
 
 #### OPERATING SYSTEM
 > _Operating systems for every occasion._
