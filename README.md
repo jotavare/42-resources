@@ -16,13 +16,13 @@ WELCOME
 </p>
 
 <p align="center">
-	<a href="#42-school">42 School</a> •
-	<a href="#---1">Piscine and Common Core</a> •
-	<a href="#---2">Common Core Projects</a> •
-	<a href="#---3">Cyber Security and Hacking</a> •
-	<a href="#---4">Wikimedia Foundation</a> •
-	<a href="#---5">42 Campuses</a> •
- 	<a href="#---6">Miscellaneous</a>
+	<a href="#---1">Information</a> •
+	<a href="#---2">Piscine and Common Core</a> •
+	<a href="#---3">Common Core Projects</a> •
+	<a href="#---4">Cyber Security and Hacking</a> •
+	<a href="#---5">Wikimedia Foundation</a> •
+	<a href="#---6">42 Campuses</a> •
+ 	<a href="#---7">Miscellaneous</a>
 </p>
 
 ## WELCOME
@@ -82,7 +82,7 @@ Thank you for visiting my repository! Here, you will find a collection of resour
 | [StackOverflow](https://stackoverflowteams.com/c/42network/) | Official 42 forum. *(after Piscine and official email only)*                      | `Website` |
 
 #### SOCIAL
-> _For a specific 42 School social media, check the section **[CAMPUSES](#---10)** and choose a school._
+> _For a specific 42 School social media, check the section **[CAMPUSES](#---6)** and choose a school._
 
 |                                                       |                                                  |             |
 |-------------------------------------------------------|--------------------------------------------------|-------------|
@@ -224,7 +224,7 @@ PISCINE AND COMMON CORE
 | [Scribe](https://scribehow.com)     | Turn any process into a step-by-step guide, instantly.                                | `Website` |
 
 #### OTHERS
-> _Resources of no particular order but that i feel you should know. More available [here](#---6)._
+> _Resources of no particular order but that I feel you should know. More available [here](#---7)._
 
 |   |   |
 | - | - |
@@ -242,8 +242,8 @@ PISCINE AND COMMON CORE
 | [42 Toolbox](https://github.com/alexandregv/42toolbox)                    | A bunch of scripts to improve your life at 42.                                   | `GitHub`  |
 | [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) | Course on thinking algorithmically and solving problems efficiently.             | `Website` |
 | [Reeborg's World](https://reeborg.ca/reeborg.html)                        | Website designed to help people learn to program through  gaming puzzles.        | `Website` |
-| [Parrot Live](https://github.com/hugomd/parrot.live)                      |                                                                                  | `GitHub`  |
-| [Let Me Google That For You...](https://letmegooglethat.com)              |                                                                                  | `Website` |
+| [Parrot Live](https://github.com/hugomd/parrot.live)                      | Allow any computer with curl to display an animated party parrot.                | `GitHub`  |
+| [Let Me Google That For You...](https://letmegooglethat.com)              | Politely ask someone to Google but don't be afraid to ask for help tho!          | `Website` |
 | [Fake Update](https://fakeupdate.net)                                     | Fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`              | `Website` |
 
 - - - -
@@ -1209,7 +1209,7 @@ MISCELLANEOUS
 | [PageSpeed Insights](https://pagespeed.web.dev) | Analyze the score and use PageSpeed Insights suggestions to make your website faster. |
 | [Testmysite.io](https://testmysite.io) | Is your site as fast and secure as it could be? |
 | [Worldometer](https://www.worldometers.info) | Live world statistics. `Population` `Government` `Economics` `Society` `Media` `Environment` `Food` `Water` `Energy` `Health` |
-| [Free Postcard](https://postcardmailer.herokuapp.com) | Send a free postcard with a photo to anyone in USA. |
+| [Free Postcard](https://postcardmailer.herokuapp.com) | Send a free postcard with a photo to anyone in the USA. |
 | [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks) | Out of ideas? |
 | [Hacker News Title Edit Tracker](https://hackernewstitles.netlify.app) | Hacker News whose titles have been edited since they were first posted. |
 | [Sketchy Website](https://sketchywebsite.net) | You can trust this website. |
