@@ -19,7 +19,7 @@ WELCOME
 	<a href="#---1">Information</a> •
 	<a href="#---2">Piscine and Common Core</a> •
 	<a href="#---3">Common Core Projects</a> •
-	<a href="#---4">Cyber Security and Hacking</a> •
+	<a href="#---4">Cyber Security</a> •
 	<a href="#---5">Wikimedia Foundation</a> •
 	<a href="#---6">42 Campuses</a> •
  	<a href="#---7">Miscellaneous</a>
