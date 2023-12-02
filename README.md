@@ -20,13 +20,9 @@ WELCOME
 	<a href="#---1">Piscine and Common Core</a> •
 	<a href="#---2">Common Core Projects</a> •
 	<a href="#---3">Cyber Security and Hacking</a> •
-	<a href="#---4">Ide, Compilers & Debuggers</a> •
-	<a href="#---5">Moocs and Books</a> •
-	<a href="#---6">AI</a> •
-	<a href="#---7">Tools</a> •
-	<a href="#---8">Wikimedia Foundation</a> •
-	<a href="#---9">42 Campuses</a>
- 	<a href="#---10">Miscellaneous</a> •
+	<a href="#---4">Wikimedia Foundation</a> •
+	<a href="#---5">42 Campuses</a> •
+ 	<a href="#---6">Miscellaneous</a>
 </p>
 
 ## WELCOME
@@ -733,6 +729,7 @@ CYBER SECURITY AND HACKING
 | [WiFi Map](https://www.wifimap.io) | Locates nearby hotspots, displays passwords and enables connection. | `Website` |
 | [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) | Docker image useful for solving Steganography challenges. | `GitHub` |
 | [Medicat USB](https://github.com/mon5termatt/medicat_installer) | A toolkit that helps compile the latest computer diagnostic and recovery tools. | `GitHub` |
+| [Wazuh](https://github.com/wazuh/wazuh) | Open source platform used for threat prevention, detection, and response. | `GitHub` |
 
 #### DIGITAL FOOTPRINT
 > _Discover the imprint left by your online activities._
