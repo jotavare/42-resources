@@ -296,8 +296,8 @@ COMMON CORE PROJECTS
 | Resource                                                                                                       | Souce     | User |
 | :------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
 | [Libft - C Standard Library Rewrite](https://www.asidesigned.com/project-libft.html)                           | `Website` | |
-| [Libf Functions (Comments Included)](https://github.com/pbie42/libft42commented)                               | `GitHub`  | `pbie42` |
-| [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                       | `GitHub`  | `Nuno-Jesus` |
+| [42's libft with comments](https://github.com/pbie42/libft42commented)                                         | `GitHub`  | `pbie42` |
+| [Make-A-Make: Clear the fog around Makefiles](https://github.com/Nuno-Jesus/Make-A-Make)                       | `GitHub`  | `Nuno-Jesus` |
 | [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                                           | `Blog`    | `pulgamecanica` |
 | [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Medium`  | `jterrazz` |
 
@@ -365,24 +365,28 @@ COMMON CORE PROJECTS
 
 
 #### [02] MINITALK
-| **Project Files**                                                                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minitalk.pdf)                                                                     | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
+| Resources                                                                                                                                          | Source    | User |
+| :------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp)                                                             | `Website` | |
+| [42-Bitwise_Operators](https://github.com/agavrel/42-Bitwise_Operators)                                                                            | `GitHub`  | `agavrel` |
+| [Sending and Handling Signals in C (kill, signal, sigaction)](https://www.youtube.com/watch?v=83M5-NPDeWs)                                         | `Youtube` | `Jacob Sorber` |
+| [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs)                                                                                 | `Youtube` | `CodeVault` |
+| [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U)                                                                                    | `Youtube` | `CodeVault` |
+| [How to use signal handlers in C language?](https://linuxhint.com/signal_handlers_c_programming_language)                                          | `Website` | |
+| [include/linux/signal.h - Linux source code (v6.6.2)](https://elixir.bootlin.com/linux/latest/source/include/linux/signal.h)                       | `Website` | |
+| [Beej's Guide to C Programming - 29 Signal Handling](https://beej.us/guide/bgc/html/split/signal-handling.html)                                    | `Website` | |
+| [Beej's Guide to C Programming - Bit-Fields](https://beej.us/guide/bgc/html/split/structs-ii-more-fun-with-structs.html#bit-fields)                | `Website` | |
+| [Beej's Guide to C Programming - What is Unicode?](https://beej.us/guide/bgc/html/split/unicode-wide-characters-and-all-that.html#what-is-unicode) | `Website` | |
+| [Minitalk](https://github.com/mlanca-c/Minitalk)                                                                                                   | `GitHub`  | `mlanca-c` |
+| [minitalk](https://github.com/j4k0m/minitalk)                                                                                                      | `GitHub`  | `j4k0m` |
 
-| **Resources**                                                                                                                                                  |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp)                                                                         | `Website` |
-| [Bitwise Operators](https://github.com/agavrel/42-Bitwise_Operators)                                                                                           | `GitHub`  |
-| [Sending and Handling Signals in C](https://www.youtube.com/watch?v=83M5-NPDeWs)                                                                               | `Youtube` |
-| [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs)                                                                                             | `Youtube` |
-| [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U)                                                                                                | `Youtube` |
-
-| **Testers**                                                                                                                                                    |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Lorem Ipsum Generator](https://www.lipsum.com)                                                                                                                | `Website` |
-| [Emojis](https://getemoji.com)                                                                                                                                 | `Website` |
-| [Francinette](https://github.com/xicodomingues/francinette)                                                                                                    | `GitHub`  |
+| Testers                                                                                | Source    | User |
+| :------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Lipsum generator: Lorem Ipsum](https://www.lipsum.com)                                | `Website` | |
+| [Get Emoji](https://getemoji.com)                                                      | `Website` | |
+| [EmojiDB](https://emojidb.org/terminal-emojis)                                         | `Website` | |
+| [francinette](https://github.com/xicodomingues/francinette)                            | `GitHub`  | `xicodomingues` |
+| [francineminitalk-Testertte](https://github.com/ThibaudM13/minitalk-Tester)            | `GitHub`  | `ThibaudM13` |
 
 #### [02] PIPEX
 | **Project Files**                                                                                                                                              |           |
