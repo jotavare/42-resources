@@ -295,11 +295,11 @@ COMMON CORE PROJECTS
 #### [00] LIBFT
 | Resource                                                                                                       | Souce     | User |
 | :------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                                           | `Blog`    | `pulgamecanica` |
+| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Medium`  | `jterrazz` |
 | [Libft - C Standard Library Rewrite](https://www.asidesigned.com/project-libft.html)                           | `Website` | |
 | [42's libft with comments](https://github.com/pbie42/libft42commented)                                         | `GitHub`  | `pbie42` |
 | [Make-A-Make: Clear the fog around Makefiles](https://github.com/Nuno-Jesus/Make-A-Make)                       | `GitHub`  | `Nuno-Jesus` |
-| [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                                           | `Blog`    | `pulgamecanica` |
-| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Medium`  | `jterrazz` |
 
 | Tester                                                                 | Source    | User |
 | :--------------------------------------------------------------------- | :-------- | :--- |
@@ -313,9 +313,9 @@ COMMON CORE PROJECTS
 #### [01] BORN2BEROOT
 | Resource                                                                                  | Souce     | User |
 | :---------------------------------------------------------------------------------------- | :-------- | :--- |
-| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` | `Fireship` |
 | [Debian](https://www.debian.org/)                                                         | `Website` | |
 | [Rocky](https://rockylinux.org/)                                                          | `Website` | |
+| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` | `Fireship` |
 | [Born2beroot](https://github.com/lbordonal/01-Born2beroot/wiki)                           | `GitHub`  | `lbordonal` |
 | [Born2beroot Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide)                   | `GitHub`  | `pasqualerossi` |
 | [Born2beroot Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial)                | `GitHub`  | `gemartin99` |
@@ -351,11 +351,11 @@ COMMON CORE PROJECTS
 | Resource                                                                                                                        | Source    | User |
 | :------------------------------------------------------------------------------------------------------------------------------ | :-------- | :--- |
 | [Master File I/O Operations](https://medium.com/@ayogun/master-file-i-o-operations-with-42s-get-next-line-project-5fb001d1fff5) | `Medium`  | `ayogun` |
-| [get_next_line - 42 Docs](https://harm-smits.github.io/42docs/projects/get_next_line)                                           | `GitHub`  | `harm-smits` |
 | [get_next_line: My first complex program](https://yannick.eu/gnl/)                                                              | `Website` | `yannick` |
 | [Read A Specific Line From A File \| C Programming Example](https://www.youtube.com/watch?v=w0mgn6OLKUs)                        | `Youtube` | `Portfolio Courses` |
 | [get_next_line explained : develop a function that reads a file line by line](https://www.youtube.com/watch?v=8E9siq7apUU)      | `Youtube` | `Oceano` |
 | [comprendre get_next_line](https://www.youtube.com/watch?v=-Mt2FdJjVno)                                                         | `Youtube` | `nikito` |
+| [get_next_line - 42 Docs](https://harm-smits.github.io/42docs/projects/get_next_line)                                           | `GitHub`  | `harm-smits` |
 
 | Tester                                                            | Source   | User |
 | :---------------------------------------------------------------- | :------- | :--- |
@@ -368,17 +368,17 @@ COMMON CORE PROJECTS
 | Resource                                                                                                                                           | Source    | User |
 | :------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
 | [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp)                                                             | `Website` | |
-| [42-Bitwise_Operators](https://github.com/agavrel/42-Bitwise_Operators)                                                                            | `GitHub`  | `agavrel` |
-| [Sending and Handling Signals in C (kill, signal, sigaction)](https://www.youtube.com/watch?v=83M5-NPDeWs)                                         | `Youtube` | `Jacob Sorber` |
-| [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs)                                                                                 | `Youtube` | `CodeVault` |
-| [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U)                                                                                    | `Youtube` | `CodeVault` |
 | [How to use signal handlers in C language?](https://linuxhint.com/signal_handlers_c_programming_language)                                          | `Website` | |
 | [include/linux/signal.h - Linux source code (v6.6.2)](https://elixir.bootlin.com/linux/latest/source/include/linux/signal.h)                       | `Website` | |
 | [Beej's Guide to C Programming - 29 Signal Handling](https://beej.us/guide/bgc/html/split/signal-handling.html)                                    | `Website` | |
 | [Beej's Guide to C Programming - Bit-Fields](https://beej.us/guide/bgc/html/split/structs-ii-more-fun-with-structs.html#bit-fields)                | `Website` | |
 | [Beej's Guide to C Programming - What is Unicode?](https://beej.us/guide/bgc/html/split/unicode-wide-characters-and-all-that.html#what-is-unicode) | `Website` | |
-| [Minitalk](https://github.com/mlanca-c/Minitalk) | `GitHub`  | `mlanca-c` |
-| [minitalk](https://github.com/j4k0m/minitalk)    | `GitHub`  | `j4k0m` |
+| [Sending and Handling Signals in C (kill, signal, sigaction)](https://www.youtube.com/watch?v=83M5-NPDeWs)                                         | `Youtube` | `Jacob Sorber` |
+| [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs)                                                                                 | `Youtube` | `CodeVault` |
+| [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U)                                                                                    | `Youtube` | `CodeVault` |
+| [42-Bitwise_Operators](https://github.com/agavrel/42-Bitwise_Operators)                                                                            | `GitHub`  | `agavrel` |
+| [Minitalk](https://github.com/mlanca-c/Minitalk)                                                                                                   | `GitHub`  | `mlanca-c` |
+| [minitalk](https://github.com/j4k0m/minitalk)                                                                                                      | `GitHub`  | `j4k0m` |
 
 | Tester                                                                                 | Source    | User |
 | :------------------------------------------------------------------------------------- | :-------- | :--- |
@@ -392,15 +392,15 @@ COMMON CORE PROJECTS
 | Resource                                                                                                                                     | Source    | User |
 | :------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
 | [pipex tutorial — 42 project](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901)                                             | `Medium`  | `zihan` |
+| [wait(2) — Linux manual page](https://man7.org/linux/man-pages/man2/waitpid.2.html)                                                          | `man7`    | |
+| [execve(2) — Linux manual page](https://man7.org/linux/man-pages/man2/execve.2.html)                                                         | `man7`    | |
+| [SIGTSTP signal not stopping child?](https://stackoverflow.com/questions/41029170/sigtstp-signal-not-stopping-child)                         | `Stack Overflow` | |
+| [Consequences of Process Termination](https://pubs.opengroup.org/onlinepubs/9699919799/functions/_Exit.html#tag_16_01_03_01)                 | `Website` | |
+| [Creating Pipes in C](https://tldp.org/LDP/lpg/node11.html)                                                                                  | `Website` | |
+| [Stanford Lecture 07: Signals](https://web.stanford.edu/class/archive/cs/cs110/cs110.1196/static/lectures/07-Signals/lecture-07-signals.pdf) | `PDF`     | |
 | [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)                                              | `Youtube` | `CodeVault` |
 | [Pipes Explained (Spanish)](https://www.youtube.com/watch?v=8LdQ09Ep9RY)                                                                     | `Youtube` | `WhileTrueThenDream` |
 | [pipex.c](https://github.com/malikfassi/42/blob/master/UNIX/PIPEX/src/pipex.c)                                                               | `GitHub`  | `malikfassi` |
-| [wait(2) — Linux manual page](https://man7.org/linux/man-pages/man2/waitpid.2.html)                                                          | `man7`    |
-| [execve(2) — Linux manual page](https://man7.org/linux/man-pages/man2/execve.2.html)                                                         | `man7`    |
-| [Consequences of Process Termination](https://pubs.opengroup.org/onlinepubs/9699919799/functions/_Exit.html#tag_16_01_03_01)                 | `Website` |
-| [Creating Pipes in C](https://tldp.org/LDP/lpg/node11.html)                                                                                  | `Website` |
-| [SIGTSTP signal not stopping child?](https://stackoverflow.com/questions/41029170/sigtstp-signal-not-stopping-child)                         | `Stack Overflow ` |
-| [Stanford Lecture 07: Signals](https://web.stanford.edu/class/archive/cs/cs110/cs110.1196/static/lectures/07-Signals/lecture-07-signals.pdf) | `PDF`     |
 
 | Tester                                                      | Source   | User |
 | :---------------------------------------------------------- | :------- | :--- |
@@ -410,18 +410,26 @@ COMMON CORE PROJECTS
 | [francinette](https://github.com/xicodomingues/francinette) | `GitHub` | `xicodomingues` |
 
 #### [02] SO_LONG
-| Resource                                                                                                                                                  |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)                                                                                    | `Website` |
-| [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial)                                                                               | `Blog`    |
-| [MiniLibX Animations Tutorial](https://pulgamecanica.herokuapp.com/posts/mlx-animations)                                                                       | `Blog`    |
-| [raylib](https://www.raylib.com)                                                                                                                               | `Website` |
-| [miniaudio](https://github.com/mackron/miniaudio)                                                                                                              | `GitHub`  |
-| [Pacman so_long](https://github.com/madebypixel02/so_long)                                                                                                     | `GitHub`  |
+| Resource                                                                                             | Souce     | User |
+| :--------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial)                     | `Blog`    | `pulgamecanica` |
+| [MLX Animations](https://pulgamecanica.herokuapp.com/posts/mlx-animations)                           | `Blog`    | `pulgamecanica` |
+| [MiniLibX - 42 Docs](https://harm-smits.github.io/42docs/libs/minilibx)                              | `Website` | `harm-smits` |
+| [How to Make Pixel Art in GIMP](https://thegimptutorials.com/how-to-make-pixel-art)                  | `Website` | |
+| [itch.io](https://itch.io)                                                                           | `Website` | |
+| [OpenGameArt.org](https://opengameart.org)                                                           | `Website` | |
+| [8-Bit Dungeon Tileset/Sprites](https://jamiecross.itch.io/8-bit-dungeon-tilesetsprites)             | `Website` | |
+| [42: A Comprehensive Guide to So Long](https://reactive.so/post/42-a-comprehensive-guide-to-so_long) | `Website` | |
+| [raylib](https://github.com/raysan5/raylib)                                                          | `GitHub`  | `raylib` |
+| [miniaudio](https://github.com/mackron/miniaudio)                                                    | `GitHub`  | `mackron` |
+| [42Paris/minilibx-linux](https://github.com/42Paris/minilibx-linux)                                  | `GitHub`  | `42Paris` |
+| [miniLibX sample \| slucas-s](https://github.com/S-LucasSerrano/miniLibX_sample)                     | `GitHub`  | `S-LucasSerrano` |
+| [madebypixel02/so_long](https://github.com/madebypixel02/so_long)                                    | `GitHub`  | `madebypixel02` |
 
-| Tester                                                                                                                                                    |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator)                                                                      | `GitHub`  |
+| Tester                                                                       | Source    | User |
+| :--------------------------------------------------------------------------- | :-------- | :--- |
+| [so_long_invalidator](https://github.com/Nuno-Jesus/so_long_invalidator)     | `GitHub`  | `Nuno-Jesus` |
+| [so_long_tester](https://github.com/augustobecker/so_long_tester)            | `GitHub`  | `augustobecker` |
 
 #### [02] FRACT-OL
 | Resource                                                                                                                                                  |             |
