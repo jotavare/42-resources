@@ -313,12 +313,12 @@ COMMON CORE PROJECTS
 #### [01] BORN2BEROOT
 | Resource                                                                                  | Souce     | User |
 | :---------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` | `Fireship` |
 | [Debian](https://www.debian.org/)                                                         | `Website` | |
 | [Rocky](https://rockylinux.org/)                                                          | `Website` | |
 
 | Guides                                                                                    | Souce     | User |
 | :---------------------------------------------------------------------------------------- | :-------- | :--- |
-| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` | `Fireship` |
 | [Born2beroot](https://github.com/lbordonal/01-Born2beroot/wiki)                           | `GitHub`  | `lbordonal` |
 | [Born2beroot Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide)                   | `GitHub`  | `pasqualerossi` |
 | [Born2beroot Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial)                | `GitHub`  | `gemartin99` |
@@ -417,12 +417,12 @@ COMMON CORE PROJECTS
 | :--------------------------------------------------------------------------------------------------- | :-------- | :--- |
 | [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial)                     | `Blog`    | `pulgamecanica` |
 | [MLX Animations](https://pulgamecanica.herokuapp.com/posts/mlx-animations)                           | `Blog`    | `pulgamecanica` |
-| [MiniLibX - 42 Docs](https://harm-smits.github.io/42docs/libs/minilibx)                              | `Website` | `harm-smits` |
 | [How to Make Pixel Art in GIMP](https://thegimptutorials.com/how-to-make-pixel-art)                  | `Website` | |
 | [itch.io](https://itch.io)                                                                           | `Website` | |
 | [OpenGameArt.org](https://opengameart.org)                                                           | `Website` | |
 | [8-Bit Dungeon Tileset/Sprites](https://jamiecross.itch.io/8-bit-dungeon-tilesetsprites)             | `Website` | |
 | [42: A Comprehensive Guide to So Long](https://reactive.so/post/42-a-comprehensive-guide-to-so_long) | `Website` | |
+| [MiniLibX - 42 Docs](https://harm-smits.github.io/42docs/libs/minilibx)                              | `GitHub`  | `harm-smits` |
 | [raylib](https://github.com/raysan5/raylib)                                                          | `GitHub`  | `raysan5` |
 | [miniaudio](https://github.com/mackron/miniaudio)                                                    | `GitHub`  | `mackron` |
 | [minilibx-linux](https://github.com/42Paris/minilibx-linux)                                          | `GitHub`  | `42Paris` |
@@ -445,12 +445,9 @@ COMMON CORE PROJECTS
 | [Julia and Mandelbrot Sets](https://lodev.org/cgtutor/juliamandelbrot.html)                                                | `Website`   |      |
 | [Recursion Trees](https://lodev.org/cgtutor/recursiontrees.html)                                                           | `Website`   |      |
 | [Sierpinski Fractals](https://lodev.org/cgtutor/sierpinski.html)                                                           | `Website`   |      |
-| [MiniLibX - 42 Docs](https://harm-smits.github.io/42docs/libs/minilibx)                                                    | `Website`   | `harm-smits` |
-| [MiniLibX - Basic introduction, tutorials, tips & tricks.](https://gontjarow.github.io/MiniLibX)                           | `Website`   |      |
 | [Managing events with the minilibx](https://aurelienbrabant.fr/blog/events-with-the-minilibx)                              | `Website`   |      |
 | [Pixel drawing with the minilibx](https://aurelienbrabant.fr/blog/pixel-drawing-with-the-minilibx)                         | `Website`   |      |
 | [Getting started with the minilibx](https://aurelienbrabant.fr/blog/getting-started-with-the-minilibx)                     | `Website`   |      |
-| [MiniLibX - Simple Graphical Interface Library for students](https://qst0.github.io/ft_libgfx/man_mlx.html)                | `Website`   |      |
 | [How to plot the mandelbrot set](https://www.codingame.com/playgrounds/2358/how-to-plot-the-mandelbrot-set/mandelbrot-set) | `Website`   |      |
 | [Efficiently generating the Mandelbrot and Julia sets](https://theses.liacs.nl/pdf/2018-2019-JonckheereLSde.pdf)           | `Website`   |      |
 | [Fractal Pack 1 Educators’ Guide](https://fractalfoundation.org/fractivities/FractalPacks-EducatorsGuide.pdf)              | `Website`   |      |
@@ -458,28 +455,30 @@ COMMON CORE PROJECTS
 | [Mandelbrot Interactive Online](https://www.geogebra.org/m/jcpvtkhz)                                                       | `Website`   |      |
 | [Julia Set Mathematics](https://mathworld.wolfram.com/JuliaSet.html)                                                       | `Website`   |      |
 | [Mandelbrot & Julia Sets - Interactive visualization of fractals](https://www.dynamicmath.xyz/mandelbrot-julia)            | `Website`   |      |
-- https://fractalfoundation.org/fractivities/FractalPacks-EducatorsGuide.pdf
-- http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/
+| [Tutorial 3 : Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices)                            | `Website`   |      |
+| [MiniLibX - 42 Docs](https://harm-smits.github.io/42docs/libs/minilibx)                                                    | `GitHub`    | `harm-smits` |
+| [MiniLibX - Basic introduction, tutorials, tips & tricks.](https://gontjarow.github.io/MiniLibX)                           | `GitHub`    | `gontjarow` |
+| [MiniLibX - Simple Graphical Interface Library for students](https://qst0.github.io/ft_libgfx/man_mlx.html)                | `GitHub`    | `qst0` |
 
-| Videos                                                                                                                     | Source      | User |
-| :------------------------------------------------------------------------------------------------------------------------- | :---------- | :--- |
-- https://www.youtube.com/watch?v=PBvLs88hvJ8
-- https://www.youtube.com/watch?v=9gk_8mQuerg
-- https://www.youtube.com/watch?v=LqbZpur38nw
-- https://www.youtube.com/watch?v=9U0XVdvQwAI
-- https://www.youtube.com/watch?v=N8WWodGk9-g
-- https://www.youtube.com/watch?v=GiAj9WW1OfQ
-- https://www.youtube.com/watch?v=NGMRB4O922I
-- https://www.youtube.com/watch?v=FFftmWSzgmk
-- https://www.youtube.com/watch?v=MwjsO6aniig
-- https://www.youtube.com/watch?v=ovJcsL7vyrk
+| Videos                                                                                                            | Source    | User |
+| :---------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Brute Force Processing](https://www.youtube.com/watch?v=PBvLs88hvJ8)                                             | `Youtube` | `javidx9` |
+| [The dark side of the Mandelbrot set](https://www.youtube.com/watch?v=9gk_8mQuerg)                                | `Youtube` | `Mathologer` |
+| [Beyond the Mandelbrot set, an intro to holomorphic dynamics](https://www.youtube.com/watch?v=LqbZpur38nw)        | `Youtube` | `3Blue1Brown` |
+| [Marble Marcher - A Fractal Physics Game](https://www.youtube.com/watch?v=9U0XVdvQwAI)                            | `Youtube` | `CodeParade` |
+| [Realtime 3D Fractal Renders](https://www.youtube.com/watch?v=N8WWodGk9-g)                                        | `Youtube` | `CodeParade` |
+| [Sounds of the Mandelbrot Set](https://www.youtube.com/watch?v=GiAj9WW1OfQ)                                       | `Youtube` | `CodeParade` |
+| [The Mandelbrot Set](https://www.youtube.com/watch?v=NGMRB4O922I)                                                 | `Youtube` | `Numberphile` |
+| [What's so special about the Mandelbrot Set?](https://www.youtube.com/watch?v=FFftmWSzgmk)                        | `Youtube` | `Numberphile` |
+| [The Mandelbrot Set](https://www.youtube.com/watch?v=MwjsO6aniig)                                                 | `Youtube` | `D!NG` |
+| [This equation will change how you see the world (the logistic map)](https://www.youtube.com/watch?v=ovJcsL7vyrk) | `Youtube` | `Veritasium` |
 
-| Projects                                                                                                                   | Source      | User |
-| :------------------------------------------------------------------------------------------------------------------------- | :---------- | :--- |
-- https://github.com/mcombeau/fract-ol
-- https://github.com/inesalves44/fract-ol
-- https://github.com/Xyckens/fract-ol
-- https://github.com/librity/ft_fractol
+| Projects                                            | Source   | User |
+| :-------------------------------------------------- | :------- | :--- |
+| [fract-ol](https://github.com/mcombeau/fract-ol )   | `GitHub` | `mcombeau` |
+| [fract-ol](https://github.com/inesalves44/fract-ol) | `GitHub` | `inesalves44` |
+| [fract-ol](https://github.com/Xyckens/fract-ol)     | `GitHub` | `Xyckens` |
+| [ft_fractol](https://github.com/librity/ft_fractol) | `GitHub` | `librity` |
 
 #### [02] FDF
 | Resource                                                                                                                                                  |             |
