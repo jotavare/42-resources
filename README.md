@@ -120,14 +120,14 @@ PISCINE AND COMMON CORE
 </p>
 
 #### EXAMS
-> _Websites that I found useful for studying 42 exams._
+> _Websites that I found useful for studying 42 exams, some are outdated but still usefull._
 
 |   |   |
 | - | - |
 | [GradeMe](https://grademe.fr)                                     | Simulate piscine and common core exams. | `Website` |
 | [Piscine and Common Core Exams](https://github.com/pasqualerossi) | Questions and solutions.                | `GitHub`  |
-| [Piscine Exams (old)](http://nigal.freeshell.org/42)              | Questions and solutions.                | `Website` |
-| [Common Core Exams (old)](http://www.anit.az/?author=1)           | Questions and solutions with mains.     | `Website` |
+| [Piscine Exams (outdated)](http://nigal.freeshell.org/42)         | Questions and solutions.                | `Website` |
+| [Common Core Exams (outdated)](http://www.anit.az/?author=1)      | Questions and solutions with mains.     | `Website` |
 
 #### PEER-TO-PEER
 > _Information about peer-to-peer evaluation, and beginner videos about Shell and Git._
@@ -288,24 +288,20 @@ COMMON CORE PROJECTS
 |                                                                                                                                                                |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [42 Subjects (rphlr)](https://github.com/rphlr/42-Subjects)                                                                                                    | `GitHub` |
-| [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph)                                                                                                 | `GitHub` |
-| [Binary Hackers (2017)](https://github.com/Binary-Hackers)                                                                                                     | `GitHub` |
-| [Agavrel (2016)](https://github.com/agavrel/42_Subjects)                                                                                                       | `GitHub` |
+| [42 Holygraph (outdated)](https://github.com/akaylee/42-holygraph)                                                                                             | `GitHub` |
+| [Binary Hackers (outdated)](https://github.com/Binary-Hackers)                                                                                                 | `GitHub` |
+| [Agavrel (outdated)](https://github.com/agavrel/42_Subjects)                                                                                                   | `GitHub` |
 
 #### [00] LIBFT
-| **Project Files**                                                                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/libft.pdf)                                                                        | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
-
-| **Resources**                                                                                                                                                  |           |
+| Resource                                                                                                                                                       | Source    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [Libft Functions](https://www.asidesigned.com/project-libft.html)                                                                                              | `Website` |
-| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96)                                                 | `Website` |
+| [Libf Functions (Comments Included)](https://github.com/pbie42/libft42commented)                                                                               | `GitHub`  |
 | [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                                                                       | `GitHub`  |
 | [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles)                                                                                          | `Blog`    |
+| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96)                                                 | `Website` |
 
-| **Testers**                                                                                                                                                    |           |
+| Testers                                                                                                                                                        | Source    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [Francinette](https://github.com/xicodomingues/francinette)                                                                                                    | `GitHub`  |
 | [Libft Tester](https://github.com/Tripouille/libftTester)                                                                                                      | `GitHub`  |
