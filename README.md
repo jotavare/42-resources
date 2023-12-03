@@ -285,78 +285,84 @@ COMMON CORE PROJECTS
 #### SUBJECTS
 > _Respositories with all 42 subjects and additional files in one place, some are outdated but still useful._
 
-| Resource                                                                    | Source   | User             |
-| :-------------------------------------------------------------------------- | :------- | :--------------- |
-| [42 Subjects](https://github.com/rphlr/42-Subjects)                         | `GitHub` | `rphlr`          |
-| [42 Holygraph (outdated)](https://github.com/akaylee/42-holygraph)          | `GitHub` | `akaylee`        |
+| Resource                                                                    | Source   | User |
+| :-------------------------------------------------------------------------- | :------- | :--- |
+| [42 Subjects](https://github.com/rphlr/42-Subjects)                         | `GitHub` | `rphlr` |
+| [42 Holygraph (outdated)](https://github.com/akaylee/42-holygraph)          | `GitHub` | `akaylee` |
 | [42 Subjects and Corrections (outdated)](https://github.com/Binary-Hackers) | `GitHub` | `Binary-Hackers` |
-| [42 Subjects (outdated)](https://github.com/agavrel/42_Subjects)            | `GitHub` | `agavrel`        |
+| [42 Subjects (outdated)](https://github.com/agavrel/42_Subjects)            | `GitHub` | `agavrel` |
 
 #### [00] LIBFT
-| Resource                                                                                                       | Souce     | User            |
-| :------------------------------------------------------------------------------------------------------------- | :-------- | :-------------- |
-| [Libft - C Standard Library Rewrite](https://www.asidesigned.com/project-libft.html)                           | `Website` |                 |
-| [Libf Functions (Comments Included)](https://github.com/pbie42/libft42commented)                               | `GitHub`  | `pbie42`        |
-| [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                       | `GitHub`  | `Nuno-Jesus`    |
+| Resource                                                                                                       | Souce     | User |
+| :------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Libft - C Standard Library Rewrite](https://www.asidesigned.com/project-libft.html)                           | `Website` | |
+| [Libf Functions (Comments Included)](https://github.com/pbie42/libft42commented)                               | `GitHub`  | `pbie42` |
+| [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                       | `GitHub`  | `Nuno-Jesus` |
 | [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                                           | `Blog`    | `pulgamecanica` |
-| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Medium`  |                 |
+| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Medium`  | `jterrazz` |
 
-| Testers                                                                | Source    | User            |
-| :--------------------------------------------------------------------- | :-------- | :-------------- |
-| [Francinette](https://github.com/xicodomingues/francinette)            | `GitHub`  | `xicodomingues` |
-| [Libft Tester](https://github.com/Tripouille/libftTester)              | `GitHub`  | `Tripouille`    |
-| [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker) | `GitHub`  | `Nuno-Jesus`    |
-| [Libft Unit Test](https://github.com/alelievr/libft-unit-test)         | `GitHub`  | `alelievr`      |
-| [Libft Test](https://github.com/jtoty/Libftest)                        | `GitHub`  | `jtoty`         |
-| [Libft War Machine](https://github.com/0x050f/libft-war-machine)       | `GitHub`  | `0x050f`        |
+| Testers                                                                | Source    | User |
+| :--------------------------------------------------------------------- | :-------- | :--- |
+| [francinette](https://github.com/xicodomingues/francinette)            | `GitHub`  | `xicodomingues` |
+| [libftTester](https://github.com/Tripouille/libftTester)               | `GitHub`  | `Tripouille` |
+| [libft_file_checker](https://github.com/Nuno-Jesus/libft_file_checker) | `GitHub`  | `Nuno-Jesus` |
+| [libft-unit-test](https://github.com/alelievr/libft-unit-test)         | `GitHub`  | `alelievr` |
+| [Libftest](https://github.com/jtoty/Libftest)                          | `GitHub`  | `jtoty` |
+| [libft-war-machine](https://github.com/0x050f/libft-war-machine)       | `GitHub`  | `0x050f` |
 
 #### [01] BORN2BEROOT
-| Resources                                                                                 | Souce     | User            |
-| :---------------------------------------------------------------------------------------- | :-------- | :-------------- |
-| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` |                 |
-| [Born2beroot](https://github.com/lbordonal/01-Born2beroot/wiki)                           | `GitHub`  | `lbordonal`     |
+| Resources                                                                                 | Souce     | User |
+| :---------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` | `Fireship` |
+| [Born2beroot](https://github.com/lbordonal/01-Born2beroot/wiki)                           | `GitHub`  | `lbordonal` |
 | [Born2beroot Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide)                   | `GitHub`  | `pasqualerossi` |
-| [Born2beroot Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial)                | `GitHub`  | `gemartin99`    |
-| [Born2beroot Walkthrough](https://github.com/HEADLIGHTER/Born2BeRoot-42)                  | `GitHub`  | `HEADLIGHTER`   |
-| [Debian](https://www.debian.org/)                                                         | `Website` |                 |
-| [Rocky](https://rockylinux.org/)                                                          | `Website` |                 |
+| [Born2beroot Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial)                | `GitHub`  | `gemartin99` |
+| [Born2beroot Walkthrough](https://github.com/HEADLIGHTER/Born2BeRoot-42)                  | `GitHub`  | `HEADLIGHTER` |
+| [Debian](https://www.debian.org/)                                                         | `Website` | |
+| [Rocky](https://rockylinux.org/)                                                          | `Website` | |
 
-| Testers                                                                | Source    | User         |
-| :--------------------------------------------------------------------- | :-------- | :----------- |
-| [Born2beroot Tester](https://github.com/Pixailz/Born2BeRootTester)     | `GitHub`  | `Pixailz`    |
-| [Born2beroot Tester](https://github.com/gemartin99/Born2beroot-Tester) | `GitHub`  | `gemartin99` |
+| Testers                                                                | Source    | User |
+| :--------------------------------------------------------------------- | :-------- | :--- |
+| [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)      | `GitHub`  | `Pixailz` |
+| [Born2beroot-Tester](https://github.com/gemartin99/Born2beroot-Tester) | `GitHub`  | `gemartin99` |
 
 #### [01] FT_PRINTF
-| Resources                                                                                                                                     | Source    | User      |
-| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :-------- |
-| [printf invocation (GNU Coreutils 9.4)](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#printf-invocation)     | `GNU`     |           |
-| [Formatted Output (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Formatted-Output.html)                              | `GNU`     |           |
-| [Table of Output Conversions (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)        | `GNU`     |           |
-| [printf(3) — Linux manual page](https://man7.org/linux/man-pages/man3/printf.3.html)                                                          | `man7`    |           |
+| Resources                                                                                                                                     | Source    | User |
+| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [printf invocation (GNU Coreutils 9.4)](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#printf-invocation)     | `GNU`     | |
+| [Formatted Output (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Formatted-Output.html)                              | `GNU`     | |
+| [Table of Output Conversions (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)        | `GNU`     | |
+| [printf(3) — Linux manual page](https://man7.org/linux/man-pages/man3/printf.3.html)                                                          | `man7`    | |
 | [printf / sprintf Implementation for Embedded Systems](https://github.com/mpaland/printf)                                                     | `GitHub`  | `mpaland` |
-| [C Tutorial – printf](https://www.codingunit.com/printf-format-specifiers-format-conversions-and-formatted-output)                            | `Website` |           |
-| [printf Reference](https://cplusplus.com/reference/cstdio/printf)                                                                             | `Website` |           |
-| [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)                                                    | `Website` |           |
-| [Printing Floating-Point Numbers](https://www.ryanjuckett.com/printing-floating-point-numbers)                                                | `Website` |           |
-| [Printing Floating-Point Numbers Quickly and Accurately with Integers](https://www.cs.tufts.edu/~nr/cs257/archive/florian-loitsch/printf.pdf) | `Website` |           |
+| [C Tutorial – printf](https://www.codingunit.com/printf-format-specifiers-format-conversions-and-formatted-output)                            | `Website` | |
+| [printf Reference](https://cplusplus.com/reference/cstdio/printf)                                                                             | `Website` | |
+| [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)                                                    | `Website` | |
+| [Printing Floating-Point Numbers](https://www.ryanjuckett.com/printing-floating-point-numbers)                                                | `Website` | |
+| [Printing Floating-Point Numbers Quickly and Accurately with Integers](https://www.cs.tufts.edu/~nr/cs257/archive/florian-loitsch/printf.pdf) | `Website` | |
 
-| Testers                                                                                       | Source    | User            |
-| :-------------------------------------------------------------------------------------------- | :-------- | :-------------- |
-| [Debugging Main](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c) | `GitHub`  | `Kuninoto`      |
-| [Francinette](https://github.com/xicodomingues/francinette)                                   | `GitHub`  | `xicodomingues` |
-| [printf Tester](https://github.com/Tripouille/printfTester)                                   | `GitHub`  | `Tripouille`    |
-| [ft_printf Tester](https://github.com/paulo-santana/ft_printf_tester)                         | `GitHub`  | `paulo-santana` |
+| Testers                                                                                              | Source    | User |
+| :--------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Debugging with main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c) | `GitHub`  | `Kuninoto` |
+| [francinette](https://github.com/xicodomingues/francinette)                                          | `GitHub`  | `xicodomingues` |
+| [printfTester](https://github.com/Tripouille/printfTester)                                           | `GitHub`  | `Tripouille` |
+| [ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester)                                | `GitHub`  | `paulo-santana` |
 
 #### [01] GET_NEXT_LINE
-| **Project Files**                                                                                                                                              |          |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/get_next_line.pdf)                                                                | `PDF`    |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`    |
+| Resources                                                                                                                       | Source    | User |
+| :------------------------------------------------------------------------------------------------------------------------------ | :-------- | :--- |
+| [Master File I/O Operations](https://medium.com/@ayogun/master-file-i-o-operations-with-42s-get-next-line-project-5fb001d1fff5) | `Medium`  | `ayogun` |
+| [get_next_line - 42 Docs](https://harm-smits.github.io/42docs/projects/get_next_line)                                           | `GitHub`  | `harm-smits` |
+| [get_next_line: My first complex program](https://yannick.eu/gnl/)                                                              | `Website` | `yannick` |
+| [Read A Specific Line From A File \| C Programming Example](https://www.youtube.com/watch?v=w0mgn6OLKUs)                        | `Youtube` | `Portfolio Courses` |
+| [get_next_line explained : develop a function that reads a file line by line](https://www.youtube.com/watch?v=8E9siq7apUU)      | `Youtube` | `Oceano` |
+| [comprendre get_next_line](https://www.youtube.com/watch?v=-Mt2FdJjVno)                                                         | `Youtube` | `nikito` |
 
-| **Testers**                                                                                                                                                    |          |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [Francinette](https://github.com/xicodomingues/francinette)                                                                                                    | `GitHub` |
-| [GNL Tester](https://github.com/Tripouille/gnlTester)                                                                                                          | `GitHub` |
+| Testers                                                           | Source   | User |
+| :---------------------------------------------------------------- | :------- | :--- |
+| [francinette](https://github.com/xicodomingues/francinette)       | `GitHub` | `xicodomingues` |
+| [gnlTester](https://github.com/Tripouille/gnlTester)              | `GitHub` | `Tripouille` |
+| [gnl-station-tester](https://github.com/kodpe/gnl-station-tester) | `GitHub` | `kodpe` |
+
 
 #### [02] MINITALK
 | **Project Files**                                                                                                                                              |           |
