@@ -65,7 +65,6 @@ Thank you for visiting my repository! Here, you will find a collection of resour
 |                                                                         |                                                                   |           |
 |-------------------------------------------------------------------------|-------------------------------------------------------------------|-----------|
 | [GitHub Student Pack](https://github-portal.42.fr/login)                | Portal to activate the GitHub Student Pack.                       | `Website` |
-| [Office 365](https://www.microsoft.com/en-us/education/products/office) | Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. | `Website` |
 | [JetBrains](https://www.jetbrains.com/community/education)              | Integrated development environment Software (IDE).                | `Website` |
 | [Lucidchart](https://www.lucidchart.com/pages)                          | Web-based diagramming application.                                | `Website` |
 
@@ -128,8 +127,8 @@ PISCINE AND COMMON CORE
 | - | - |
 | [GradeMe](https://grademe.fr)                                     | Simulate piscine and common core exams. | `Website` |
 | [Piscine and Common Core Exams](https://github.com/pasqualerossi) | Questions and solutions.                | `GitHub`  |
-| [(Old) Piscine Exams](http://nigal.freeshell.org/42)              | Questions and solutions.                | `Website` |
-| [(Old) Common Core Exams](http://www.anit.az/?author=1)           | Questions and solutions with mains.     | `Website` |
+| [Piscine Exams (old)](http://nigal.freeshell.org/42)              | Questions and solutions.                | `Website` |
+| [Common Core Exams (old)](http://www.anit.az/?author=1)           | Questions and solutions with mains.     | `Website` |
 
 #### PEER-TO-PEER
 > _Information about peer-to-peer evaluation, and beginner videos about Shell and Git._
