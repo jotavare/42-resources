@@ -285,30 +285,30 @@ COMMON CORE PROJECTS
 #### SUBJECTS
 > _Respositories with all 42 subjects and additional files in one place, some are outdated but still useful._
 
-|                                                                                                                                                                |          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [42 Subjects (rphlr)](https://github.com/rphlr/42-Subjects)                                                                                                    | `GitHub` |
-| [42 Holygraph (outdated)](https://github.com/akaylee/42-holygraph)                                                                                             | `GitHub` |
-| [Binary Hackers (outdated)](https://github.com/Binary-Hackers)                                                                                                 | `GitHub` |
-| [Agavrel (outdated)](https://github.com/agavrel/42_Subjects)                                                                                                   | `GitHub` |
+| Resource                                                                                                                                                       | Source   | User             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------- |
+| [42 Subjects](https://github.com/rphlr/42-Subjects)                                                                                                            | `GitHub` | `rphlr`          |
+| [42 Holygraph (outdated)](https://github.com/akaylee/42-holygraph)                                                                                             | `GitHub` | `akaylee`        |
+| [42 Subjects and Corrections (outdated)](https://github.com/Binary-Hackers)                                                                                    | `GitHub` | `Binary-Hackers` |
+| [42 Subjects (outdated)](https://github.com/agavrel/42_Subjects)                                                                                               | `GitHub` | `agavrel`        |
 
 #### [00] LIBFT
-| Resource                                                                                                                                                       | Source    |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Libft Functions](https://www.asidesigned.com/project-libft.html)                                                                                              | `Website` |
-| [Libf Functions (Comments Included)](https://github.com/pbie42/libft42commented)                                                                               | `GitHub`  |
-| [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                                                                       | `GitHub`  |
-| [Easy Makefiles](https://pulgamecanica.herokuapp.com/posts/makefiles)                                                                                          | `Blog`    |
-| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96)                                                 | `Website` |
+| Resource                                                                                                                                                       | Souce     | User            |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------- |
+| [Libft - C Standard Library Rewrite](https://www.asidesigned.com/project-libft.html)                                                                           | `Website` |                 |
+| [Libf Functions (Comments Included)](https://github.com/pbie42/libft42commented)                                                                               | `GitHub`  | `pbie42`        |
+| [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                                                                       | `GitHub`  | `Nuno-Jesus`    |
+| [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                                                                                           | `Blog`    | `pulgamecanica` |
+| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96)                                                 | `Website` |                 |
 
-| Testers                                                                                                                                                        | Source    |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Francinette](https://github.com/xicodomingues/francinette)                                                                                                    | `GitHub`  |
-| [Libft Tester](https://github.com/Tripouille/libftTester)                                                                                                      | `GitHub`  |
-| [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker)                                                                                         | `GitHub`  |
-| [Libft Unit Test](https://github.com/alelievr/libft-unit-test)                                                                                                 | `GitHub`  |
-| [Libft Test](https://github.com/jtoty/Libftest)                                                                                                                | `GitHub`  |
-| [Libft War Machine](https://github.com/0x050f/libft-war-machine)                                                                                               | `GitHub`  |
+| Testers                                                                                                                                                        | Source    | User            |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------- |
+| [Francinette](https://github.com/xicodomingues/francinette)                                                                                                    | `GitHub`  | `xicodomingues` |
+| [Libft Tester](https://github.com/Tripouille/libftTester)                                                                                                      | `GitHub`  | `Tripouille`    |
+| [Libft File Checker](https://github.com/Nuno-Jesus/libft_file_checker)                                                                                         | `GitHub`  | `Nuno-Jesus`    |
+| [Libft Unit Test](https://github.com/alelievr/libft-unit-test)                                                                                                 | `GitHub`  | `alelievr`      |
+| [Libft Test](https://github.com/jtoty/Libftest)                                                                                                                | `GitHub`  | `jtoty`         |
+| [Libft War Machine](https://github.com/0x050f/libft-war-machine)                                                                                               | `GitHub`  | `0x050f`        |
 
 #### [01] BORN2BEROOT
 | **Project Files**                                                                                                                                              |           |
