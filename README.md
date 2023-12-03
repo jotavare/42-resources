@@ -299,7 +299,7 @@ COMMON CORE PROJECTS
 | [Libf Functions (Comments Included)](https://github.com/pbie42/libft42commented)                               | `GitHub`  | `pbie42`        |
 | [Make-A-Make](https://github.com/Nuno-Jesus/Make-A-Make)                                                       | `GitHub`  | `Nuno-Jesus`    |
 | [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                                           | `Blog`    | `pulgamecanica` |
-| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Website` |                 |
+| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Medium`  |                 |
 
 | Testers                                                                | Source    | User            |
 | :--------------------------------------------------------------------- | :-------- | :-------------- |
