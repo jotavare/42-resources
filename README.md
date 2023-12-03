@@ -439,8 +439,6 @@ COMMON CORE PROJECTS
 | :------------------------------------------------------------------------------------------------------------------------- | :---------- | :--- |
 | [Fractal](https://en.wikipedia.org/wiki/Fractal)                                                                           | `Wikipedia` |      |
 | [List of fractals_by_Hausdorff_dimension](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)           | `Wikipedia` |      |
-| [Plotting algorithms for the Mandelbrot set](https://en.wikipedia.org/wiki/Plotting_algorithms_for_the_Mandelbrot_set)     | `Wikipedia` |      |
-| [Tricorn (mathematics)](https://en.wikipedia.org/wiki/Tricorn_(mathematics))                                               | `Wikipedia` |      |
 | [The Mandelbrot Set](http://warp.povusers.org/Mandelbrot)                                                                  | `Website`   |      |
 | [Julia and Mandelbrot Sets](https://lodev.org/cgtutor/juliamandelbrot.html)                                                | `Website`   |      |
 | [Recursion Trees](https://lodev.org/cgtutor/recursiontrees.html)                                                           | `Website`   |      |
