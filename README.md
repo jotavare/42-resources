@@ -60,13 +60,12 @@ Thank you for visiting my repository! Here, you will find a collection of resour
 | [42 and Douglas Adams](https://www.youtube.com/watch?v=D6tINlNluuY)                                         | `Youtube`   |
 
 #### REWARDS
-> _Rewards you may have access to as a 42 student. Sign up with a 42 email._
+> _Rewards that you have access to as a 42 student._
 
 |                                                                         |                                                                   |           |
 |-------------------------------------------------------------------------|-------------------------------------------------------------------|-----------|
-| [GitHub Student Pack](https://github-portal.42.fr/login)                | Portal to activate the GitHub Student Pack.                       | `Website` |
-| [JetBrains](https://www.jetbrains.com/community/education)              | Integrated development environment Software (IDE).                | `Website` |
-| [Lucidchart](https://www.lucidchart.com/pages)                          | Web-based diagramming application.                                | `Website` |
+| [GitHub Student Pack](https://github-portal.42.fr/login)                | Portal to activate the GitHub Student Pack with 42 email.         | `Website` |
+| [GitHub Student Pack Rewards List](https://education.github.com/pack)   | List of all the tools available as a 42 student.                  | `Website` |
 
 #### NETWORK
 > _Main websites of 42 Network._
@@ -1229,4 +1228,6 @@ MISCELLANEOUS
 | [FreezingCam](https://freezingcam.com) | Freeze your webcam at any time during video calls. You can even play a video instead! |
 | [Spicetify](https://spicetify.app) | Powerful CLI tool to take control of the Spotify client. |
 | [Discord Plugins](https://betterdiscord.app/plugins) | Community custom-made plugins for Discord. |
-| [Office 365](https://www.microsoft.com/en-us/education/products/office) | Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. | `Website` |
+| [Office 365](https://www.microsoft.com/en-us/education/products/office) | Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. |
+| [JetBrains](https://www.jetbrains.com/community/education)              | Integrated development environment Software (IDE).                |
+| [Lucidchart](https://www.lucidchart.com/pages)                          | Web-based diagramming application.                                |
