@@ -283,11 +283,11 @@ COMMON CORE PROJECTS
 > The subjects at 42 undergo regular updates, so the information provided below might not be current. Additionally, as some projects are optional, resources might not be available if I haven't completed them.
 
 #### SUBJECTS
-> _Respositories with all 42 subjects in one place, some are outdated but still useful._
+> _Respositories with all 42 subjects and additional files in one place, some are outdated but still useful._
 
 |                                                                                                                                                                |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [42 Subjects](https://github.com/rphlr/42-Subjects)                                                                                                            | `GitHub` |
+| [42 Subjects (rphlr)](https://github.com/rphlr/42-Subjects)                                                                                                    | `GitHub` |
 | [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph)                                                                                                 | `GitHub` |
 | [Binary Hackers (2017)](https://github.com/Binary-Hackers)                                                                                                     | `GitHub` |
 | [Agavrel (2016)](https://github.com/agavrel/42_Subjects)                                                                                                       | `GitHub` |
