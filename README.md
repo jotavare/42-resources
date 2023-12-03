@@ -1229,5 +1229,4 @@ MISCELLANEOUS
 | [FreezingCam](https://freezingcam.com) | Freeze your webcam at any time during video calls. You can even play a video instead! |
 | [Spicetify](https://spicetify.app) | Powerful CLI tool to take control of the Spotify client. |
 | [Discord Plugins](https://betterdiscord.app/plugins) | Community custom-made plugins for Discord. |
-
-
+| [Office 365](https://www.microsoft.com/en-us/education/products/office) | Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. | `Website` |
