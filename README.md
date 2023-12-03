@@ -301,7 +301,7 @@ COMMON CORE PROJECTS
 | [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                                           | `Blog`    | `pulgamecanica` |
 | [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Medium`  | `jterrazz` |
 
-| Testers                                                                | Source    | User |
+| Testers/Projects                                                       | Source    | User |
 | :--------------------------------------------------------------------- | :-------- | :--- |
 | [francinette](https://github.com/xicodomingues/francinette)            | `GitHub`  | `xicodomingues` |
 | [libftTester](https://github.com/Tripouille/libftTester)               | `GitHub`  | `Tripouille` |
@@ -314,38 +314,41 @@ COMMON CORE PROJECTS
 | Resources                                                                                 | Souce     | User |
 | :---------------------------------------------------------------------------------------- | :-------- | :--- |
 | [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` | `Fireship` |
+| [Debian](https://www.debian.org/)                                                         | `Website` | |
+| [Rocky](https://rockylinux.org/)                                                          | `Website` | |
+
+| Guides                                                                                    | Souce     | User |
+| :---------------------------------------------------------------------------------------- | :-------- | :--- |
 | [Born2beroot](https://github.com/lbordonal/01-Born2beroot/wiki)                           | `GitHub`  | `lbordonal` |
 | [Born2beroot Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide)                   | `GitHub`  | `pasqualerossi` |
 | [Born2beroot Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial)                | `GitHub`  | `gemartin99` |
 | [Born2beroot Walkthrough](https://github.com/HEADLIGHTER/Born2BeRoot-42)                  | `GitHub`  | `HEADLIGHTER` |
-| [Debian](https://www.debian.org/)                                                         | `Website` | |
-| [Rocky](https://rockylinux.org/)                                                          | `Website` | |
 
-| Testers                                                                | Source    | User |
+| Testers/Projects                                                       | Source    | User |
 | :--------------------------------------------------------------------- | :-------- | :--- |
 | [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)      | `GitHub`  | `Pixailz` |
 | [Born2beroot-Tester](https://github.com/gemartin99/Born2beroot-Tester) | `GitHub`  | `gemartin99` |
 
 #### [01] FT_PRINTF
-| Resources                                                                                                                                     | Source    | User |
-| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
-| [printf invocation (GNU Coreutils 9.4)](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#printf-invocation)     | `GNU`     | |
-| [Formatted Output (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Formatted-Output.html)                              | `GNU`     | |
-| [Table of Output Conversions (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)        | `GNU`     | |
-| [printf(3) — Linux manual page](https://man7.org/linux/man-pages/man3/printf.3.html)                                                          | `man7`    | |
-| [printf / sprintf Implementation for Embedded Systems](https://github.com/mpaland/printf)                                                     | `GitHub`  | `mpaland` |
-| [C Tutorial – printf](https://www.codingunit.com/printf-format-specifiers-format-conversions-and-formatted-output)                            | `Website` | |
-| [printf Reference](https://cplusplus.com/reference/cstdio/printf)                                                                             | `Website` | |
-| [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)                                                    | `Website` | |
-| [Printing Floating-Point Numbers](https://www.ryanjuckett.com/printing-floating-point-numbers)                                                | `Website` | |
-| [Printing Floating-Point Numbers Quickly and Accurately with Integers](https://www.cs.tufts.edu/~nr/cs257/archive/florian-loitsch/printf.pdf) | `Website` | |
+| Resources                                                                                                                                     | Source    |
+| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [printf invocation (GNU Coreutils 9.4)](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#printf-invocation)     | `GNU`     |
+| [Formatted Output (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Formatted-Output.html)                              | `GNU`     |
+| [Table of Output Conversions (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)        | `GNU`     |
+| [printf(3) — Linux manual page](https://man7.org/linux/man-pages/man3/printf.3.html)                                                          | `man7`    |
+| [C Tutorial – printf](https://www.codingunit.com/printf-format-specifiers-format-conversions-and-formatted-output)                            | `Website` |
+| [printf Reference](https://cplusplus.com/reference/cstdio/printf)                                                                             | `Website` |
+| [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)                                                    | `Website` |
+| [Printing Floating-Point Numbers](https://www.ryanjuckett.com/printing-floating-point-numbers)                                                | `Website` |
+| [Printing Floating-Point Numbers Quickly and Accurately with Integers](https://www.cs.tufts.edu/~nr/cs257/archive/florian-loitsch/printf.pdf) | `PDF`     |
 
-| Testers                                                                                              | Source    | User |
+| Testers/Projects                                                                                     | Source    | User |
 | :--------------------------------------------------------------------------------------------------- | :-------- | :--- |
 | [Debugging with main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c) | `GitHub`  | `Kuninoto` |
 | [francinette](https://github.com/xicodomingues/francinette)                                          | `GitHub`  | `xicodomingues` |
 | [printfTester](https://github.com/Tripouille/printfTester)                                           | `GitHub`  | `Tripouille` |
 | [ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester)                                | `GitHub`  | `paulo-santana` |
+| [printf / sprintf Implementation for Embedded Systems](https://github.com/mpaland/printf)            | `GitHub`  | `mpaland` |
 
 #### [01] GET_NEXT_LINE
 | Resources                                                                                                                       | Source    | User |
@@ -357,12 +360,11 @@ COMMON CORE PROJECTS
 | [get_next_line explained : develop a function that reads a file line by line](https://www.youtube.com/watch?v=8E9siq7apUU)      | `Youtube` | `Oceano` |
 | [comprendre get_next_line](https://www.youtube.com/watch?v=-Mt2FdJjVno)                                                         | `Youtube` | `nikito` |
 
-| Testers                                                           | Source   | User |
+| Testers/Projects                                                  | Source   | User |
 | :---------------------------------------------------------------- | :------- | :--- |
 | [francinette](https://github.com/xicodomingues/francinette)       | `GitHub` | `xicodomingues` |
 | [gnlTester](https://github.com/Tripouille/gnlTester)              | `GitHub` | `Tripouille` |
 | [gnl-station-tester](https://github.com/kodpe/gnl-station-tester) | `GitHub` | `kodpe` |
-
 
 #### [02] MINITALK
 | Resources                                                                                                                                          | Source    | User |
@@ -377,40 +379,36 @@ COMMON CORE PROJECTS
 | [Beej's Guide to C Programming - 29 Signal Handling](https://beej.us/guide/bgc/html/split/signal-handling.html)                                    | `Website` | |
 | [Beej's Guide to C Programming - Bit-Fields](https://beej.us/guide/bgc/html/split/structs-ii-more-fun-with-structs.html#bit-fields)                | `Website` | |
 | [Beej's Guide to C Programming - What is Unicode?](https://beej.us/guide/bgc/html/split/unicode-wide-characters-and-all-that.html#what-is-unicode) | `Website` | |
-| [Minitalk](https://github.com/mlanca-c/Minitalk)                                                                                                   | `GitHub`  | `mlanca-c` |
-| [minitalk](https://github.com/j4k0m/minitalk)                                                                                                      | `GitHub`  | `j4k0m` |
 
-| Testers                                                                                | Source    | User |
-| :------------------------------------------------------------------------------------- | :-------- | :--- |
-| [Lipsum generator: Lorem Ipsum](https://www.lipsum.com)                                | `Website` | |
-| [Get Emoji](https://getemoji.com)                                                      | `Website` | |
-| [EmojiDB](https://emojidb.org/terminal-emojis)                                         | `Website` | |
-| [francinette](https://github.com/xicodomingues/francinette)                            | `GitHub`  | `xicodomingues` |
-| [francineminitalk-Testertte](https://github.com/ThibaudM13/minitalk-Tester)            | `GitHub`  | `ThibaudM13` |
+| Testers/Projects                                                            | Source    | User |
+| :-------------------------------------------------------------------------- | :-------- | :--- |
+| [Lipsum generator: Lorem Ipsum](https://www.lipsum.com)                     | `Website` | |
+| [Get Emoji](https://getemoji.com)                                           | `Website` | |
+| [EmojiDB](https://emojidb.org/terminal-emojis)                              | `Website` | |
+| [francinette](https://github.com/xicodomingues/francinette)                 | `GitHub`  | `xicodomingues` |
+| [francineminitalk-Testertte](https://github.com/ThibaudM13/minitalk-Tester) | `GitHub`  | `ThibaudM13` |
+| [Minitalk](https://github.com/mlanca-c/Minitalk)                            | `GitHub`  | `mlanca-c` |
+| [minitalk](https://github.com/j4k0m/minitalk)                               | `GitHub`  | `j4k0m` |
 
 #### [02] PIPEX
-| **Project Files**                                                                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/pipex.pdf)                                                                        | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
+| Resources                                                                                                                                    | Source    | User |
+| :------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [pipex tutorial — 42 project](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901)                                             | `Medium`  | `zihan` |
+| [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)                                              | `Youtube` | `CodeVault` |
+| [Pipes Explained (Spanish)](https://www.youtube.com/watch?v=8LdQ09Ep9RY)                                                                     | `Youtube` | `WhileTrueThenDream` |
+| [wait(2) — Linux manual page](https://man7.org/linux/man-pages/man2/waitpid.2.html)                                                          | `man7`    | |
+| [execve(2) — Linux manual page](https://man7.org/linux/man-pages/man2/execve.2.html)                                                         | `man7`    | |
+| [Consequences of Process Termination](https://pubs.opengroup.org/onlinepubs/9699919799/functions/_Exit.html#tag_16_01_03_01)                 | `Website` | |
+| [Creating Pipes in C](https://tldp.org/LDP/lpg/node11.html)                                                                                  | `Website` | |
+| [SIGTSTP signal not stopping child?](https://stackoverflow.com/questions/41029170/sigtstp-signal-not-stopping-child)                         | `Stack Overflow ` | |
+| [Stanford Lecture 07: Signals](https://web.stanford.edu/class/archive/cs/cs110/cs110.1196/static/lectures/07-Signals/lecture-07-signals.pdf) | `PDF`     | |
 
-| **Resources**                                                                                                                                                  |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Pipex Tutorial](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901)                                                                            | `Website` |
-| [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)                                                                | `Youtube` |
-| [Pipes Explained (Spanish)](https://www.youtube.com/watch?v=8LdQ09Ep9RY)                                                                                       | `Youtube` |
-
-| **Testers**                                                                                                                                                    |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Pipex Medic](https://github.com/gmarcha/pipexMedic)                                                                                                           | `GitHub`  |
+| Testers/Projects                                                               | Source   | User |
+| :----------------------------------------------------                          | :------- | :--- |
+| [Pipex Medic](https://github.com/gmarcha/pipexMedic)                           | `GitHub` | `gmarcha` |
+| [pipex.c](https://github.com/malikfassi/42/blob/master/UNIX/PIPEX/src/pipex.c) | `GitHub` | `malikfassi` |
 
 #### [02] SO_LONG
-| **Project Files**                                                                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/so_long.pdf)                                                                      | `PDF`     |
-| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/so_long)                                                                       | `Files`   |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
-
 | **Resources**                                                                                                                                                  |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)                                                                                    | `Website` |
@@ -425,23 +423,11 @@ COMMON CORE PROJECTS
 | [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator)                                                                      | `GitHub`  |
 
 #### [02] FRACT-OL
-| **Project Files**                                                                                                                                              |             |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fract%E2%80%99ol.pdf)                                                             | `PDF`       |
-| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fract-ol)                                                                      | `Files`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`       |
-
 | **Resources**                                                                                                                                                  |             |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [Fractal](https://en.wikipedia.org/wiki/Fractal)                                                                                                               | `Wikipedia` |
 
 #### [02] FDF
-| **Project Files**                                                                                                                                              |             |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/fdf.pdf)                                                                          | `PDF`       |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`       |
-| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/fdf)                                                                           | `Files`     |
-
 | **Resources**                                                                                                                                                  |             |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)                                                                                                 | `Generator` |
@@ -449,12 +435,6 @@ COMMON CORE PROJECTS
 | [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm)                                                                                     | `Wikipedia` |
 
 #### [02] PUSH_SWAP
-| **Project Files**                                                                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/push_swap.pdf)                                                                    | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
-| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/push_swap)                                                                     | `Files`   |
-
 | **Resources**                                                                                                                                                  |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [push_swap Resources](https://push_swap.simple.ink)                                                                                                            | `Website` |
