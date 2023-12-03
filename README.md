@@ -435,11 +435,6 @@ COMMON CORE PROJECTS
 | Resource                                                                                                                   | Source      | User |
 | :------------------------------------------------------------------------------------------------------------------------- | :---------- | :--- |
 | [Fractal](https://en.wikipedia.org/wiki/Fractal)                                                                           | `Wikipedia` |      |
-| [Julia set](https://en.wikipedia.org/wiki/Julia_set)                                                                       | `Wikipedia` |      |
-| [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)                                                             | `Wikipedia` |      |
-| [Burning Ship fractal](https://en.wikipedia.org/wiki/Burning_Ship_fractal)                                                 | `Wikipedia` |      |
-| [Newton fractal](https://en.wikipedia.org/wiki/Newton_fractal)                                                             | `Wikipedia` |      |
-| [Newton's method](https://en.wikipedia.org/wiki/Newton's_method)                                                           | `Wikipedia` |      |
 | [List of fractals_by_Hausdorff_dimension](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)           | `Wikipedia` |      |
 | [Plotting algorithms for the Mandelbrot set](https://en.wikipedia.org/wiki/Plotting_algorithms_for_the_Mandelbrot_set)     | `Wikipedia` |      |
 | [Tricorn (mathematics)](https://en.wikipedia.org/wiki/Tricorn_(mathematics))                                               | `Wikipedia` |      |
