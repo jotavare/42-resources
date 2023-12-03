@@ -301,7 +301,7 @@ COMMON CORE PROJECTS
 | [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                                           | `Blog`    | `pulgamecanica` |
 | [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Medium`  | `jterrazz` |
 
-| Testers/Projects                                                       | Source    | User |
+| Tester                                                                 | Source    | User |
 | :--------------------------------------------------------------------- | :-------- | :--- |
 | [francinette](https://github.com/xicodomingues/francinette)            | `GitHub`  | `xicodomingues` |
 | [libftTester](https://github.com/Tripouille/libftTester)               | `GitHub`  | `Tripouille` |
@@ -311,47 +311,44 @@ COMMON CORE PROJECTS
 | [libft-war-machine](https://github.com/0x050f/libft-war-machine)       | `GitHub`  | `0x050f` |
 
 #### [01] BORN2BEROOT
-| Resources                                                                                 | Souce     | User |
+| Resource                                                                                  | Souce     | User |
 | :---------------------------------------------------------------------------------------- | :-------- | :--- |
 | [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` | `Fireship` |
 | [Debian](https://www.debian.org/)                                                         | `Website` | |
 | [Rocky](https://rockylinux.org/)                                                          | `Website` | |
-
-| Guides                                                                                    | Souce     | User |
-| :---------------------------------------------------------------------------------------- | :-------- | :--- |
 | [Born2beroot](https://github.com/lbordonal/01-Born2beroot/wiki)                           | `GitHub`  | `lbordonal` |
 | [Born2beroot Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide)                   | `GitHub`  | `pasqualerossi` |
 | [Born2beroot Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial)                | `GitHub`  | `gemartin99` |
 | [Born2beroot Walkthrough](https://github.com/HEADLIGHTER/Born2BeRoot-42)                  | `GitHub`  | `HEADLIGHTER` |
 
-| Testers/Projects                                                       | Source    | User |
+| Tester                                                                 | Source    | User |
 | :--------------------------------------------------------------------- | :-------- | :--- |
 | [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)      | `GitHub`  | `Pixailz` |
 | [Born2beroot-Tester](https://github.com/gemartin99/Born2beroot-Tester) | `GitHub`  | `gemartin99` |
 
 #### [01] FT_PRINTF
-| Resources                                                                                                                                     | Source    |
-| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [printf invocation (GNU Coreutils 9.4)](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#printf-invocation)     | `GNU`     |
-| [Formatted Output (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Formatted-Output.html)                              | `GNU`     |
-| [Table of Output Conversions (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)        | `GNU`     |
-| [printf(3) — Linux manual page](https://man7.org/linux/man-pages/man3/printf.3.html)                                                          | `man7`    |
-| [C Tutorial – printf](https://www.codingunit.com/printf-format-specifiers-format-conversions-and-formatted-output)                            | `Website` |
-| [printf Reference](https://cplusplus.com/reference/cstdio/printf)                                                                             | `Website` |
-| [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)                                                    | `Website` |
-| [Printing Floating-Point Numbers](https://www.ryanjuckett.com/printing-floating-point-numbers)                                                | `Website` |
-| [Printing Floating-Point Numbers Quickly and Accurately with Integers](https://www.cs.tufts.edu/~nr/cs257/archive/florian-loitsch/printf.pdf) | `PDF`     |
+| Resource                                                                                                                                      | Source    | User |
+| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [printf invocation (GNU Coreutils 9.4)](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#printf-invocation)     | `GNU`     | |
+| [Formatted Output (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Formatted-Output.html)                              | `GNU`     | |
+| [Table of Output Conversions (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)        | `GNU`     | |
+| [printf(3) — Linux manual page](https://man7.org/linux/man-pages/man3/printf.3.html)                                                          | `man7`    | |
+| [C Tutorial – printf](https://www.codingunit.com/printf-format-specifiers-format-conversions-and-formatted-output)                            | `Website` | |
+| [printf Reference](https://cplusplus.com/reference/cstdio/printf)                                                                             | `Website` | |
+| [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)                                                    | `Website` | |
+| [Printing Floating-Point Numbers](https://www.ryanjuckett.com/printing-floating-point-numbers)                                                | `Website` | |
+| [Printing Floating-Point Numbers Quickly and Accurately with Integers](https://www.cs.tufts.edu/~nr/cs257/archive/florian-loitsch/printf.pdf) | `PDF`     | |
+| [printf / sprintf Implementation for Embedded Systems](https://github.com/mpaland/printf)                                                     | `GitHub`  | `mpaland` |
 
-| Testers/Projects                                                                                     | Source    | User |
+| Tester                                                                                               | Source    | User |
 | :--------------------------------------------------------------------------------------------------- | :-------- | :--- |
 | [Debugging with main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c) | `GitHub`  | `Kuninoto` |
 | [francinette](https://github.com/xicodomingues/francinette)                                          | `GitHub`  | `xicodomingues` |
 | [printfTester](https://github.com/Tripouille/printfTester)                                           | `GitHub`  | `Tripouille` |
 | [ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester)                                | `GitHub`  | `paulo-santana` |
-| [printf / sprintf Implementation for Embedded Systems](https://github.com/mpaland/printf)            | `GitHub`  | `mpaland` |
 
 #### [01] GET_NEXT_LINE
-| Resources                                                                                                                       | Source    | User |
+| Resource                                                                                                                        | Source    | User |
 | :------------------------------------------------------------------------------------------------------------------------------ | :-------- | :--- |
 | [Master File I/O Operations](https://medium.com/@ayogun/master-file-i-o-operations-with-42s-get-next-line-project-5fb001d1fff5) | `Medium`  | `ayogun` |
 | [get_next_line - 42 Docs](https://harm-smits.github.io/42docs/projects/get_next_line)                                           | `GitHub`  | `harm-smits` |
@@ -360,14 +357,15 @@ COMMON CORE PROJECTS
 | [get_next_line explained : develop a function that reads a file line by line](https://www.youtube.com/watch?v=8E9siq7apUU)      | `Youtube` | `Oceano` |
 | [comprendre get_next_line](https://www.youtube.com/watch?v=-Mt2FdJjVno)                                                         | `Youtube` | `nikito` |
 
-| Testers/Projects                                                  | Source   | User |
+| Tester                                                            | Source   | User |
 | :---------------------------------------------------------------- | :------- | :--- |
 | [francinette](https://github.com/xicodomingues/francinette)       | `GitHub` | `xicodomingues` |
 | [gnlTester](https://github.com/Tripouille/gnlTester)              | `GitHub` | `Tripouille` |
 | [gnl-station-tester](https://github.com/kodpe/gnl-station-tester) | `GitHub` | `kodpe` |
 
+
 #### [02] MINITALK
-| Resources                                                                                                                                          | Source    | User |
+| Resource                                                                                                                                           | Source    | User |
 | :------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
 | [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp)                                                             | `Website` | |
 | [42-Bitwise_Operators](https://github.com/agavrel/42-Bitwise_Operators)                                                                            | `GitHub`  | `agavrel` |
@@ -379,37 +377,40 @@ COMMON CORE PROJECTS
 | [Beej's Guide to C Programming - 29 Signal Handling](https://beej.us/guide/bgc/html/split/signal-handling.html)                                    | `Website` | |
 | [Beej's Guide to C Programming - Bit-Fields](https://beej.us/guide/bgc/html/split/structs-ii-more-fun-with-structs.html#bit-fields)                | `Website` | |
 | [Beej's Guide to C Programming - What is Unicode?](https://beej.us/guide/bgc/html/split/unicode-wide-characters-and-all-that.html#what-is-unicode) | `Website` | |
+| [Minitalk](https://github.com/mlanca-c/Minitalk) | `GitHub`  | `mlanca-c` |
+| [minitalk](https://github.com/j4k0m/minitalk)    | `GitHub`  | `j4k0m` |
 
-| Testers/Projects                                                            | Source    | User |
-| :-------------------------------------------------------------------------- | :-------- | :--- |
-| [Lipsum generator: Lorem Ipsum](https://www.lipsum.com)                     | `Website` | |
-| [Get Emoji](https://getemoji.com)                                           | `Website` | |
-| [EmojiDB](https://emojidb.org/terminal-emojis)                              | `Website` | |
-| [francinette](https://github.com/xicodomingues/francinette)                 | `GitHub`  | `xicodomingues` |
-| [francineminitalk-Testertte](https://github.com/ThibaudM13/minitalk-Tester) | `GitHub`  | `ThibaudM13` |
-| [Minitalk](https://github.com/mlanca-c/Minitalk)                            | `GitHub`  | `mlanca-c` |
-| [minitalk](https://github.com/j4k0m/minitalk)                               | `GitHub`  | `j4k0m` |
+| Tester                                                                                 | Source    | User |
+| :------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Lipsum generator: Lorem Ipsum](https://www.lipsum.com)                                | `Website` | |
+| [Get Emoji](https://getemoji.com)                                                      | `Website` | |
+| [EmojiDB](https://emojidb.org/terminal-emojis)                                         | `Website` | |
+| [francinette](https://github.com/xicodomingues/francinette)                            | `GitHub`  | `xicodomingues` |
+| [francineminitalk-Testertte](https://github.com/ThibaudM13/minitalk-Tester)            | `GitHub`  | `ThibaudM13` |
 
 #### [02] PIPEX
-| Resources                                                                                                                                    | Source    | User |
+| Resource                                                                                                                                     | Source    | User |
 | :------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
 | [pipex tutorial — 42 project](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901)                                             | `Medium`  | `zihan` |
 | [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)                                              | `Youtube` | `CodeVault` |
 | [Pipes Explained (Spanish)](https://www.youtube.com/watch?v=8LdQ09Ep9RY)                                                                     | `Youtube` | `WhileTrueThenDream` |
-| [wait(2) — Linux manual page](https://man7.org/linux/man-pages/man2/waitpid.2.html)                                                          | `man7`    | |
-| [execve(2) — Linux manual page](https://man7.org/linux/man-pages/man2/execve.2.html)                                                         | `man7`    | |
-| [Consequences of Process Termination](https://pubs.opengroup.org/onlinepubs/9699919799/functions/_Exit.html#tag_16_01_03_01)                 | `Website` | |
-| [Creating Pipes in C](https://tldp.org/LDP/lpg/node11.html)                                                                                  | `Website` | |
-| [SIGTSTP signal not stopping child?](https://stackoverflow.com/questions/41029170/sigtstp-signal-not-stopping-child)                         | `Stack Overflow ` | |
-| [Stanford Lecture 07: Signals](https://web.stanford.edu/class/archive/cs/cs110/cs110.1196/static/lectures/07-Signals/lecture-07-signals.pdf) | `PDF`     | |
+| [pipex.c](https://github.com/malikfassi/42/blob/master/UNIX/PIPEX/src/pipex.c)                                                               | `GitHub`  | `malikfassi` |
+| [wait(2) — Linux manual page](https://man7.org/linux/man-pages/man2/waitpid.2.html)                                                          | `man7`    |
+| [execve(2) — Linux manual page](https://man7.org/linux/man-pages/man2/execve.2.html)                                                         | `man7`    |
+| [Consequences of Process Termination](https://pubs.opengroup.org/onlinepubs/9699919799/functions/_Exit.html#tag_16_01_03_01)                 | `Website` |
+| [Creating Pipes in C](https://tldp.org/LDP/lpg/node11.html)                                                                                  | `Website` |
+| [SIGTSTP signal not stopping child?](https://stackoverflow.com/questions/41029170/sigtstp-signal-not-stopping-child)                         | `Stack Overflow ` |
+| [Stanford Lecture 07: Signals](https://web.stanford.edu/class/archive/cs/cs110/cs110.1196/static/lectures/07-Signals/lecture-07-signals.pdf) | `PDF`     |
 
-| Testers/Projects                                                               | Source   | User |
-| :----------------------------------------------------                          | :------- | :--- |
-| [Pipex Medic](https://github.com/gmarcha/pipexMedic)                           | `GitHub` | `gmarcha` |
-| [pipex.c](https://github.com/malikfassi/42/blob/master/UNIX/PIPEX/src/pipex.c) | `GitHub` | `malikfassi` |
+| Tester                                                      | Source   | User |
+| :---------------------------------------------------------- | :------- | :--- |
+| [pipexMedic](https://github.com/gmarcha/pipexMedic)         | `GitHub` | `gmarcha` |
+| [pipex-tester](https://github.com/vfurmane/pipex-tester)    | `GitHub` | `vfurmane` |
+| [PIPEX_TESTER](https://github.com/ael-bekk/PIPEX_TESTER)    | `GitHub` | `ael-bekk` |
+| [francinette](https://github.com/xicodomingues/francinette) | `GitHub` | `xicodomingues` |
 
 #### [02] SO_LONG
-| **Resources**                                                                                                                                                  |           |
+| Resource                                                                                                                                                  |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)                                                                                    | `Website` |
 | [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial)                                                                               | `Blog`    |
@@ -418,24 +419,24 @@ COMMON CORE PROJECTS
 | [miniaudio](https://github.com/mackron/miniaudio)                                                                                                              | `GitHub`  |
 | [Pacman so_long](https://github.com/madebypixel02/so_long)                                                                                                     | `GitHub`  |
 
-| **Testers**                                                                                                                                                    |           |
+| Tester                                                                                                                                                    |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [So Long Map Validator (Nuno-Jesus)](https://github.com/Nuno-Jesus/so_long_map_validator)                                                                      | `GitHub`  |
 
 #### [02] FRACT-OL
-| **Resources**                                                                                                                                                  |             |
+| Resource                                                                                                                                                  |             |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [Fractal](https://en.wikipedia.org/wiki/Fractal)                                                                                                               | `Wikipedia` |
 
 #### [02] FDF
-| **Resources**                                                                                                                                                  |             |
+| Resource                                                                                                                                                  |             |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)                                                                                                 | `Generator` |
 | [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)                                                                       | `Wikipedia` |
 | [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm)                                                                                     | `Wikipedia` |
 
 #### [02] PUSH_SWAP
-| **Resources**                                                                                                                                                  |           |
+| Resource                                                                                                                                                  |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [push_swap Resources](https://push_swap.simple.ink)                                                                                                            | `Website` |
 | [Push_Swap Tutorial](https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e)                                                                         | `Website` |
@@ -447,7 +448,7 @@ COMMON CORE PROJECTS
 | [push_swap Project - 42](https://www.youtube.com/watch?v=7KW59UO55TQ)                                                                                          | `Youtube` |
 | [Algorithms Playlist](https://youtube.com/playlist?list=PL3edoBgC7ScV9WPytQ2dtso21YrTuUSBd)                                                                    | `Youtube` |
 
-| **Testers**                                                                                                                                                    |           |
+| Tester                                                                                                                                                    |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [Push Swap Visualizer (o-reo)](https://github.com/o-reo/push_swap_visualizer)                                                                                  | `GitHub`  |
 | [Push Swap Visualizer (Niimphu)](https://github.com/Niimphu/push_swap_visualiser)                                                                              | `GitHub`  |
@@ -463,7 +464,7 @@ COMMON CORE PROJECTS
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/philosophers.pdf)                                                                 | `PDF`       |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`       |
 
-| **Resources**                                                                                                                                                  |             |
+| Resource                                                                                                                                                  |             |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)                                                                       | `Wikipedia` |
 | [The Dining Philosopher’s Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)                                                                  | `Wikipedia` |
@@ -474,7 +475,7 @@ COMMON CORE PROJECTS
 | [The Dining Philosophers Problem (Neso Academy)](https://www.youtube.com/watch?v=FYUi-u7UWgw)                                                                  | `Youtube`   |
 | [Dining Philosophers Problem Explanation](https://www.youtube.com/watch?v=UGQsvVKwe90)                                                                         | `Youtube`   |
 
-| **Testers**                                                                                                                                                    |             |
+| Tester                                                                                                                                                    |             |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer)                                                                                  | `Website`   |
 | [Socrates](https://github.com/nesvoboda/socrates)                                                                                                              | `GitHub`    |
@@ -487,7 +488,7 @@ COMMON CORE PROJECTS
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minishell.pdf)                                                                    | `PDF`     |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
 
-| **Resources**                                                                                                                                                  |           |
+| Resource                                                                                                                                                  |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual)                                                                                           | `Website` |
 | [42 Docs](https://harm-smits.github.io/42docs/projects/minishell)                                                                                              | `Website` |
@@ -506,7 +507,7 @@ COMMON CORE PROJECTS
 | [mysh](https://github.com/Swoorup/mysh)                                                                                                                        | `GitHub`  |
 | [42 Minishell](https://github.com/DimitriDaSilva/42_minishell)                                                                                                 | `GitHub`  |
 
-| **Testers**                                                                                                                                                    |           |
+| Tester                                                                                                                                                    |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [42 Minishell Tester](https://github.com/zstenger93/42_minishell_tester)                                                                                       | `GitHub`  |
 | [Minishell Tester](https://github.com/thallard/minishell_tester)                                                                                               | `GitHub`  |
@@ -518,7 +519,7 @@ COMMON CORE PROJECTS
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/netpractice.pdf)                                                                  | `PDF`     |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
 
-| **Resources**                                                                                                                                                  |           |
+| Resource                                                                                                                                                  |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a)                                                                                                   | `Website` |
 | [ipcalc](https://linuxhint.com/ipcalc-command-linux)                                                                                                           | `Website` |
@@ -536,7 +537,7 @@ COMMON CORE PROJECTS
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
 | [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cub3d)                                                                         | `Files`   |
 
-| **Resources**                                                                                                                                                  |           |
+| Resource                                                                                                                                                  |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [Wolfenstein 3D](http://users.atw.hu/wolf3d/)                                                                                                                  | `Game`    |
 | [Guide to RayCasting](https://harm-smits.github.io/42docs/projects/cub3d.html)                                                                                 | `GitHub`  |
@@ -555,7 +556,7 @@ COMMON CORE PROJECTS
 | [x.org Documentation](https://www.x.org/wiki/)                                                                                                                 | `Website` |
 | [libX11 Documentation](https://www.x.org/releases/X11R7.6/doc/libX11/specs/libX11/libX11.html)                                                                 | `Website` |
 
-| **Testers**                                                                                                                                                    |           |
+| Tester                                                                                                                                                    |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [cub3D Map Tester](https://github.com/humblEgo/cub3D_map_tester)                                                                                               | `GitHub`  |
 
@@ -566,7 +567,7 @@ COMMON CORE PROJECTS
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
 | [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/miniRT)                                                                        | `Files`   |
 
-| **Resources**                                                                                                                                                  |           |
+| Resource                                                                                                                                                  |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [Ray Tracing with the BSP Tree](http://www.sci.utah.edu/~thiago/papers/BSP_RT08.pdf)                                                                           | `PDF`     |
 
@@ -595,7 +596,7 @@ COMMON CORE PROJECTS
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
 | [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/webserv)                                                                       | `Files`   |
 
-| **Resources**                                                                                                                                                  |           |
+| Resource                                                                                                                                                  |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [Building an HTTP Server From Scratch in C++](https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7)                  | `Website` |
 | [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html)                                                                                        | `Website` |
@@ -615,7 +616,7 @@ COMMON CORE PROJECTS
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/inception.pdf)                                                                    | `PDF`     |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
 
-| **Resources**                                                                                                                                                  |           |
+| Resource                                                                                                                                                  |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [Exploring the Inception Project](https://medium.com/@navoos/streamlining-infrastructure-deployment-with-docker-exploring-the-inception-project-3bb0055686a8)  | `Website` |
 | [Inception](https://github.com/iimyzf/Inception)                                                                                                               | `GitHub`  |
@@ -639,7 +640,7 @@ COMMON CORE PROJECTS
 | [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_transcendence.pdf)                                                             | `PDF`     |
 | [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
 
-| **Resources**                                                                                                                                                  |           |
+| Resource                                                                                                                                                  |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [Vue.js Guide](https://vuejs.org/guide/introduction.html)                                                                                                      | `Website` |
 | [Props vs Data in Vue](https://michaelnthiessen.com/vue-props-vs-data)                                                                                         | `Website` |
