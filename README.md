@@ -315,6 +315,9 @@ COMMON CORE PROJECTS
 | :---------------------------------------------------------------------------------------- | :-------- | :--- |
 | [Debian](https://www.debian.org/)                                                         | `Website` | |
 | [Rocky](https://rockylinux.org/)                                                          | `Website` | |
+
+| Guides                                                                                    | Souce     | User |
+| :---------------------------------------------------------------------------------------- | :-------- | :--- |
 | [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` | `Fireship` |
 | [Born2beroot](https://github.com/lbordonal/01-Born2beroot/wiki)                           | `GitHub`  | `lbordonal` |
 | [Born2beroot Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide)                   | `GitHub`  | `pasqualerossi` |
@@ -455,7 +458,11 @@ COMMON CORE PROJECTS
 | [Mandelbrot Interactive Online](https://www.geogebra.org/m/jcpvtkhz)                                                       | `Website`   |      |
 | [Julia Set Mathematics](https://mathworld.wolfram.com/JuliaSet.html)                                                       | `Website`   |      |
 | [Mandelbrot & Julia Sets - Interactive visualization of fractals](https://www.dynamicmath.xyz/mandelbrot-julia)            | `Website`   |      |
+- https://fractalfoundation.org/fractivities/FractalPacks-EducatorsGuide.pdf
+- http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/
 
+| Videos                                                                                                                     | Source      | User |
+| :------------------------------------------------------------------------------------------------------------------------- | :---------- | :--- |
 - https://www.youtube.com/watch?v=PBvLs88hvJ8
 - https://www.youtube.com/watch?v=9gk_8mQuerg
 - https://www.youtube.com/watch?v=LqbZpur38nw
@@ -466,8 +473,9 @@ COMMON CORE PROJECTS
 - https://www.youtube.com/watch?v=FFftmWSzgmk
 - https://www.youtube.com/watch?v=MwjsO6aniig
 - https://www.youtube.com/watch?v=ovJcsL7vyrk
-- https://fractalfoundation.org/fractivities/FractalPacks-EducatorsGuide.pdf
-- http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/
+
+| Projects                                                                                                                   | Source      | User |
+| :------------------------------------------------------------------------------------------------------------------------- | :---------- | :--- |
 - https://github.com/mcombeau/fract-ol
 - https://github.com/inesalves44/fract-ol
 - https://github.com/Xyckens/fract-ol
