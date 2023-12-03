@@ -420,11 +420,11 @@ COMMON CORE PROJECTS
 | [OpenGameArt.org](https://opengameart.org)                                                           | `Website` | |
 | [8-Bit Dungeon Tileset/Sprites](https://jamiecross.itch.io/8-bit-dungeon-tilesetsprites)             | `Website` | |
 | [42: A Comprehensive Guide to So Long](https://reactive.so/post/42-a-comprehensive-guide-to-so_long) | `Website` | |
-| [raylib](https://github.com/raysan5/raylib)                                                          | `GitHub`  | `raylib` |
+| [raylib](https://github.com/raysan5/raylib)                                                          | `GitHub`  | `raysan5` |
 | [miniaudio](https://github.com/mackron/miniaudio)                                                    | `GitHub`  | `mackron` |
-| [42Paris/minilibx-linux](https://github.com/42Paris/minilibx-linux)                                  | `GitHub`  | `42Paris` |
-| [miniLibX sample \| slucas-s](https://github.com/S-LucasSerrano/miniLibX_sample)                     | `GitHub`  | `S-LucasSerrano` |
-| [madebypixel02/so_long](https://github.com/madebypixel02/so_long)                                    | `GitHub`  | `madebypixel02` |
+| [minilibx-linux](https://github.com/42Paris/minilibx-linux)                                          | `GitHub`  | `42Paris` |
+| [miniLibX sample](https://github.com/S-LucasSerrano/miniLibX_sample)                                 | `GitHub`  | `S-LucasSerrano` |
+| [so_long](https://github.com/madebypixel02/so_long)                                                  | `GitHub`  | `madebypixel02` |
 
 | Tester                                                                       | Source    | User |
 | :--------------------------------------------------------------------------- | :-------- | :--- |
@@ -432,9 +432,51 @@ COMMON CORE PROJECTS
 | [so_long_tester](https://github.com/augustobecker/so_long_tester)            | `GitHub`  | `augustobecker` |
 
 #### [02] FRACT-OL
-| Resource                                                                                                                                                  |             |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Fractal](https://en.wikipedia.org/wiki/Fractal)                                                                                                               | `Wikipedia` |
+| Resource                                                                                                                   | Source      | User |
+| :------------------------------------------------------------------------------------------------------------------------- | :---------- | :--- |
+| [Fractal](https://en.wikipedia.org/wiki/Fractal)                                                                           | `Wikipedia` |      |
+| [Julia set](https://en.wikipedia.org/wiki/Julia_set)                                                                       | `Wikipedia` |      |
+| [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)                                                             | `Wikipedia` |      |
+| [Burning Ship fractal](https://en.wikipedia.org/wiki/Burning_Ship_fractal)                                                 | `Wikipedia` |      |
+| [Newton fractal](https://en.wikipedia.org/wiki/Newton_fractal)                                                             | `Wikipedia` |      |
+| [Newton's method](https://en.wikipedia.org/wiki/Newton's_method)                                                           | `Wikipedia` |      |
+| [List of fractals_by_Hausdorff_dimension](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)           | `Wikipedia` |      |
+| [Plotting algorithms for the Mandelbrot set](https://en.wikipedia.org/wiki/Plotting_algorithms_for_the_Mandelbrot_set)     | `Wikipedia` |      |
+| [Tricorn (mathematics)](https://en.wikipedia.org/wiki/Tricorn_(mathematics))                                               | `Wikipedia` |      |
+| [The Mandelbrot Set](http://warp.povusers.org/Mandelbrot)                                                                  | `Website`   |      |
+| [Julia and Mandelbrot Sets](https://lodev.org/cgtutor/juliamandelbrot.html)                                                | `Website`   |      |
+| [Recursion Trees](https://lodev.org/cgtutor/recursiontrees.html)                                                           | `Website`   |      |
+| [Sierpinski Fractals](https://lodev.org/cgtutor/sierpinski.html)                                                           | `Website`   |      |
+| [MiniLibX - 42 Docs](https://harm-smits.github.io/42docs/libs/minilibx)                                                    | `Website`   | `harm-smits` |
+| [MiniLibX - Basic introduction, tutorials, tips & tricks.](https://gontjarow.github.io/MiniLibX)                           | `Website`   |      |
+| [Managing events with the minilibx](https://aurelienbrabant.fr/blog/events-with-the-minilibx)                              | `Website`   |      |
+| [Pixel drawing with the minilibx](https://aurelienbrabant.fr/blog/pixel-drawing-with-the-minilibx)                         | `Website`   |      |
+| [Getting started with the minilibx](https://aurelienbrabant.fr/blog/getting-started-with-the-minilibx)                     | `Website`   |      |
+| [MiniLibX - Simple Graphical Interface Library for students](https://qst0.github.io/ft_libgfx/man_mlx.html)                | `Website`   |      |
+| [How to plot the mandelbrot set](https://www.codingame.com/playgrounds/2358/how-to-plot-the-mandelbrot-set/mandelbrot-set) | `Website`   |      |
+| [Efficiently generating the Mandelbrot and Julia sets](https://theses.liacs.nl/pdf/2018-2019-JonckheereLSde.pdf)           | `Website`   |      |
+| [Fractal Pack 1 Educators’ Guide](https://fractalfoundation.org/fractivities/FractalPacks-EducatorsGuide.pdf)              | `Website`   |      |
+| [How to Plot the Mandelbrot Set By Hand](https://www.wikihow.com/Plot-the-Mandelbrot-Set-By-Hand)                          | `Website`   |      |
+| [Mandelbrot Interactive Online](https://www.geogebra.org/m/jcpvtkhz)                                                       | `Website`   |      |
+| [Julia Set Mathematics](https://mathworld.wolfram.com/JuliaSet.html)                                                       | `Website`   |      |
+| [Mandelbrot & Julia Sets - Interactive visualization of fractals](https://www.dynamicmath.xyz/mandelbrot-julia)            | `Website`   |      |
+
+- https://www.youtube.com/watch?v=PBvLs88hvJ8
+- https://www.youtube.com/watch?v=9gk_8mQuerg
+- https://www.youtube.com/watch?v=LqbZpur38nw
+- https://www.youtube.com/watch?v=9U0XVdvQwAI
+- https://www.youtube.com/watch?v=N8WWodGk9-g
+- https://www.youtube.com/watch?v=GiAj9WW1OfQ
+- https://www.youtube.com/watch?v=NGMRB4O922I
+- https://www.youtube.com/watch?v=FFftmWSzgmk
+- https://www.youtube.com/watch?v=MwjsO6aniig
+- https://www.youtube.com/watch?v=ovJcsL7vyrk
+- https://fractalfoundation.org/fractivities/FractalPacks-EducatorsGuide.pdf
+- http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/
+- https://github.com/mcombeau/fract-ol
+- https://github.com/inesalves44/fract-ol
+- https://github.com/Xyckens/fract-ol
+- https://github.com/librity/ft_fractol
 
 #### [02] FDF
 | Resource                                                                                                                                                  |             |
