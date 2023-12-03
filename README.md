@@ -255,7 +255,7 @@ COMMON CORE PROJECTS
 </h1>
 
 <p align="center">
-	<a href="#old-subjects">Old Subjects</a> •
+	<a href="#old-subjects">Subjects</a> •
 	<a href="#00-libft">Libft</a> •
 	<a href="#01-born2beroot">Born2beroot</a> •
 	<a href="#01-ft_printf">Ft_printf</a> •
@@ -282,11 +282,12 @@ COMMON CORE PROJECTS
 > [!NOTE]  
 > The subjects at 42 undergo regular updates, so the information provided below might not be current. Additionally, as some projects are optional, resources might not be available if I haven't completed them.
 
-#### OLD SUBJECTS
-> _Respositories with all 42 subjects in one place, they are outdated but still useful._
+#### SUBJECTS
+> _Respositories with all 42 subjects in one place, some are outdated but still useful._
 
 |                                                                                                                                                                |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [42 Subjects](https://github.com/rphlr/42-Subjects)                                                                                                            | `GitHub` |
 | [42 Holygraph (2021)](https://github.com/akaylee/42-holygraph)                                                                                                 | `GitHub` |
 | [Binary Hackers (2017)](https://github.com/Binary-Hackers)                                                                                                     | `GitHub` |
 | [Agavrel (2016)](https://github.com/agavrel/42_Subjects)                                                                                                       | `GitHub` |
