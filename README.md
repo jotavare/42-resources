@@ -527,11 +527,6 @@ COMMON CORE PROJECTS
 | [Push Swap Visualizer and Number Generator](https://push-swap-visualizer.vercel.app)                                                                           | `Website` |
 
 #### [03] PHILOSOPHERS
-| **Project Files**                                                                                                                                              |             |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/philosophers.pdf)                                                                 | `PDF`       |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`       |
-
 | Resource                                                                                                                                                  |             |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)                                                                       | `Wikipedia` |
@@ -551,11 +546,6 @@ COMMON CORE PROJECTS
 | [Philosophers Project Tester](https://github.com/newlinuxbot/Philosphers-42Project-Tester)                                                                     | `GitHub`    |
 
 #### [03] MINISHELL
-| **Project Files**                                                                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/minishell.pdf)                                                                    | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
-
 | Resource                                                                                                                                                  |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual)                                                                                           | `Website` |
@@ -624,42 +614,17 @@ COMMON CORE PROJECTS
 | [Make Your Own Raycaster - Part 3](https://www.youtube.com/watch?v=w0Bm4IA-Ii8)                 | `Youtube` |
 | [Introduction to the MinilibX](https://www.youtube.com/watch?v=bYS93r6U0zg)                     | `Youtube` |
 
-| Tester                                                                                          | Source    |
-|:------------------------------------------------------------------------------------------------|:----------|
-| [cub3D Map Tester](https://github.com/humblEgo/cub3D_map_tester)                                | `GitHub`  |
+| Tester                                                                                          | Source    | User |
+|:------------------------------------------------------------------------------------------------|:----------| :--- |
+| [cub3D_map_tester](https://github.com/humblEgo/cub3D_map_tester)                                | `GitHub`  | `humblEgo` |
+| [42_cub_tester](https://github.com/realisticDonut/42_cub_tester)                                | `GitHub`  | `realisticDonut` |
 
 #### [04] MINIRT
-| **Project Files**                                                                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/miniRT.pdf)                                                                       | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
-| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/miniRT)                                                                        | `Files`   |
+http://www.sci.utah.edu/~thiago/papers/BSP_RT08.pdf
 
-| Resource                                                                                                                                                  |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Ray Tracing with the BSP Tree](http://www.sci.utah.edu/~thiago/papers/BSP_RT08.pdf)                                                                           | `PDF`     |
-
-#### [04] CPP MODULE (00-04)
-| **Project Files**                                                                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP00.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp00) | `PNG` `PDF` `Files` |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP01.pdf)  | `PDF` `PNG` |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP02.pdf)  | `PDF` `PNG` |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP03.pdf)  | `PDF` `PNG` |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP04.pdf)  | `PDF` `PNG` |
-
-#### [05] CPP MODULE (05-09)
-| **Project Files**                                                                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [(05) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP05.pdf)  | `PNG` `PDF` |
-| [(06) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP06.pdf)  | `PNG` `PDF` |
-| [(07) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP07.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp07)                                                                                                   | `PNG` `PDF` `Files` |
-| [(08) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP08.pdf)  | `PNG` `PDF` |
-| [(09) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP09.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp09)                                                                                                   | `PNG` `PDF` `Files` |
+#### [04 - 05] CPP MODULE (00-09)
 
 #### [05] WEBSERV
->  Build a C++98 compatible HTTP web server from scratch. The web server can handle HTTP GET, HEAD, POST, PUT, and DELETE Requests, and can serve static files from a specified root directory or dynamic content using CGI.
-
 | HTTP Server Tutorials and Guides                                                                                                                                            | Source |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
 | [Build a simple HTTP server from scratch](https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa) | `Medium` |
@@ -705,10 +670,10 @@ COMMON CORE PROJECTS
 
 | Additional Information and Overviews                                                                      | Source |
 | :-------------------------------------------------------------------------------------------------------- | :----- |
-- [CSC309F Lectures](https://www.cs.toronto.edu/~penny/teaching/csc309-01f/lectures)                        | `Website` |
-- [Webserver in a nutshell](https://rostlab.org/owiki/images/3/39/Sebastian_Hollizeck-BiolabExpertTalk.pdf) | `Website` |
-- [What Is A Web Server?](https://youtu.be/Yt1nesKi5Ec)                                                     | `Youtube` |
-- [Web Server and Application Server \| Explained](https://youtu.be/thJSev60yfg)                            | `Youtube` |
+| [CSC309F Lectures](https://www.cs.toronto.edu/~penny/teaching/csc309-01f/lectures)                        | `Website` |
+| [Webserver in a nutshell](https://rostlab.org/owiki/images/3/39/Sebastian_Hollizeck-BiolabExpertTalk.pdf) | `Website` |
+| [What Is A Web Server?](https://youtu.be/Yt1nesKi5Ec)                                                     | `Youtube` |
+| [Web Server and Application Server \| Explained](https://youtu.be/thJSev60yfg)                            | `Youtube` |
 
 #### [05] FT_IRC
 
@@ -759,8 +724,6 @@ COMMON CORE PROJECTS
 | [42-inception](https://github.com/waltergcc/42-inception)                 | `GitHub`  |`waltergcc` |
 
 #### [06] FT_TRANSCENDENCE
-> A simple web application that allows to play Pong online. With a ladder system, user accounts, spectators, two powerups, two maps, a real-time chat.
-
 | Vue.js                                                                                                                                     | Source    |
 | :----------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Introduction to Vue.js](https://vuejs.org/guide/introduction.html)                                                                        | `Website` |
