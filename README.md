@@ -296,13 +296,13 @@ COMMON CORE PROJECTS
 | [42 Subjects (outdated)](https://github.com/agavrel/42_Subjects)            | `GitHub` | `agavrel` |
 
 #### [00] LIBFT
-| Resource                                                                             | Souce     |
+| Resource                                                                             | Source    |
 | :----------------------------------------------------------------------------------- | :-------- |
 | [Libft - C Standard Library Rewrite](https://www.asidesigned.com/project-libft.html) | `Website` |
 | [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                 | `Website` |
 | [Master Memory Management](https://medium.com/p/b86fedd39b96)                        | `Medium`  |
 
-| Project                                                                                  | Souce     | User |
+| Project                                                                                  | Source    | User |
 | :--------------------------------------------------------------------------------------- | :-------- | :--- |
 | [42's libft with comments](https://github.com/pbie42/libft42commented)                   | `GitHub`  | `pbie42` |
 | [Make-A-Make: Clear the fog around Makefiles](https://github.com/Nuno-Jesus/Make-A-Make) | `GitHub`  | `Nuno-Jesus` |
@@ -317,7 +317,7 @@ COMMON CORE PROJECTS
 | [libft-war-machine](https://github.com/0x050f/libft-war-machine)       | `GitHub`  | `0x050f` |
 
 #### [01] BORN2BEROOT
-| Video Resource                                                                            | Souce     | User |
+| Video Resource                                                                            | Source     | User |
 | :---------------------------------------------------------------------------------------- | :-------- | :--- |
 | [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` | `Fireship` |
 
@@ -453,7 +453,7 @@ COMMON CORE PROJECTS
 | [MLX Animations](https://pulgamecanica.herokuapp.com/posts/mlx-animations)       | `Blog`   | `pulgamecanica` |
 
 #### [02] SO_LONG
-| Resource                                                                                             | Souce     |
+| Resource                                                                                             | Source     |
 | :--------------------------------------------------------------------------------------------------- | :-------- |
 | [How to Make Pixel Art in GIMP](https://thegimptutorials.com/how-to-make-pixel-art)                  | `Website` |
 | [itch.io](https://itch.io)                                                                           | `Website` |
@@ -584,7 +584,7 @@ COMMON CORE PROJECTS
 | [Number Generator](https://numbergenerator.org/randomnumbergenerator)                                              | `Website` | |
 
 #### [03] PHILOSOPHERS
-| Resource                                                                                                 | Souce       |
+| Resource                                                                                                 | Source      |
 | :------------------------------------------------------------------------------------------------------- | :---------- |
 | [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)                 | `Wikipedia` |
 | [Deadlock](https://en.wikipedia.org/wiki/Deadlock)                                                       | `Wikipedia` |
