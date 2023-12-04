@@ -298,11 +298,14 @@ COMMON CORE PROJECTS
 #### [00] LIBFT
 | Resource                                                                                                       | Souce     |
 | :------------------------------------------------------------------------------------------------------------- | :-------- |
-| [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                                           | `Website` |
-| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Website` |
 | [Libft - C Standard Library Rewrite](https://www.asidesigned.com/project-libft.html)                           | `Website` |
-| [42's libft with comments](https://github.com/pbie42/libft42commented)                                         | `GitHub`  |
-| [Make-A-Make: Clear the fog around Makefiles](https://github.com/Nuno-Jesus/Make-A-Make)                       | `GitHub`  |
+| [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                                           | `Website` |
+| [Master Memory Management](https://medium.com/p/b86fedd39b96)                                                  | `Medium`  |
+
+| Project                                                                                                        | Souce     | User |
+| :------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [42's libft with comments](https://github.com/pbie42/libft42commented)                                         | `GitHub`  | `pbie42` |
+| [Make-A-Make: Clear the fog around Makefiles](https://github.com/Nuno-Jesus/Make-A-Make)                       | `GitHub`  | `Nuno-Jesus` |
 
 | Tester                                                                                                         | Source    | User |
 | :------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
@@ -314,9 +317,9 @@ COMMON CORE PROJECTS
 | [libft-war-machine](https://github.com/0x050f/libft-war-machine)                                               | `GitHub`  | `0x050f` |
 
 #### [01] BORN2BEROOT
-| Resource                                                                                  | Souce     |
-| :---------------------------------------------------------------------------------------- | :-------- |
-| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` |
+| Video Resource                                                                            | Souce     | User |
+| :---------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` | `Fireship` |
 
 | Guide                                                                                     | Source    | User |
 | :---------------------------------------------------------------------------------------- | :-------- | :--- |
@@ -343,9 +346,9 @@ COMMON CORE PROJECTS
 | [Printing Floating-Point Numbers](https://www.ryanjuckett.com/printing-floating-point-numbers)                                                | `Website` |
 | [Printing Floating-Point Numbers Quickly and Accurately with Integers](https://www.cs.tufts.edu/~nr/cs257/archive/florian-loitsch/printf.pdf) | `PDF`     |
 
-| Project                                                                                                                                       | Source    |
-| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [printf / sprintf Implementation for Embedded Systems](https://github.com/mpaland/printf)                                                     | `GitHub`  |
+| Project                                                                                                                                       | Source    | User |
+| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [printf / sprintf Implementation for Embedded Systems](https://github.com/mpaland/printf)                                                     | `GitHub`  | `mpaland` |
 
 | Tester                                                                                                                                        | Source    | User |
 | :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
@@ -355,14 +358,17 @@ COMMON CORE PROJECTS
 | [ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester)                                                                         | `GitHub`  | `paulo-santana` |
 
 #### [01] GET_NEXT_LINE
-| Resource                                                                                                                        | Source    |
-| :------------------------------------------------------------------------------------------------------------------------------ | :-------- |
-| [Master File I/O Operations](https://medium.com/@ayogun/master-file-i-o-operations-with-42s-get-next-line-project-5fb001d1fff5) | `Website` |
-| [get_next_line: My first complex program](https://yannick.eu/gnl/)                                                              | `Website` |
-| [Read A Specific Line From A File \| C Programming Example](https://www.youtube.com/watch?v=w0mgn6OLKUs)                        | `Youtube` |
-| [get_next_line explained: develop a function that reads a file line by line](https://www.youtube.com/watch?v=8E9siq7apUU)       | `Youtube` |
-| [comprendre get_next_line](https://www.youtube.com/watch?v=-Mt2FdJjVno)                                                         | `Youtube` |
-| [get_next_line - 42 Docs](https://harm-smits.github.io/42docs/projects/get_next_line)                                           | `GitHub`  |
+| Resource                                                                              | Source    |
+| :-------------------------------------------------------------------------------------| :-------- |
+| [Master File I/O Operations](https://medium.com/p/5fb001d1fff5)                       | `Website` |
+| [get_next_line: My first complex program](https://yannick.eu/gnl)                     | `Website` |
+| [get_next_line - 42 Docs](https://harm-smits.github.io/42docs/projects/get_next_line) | `GitHub`  |
+
+| Video Resource                                                                                                            | Source    | User |
+| :------------------------------------------------------------------------------------------------------------------------ | :-------- | :--- |
+| [Read A Specific Line From A File \| C Programming Example](https://www.youtube.com/watch?v=w0mgn6OLKUs)                  | `Youtube` | `Portfolio Courses` |
+| [get_next_line explained: develop a function that reads a file line by line](https://www.youtube.com/watch?v=8E9siq7apUU) | `Youtube` | `Oceano` |
+| [understanding get_next_line](https://www.youtube.com/watch?v=-Mt2FdJjVno)                                                | `Youtube` | `nikito` |
 
 | Tester                                                                                                                          | Source   | User |
 | :------------------------------------------------------------------------------------------------------------------------------ | :------- | :--- |
