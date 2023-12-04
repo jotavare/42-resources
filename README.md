@@ -412,7 +412,7 @@ COMMON CORE PROJECTS
 
 #### [02] MINILIBX
 > [!NOTE]
-> The links in this section are the most useful for `so_long`, `fract-ol` and `fdf`. Read them before scrolling.
+> The links in this section are the most useful for `so_long`, `fract-ol`, `fdf`, `cub3d` and `minirt`. Read them before scrolling.
 
 | Resource                                                                         | Source   | User |
 | :------------------------------------------------------------------------------- | :------- | :--- |
@@ -599,34 +599,34 @@ COMMON CORE PROJECTS
 | [CCNA](https://youtu.be/Ct4PU6CyvTQ)                                                                                                                           | `Youtube` |
 
 #### [04] CUB3D
-| **Project Files**                                                                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/cub3d.pdf)                                                                        | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
-| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cub3d)                                                                         | `Files`   |
+| Game                                              | Source    |
+|:--------------------------------------------------|:----------|
+| [Wolfenstein 3D](http://users.atw.hu/wolf3d/)     | `Game`    |
 
-| Resource                                                                                                                                                  |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Wolfenstein 3D](http://users.atw.hu/wolf3d/)                                                                                                                  | `Game`    |
-| [Guide to RayCasting](https://harm-smits.github.io/42docs/projects/cub3d.html)                                                                                 | `GitHub`  |
-| [Minilibx Examples](https://github.com/terry-yes/mlx_example)                                                                                                  | `GitHub`  |
-| [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html)                                                                                 | `Website` |
-| [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch)                                                                   | `Website` |
-| [Ray-Casting Tutorial](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents)                                                                     | `Website` |
-| [Online Computer Graphics II](https://www.youtube.com/watch?v=U0-58hpucp4)                                                                                     | `Youtube` |
-| [Binary Space Partitioning](https://www.youtube.com/watch?v=6vrPCkHqWwg)                                                                                       | `Youtube` |
-| [Super Fast Ray Casting in Tiled Worlds using DDA](https://www.youtube.com/watch?v=NbSee-XM7WA)                                                                | `Youtube` |
-| [Make Your Own Raycaster - Part 1](https://www.youtube.com/watch?v=gYRrGTC7GtA)                                                                                | `Youtube` |
-| [Make Your Own Raycaster - Part 2](https://www.youtube.com/watch?v=PC1RaETIx3Y)                                                                                | `Youtube` |
-| [Make Your Own Raycaster - Part 3](https://www.youtube.com/watch?v=w0Bm4IA-Ii8)                                                                                | `Youtube` |
-| [Introduction to the MinilibX](https://www.youtube.com/watch?v=bYS93r6U0zg)                                                                                    | `Youtube` |
-| [Minilibx Linux](https://github.com/42Paris/minilibx-linux)                                                                                                    | `GitHub`  |
-| [x.org Documentation](https://www.x.org/wiki/)                                                                                                                 | `Website` |
-| [libX11 Documentation](https://www.x.org/releases/X11R7.6/doc/libX11/specs/libX11/libX11.html)                                                                 | `Website` |
+| Guides and Documentation                                                                        | Source    |
+|:------------------------------------------------------------------------------------------------|:----------|
+| [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html)                  | `Website` |
+| [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch)    | `Website` |
+| [Ray-Casting Tutorial](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents)      | `Website` |
+| [x.org Documentation](https://www.x.org/wiki/)                                                  | `Website` |
+| [libX11 Documentation](https://www.x.org/releases/X11R7.6/doc/libX11/specs/libX11/libX11.html)  | `Website` |
+| [Guide to RayCasting](https://harm-smits.github.io/42docs/projects/cub3d.html)                  | `GitHub`  |
+| [Minilibx Examples](https://github.com/terry-yes/mlx_example)                                   | `GitHub`  |
+| [Minilibx Linux](https://github.com/42Paris/minilibx-linux)                                     | `GitHub`  |
 
-| Tester                                                                                                                                                    |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [cub3D Map Tester](https://github.com/humblEgo/cub3D_map_tester)                                                                                               | `GitHub`  |
+| Youtube Tutorials                                                                               | Source    |
+|:----------------------------------------------------------------------------------------------- |:----------|
+| [Online Computer Graphics II](https://www.youtube.com/watch?v=U0-58hpucp4)                      | `Youtube` |
+| [Binary Space Partitioning](https://www.youtube.com/watch?v=6vrPCkHqWwg)                        | `Youtube` |
+| [Super Fast Ray Casting in Tiled Worlds using DDA](https://www.youtube.com/watch?v=NbSee-XM7WA) | `Youtube` |
+| [Make Your Own Raycaster - Part 1](https://www.youtube.com/watch?v=gYRrGTC7GtA)                 | `Youtube` |
+| [Make Your Own Raycaster - Part 2](https://www.youtube.com/watch?v=PC1RaETIx3Y)                 | `Youtube` |
+| [Make Your Own Raycaster - Part 3](https://www.youtube.com/watch?v=w0Bm4IA-Ii8)                 | `Youtube` |
+| [Introduction to the MinilibX](https://www.youtube.com/watch?v=bYS93r6U0zg)                     | `Youtube` |
+
+| Tester                                                                                          | Source    |
+|:------------------------------------------------------------------------------------------------|:----------|
+| [cub3D Map Tester](https://github.com/humblEgo/cub3D_map_tester)                                | `GitHub`  |
 
 #### [04] MINIRT
 | **Project Files**                                                                                                                                              |           |
@@ -642,11 +642,11 @@ COMMON CORE PROJECTS
 #### [04] CPP MODULE (00-04)
 | **Project Files**                                                                                                                                              |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [(00) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP00.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp00)                                                                                                   | `PNG` `PDF` `Files` |
-| [(01) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP01.pdf)  | `PDF` `PNG` |
-| [(02) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP02.pdf)  | `PDF` `PNG` |
-| [(03) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP03.pdf)  | `PDF` `PNG` |
-| [(04) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP04.pdf)  | `PDF` `PNG` |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP00.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp00) | `PNG` `PDF` `Files` |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP01.pdf)  | `PDF` `PNG` |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP02.pdf)  | `PDF` `PNG` |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP03.pdf)  | `PDF` `PNG` |
+| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP04.pdf)  | `PDF` `PNG` |
 
 #### [05] CPP MODULE (05-09)
 | **Project Files**                                                                                                                                              |           |
@@ -658,28 +658,62 @@ COMMON CORE PROJECTS
 | [(09) Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ) • [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/CPP09.pdf) • [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/cpp09)                                                                                                   | `PNG` `PDF` `Files` |
 
 #### [05] WEBSERV
-| **Project Files**                                                                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/webserv.pdf)                                                                      | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
-| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/webserv)                                                                       | `Files`   |
+>  Build a C++98 compatible HTTP web server from scratch. The web server can handle HTTP GET, HEAD, POST, PUT, and DELETE Requests, and can serve static files from a specified root directory or dynamic content using CGI.
 
-| Resource                                                                                                                                                  |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Building an HTTP Server From Scratch in C++](https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7)                  | `Website` |
-| [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html)                                                                                        | `Website` |
-| [RFC Index](https://www.rfc-editor.org/rfc-index.html)                                                                                                         | `Website` |
-| [The Hypertext Transfer Protocol](https://datatracker.ietf.org/doc/html/rfc2616)                                                                               | `Website` |
+| HTTP Server Tutorials and Guides                                                                                                                                            | Source |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
+| [Build a simple HTTP server from scratch](https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa) | `Medium` |
+| [Building an HTTP Server From Scratch in C++](https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7)                               | `Website` |
+| [HTTP Made Really Easy](https://www.jmarshall.com/easy/http)                                                                                                                | `Website` |
+| [CGI Made Really Easy](https://www.jmarshall.com/easy/cgi)                                                                                                                  | `Website` |
+| [C++ Web Server from Scratch \| Part 1: Creating a Socket Object](https://www.youtube.com/watch?v=YwHErWJIh6Y)                                                              | `Youtube` |
+| [Web Server Concepts and Examples](https://www.youtube.com/watch?v=9J1nJOivdyw)                                                                                             | `Youtube` |
+| [Hyper Text Transfer Protocol Crash Course - HTTP 1.0, 1.1, HTTP/2, HTTP/3](https://www.youtube.com/watch?v=0OrmKCB0UrQ)                                                    | `Youtube` |
+| [When to use HTTP GET vs POST?](https://www.youtube.com/watch?v=K8HJ6DN23zI)                                                                                                | `Youtube` |
+| [How one thread listens to many sockets with select in C.](https://youtu.be/Y6pFtgRdUts?si=W62BpYVHZillCzl9)                                                                | `Youtube` |
+
+| Networking and Protocol References                                                                                     | Source |
+| :--------------------------------------------------------------------------------------------------------------------- | :----- |
+| [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html)                                                | `Website` |
+| [RFC Index](https://www.rfc-editor.org/rfc-index.html)                                                                 | `Website` |
+| [The Hypertext Transfer Protocol](https://datatracker.ietf.org/doc/html/rfc2616)                                       | `Website` |
+| [RFC 7231 (HTTP/1.1 messages)](https://datatracker.ietf.org/doc/html/rfc7231)                                          | `Website` |
+| [RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1)](https://datatracker.ietf.org/doc/html/rfc7230)                     | `Website` |
+| [Exploring the HTTP request syntax](https://www.jetbrains.com/help/ruby/exploring-http-syntax.html#using_request_vars) | `Website` |
+| [Redirections in HTTP - MDN Web Docs - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)        | `Website` |
+| [The WWW Common Gateway Interface Version 1.1](http://www.wijata.com/cgi/cgispec.html)                                 | `Website` |
+| [Getting Started with CGI Programs](http://www.mnuwer.dbasedeveloper.co.uk/dlearn/web/session01.htm)                   | `Website` |
+
+| Web Server Configuration and Management                                                                                                                                             | Source |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
+| [Nginx Server and Location Block Selection Algorithms](https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms)         | `Website` |
+| [What is client_max_body_size in Nginx](https://linuxhint.com/what-is-client-max-body-size-nginx)                                                                                   | `Website` |
+| [Creating NGINX Plus and NGINX Configuration Files](https://docs.nginx.com/nginx/admin-guide/basic-functionality/managing-configuration-files)                                      | `Website` |
+| [Editing web server configuration files](https://www.ibm.com/docs/en/was/9.0.5?topic=in-editing-web-server-configuration-files)                                                     | `Website` |
+| [NGINX Beginner’s Guide](https://nginx.org/en/docs/beginners_guide.html)                                                                                                            | `Website` |
+| [Nginx Configuration File Structure and Contexts](https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts) | `Website` |
+
+| Network Programming and Socket Handling                                                                                                                          | Source |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
+| [How can I get a file's size in C++?](https://stackoverflow.com/questions/5840148/how-can-i-get-a-files-size-in-c)                                               | `Stack Overflow` |
+| [What are the usage differences between size_t and off_t?](https://stackoverflow.com/questions/10634629/what-are-the-usage-differences-between-size-t-and-off-t) | `Stack Overflow` |
+| [Dealing With and Getting Around Blocking Sockets](http://dwise1.net/pgm/sockets/blocking.html)                                                                  | `Website` |
+| [C++ File Handling: How to Open, Write, Read, Close Files in C++](https://www.guru99.com/cpp-file-read-write-open.html)                                          | `Website` |
+| [select(), FD_SET(), FD_CLR(), FD_ISSET(), FD_ZERO()](https://www.mkssoftware.com/docs/man3/select.3.asp)                                                        | `Website` |
+| [Blocking and Non-Blocking I/0 Tutorial](https://www.linuxtoday.com/blog/blocking-and-non-blocking-i-0)                                                          | `Website` |
+| [I/O Multiplexing (select vs. poll vs. epoll/kqueue)](https://nima101.github.io/io_multiplexing)                                                                 | `Website` |
+
+| Additional Information and Overviews                                                                      | Source |
+| :-------------------------------------------------------------------------------------------------------- | :----- |
+- [CSC309F Lectures](https://www.cs.toronto.edu/~penny/teaching/csc309-01f/lectures)                        | `Website` |
+- [Webserver in a nutshell](https://rostlab.org/owiki/images/3/39/Sebastian_Hollizeck-BiolabExpertTalk.pdf) | `Website` |
+- [What Is A Web Server?](https://youtu.be/Yt1nesKi5Ec)                                                     | `Youtube` |
+- [Web Server and Application Server \| Explained](https://youtu.be/thJSev60yfg)                            | `Youtube` |
 
 #### [05] FT_IRC
-| **Project Files**                                                                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_irc.pdf)                                                                       | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
-| [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/ft_irc)                                                                        | `Files`   |
 
 #### [05] INCEPTION
-| Docker & Infrastructure Deployment                                                                                                                                                       | Source    |
+| Docker and Infrastructure Deployment                                                                                                                                                     | Source    |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Streamlining Infrastructure Deployment with Docker](https://medium.com/@navoos/streamlining-infrastructure-deployment-with-docker-exploring-the-inception-project-3bb0055686a8)         | `Website` |
 | [Docker (software)](https://en.m.wikipedia.org/wiki/Docker_(software))                                                                                                                   | `Website` |
@@ -696,7 +730,7 @@ COMMON CORE PROJECTS
 | [Explained: What Is a SHA256 SSL Certificate? ](https://comodosslstore.com/resources/what-is-a-sha256-ssl-certificate)                                                                   | `Website` |
 | [How to generate a self-signed SSL certificate using OpenSSL?](https://stackoverflow.com/questions/10175812/how-to-generate-a-self-signed-ssl-certificate-using-openssl)                 | `Website` |
 
-| WordPress & Docker                                                                                                                                                                       | Source    |
+| WordPress and Docker                                                                                                                                                                     | Source    |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [WordPress Deployment with NGINX, PHP-FPM and MariaDB using Docker Compose](https://medium.com/swlh/wordpress-deployment-with-nginx-php-fpm-and-mariadb-using-docker-compose-55f59e5c1a) | `Website` |
 | [How to Install WordPress on Docker (Windows, macOS, and Linux)](https://www.hostinger.com/tutorials/run-docker-wordpress)                                                               | `Website` |
@@ -712,7 +746,7 @@ COMMON CORE PROJECTS
 | [Docker Compose in 12 Minutes](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)                                                                                                              | `Youtube` |
 | [Docker Crash Course #1 - What is Docker?](https://www.youtube.com/watch?v=31ieHmcTUOk&list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)                                                          | `Youtube` |
 
-| Guide/Tester                                                              | Source    | User |
+| Guide                                                                     | Source    | User |
 | :------------------------------------------------------------------------ | :-------- | :--- |
 | [codesshaman](https://github.com/codesshaman/inception)                   | `GitHub`  |`codesshaman` |
 | [vbachele](https://github.com/vbachele/Inception)                         | `GitHub`  |`vbachele` |
@@ -725,24 +759,26 @@ COMMON CORE PROJECTS
 | [42-inception](https://github.com/waltergcc/42-inception)                 | `GitHub`  |`waltergcc` |
 
 #### [06] FT_TRANSCENDENCE
-| Vue.js                                                                                                                       | Source    |
-| :--------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [Introduction to Vue.js](https://vuejs.org/guide/introduction.html)                                                          | `Website` |
-| [Props Versus Data in Vue](https://michaelnthiessen.com/vue-props-vs-data)                                                   | `Website` |
-| [How to get left, top position of element in Vue.js?](https://thewebdev.info/2022/03/15/how-to-get-left-top-position-of-element-in-vue-js) | `Website` |
-| [Integrating Vue.js and Socket.io](https://www.digitalocean.com/community/tutorials/vuejs-vue-socketio)                      | `Website` |
-| [Vue JS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)                                                           | `Youtube` |
-| [Build a Realtime Chat App with VueJS](https://youtu.be/SZlsP5uxYjk)                                                         | `Youtube` |
+> A simple web application that allows to play Pong online. With a ladder system, user accounts, spectators, two powerups, two maps, a real-time chat.
 
-| Game Development & WebSockets                                                                                                | Source    |
-| :--------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [Building a multiplayer game using WebSockets](https://dev.to/sauravmh/building-a-multiplayer-game-using-websockets-1n63)    | `Website` |
-| [Socket.IO - Get started](https://socket.io/get-started/chat)                                                                | `Website` |
+| Vue.js                                                                                                                                     | Source    |
+| :----------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [Introduction to Vue.js](https://vuejs.org/guide/introduction.html)                                                                        | `Website` |
+| [Props Versus Data in Vue](https://michaelnthiessen.com/vue-props-vs-data)                                                                 | `Website` |
+| [How to get left, top position of element in Vue.js?](https://thewebdev.info/2022/03/15/how-to-get-left-top-position-of-element-in-vue-js) | `Website` |
+| [Integrating Vue.js and Socket.io](https://www.digitalocean.com/community/tutorials/vuejs-vue-socketio)                                    | `Website` |
+| [Vue JS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)                                                                         | `Youtube` |
+| [Build a Realtime Chat App with VueJS](https://youtu.be/SZlsP5uxYjk)                                                                       | `Youtube` |
+
+| Game Development and WebSockets                                                                                                                                                           | Source    |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [Building a multiplayer game using WebSockets](https://dev.to/sauravmh/building-a-multiplayer-game-using-websockets-1n63)                                                                 | `Website` |
+| [Socket.IO - Get started](https://socket.io/get-started/chat)                                                                                                                             | `Website` |
 | [Build lobby based online multiplayer browser games with React and NodeJS](https://francois-steinel.fr/articles/build-lobby-based-online-multiplayer-browser-games-with-react-and-nodejs) | `Website` |
-| [Beginner JavaScript Game Dev Project](https://www.youtube.com/watch?v=PeY6lXPrPaA)                                          | `Youtube` |
-| [Easiest way to build real-time web apps? WEBSOCKETS with NestJS](https://youtu.be/atbdpX4CViM)                              | `Youtube` |
-| [NestJS Authentication: JWTs, Sessions, logins, and more!](https://www.youtube.com/watch?v=_L225zpUK0M)                      | `Youtube` |
-| [js-pong](https://github.com/WebDevSimplified/js-pong)                                                                       | `GitHub`  |
+| [Beginner JavaScript Game Dev Project](https://www.youtube.com/watch?v=PeY6lXPrPaA)                                                                                                       | `Youtube` |
+| [Easiest way to build real-time web apps? WEBSOCKETS with NestJS](https://youtu.be/atbdpX4CViM)                                                                                           | `Youtube` |
+| [NestJS Authentication: JWTs, Sessions, logins, and more!](https://www.youtube.com/watch?v=_L225zpUK0M)                                                                                   | `Youtube` |
+| [js-pong](https://github.com/WebDevSimplified/js-pong)                                                                                                                                    | `GitHub`  |
 
 - - - -
 
