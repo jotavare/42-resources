@@ -679,29 +679,35 @@ COMMON CORE PROJECTS
 | [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/ft_irc)                                                                        | `Files`   |
 
 #### [05] INCEPTION
-| Resource                                                                                                                                                                                 | Source    |
+| Docker & Infrastructure Deployment                                                                                                                                                       | Source    |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Streamlining Infrastructure Deployment with Docker](https://medium.com/@navoos/streamlining-infrastructure-deployment-with-docker-exploring-the-inception-project-3bb0055686a8)         | `Website` |
 | [Docker (software)](https://en.m.wikipedia.org/wiki/Docker_(software))                                                                                                                   | `Website` |
 | [Docker Docs](https://docs.docker.com)                                                                                                                                                   | `Website` |
 | [Dockerfile reference](https://docs.docker.com/engine/reference/builder)                                                                                                                 | `Website` |
-| [WordPress Deployment with NGINX, PHP-FPM and MariaDB using Docker Compose](https://medium.com/swlh/wordpress-deployment-with-nginx-php-fpm-and-mariadb-using-docker-compose-55f59e5c1a) | `Website` |
 | [Simplifying docker-compose operations using Makefile](https://medium.com/freestoneinfotech/simplifying-docker-compose-operations-using-makefile-26d451456d63)                           | `Website` |
 | [What are containers?](https://www.ibm.com/cloud/learn/containers)                                                                                                                       | `Website` |
 | [Docker - Concept of Dockerfile](https://www.geeksforgeeks.org/docker-concept-of-dockerfile)                                                                                             | `Website` |
 | [Using Makefiles to build and publish (docker) containers](https://dev.to/flpslv/using-makefiles-to-build-and-publish-docker-containers-7c8)                                             | `Website` |
-| [How to Deploy an NGINX Image with Docker](https://www.nginx.com/blog/deploying-nginx-nginx-plus-docker)                                                                                 | `Website` |
-| [How to Install Nginx on Debian 10](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-debian-10)                                                                  | `Website` |
 | [What is the difference between "expose" and "publish" in Docker?](https://stackoverflow.com/questions/22111060/what-is-the-difference-between-expose-and-publish-in-docker)             | `Website` |
+| [How to Install Nginx on Debian 10](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-debian-10)                                                                  | `Website` |
 | [Complete Guide to NGINX Configuration](https://www.linode.com/docs/guides/how-to-configure-nginx)                                                                                       | `Website` |
 | [Cryptography and SSL/TLS Toolkit](https://www.openssl.org/docs/man1.0.2/man1/openssl-req.html)                                                                                          | `Website` |
 | [Explained: What Is a SHA256 SSL Certificate? ](https://comodosslstore.com/resources/what-is-a-sha256-ssl-certificate)                                                                   | `Website` |
 | [How to generate a self-signed SSL certificate using OpenSSL?](https://stackoverflow.com/questions/10175812/how-to-generate-a-self-signed-ssl-certificate-using-openssl)                 | `Website` |
+
+| WordPress & Docker                                                                                                                                                                       | Source    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [WordPress Deployment with NGINX, PHP-FPM and MariaDB using Docker Compose](https://medium.com/swlh/wordpress-deployment-with-nginx-php-fpm-and-mariadb-using-docker-compose-55f59e5c1a) | `Website` |
 | [How to Install WordPress on Docker (Windows, macOS, and Linux)](https://www.hostinger.com/tutorials/run-docker-wordpress)                                                               | `Website` |
 | [Docker + WordPress Setup](https://davidyeiser.com/tutorials/docker-wordpress-theme-setup)                                                                                               | `Website` |
 | [Deploying WordPress in Docker containers ](https://www.ionos.com/digitalguide/server/know-how/wordpress-in-docker-containers)                                                           | `Website` |
 | [How to install WordPress with Docker](https://upcloud.com/community/tutorials/wordpress-with-docker)                                                                                    | `Website` |
 | [Download and Install WordPress Via the Shell Over SSH and With WP-CLI](https://code.tutsplus.com/articles/download-and-install-wordpress-via-the-shell-over-ssh--wp-24403)              | `Website` |
+| [How to Deploy an NGINX Image with Docker](https://www.nginx.com/blog/deploying-nginx-nginx-plus-docker)                                                                                 | `Website` |
+
+| Docker Tutorials                                                                                                                                                                         | Source    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)                                                                                                                | `Youtube` |
 | [Docker Compose in 12 Minutes](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)                                                                                                              | `Youtube` |
 | [Docker Crash Course #1 - What is Docker?](https://www.youtube.com/watch?v=31ieHmcTUOk&list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)                                                          | `Youtube` |
@@ -719,22 +725,24 @@ COMMON CORE PROJECTS
 | [42-inception](https://github.com/waltergcc/42-inception)                 | `GitHub`  |`waltergcc` |
 
 #### [06] FT_TRANSCENDENCE
-| Resource                                                                                                                                                                                  | Source    |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [Introduction \| Vue.js](https://vuejs.org/guide/introduction.html)                                                                                                                       | `Website` |
-| [Props Versus Data in Vue](https://michaelnthiessen.com/vue-props-vs-data)                                                                                                                | `Website` |
-| [How to get left, top position of element in Vue.js?](https://thewebdev.info/2022/03/15/how-to-get-left-top-position-of-element-in-vue-js)                                                | `Website` |
-| [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)                                                                                                     | `Website` |
-| [Building a multiplayer game using WebSockets](https://dev.to/sauravmh/building-a-multiplayer-game-using-websockets-1n63)                                                                 | `Website` |
-| [Socket.IO - Get started](https://socket.io/get-started/chat)                                                                                                                             | `Website` |
+| Vue.js                                                                                                                       | Source    |
+| :--------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [Introduction to Vue.js](https://vuejs.org/guide/introduction.html)                                                          | `Website` |
+| [Props Versus Data in Vue](https://michaelnthiessen.com/vue-props-vs-data)                                                   | `Website` |
+| [How to get left, top position of element in Vue.js?](https://thewebdev.info/2022/03/15/how-to-get-left-top-position-of-element-in-vue-js) | `Website` |
+| [Integrating Vue.js and Socket.io](https://www.digitalocean.com/community/tutorials/vuejs-vue-socketio)                      | `Website` |
+| [Vue JS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)                                                           | `Youtube` |
+| [Build a Realtime Chat App with VueJS](https://youtu.be/SZlsP5uxYjk)                                                         | `Youtube` |
+
+| Game Development & WebSockets                                                                                                | Source    |
+| :--------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [Building a multiplayer game using WebSockets](https://dev.to/sauravmh/building-a-multiplayer-game-using-websockets-1n63)    | `Website` |
+| [Socket.IO - Get started](https://socket.io/get-started/chat)                                                                | `Website` |
 | [Build lobby based online multiplayer browser games with React and NodeJS](https://francois-steinel.fr/articles/build-lobby-based-online-multiplayer-browser-games-with-react-and-nodejs) | `Website` |
-| [Integrating Vue.js and Socket.io](https://www.digitalocean.com/community/tutorials/vuejs-vue-socketio)                                                                                   | `Website` |
-| [Vue JS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)                                                                                                                        | `Youtube` |
-| [Beginner JavaScript Game Dev Project](https://www.youtube.com/watch?v=PeY6lXPrPaA)                                                                                                       | `Youtube` |
-| [Build a Realtime Chat App with VueJS](https://youtu.be/SZlsP5uxYjk)                                                                                                                      | `Youtube` |
-| [Easiest way to build real-time web apps? WEBSOCKETS with NestJS](https://youtu.be/atbdpX4CViM)                                                                                           | `Youtube` |
-| [NestJS Authentication: JWTs, Sessions, logins, and more! \| NestJS PassportJS Tutorial](https://www.youtube.com/watch?v=_L225zpUK0M)                                                     | `Youtube` |
-| [js-pong](https://github.com/WebDevSimplified/js-pong)                                                                                                                                    | `GitHub`  |
+| [Beginner JavaScript Game Dev Project](https://www.youtube.com/watch?v=PeY6lXPrPaA)                                          | `Youtube` |
+| [Easiest way to build real-time web apps? WEBSOCKETS with NestJS](https://youtu.be/atbdpX4CViM)                              | `Youtube` |
+| [NestJS Authentication: JWTs, Sessions, logins, and more!](https://www.youtube.com/watch?v=_L225zpUK0M)                      | `Youtube` |
+| [js-pong](https://github.com/WebDevSimplified/js-pong)                                                                       | `GitHub`  |
 
 - - - -
 
