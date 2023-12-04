@@ -295,8 +295,8 @@ COMMON CORE PROJECTS
 #### [00] LIBFT
 | Resource                                                                                                       | Souce     |
 | :------------------------------------------------------------------------------------------------------------- | :-------- |
-| [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                                           | `Blog`    |
-| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Medium`  |
+| [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                                           | `Website` |
+| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Website` |
 | [Libft - C Standard Library Rewrite](https://www.asidesigned.com/project-libft.html)                           | `Website` |
 | [42's libft with comments](https://github.com/pbie42/libft42commented)                                         | `GitHub`  |
 | [Make-A-Make: Clear the fog around Makefiles](https://github.com/Nuno-Jesus/Make-A-Make)                       | `GitHub`  |
@@ -317,7 +317,7 @@ COMMON CORE PROJECTS
 | [Debian](https://www.debian.org/)                                                         | `Website` |
 | [Rocky](https://rockylinux.org/)                                                          | `Website` |
 
-| Guides/Tester                                                              | Source    | User |
+| Guide/Tester                                                               | Source    | User |
 | :------------------------------------------------------------------------- | :-------- | :--- |
 | [Born2beroot](https://github.com/lbordonal/01-Born2beroot/wiki)            | `GitHub`  | `lbordonal` |
 | [Born2beroot Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide)    | `GitHub`  | `pasqualerossi` |
@@ -329,10 +329,10 @@ COMMON CORE PROJECTS
 #### [01] FT_PRINTF
 | Resource                                                                                                                                      | Source    |
 | :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [printf invocation (GNU Coreutils 9.4)](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#printf-invocation)     | `GNU`     |
-| [Formatted Output (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Formatted-Output.html)                              | `GNU`     |
-| [Table of Output Conversions (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)        | `GNU`     |
-| [printf(3) — Linux manual page](https://man7.org/linux/man-pages/man3/printf.3.html)                                                          | `man7`    |
+| [printf invocation (GNU Coreutils 9.4)](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#printf-invocation)     | `Website` |
+| [Formatted Output (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Formatted-Output.html)                              | `Website` |
+| [Table of Output Conversions (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)        | `Website` |
+| [printf(3) — Linux manual page](https://man7.org/linux/man-pages/man3/printf.3.html)                                                          | `Website` |
 | [C Tutorial – printf](https://www.codingunit.com/printf-format-specifiers-format-conversions-and-formatted-output)                            | `Website` |
 | [printf Reference](https://cplusplus.com/reference/cstdio/printf)                                                                             | `Website` |
 | [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)                                                    | `Website` |
@@ -350,7 +350,7 @@ COMMON CORE PROJECTS
 #### [01] GET_NEXT_LINE
 | Resource                                                                                                                        | Source    |
 | :------------------------------------------------------------------------------------------------------------------------------ | :-------- |
-| [Master File I/O Operations](https://medium.com/@ayogun/master-file-i-o-operations-with-42s-get-next-line-project-5fb001d1fff5) | `Medium`  |
+| [Master File I/O Operations](https://medium.com/@ayogun/master-file-i-o-operations-with-42s-get-next-line-project-5fb001d1fff5) | `Website` |
 | [get_next_line: My first complex program](https://yannick.eu/gnl/)                                                              | `Website` |
 | [Read A Specific Line From A File \| C Programming Example](https://www.youtube.com/watch?v=w0mgn6OLKUs)                        | `Youtube` |
 | [get_next_line explained: develop a function that reads a file line by line](https://www.youtube.com/watch?v=8E9siq7apUU)       | `Youtube` |
@@ -392,10 +392,10 @@ COMMON CORE PROJECTS
 #### [02] PIPEX
 | Resource                                                                                                                                     | Source    |
 | :------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [pipex tutorial — 42 project](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901)                                             | `Medium`  |
-| [wait(2) — Linux manual page](https://man7.org/linux/man-pages/man2/waitpid.2.html)                                                          | `man7`    |
-| [execve(2) — Linux manual page](https://man7.org/linux/man-pages/man2/execve.2.html)                                                         | `man7`    |
-| [SIGTSTP signal not stopping child?](https://stackoverflow.com/questions/41029170/sigtstp-signal-not-stopping-child)                         | `Stack Overflow` |
+| [pipex tutorial — 42 project](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901)                                             | `Website` |
+| [wait(2) — Linux manual page](https://man7.org/linux/man-pages/man2/waitpid.2.html)                                                          | `Website` |
+| [execve(2) — Linux manual page](https://man7.org/linux/man-pages/man2/execve.2.html)                                                         | `Website` |
+| [SIGTSTP signal not stopping child?](https://stackoverflow.com/questions/41029170/sigtstp-signal-not-stopping-child)                         | `Website` |
 | [Consequences of Process Termination](https://pubs.opengroup.org/onlinepubs/9699919799/functions/_Exit.html#tag_16_01_03_01)                 | `Website` |
 | [Creating Pipes in C](https://tldp.org/LDP/lpg/node11.html)                                                                                  | `Website` |
 | [Stanford Lecture 07: Signals](https://web.stanford.edu/class/archive/cs/cs110/cs110.1196/static/lectures/07-Signals/lecture-07-signals.pdf) | `PDF`     |
@@ -445,37 +445,37 @@ COMMON CORE PROJECTS
 | [so_long_tester](https://github.com/augustobecker/so_long_tester)            | `GitHub`  | `augustobecker` |
 
 #### [02] FRACT-OL
-| Resource                                                                                                                   | Source      |
-| :------------------------------------------------------------------------------------------------------------------------- | :---------- |
-| [Fractal](https://en.wikipedia.org/wiki/Fractal)                                                                           | `Wikipedia` |
-| [List of fractals_by_Hausdorff_dimension](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)           | `Wikipedia` |
-| [Plotting algorithms for the Mandelbrot set](https://en.wikipedia.org/wiki/Plotting_algorithms_for_the_Mandelbrot_set)     | `Wikipedia` |
-| [Tricorn (mathematics)](https://en.wikipedia.org/wiki/Tricorn_(mathematics))                                               | `Wikipedia` |
-| [The Mandelbrot Set](http://warp.povusers.org/Mandelbrot)                                                                  | `Website`   |
-| [Julia and Mandelbrot Sets](https://lodev.org/cgtutor/juliamandelbrot.html)                                                | `Website`   |
-| [Recursion Trees](https://lodev.org/cgtutor/recursiontrees.html)                                                           | `Website`   |
-| [Sierpinski Fractals](https://lodev.org/cgtutor/sierpinski.html)                                                           | `Website`   |
-| [Managing events with the minilibx](https://aurelienbrabant.fr/blog/events-with-the-minilibx)                              | `Website`   |
-| [Pixel drawing with the minilibx](https://aurelienbrabant.fr/blog/pixel-drawing-with-the-minilibx)                         | `Website`   |
-| [Getting started with the minilibx](https://aurelienbrabant.fr/blog/getting-started-with-the-minilibx)                     | `Website`   |
-| [How to plot the mandelbrot set](https://www.codingame.com/playgrounds/2358/how-to-plot-the-mandelbrot-set/mandelbrot-set) | `Website`   |
-| [Efficiently generating the Mandelbrot and Julia sets](https://theses.liacs.nl/pdf/2018-2019-JonckheereLSde.pdf)           | `Website`   |
-| [Fractal Pack 1 Educators’ Guide](https://fractalfoundation.org/fractivities/FractalPacks-EducatorsGuide.pdf)              | `Website`   |
-| [How to Plot the Mandelbrot Set By Hand](https://www.wikihow.com/Plot-the-Mandelbrot-Set-By-Hand)                          | `Website`   |
-| [Mandelbrot Interactive Online](https://www.geogebra.org/m/jcpvtkhz)                                                       | `Website`   |
-| [Julia Set Mathematics](https://mathworld.wolfram.com/JuliaSet.html)                                                       | `Website`   |
-| [Mandelbrot & Julia Sets - Interactive visualization of fractals](https://www.dynamicmath.xyz/mandelbrot-julia)            | `Website`   |
-| [Tutorial 3 : Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices)                            | `Website`   |
-| [Brute Force Processing](https://www.youtube.com/watch?v=PBvLs88hvJ8)                                                      | `Youtube`   |
-| [The dark side of the Mandelbrot set](https://www.youtube.com/watch?v=9gk_8mQuerg)                                         | `Youtube`   |
-| [Beyond the Mandelbrot set, an intro to holomorphic dynamics](https://www.youtube.com/watch?v=LqbZpur38nw)                 | `Youtube`   |
-| [Marble Marcher - A Fractal Physics Game](https://www.youtube.com/watch?v=9U0XVdvQwAI)                                     | `Youtube`   |
-| [Realtime 3D Fractal Renders](https://www.youtube.com/watch?v=N8WWodGk9-g)                                                 | `Youtube`   |
-| [Sounds of the Mandelbrot Set](https://www.youtube.com/watch?v=GiAj9WW1OfQ)                                                | `Youtube`   |
-| [The Mandelbrot Set](https://www.youtube.com/watch?v=NGMRB4O922I)                                                          | `Youtube`   |
-| [What's so special about the Mandelbrot Set?](https://www.youtube.com/watch?v=FFftmWSzgmk)                                 | `Youtube`   |
-| [The Mandelbrot Set](https://www.youtube.com/watch?v=MwjsO6aniig)                                                          | `Youtube`   |
-| [This equation will change how you see the world (the logistic map)](https://www.youtube.com/watch?v=ovJcsL7vyrk)          | `Youtube`   |
+| Resource                                                                                                                   | Source    |
+| :------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [Fractal](https://en.wikipedia.org/wiki/Fractal)                                                                           | `Website` |
+| [List of fractals_by_Hausdorff_dimension](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)           | `Website` |
+| [Plotting algorithms for the Mandelbrot set](https://en.wikipedia.org/wiki/Plotting_algorithms_for_the_Mandelbrot_set)     | `Website` |
+| [Tricorn (mathematics)](https://en.wikipedia.org/wiki/Tricorn_(mathematics))                                               | `Website` |
+| [The Mandelbrot Set](http://warp.povusers.org/Mandelbrot)                                                                  | `Website` |
+| [Julia and Mandelbrot Sets](https://lodev.org/cgtutor/juliamandelbrot.html)                                                | `Website` |
+| [Recursion Trees](https://lodev.org/cgtutor/recursiontrees.html)                                                           | `Website` |
+| [Sierpinski Fractals](https://lodev.org/cgtutor/sierpinski.html)                                                           | `Website` |
+| [Managing events with the minilibx](https://aurelienbrabant.fr/blog/events-with-the-minilibx)                              | `Website` |
+| [Pixel drawing with the minilibx](https://aurelienbrabant.fr/blog/pixel-drawing-with-the-minilibx)                         | `Website` |
+| [Getting started with the minilibx](https://aurelienbrabant.fr/blog/getting-started-with-the-minilibx)                     | `Website` |
+| [How to plot the mandelbrot set](https://www.codingame.com/playgrounds/2358/how-to-plot-the-mandelbrot-set/mandelbrot-set) | `Website` |
+| [Efficiently generating the Mandelbrot and Julia sets](https://theses.liacs.nl/pdf/2018-2019-JonckheereLSde.pdf)           | `Website` |
+| [Fractal Pack 1 Educators’ Guide](https://fractalfoundation.org/fractivities/FractalPacks-EducatorsGuide.pdf)              | `Website` |
+| [How to Plot the Mandelbrot Set By Hand](https://www.wikihow.com/Plot-the-Mandelbrot-Set-By-Hand)                          | `Website` |
+| [Mandelbrot Interactive Online](https://www.geogebra.org/m/jcpvtkhz)                                                       | `Website` |
+| [Julia Set Mathematics](https://mathworld.wolfram.com/JuliaSet.html)                                                       | `Website` |
+| [Mandelbrot & Julia Sets - Interactive visualization of fractals](https://www.dynamicmath.xyz/mandelbrot-julia)            | `Website` |
+| [Tutorial 3 : Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices)                            | `Website` |
+| [Brute Force Processing](https://www.youtube.com/watch?v=PBvLs88hvJ8)                                                      | `Youtube` |
+| [The dark side of the Mandelbrot set](https://www.youtube.com/watch?v=9gk_8mQuerg)                                         | `Youtube` |
+| [Beyond the Mandelbrot set, an intro to holomorphic dynamics](https://www.youtube.com/watch?v=LqbZpur38nw)                 | `Youtube` |
+| [Marble Marcher - A Fractal Physics Game](https://www.youtube.com/watch?v=9U0XVdvQwAI)                                     | `Youtube` |
+| [Realtime 3D Fractal Renders](https://www.youtube.com/watch?v=N8WWodGk9-g)                                                 | `Youtube` |
+| [Sounds of the Mandelbrot Set](https://www.youtube.com/watch?v=GiAj9WW1OfQ)                                                | `Youtube` |
+| [The Mandelbrot Set](https://www.youtube.com/watch?v=NGMRB4O922I)                                                          | `Youtube` |
+| [What's so special about the Mandelbrot Set?](https://www.youtube.com/watch?v=FFftmWSzgmk)                                 | `Youtube` |
+| [The Mandelbrot Set](https://www.youtube.com/watch?v=MwjsO6aniig)                                                          | `Youtube` |
+| [This equation will change how you see the world (the logistic map)](https://www.youtube.com/watch?v=ovJcsL7vyrk)          | `Youtube` |
 
 | Project/Tester                                      | Source   | User |
 | :-------------------------------------------------- | :------- | :--- |
@@ -485,17 +485,17 @@ COMMON CORE PROJECTS
 | [ft_fractol](https://github.com/librity/ft_fractol) | `GitHub` | `librity` |
 
 #### [02] FDF
-| Resource                                                                                                                           | Source      |
-| :--------------------------------------------------------------------------------------------------------------------------------- | :---------- |
-| [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)                                           | `Wikipedia` |
-| [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm)                                                         | `Wikipedia` |
-| [3D Rendering with Rotation and Projection](https://www.youtube.com/watch?v=p4Iz0XJY-Qk)                                           | `Youtube`   |
-| [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) | `Website`   |
-| [A Probably Terrible Way to Render Gradients](https://dev.to/freerangepixels/a-probably-terrible-way-to-render-gradients-1p3n)     | `Website`   |
-| [8.2 - Orthographic Projections — LearnWebGL](http://learnwebgl.brown37.net/08_projections/projections_ortho.html)                 | `Website`   |
-| [Hexadecimal / Decimal Colors](https://www.mathsisfun.com/hexadecimal-decimal-colors.html)                                         | `Website`   |
-| [PNG to XPM Converter Online](https://anyconv.com/png-to-xpm-converter)                                                            | `Website`   |
-| [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)                                                                     | `Website`   |
+| Resource                                                                                                                           | Source    |
+| :--------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)                                           | `Website` |
+| [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm)                                                         | `Website` |
+| [3D Rendering with Rotation and Projection](https://www.youtube.com/watch?v=p4Iz0XJY-Qk)                                           | `Youtube` |
+| [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) | `Website` |
+| [A Probably Terrible Way to Render Gradients](https://dev.to/freerangepixels/a-probably-terrible-way-to-render-gradients-1p3n)     | `Website` |
+| [8.2 - Orthographic Projections — LearnWebGL](http://learnwebgl.brown37.net/08_projections/projections_ortho.html)                 | `Website` |
+| [Hexadecimal / Decimal Colors](https://www.mathsisfun.com/hexadecimal-decimal-colors.html)                                         | `Website` |
+| [PNG to XPM Converter Online](https://anyconv.com/png-to-xpm-converter)                                                            | `Website` |
+| [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)                                                                     | `Website` |
 
 | Project/Tester                                                  | Source   | User |
 | :-------------------------------------------------------------- | :------- | :--- |
@@ -504,7 +504,7 @@ COMMON CORE PROJECTS
 | [42MapGenerator](https://github.com/jgigault/42MapGenerator)    | `GitHub` | `jgigault` |
 
 #### [02] PUSH_SWAP
-| Resource                                                                                                                                                  |           |
+| Resource                                                                                                                                                       |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [push_swap Resources](https://push_swap.simple.ink)                                                                                                            | `Website` |
 | [Push_Swap Tutorial](https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e)                                                                         | `Website` |
@@ -679,48 +679,34 @@ COMMON CORE PROJECTS
 | [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/ft_irc)                                                                        | `Files`   |
 
 #### [05] INCEPTION
-| Resource                                                                                                                                                                          | Source    |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [Streamlining Infrastructure Deployment with Docker](https://medium.com/@navoos/streamlining-infrastructure-deployment-with-docker-exploring-the-inception-project-3bb0055686a8)  | `Website` |
-| [VirtualBox](https://www.virtualbox.org)                                                                                                                                          | `Website` |
-| [Debian](https://www.debian.org)                                                                                                                                                  | `Website` |
+| Resource                                                                                                                                                                                 | Source    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [Streamlining Infrastructure Deployment with Docker](https://medium.com/@navoos/streamlining-infrastructure-deployment-with-docker-exploring-the-inception-project-3bb0055686a8)         | `Website` |
+| [Docker (software)](https://en.m.wikipedia.org/wiki/Docker_(software))                                                                                                                   | `Website` |
+| [Docker Docs](https://docs.docker.com)                                                                                                                                                   | `Website` |
+| [Dockerfile reference](https://docs.docker.com/engine/reference/builder)                                                                                                                 | `Website` |
+| [WordPress Deployment with NGINX, PHP-FPM and MariaDB using Docker Compose](https://medium.com/swlh/wordpress-deployment-with-nginx-php-fpm-and-mariadb-using-docker-compose-55f59e5c1a) | `Website` |
+| [Simplifying docker-compose operations using Makefile](https://medium.com/freestoneinfotech/simplifying-docker-compose-operations-using-makefile-26d451456d63)                           | `Website` |
+| [What are containers?](https://www.ibm.com/cloud/learn/containers)                                                                                                                       | `Website` |
+| [Docker - Concept of Dockerfile](https://www.geeksforgeeks.org/docker-concept-of-dockerfile)                                                                                             | `Website` |
+| [Using Makefiles to build and publish (docker) containers](https://dev.to/flpslv/using-makefiles-to-build-and-publish-docker-containers-7c8)                                             | `Website` |
+| [How to Deploy an NGINX Image with Docker](https://www.nginx.com/blog/deploying-nginx-nginx-plus-docker)                                                                                 | `Website` |
+| [How to Install Nginx on Debian 10](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-debian-10)                                                                  | `Website` |
+| [What is the difference between "expose" and "publish" in Docker?](https://stackoverflow.com/questions/22111060/what-is-the-difference-between-expose-and-publish-in-docker)             | `Website` |
+| [Complete Guide to NGINX Configuration](https://www.linode.com/docs/guides/how-to-configure-nginx)                                                                                       | `Website` |
+| [Cryptography and SSL/TLS Toolkit](https://www.openssl.org/docs/man1.0.2/man1/openssl-req.html)                                                                                          | `Website` |
+| [Explained: What Is a SHA256 SSL Certificate? ](https://comodosslstore.com/resources/what-is-a-sha256-ssl-certificate)                                                                   | `Website` |
+| [How to generate a self-signed SSL certificate using OpenSSL?](https://stackoverflow.com/questions/10175812/how-to-generate-a-self-signed-ssl-certificate-using-openssl)                 | `Website` |
+| [How to Install WordPress on Docker (Windows, macOS, and Linux)](https://www.hostinger.com/tutorials/run-docker-wordpress)                                                               | `Website` |
+| [Docker + WordPress Setup](https://davidyeiser.com/tutorials/docker-wordpress-theme-setup)                                                                                               | `Website` |
+| [Deploying WordPress in Docker containers ](https://www.ionos.com/digitalguide/server/know-how/wordpress-in-docker-containers)                                                           | `Website` |
+| [How to install WordPress with Docker](https://upcloud.com/community/tutorials/wordpress-with-docker)                                                                                    | `Website` |
+| [Download and Install WordPress Via the Shell Over SSH and With WP-CLI](https://code.tutsplus.com/articles/download-and-install-wordpress-via-the-shell-over-ssh--wp-24403)              | `Website` |
+| [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)                                                                                                                | `Youtube` |
+| [Docker Compose in 12 Minutes](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)                                                                                                              | `Youtube` |
+| [Docker Crash Course #1 - What is Docker?](https://www.youtube.com/watch?v=31ieHmcTUOk&list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)                                                          | `Youtube` |
 
-https://en.m.wikipedia.org/wiki/Docker_(software)
-https://docs.docker.com/
-https://docs.docker.com/engine/reference/builder/
-https://docs.docker.com/compose/compose-file/
-https://www.youtube.com/watch?v=31ieHmcTUOk&list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7
-https://medium.com/swlh/wordpress-deployment-with-nginx-php-fpm-and-mariadb-using-docker-compose-55f59e5c1a
-https://medium.com/freestoneinfotech/simplifying-docker-compose-operations-using-makefile-26d451456d63
-https://www.ibm.com/cloud/learn/containers
-https://www.geeksforgeeks.org/docker-concept-of-dockerfile/
-https://docs.docker.com/compose/
-https://docs.docker.com/compose/compose-file/
-https://dev.to/flpslv/using-makefiles-to-build-and-publish-docker-containers-7c8
-https://www.nginx.com/blog/deploying-nginx-nginx-plus-docker/
-https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-debian-10
-https://stackoverflow.com/questions/22111060/what-is-the-difference-between-expose-and-publish-in-docker
-https://www.linode.com/docs/guides/how-to-configure-nginx/
-
-Create SSL Certificate: 
-https://www.openssl.org/docs/man1.0.2/man1/openssl-req.html
-https://comodosslstore.com/resources/what-is-a-sha256-ssl-certificate/
-https://stackoverflow.com/questions/10175812/how-to-generate-a-self-signed-ssl-certificate-using-openssl
-
-Wordpress: 
-https://www.hostinger.com/tutorials/run-docker-wordpress
-https://davidyeiser.com/tutorials/docker-wordpress-theme-setup
-https://www.ionos.com/digitalguide/server/know-how/wordpress-in-docker-containers/
-https://upcloud.com/community/tutorials/wordpress-with-docker/
-https://code.tutsplus.com/articles/download-and-install-wordpress-via-the-shell-over-ssh--wp-24403
-
-| Docker                                                                     | Source    | User |
-| :------------------------------------------------------------------------ | :-------- | :--- |
-| [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)
-| [Docker Compose in 12 Minutes](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)
-| [Docker Crash Course #1 - What is Docker?](https://www.youtube.com/watch?v=31ieHmcTUOk&list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
-
-| Guide                                                                     | Source    | User |
+| Guide/Tester                                                              | Source    | User |
 | :------------------------------------------------------------------------ | :-------- | :--- |
 | [codesshaman](https://github.com/codesshaman/inception)                   | `GitHub`  |`codesshaman` |
 | [vbachele](https://github.com/vbachele/Inception)                         | `GitHub`  |`vbachele` |
