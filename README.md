@@ -296,16 +296,16 @@ COMMON CORE PROJECTS
 | [42 Subjects (outdated)](https://github.com/agavrel/42_Subjects)            | `GitHub` | `agavrel` |
 
 #### [00] LIBFT
-| Resource                                                                             | Source    |
-| :----------------------------------------------------------------------------------- | :-------- |
-| [Libft - C Standard Library Rewrite](https://www.asidesigned.com/project-libft.html) | `Website` |
-| [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                 | `Website` |
-| [Master Memory Management](https://medium.com/p/b86fedd39b96)                        | `Medium`  |
+| Resource                                                                                 | Source    |
+| :--------------------------------------------------------------------------------------- | :-------- |
+| [Libft - C Standard Library Rewrite](https://www.asidesigned.com/project-libft.html)     | `Website` |
+| [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                     | `Website` |
+| [Master Memory Management](https://medium.com/p/b86fedd39b96)                            | `Medium`  |
+| [Make-A-Make: Clear the fog around Makefiles](https://github.com/Nuno-Jesus/Make-A-Make) | `GitHub`  |
 
 | Project                                                                                  | Source    | User |
 | :--------------------------------------------------------------------------------------- | :-------- | :--- |
 | [42's libft with comments](https://github.com/pbie42/libft42commented)                   | `GitHub`  | `pbie42` |
-| [Make-A-Make: Clear the fog around Makefiles](https://github.com/Nuno-Jesus/Make-A-Make) | `GitHub`  | `Nuno-Jesus` |
 
 | Tester                                                                 | Source    | User |
 | :--------------------------------------------------------------------- | :-------- | :--- |
