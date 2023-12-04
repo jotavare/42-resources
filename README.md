@@ -493,7 +493,7 @@ COMMON CORE PROJECTS
 | [Mandelbrot & Julia Sets - Interactive visualization of fractals](https://www.dynamicmath.xyz/mandelbrot-julia)            | `Website` |
 | [Tutorial 3 : Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices)                            | `Website` |
 
-| Video Resources                                                                                                   | Source    |
+| Video Resource                                                                                                    | Source    |
 | :---------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Brute Force Processing](https://www.youtube.com/watch?v=PBvLs88hvJ8)                                             | `Youtube` |
 | [The dark side of the Mandelbrot set](https://www.youtube.com/watch?v=9gk_8mQuerg)                                | `Youtube` |
