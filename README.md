@@ -703,26 +703,22 @@ COMMON CORE PROJECTS
 | [iimyzf](https://github.com/iimyzf/Inception)                                                                                                                  | `GitHub`  |
 
 #### [06] FT_TRANSCENDENCE
-| **Project Files**                                                                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/ft_transcendence.pdf)                                                             | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
-
-| Resource                                                                                                                                                  |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Vue.js Guide](https://vuejs.org/guide/introduction.html)                                                                                                      | `Website` |
-| [Props vs Data in Vue](https://michaelnthiessen.com/vue-props-vs-data)                                                                                         | `Website` |
-| [getBoundClientRect in vue.js](https://thewebdev.info/2022/03/15/how-to-get-left-top-position-of-element-in-vue-js)                                            | `Website` |
-| [Guide to CSS Flexbox Layout](https://css-tricks.com/snippets/css/a-guide-to-flexbox)                                                                          | `Website` |
-| [Building a multiplayer game using WebSockets](https://dev.to/sauravmh/building-a-multiplayer-game-using-websockets-1n63)                                      | `Website` |
-| [Socket.IO - Basic Chat Application](https://socket.io/get-started/chat)                                                                                       | `Website` |
-| [Build Games with React and NodeJS](https://francois-steinel.fr/articles/build-lobby-based-online-multiplayer-browser-games-with-react-and-nodejs)             | `Website` |
-| [Integrating Vue.js and Socket.io](https://www.digitalocean.com/community/tutorials/vuejs-vue-socketio)                                                        | `Website` |
-| [Vue.js Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)                                                                                             | `Youtube` |
-| [Beginner JavaScript Game Dev Project - Pong](https://www.youtube.com/watch?v=PeY6lXPrPaA)                                                                     | `Youtube` |
-| [Build a Realtime Chat App with Vue.js](https://youtu.be/SZlsP5uxYjk)                                                                                          | `Youtube` |
-| [WEBSOCKETS with NestJS - Build Real-Time Web Apps](https://youtu.be/atbdpX4CViM)                                                                              | `Youtube` |
-| [NestJS Authentication](https://www.youtube.com/watch?v=_L225zpUK0M)                                                                                           | `Youtube` |
+| Resource                                                                                                                                                                                  | Source    |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Introduction \| Vue.js](https://vuejs.org/guide/introduction.html)                                                                                                                       | `Website` |
+| [Props Versus Data in Vue](https://michaelnthiessen.com/vue-props-vs-data)                                                                                                                | `Website` |
+| [How to get left, top position of element in Vue.js?](https://thewebdev.info/2022/03/15/how-to-get-left-top-position-of-element-in-vue-js)                                                | `Website` |
+| [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)                                                                                                     | `Website` |
+| [Building a multiplayer game using WebSockets](https://dev.to/sauravmh/building-a-multiplayer-game-using-websockets-1n63)                                                                 | `Website` |
+| [Socket.IO - Get started](https://socket.io/get-started/chat)                                                                                                                             | `Website` |
+| [Build lobby based online multiplayer browser games with React and NodeJS](https://francois-steinel.fr/articles/build-lobby-based-online-multiplayer-browser-games-with-react-and-nodejs) | `Website` |
+| [Integrating Vue.js and Socket.io](https://www.digitalocean.com/community/tutorials/vuejs-vue-socketio)                                                                                   | `Website` |
+| [Vue JS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)                                                                                                                        | `Youtube` |
+| [Beginner JavaScript Game Dev Project](https://www.youtube.com/watch?v=PeY6lXPrPaA)                                                                                                       | `Youtube` |
+| [Build a Realtime Chat App with VueJS](https://youtu.be/SZlsP5uxYjk)                                                                                                                      | `Youtube` |
+| [Easiest way to build real-time web apps? WEBSOCKETS with NestJS](https://youtu.be/atbdpX4CViM)                                                                                           | `Youtube` |
+| [NestJS Authentication: JWTs, Sessions, logins, and more! | NestJS PassportJS Tutorial](https://www.youtube.com/watch?v=_L225zpUK0M)                                                      | `Youtube` |
+| [js-pong](https://github.com/WebDevSimplified/js-pong)                                                                                                                                    | `GitHub` |
 
 - - - -
 
