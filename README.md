@@ -483,9 +483,12 @@ MINILIBX
 | [8-Bit Dungeon Tileset/Sprites](https://jamiecross.itch.io/8-bit-dungeon-tilesetsprites)             | `Website` |
 | [42: A Comprehensive Guide to So Long](https://reactive.so/post/42-a-comprehensive-guide-to-so_long) | `Website` |
 
-| Project/Tester                                                               | Source    | User |
+| Project                                                                      | Source    | User |
 | :--------------------------------------------------------------------------- | :-------- | :--- |
 | [so_long](https://github.com/madebypixel02/so_long)                          | `GitHub`  | `madebypixel02` |
+
+| Tester                                                                       | Source    | User |
+| :--------------------------------------------------------------------------- | :-------- | :--- |
 | [so_long_invalidator](https://github.com/Nuno-Jesus/so_long_invalidator)     | `GitHub`  | `Nuno-Jesus` |
 | [so_long_tester](https://github.com/augustobecker/so_long_tester)            | `GitHub`  | `augustobecker` |
 
@@ -544,14 +547,20 @@ MINILIBX
 | [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) | `Website` |
 | [A Probably Terrible Way to Render Gradients](https://dev.to/freerangepixels/a-probably-terrible-way-to-render-gradients-1p3n)     | `Website` |
 | [8.2 - Orthographic Projections — LearnWebGL](http://learnwebgl.brown37.net/08_projections/projections_ortho.html)                 | `Website` |
+
+| Tools                                                                                                                              | Source    |
+| :--------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Hexadecimal / Decimal Colors](https://www.mathsisfun.com/hexadecimal-decimal-colors.html)                                         | `Website` |
 | [PNG to XPM Converter Online](https://anyconv.com/png-to-xpm-converter)                                                            | `Website` |
 | [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)                                                                     | `Website` |
 
-| Project/Tester                                                  | Source   | User |
+| Project                                                         | Source   | User |
 | :-------------------------------------------------------------- | :------- | :--- |
 | [FdF](https://github.com/VBrazhnik/FdF)                         | `GitHub` | `VBrazhnik` |
 | [42Barcelona-FdF](https://github.com/ailopez-o/42Barcelona-FdF) | `GitHub` | `ailopez-o` |
+
+| Tester                                                          | Source   | User |
+| :-------------------------------------------------------------- | :------- | :--- |
 | [42MapGenerator](https://github.com/jgigault/42MapGenerator)    | `GitHub` | `jgigault` |
 
 #### [02] PUSH_SWAP
