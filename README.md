@@ -679,32 +679,27 @@ COMMON CORE PROJECTS
 | [Project Files](https://github.com/jotavare/jotavare/tree/main/42/project_files/ft_irc)                                                                        | `Files`   |
 
 #### [05] INCEPTION
-| **Project Files**                                                                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/inception.pdf)                                                                    | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
+| Resource                                                                                                                                                                          | Source    |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [Streamlining Infrastructure Deployment with Docker](https://medium.com/@navoos/streamlining-infrastructure-deployment-with-docker-exploring-the-inception-project-3bb0055686a8)  | `Website` |
+| [VirtualBox](https://www.virtualbox.org)                                                                                                                                          | `Website` |
+| [Debian](https://www.debian.org)                                                                                                                                                  | `Website` |
 
-| Resource                                                                                                                                                  |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Exploring the Inception Project](https://medium.com/@navoos/streamlining-infrastructure-deployment-with-docker-exploring-the-inception-project-3bb0055686a8)  | `Website` |
-| [Inception](https://github.com/iimyzf/Inception)                                                                                                               | `GitHub`  |
-| [VirtualBox](https://www.virtualbox.org)                                                                                                                       | `Website` |
-| [Debian](https://www.debian.org)                                                                                                                               | `Website` |
-
-| **Guides**                                                                                                                                                     |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [codesshaman](https://github.com/codesshaman/inception)                                                                                                        | `GitHub`  |
-| [vbachele](https://github.com/vbachele/Inception)                                                                                                              | `GitHub`  |
-| [llescure](https://github.com/llescure/42_Inception)                                                                                                           | `GitHub`  |
-| [rbiodies](https://github.com/rbiodies/Inception)                                                                                                              | `GitHub`  |
-| [Forstman1](https://github.com/Forstman1/inception-42)                                                                                                         | `GitHub`  |
-| [Theo2lt](https://github.com/Theo2lt/Inception)                                                                                                                | `GitHub`  |
-| [SavchenkoDV](https://github.com/SavchenkoDV/inception_School21_Ecole42)                                                                                       | `GitHub`  |
-| [iimyzf](https://github.com/iimyzf/Inception)                                                                                                                  | `GitHub`  |
+| Guide                                                                     | Source    | User |
+| :------------------------------------------------------------------------ | :-------- | :--- |
+| [codesshaman](https://github.com/codesshaman/inception)                   | `GitHub`  |`codesshaman` |
+| [vbachele](https://github.com/vbachele/Inception)                         | `GitHub`  |`vbachele` |
+| [llescure](https://github.com/llescure/42_Inception)                      | `GitHub`  |`llescure` |
+| [rbiodies](https://github.com/rbiodies/Inception)                         | `GitHub`  |`rbiodies` |
+| [Forstman1](https://github.com/Forstman1/inception-42)                    | `GitHub`  |`Forstman1` |
+| [Theo2lt](https://github.com/Theo2lt/Inception)                           | `GitHub`  |`Theo2lt` |
+| [SavchenkoDV](https://github.com/SavchenkoDV/inception_School21_Ecole42)  | `GitHub`  |`SavchenkoDV` |
+| [iimyzf](https://github.com/iimyzf/Inception)                             | `GitHub`  |`iimyzf` |
+| [42-inception](https://github.com/waltergcc/42-inception)                 | `GitHub`  |`waltergcc` |
 
 #### [06] FT_TRANSCENDENCE
 | Resource                                                                                                                                                                                  | Source    |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Introduction \| Vue.js](https://vuejs.org/guide/introduction.html)                                                                                                                       | `Website` |
 | [Props Versus Data in Vue](https://michaelnthiessen.com/vue-props-vs-data)                                                                                                                | `Website` |
 | [How to get left, top position of element in Vue.js?](https://thewebdev.info/2022/03/15/how-to-get-left-top-position-of-element-in-vue-js)                                                | `Website` |
@@ -717,8 +712,8 @@ COMMON CORE PROJECTS
 | [Beginner JavaScript Game Dev Project](https://www.youtube.com/watch?v=PeY6lXPrPaA)                                                                                                       | `Youtube` |
 | [Build a Realtime Chat App with VueJS](https://youtu.be/SZlsP5uxYjk)                                                                                                                      | `Youtube` |
 | [Easiest way to build real-time web apps? WEBSOCKETS with NestJS](https://youtu.be/atbdpX4CViM)                                                                                           | `Youtube` |
-| [NestJS Authentication: JWTs, Sessions, logins, and more! \| NestJS PassportJS Tutorial](https://www.youtube.com/watch?v=_L225zpUK0M)                                                      | `Youtube` |
-| [js-pong](https://github.com/WebDevSimplified/js-pong)                                                                                                                                    | `GitHub` |
+| [NestJS Authentication: JWTs, Sessions, logins, and more! \| NestJS PassportJS Tutorial](https://www.youtube.com/watch?v=_L225zpUK0M)                                                     | `Youtube` |
+| [js-pong](https://github.com/WebDevSimplified/js-pong)                                                                                                                                    | `GitHub`  |
 
 - - - -
 
