@@ -293,15 +293,15 @@ COMMON CORE PROJECTS
 | [42 Subjects (outdated)](https://github.com/agavrel/42_Subjects)            | `GitHub` | `agavrel` |
 
 #### [00] LIBFT
-| Resource                                                                                                       | Souce     | User |
-| :------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
-| [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                                           | `Blog`    | `pulgamecanica` |
-| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Medium`  | `jterrazz` |
-| [Libft - C Standard Library Rewrite](https://www.asidesigned.com/project-libft.html)                           | `Website` | |
-| [42's libft with comments](https://github.com/pbie42/libft42commented)                                         | `GitHub`  | `pbie42` |
-| [Make-A-Make: Clear the fog around Makefiles](https://github.com/Nuno-Jesus/Make-A-Make)                       | `GitHub`  | `Nuno-Jesus` |
+| Resource                                                                                                       | Souce     |
+| :------------------------------------------------------------------------------------------------------------- | :-------- |
+| [Easy Makefile](https://pulgamecanica.herokuapp.com/posts/makefiles)                                           | `Blog`    |
+| [Master Memory Management](https://medium.com/a-42-journey/how-to-create-your-own-malloc-library-b86fedd39b96) | `Medium`  |
+| [Libft - C Standard Library Rewrite](https://www.asidesigned.com/project-libft.html)                           | `Website` |
+| [42's libft with comments](https://github.com/pbie42/libft42commented)                                         | `GitHub`  |
+| [Make-A-Make: Clear the fog around Makefiles](https://github.com/Nuno-Jesus/Make-A-Make)                       | `GitHub`  |
 
-| Tester                                                                 | Source    | User |
+| Project/Tester                                                         | Source    | User |
 | :--------------------------------------------------------------------- | :-------- | :--- |
 | [francinette](https://github.com/xicodomingues/francinette)            | `GitHub`  | `xicodomingues` |
 | [libftTester](https://github.com/Tripouille/libftTester)               | `GitHub`  | `Tripouille` |
@@ -311,39 +311,36 @@ COMMON CORE PROJECTS
 | [libft-war-machine](https://github.com/0x050f/libft-war-machine)       | `GitHub`  | `0x050f` |
 
 #### [01] BORN2BEROOT
-| Resource                                                                                  | Souce     | User |
-| :---------------------------------------------------------------------------------------- | :-------- | :--- |
-| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` | `Fireship` |
-| [Debian](https://www.debian.org/)                                                         | `Website` | |
-| [Rocky](https://rockylinux.org/)                                                          | `Website` | |
+| Resource                                                                                  | Souce     |
+| :---------------------------------------------------------------------------------------- | :-------- |
+| [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` |
+| [Debian](https://www.debian.org/)                                                         | `Website` |
+| [Rocky](https://rockylinux.org/)                                                          | `Website` |
 
-| Guides                                                                                    | Souce     | User |
-| :---------------------------------------------------------------------------------------- | :-------- | :--- |
-| [Born2beroot](https://github.com/lbordonal/01-Born2beroot/wiki)                           | `GitHub`  | `lbordonal` |
-| [Born2beroot Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide)                   | `GitHub`  | `pasqualerossi` |
-| [Born2beroot Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial)                | `GitHub`  | `gemartin99` |
-| [Born2beroot Walkthrough](https://github.com/HEADLIGHTER/Born2BeRoot-42)                  | `GitHub`  | `HEADLIGHTER` |
-
-| Tester                                                                 | Source    | User |
-| :--------------------------------------------------------------------- | :-------- | :--- |
-| [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)      | `GitHub`  | `Pixailz` |
-| [Born2beroot-Tester](https://github.com/gemartin99/Born2beroot-Tester) | `GitHub`  | `gemartin99` |
+| Guides/Tester                                                              | Source    | User |
+| :------------------------------------------------------------------------- | :-------- | :--- |
+| [Born2beroot](https://github.com/lbordonal/01-Born2beroot/wiki)            | `GitHub`  | `lbordonal` |
+| [Born2beroot Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide)    | `GitHub`  | `pasqualerossi` |
+| [Born2beroot Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial) | `GitHub`  | `gemartin99` |
+| [Born2beroot Walkthrough](https://github.com/HEADLIGHTER/Born2BeRoot-42)   | `GitHub`  | `HEADLIGHTER` |
+| [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)          | `GitHub`  | `Pixailz` |
+| [Born2beroot-Tester](https://github.com/gemartin99/Born2beroot-Tester)     | `GitHub`  | `gemartin99` |
 
 #### [01] FT_PRINTF
-| Resource                                                                                                                                      | Source    | User |
-| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
-| [printf invocation (GNU Coreutils 9.4)](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#printf-invocation)     | `GNU`     | |
-| [Formatted Output (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Formatted-Output.html)                              | `GNU`     | |
-| [Table of Output Conversions (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)        | `GNU`     | |
-| [printf(3) — Linux manual page](https://man7.org/linux/man-pages/man3/printf.3.html)                                                          | `man7`    | |
-| [C Tutorial – printf](https://www.codingunit.com/printf-format-specifiers-format-conversions-and-formatted-output)                            | `Website` | |
-| [printf Reference](https://cplusplus.com/reference/cstdio/printf)                                                                             | `Website` | |
-| [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)                                                    | `Website` | |
-| [Printing Floating-Point Numbers](https://www.ryanjuckett.com/printing-floating-point-numbers)                                                | `Website` | |
-| [Printing Floating-Point Numbers Quickly and Accurately with Integers](https://www.cs.tufts.edu/~nr/cs257/archive/florian-loitsch/printf.pdf) | `PDF`     | |
-| [printf / sprintf Implementation for Embedded Systems](https://github.com/mpaland/printf)                                                     | `GitHub`  | `mpaland` |
+| Resource                                                                                                                                      | Source    |
+| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [printf invocation (GNU Coreutils 9.4)](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#printf-invocation)     | `GNU`     |
+| [Formatted Output (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Formatted-Output.html)                              | `GNU`     |
+| [Table of Output Conversions (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)        | `GNU`     |
+| [printf(3) — Linux manual page](https://man7.org/linux/man-pages/man3/printf.3.html)                                                          | `man7`    |
+| [C Tutorial – printf](https://www.codingunit.com/printf-format-specifiers-format-conversions-and-formatted-output)                            | `Website` |
+| [printf Reference](https://cplusplus.com/reference/cstdio/printf)                                                                             | `Website` |
+| [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)                                                    | `Website` |
+| [Printing Floating-Point Numbers](https://www.ryanjuckett.com/printing-floating-point-numbers)                                                | `Website` |
+| [Printing Floating-Point Numbers Quickly and Accurately with Integers](https://www.cs.tufts.edu/~nr/cs257/archive/florian-loitsch/printf.pdf) | `PDF`     |
+| [printf / sprintf Implementation for Embedded Systems](https://github.com/mpaland/printf)                                                     | `GitHub`  |
 
-| Tester                                                                                               | Source    | User |
+| Project/Tester                                                                                       | Source    | User |
 | :--------------------------------------------------------------------------------------------------- | :-------- | :--- |
 | [Debugging with main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c) | `GitHub`  | `Kuninoto` |
 | [francinette](https://github.com/xicodomingues/francinette)                                          | `GitHub`  | `xicodomingues` |
@@ -351,16 +348,16 @@ COMMON CORE PROJECTS
 | [ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester)                                | `GitHub`  | `paulo-santana` |
 
 #### [01] GET_NEXT_LINE
-| Resource                                                                                                                        | Source    | User |
-| :------------------------------------------------------------------------------------------------------------------------------ | :-------- | :--- |
-| [Master File I/O Operations](https://medium.com/@ayogun/master-file-i-o-operations-with-42s-get-next-line-project-5fb001d1fff5) | `Medium`  | `ayogun` |
-| [get_next_line: My first complex program](https://yannick.eu/gnl/)                                                              | `Website` | `yannick` |
-| [Read A Specific Line From A File \| C Programming Example](https://www.youtube.com/watch?v=w0mgn6OLKUs)                        | `Youtube` | `Portfolio Courses` |
-| [get_next_line explained : develop a function that reads a file line by line](https://www.youtube.com/watch?v=8E9siq7apUU)      | `Youtube` | `Oceano` |
-| [comprendre get_next_line](https://www.youtube.com/watch?v=-Mt2FdJjVno)                                                         | `Youtube` | `nikito` |
-| [get_next_line - 42 Docs](https://harm-smits.github.io/42docs/projects/get_next_line)                                           | `GitHub`  | `harm-smits` |
+| Resource                                                                                                                        | Source    |
+| :------------------------------------------------------------------------------------------------------------------------------ | :-------- |
+| [Master File I/O Operations](https://medium.com/@ayogun/master-file-i-o-operations-with-42s-get-next-line-project-5fb001d1fff5) | `Medium`  |
+| [get_next_line: My first complex program](https://yannick.eu/gnl/)                                                              | `Website` |
+| [Read A Specific Line From A File \| C Programming Example](https://www.youtube.com/watch?v=w0mgn6OLKUs)                        | `Youtube` |
+| [get_next_line explained: develop a function that reads a file line by line](https://www.youtube.com/watch?v=8E9siq7apUU)       | `Youtube` |
+| [comprendre get_next_line](https://www.youtube.com/watch?v=-Mt2FdJjVno)                                                         | `Youtube` |
+| [get_next_line - 42 Docs](https://harm-smits.github.io/42docs/projects/get_next_line)                                           | `GitHub`  |
 
-| Tester                                                            | Source   | User |
+| Project/Tester                                                    | Source   | User |
 | :---------------------------------------------------------------- | :------- | :--- |
 | [francinette](https://github.com/xicodomingues/francinette)       | `GitHub` | `xicodomingues` |
 | [gnlTester](https://github.com/Tripouille/gnlTester)              | `GitHub` | `Tripouille` |
@@ -368,44 +365,45 @@ COMMON CORE PROJECTS
 
 
 #### [02] MINITALK
-| Resource                                                                                                                                           | Source    | User |
-| :------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
-| [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp)                                                             | `Website` | |
-| [How to use signal handlers in C language?](https://linuxhint.com/signal_handlers_c_programming_language)                                          | `Website` | |
-| [include/linux/signal.h - Linux source code (v6.6.2)](https://elixir.bootlin.com/linux/latest/source/include/linux/signal.h)                       | `Website` | |
-| [Beej's Guide to C Programming - 29 Signal Handling](https://beej.us/guide/bgc/html/split/signal-handling.html)                                    | `Website` | |
-| [Beej's Guide to C Programming - Bit-Fields](https://beej.us/guide/bgc/html/split/structs-ii-more-fun-with-structs.html#bit-fields)                | `Website` | |
-| [Beej's Guide to C Programming - What is Unicode?](https://beej.us/guide/bgc/html/split/unicode-wide-characters-and-all-that.html#what-is-unicode) | `Website` | |
-| [Sending and Handling Signals in C (kill, signal, sigaction)](https://www.youtube.com/watch?v=83M5-NPDeWs)                                         | `Youtube` | `Jacob Sorber` |
-| [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs)                                                                                 | `Youtube` | `CodeVault` |
-| [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U)                                                                                    | `Youtube` | `CodeVault` |
-| [42-Bitwise_Operators](https://github.com/agavrel/42-Bitwise_Operators)                                                                            | `GitHub`  | `agavrel` |
-| [Minitalk](https://github.com/mlanca-c/Minitalk)                                                                                                   | `GitHub`  | `mlanca-c` |
-| [minitalk](https://github.com/j4k0m/minitalk)                                                                                                      | `GitHub`  | `j4k0m` |
+| Resource                                                                                                                                           | Source    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp)                                                             | `Website` |
+| [How to use signal handlers in C language?](https://linuxhint.com/signal_handlers_c_programming_language)                                          | `Website` |
+| [include/linux/signal.h - Linux source code (v6.6.2)](https://elixir.bootlin.com/linux/latest/source/include/linux/signal.h)                       | `Website` |
+| [Beej's Guide to C Programming - 29 Signal Handling](https://beej.us/guide/bgc/html/split/signal-handling.html)                                    | `Website` |
+| [Beej's Guide to C Programming - Bit-Fields](https://beej.us/guide/bgc/html/split/structs-ii-more-fun-with-structs.html#bit-fields)                | `Website` |
+| [Beej's Guide to C Programming - What is Unicode?](https://beej.us/guide/bgc/html/split/unicode-wide-characters-and-all-that.html#what-is-unicode) | `Website` |
+| [Sending and Handling Signals in C (kill, signal, sigaction)](https://www.youtube.com/watch?v=83M5-NPDeWs)                                         | `Youtube` |
+| [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs)                                                                                 | `Youtube` |
+| [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U)                                                                                    | `Youtube` |
+| [42-Bitwise_Operators](https://github.com/agavrel/42-Bitwise_Operators)                                                                            | `GitHub`  |
 
-| Tester                                                                                 | Source    | User |
+| Project/Tester                                                                         | Source    | User |
 | :------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Minitalk](https://github.com/mlanca-c/Minitalk)                                       | `GitHub`  | `mlanca-c` |
+| [minitalk](https://github.com/j4k0m/minitalk)                                          | `GitHub`  | `j4k0m` |
+| [francinette](https://github.com/xicodomingues/francinette)                            | `GitHub`  | `xicodomingues` |
+| [francineminitalk-Testertte](https://github.com/ThibaudM13/minitalk-Tester)            | `GitHub`  | `ThibaudM13` |
 | [Lipsum generator: Lorem Ipsum](https://www.lipsum.com)                                | `Website` | |
 | [Get Emoji](https://getemoji.com)                                                      | `Website` | |
 | [EmojiDB](https://emojidb.org/terminal-emojis)                                         | `Website` | |
-| [francinette](https://github.com/xicodomingues/francinette)                            | `GitHub`  | `xicodomingues` |
-| [francineminitalk-Testertte](https://github.com/ThibaudM13/minitalk-Tester)            | `GitHub`  | `ThibaudM13` |
+
 
 #### [02] PIPEX
-| Resource                                                                                                                                     | Source    | User |
-| :------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
-| [pipex tutorial — 42 project](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901)                                             | `Medium`  | `zihan` |
-| [wait(2) — Linux manual page](https://man7.org/linux/man-pages/man2/waitpid.2.html)                                                          | `man7`    | |
-| [execve(2) — Linux manual page](https://man7.org/linux/man-pages/man2/execve.2.html)                                                         | `man7`    | |
-| [SIGTSTP signal not stopping child?](https://stackoverflow.com/questions/41029170/sigtstp-signal-not-stopping-child)                         | `Stack Overflow` | |
-| [Consequences of Process Termination](https://pubs.opengroup.org/onlinepubs/9699919799/functions/_Exit.html#tag_16_01_03_01)                 | `Website` | |
-| [Creating Pipes in C](https://tldp.org/LDP/lpg/node11.html)                                                                                  | `Website` | |
-| [Stanford Lecture 07: Signals](https://web.stanford.edu/class/archive/cs/cs110/cs110.1196/static/lectures/07-Signals/lecture-07-signals.pdf) | `PDF`     | |
-| [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)                                              | `Youtube` | `CodeVault` |
-| [Pipes Explained (Spanish)](https://www.youtube.com/watch?v=8LdQ09Ep9RY)                                                                     | `Youtube` | `WhileTrueThenDream` |
-| [pipex.c](https://github.com/malikfassi/42/blob/master/UNIX/PIPEX/src/pipex.c)                                                               | `GitHub`  | `malikfassi` |
+| Resource                                                                                                                                     | Source    |
+| :------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [pipex tutorial — 42 project](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901)                                             | `Medium`  |
+| [wait(2) — Linux manual page](https://man7.org/linux/man-pages/man2/waitpid.2.html)                                                          | `man7`    |
+| [execve(2) — Linux manual page](https://man7.org/linux/man-pages/man2/execve.2.html)                                                         | `man7`    |
+| [SIGTSTP signal not stopping child?](https://stackoverflow.com/questions/41029170/sigtstp-signal-not-stopping-child)                         | `Stack Overflow` |
+| [Consequences of Process Termination](https://pubs.opengroup.org/onlinepubs/9699919799/functions/_Exit.html#tag_16_01_03_01)                 | `Website` |
+| [Creating Pipes in C](https://tldp.org/LDP/lpg/node11.html)                                                                                  | `Website` |
+| [Stanford Lecture 07: Signals](https://web.stanford.edu/class/archive/cs/cs110/cs110.1196/static/lectures/07-Signals/lecture-07-signals.pdf) | `PDF`     |
+| [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)                                              | `Youtube` |
+| [Pipes Explained (Spanish)](https://www.youtube.com/watch?v=8LdQ09Ep9RY)                                                                     | `Youtube` |
+| [pipex.c](https://github.com/malikfassi/42/blob/master/UNIX/PIPEX/src/pipex.c)                                                               | `GitHub`  |
 
-| Tester                                                      | Source   | User |
+| Project/Tester                                              | Source   | User |
 | :---------------------------------------------------------- | :------- | :--- |
 | [pipexMedic](https://github.com/gmarcha/pipexMedic)         | `GitHub` | `gmarcha` |
 | [pipex-tester](https://github.com/vfurmane/pipex-tester)    | `GitHub` | `vfurmane` |
@@ -414,7 +412,7 @@ COMMON CORE PROJECTS
 
 #### [02] MINILIBX
 > [!NOTE]
-> The links in this section are the most usefull for so_long, fract-ol and fdf. Read them before the others.
+> The links in this section are the most useful for `so_long`, `fract-ol` and `fdf`. Read them before scrolling.
 
 | Resource                                                                         | Source   | User |
 | :------------------------------------------------------------------------------- | :------- | :--- |
@@ -440,12 +438,9 @@ COMMON CORE PROJECTS
 | [8-Bit Dungeon Tileset/Sprites](https://jamiecross.itch.io/8-bit-dungeon-tilesetsprites)             | `Website` |
 | [42: A Comprehensive Guide to So Long](https://reactive.so/post/42-a-comprehensive-guide-to-so_long) | `Website` |
 
-| Project                                             | Souce     | User |
-| :-------------------------------------------------- | :-------- | :--- |
-| [so_long](https://github.com/madebypixel02/so_long) | `GitHub`  | `madebypixel02` |
-
-| Tester                                                                       | Source    | User |
+| Project/Tester                                                               | Source    | User |
 | :--------------------------------------------------------------------------- | :-------- | :--- |
+| [so_long](https://github.com/madebypixel02/so_long)                          | `GitHub`  | `madebypixel02` |
 | [so_long_invalidator](https://github.com/Nuno-Jesus/so_long_invalidator)     | `GitHub`  | `Nuno-Jesus` |
 | [so_long_tester](https://github.com/augustobecker/so_long_tester)            | `GitHub`  | `augustobecker` |
 
@@ -471,21 +466,18 @@ COMMON CORE PROJECTS
 | [Julia Set Mathematics](https://mathworld.wolfram.com/JuliaSet.html)                                                       | `Website`   |
 | [Mandelbrot & Julia Sets - Interactive visualization of fractals](https://www.dynamicmath.xyz/mandelbrot-julia)            | `Website`   |
 | [Tutorial 3 : Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices)                            | `Website`   |
+| [Brute Force Processing](https://www.youtube.com/watch?v=PBvLs88hvJ8)                                                      | `Youtube`   |
+| [The dark side of the Mandelbrot set](https://www.youtube.com/watch?v=9gk_8mQuerg)                                         | `Youtube`   |
+| [Beyond the Mandelbrot set, an intro to holomorphic dynamics](https://www.youtube.com/watch?v=LqbZpur38nw)                 | `Youtube`   |
+| [Marble Marcher - A Fractal Physics Game](https://www.youtube.com/watch?v=9U0XVdvQwAI)                                     | `Youtube`   |
+| [Realtime 3D Fractal Renders](https://www.youtube.com/watch?v=N8WWodGk9-g)                                                 | `Youtube`   |
+| [Sounds of the Mandelbrot Set](https://www.youtube.com/watch?v=GiAj9WW1OfQ)                                                | `Youtube`   |
+| [The Mandelbrot Set](https://www.youtube.com/watch?v=NGMRB4O922I)                                                          | `Youtube`   |
+| [What's so special about the Mandelbrot Set?](https://www.youtube.com/watch?v=FFftmWSzgmk)                                 | `Youtube`   |
+| [The Mandelbrot Set](https://www.youtube.com/watch?v=MwjsO6aniig)                                                          | `Youtube`   |
+| [This equation will change how you see the world (the logistic map)](https://www.youtube.com/watch?v=ovJcsL7vyrk)          | `Youtube`   |
 
-| Youtube                                                                                                           | Source    | User |
-| :---------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
-| [Brute Force Processing](https://www.youtube.com/watch?v=PBvLs88hvJ8)                                             | `Youtube` | `javidx9` |
-| [The dark side of the Mandelbrot set](https://www.youtube.com/watch?v=9gk_8mQuerg)                                | `Youtube` | `Mathologer` |
-| [Beyond the Mandelbrot set, an intro to holomorphic dynamics](https://www.youtube.com/watch?v=LqbZpur38nw)        | `Youtube` | `3Blue1Brown` |
-| [Marble Marcher - A Fractal Physics Game](https://www.youtube.com/watch?v=9U0XVdvQwAI)                            | `Youtube` | `CodeParade` |
-| [Realtime 3D Fractal Renders](https://www.youtube.com/watch?v=N8WWodGk9-g)                                        | `Youtube` | `CodeParade` |
-| [Sounds of the Mandelbrot Set](https://www.youtube.com/watch?v=GiAj9WW1OfQ)                                       | `Youtube` | `CodeParade` |
-| [The Mandelbrot Set](https://www.youtube.com/watch?v=NGMRB4O922I)                                                 | `Youtube` | `Numberphile` |
-| [What's so special about the Mandelbrot Set?](https://www.youtube.com/watch?v=FFftmWSzgmk)                        | `Youtube` | `Numberphile` |
-| [The Mandelbrot Set](https://www.youtube.com/watch?v=MwjsO6aniig)                                                 | `Youtube` | `D!NG` |
-| [This equation will change how you see the world (the logistic map)](https://www.youtube.com/watch?v=ovJcsL7vyrk) | `Youtube` | `Veritasium` |
-
-| Project                                             | Source   | User |
+| Project/Tester                                      | Source   | User |
 | :-------------------------------------------------- | :------- | :--- |
 | [fract-ol](https://github.com/mcombeau/fract-ol )   | `GitHub` | `mcombeau` |
 | [fract-ol](https://github.com/inesalves44/fract-ol) | `GitHub` | `inesalves44` |
@@ -493,27 +485,23 @@ COMMON CORE PROJECTS
 | [ft_fractol](https://github.com/librity/ft_fractol) | `GitHub` | `librity` |
 
 #### [02] FDF
-| Resource                                                                                                                           | Source      | User |
-| :--------------------------------------------------------------------------------------------------------------------------------- | :---------- | :--- |
-| [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)                                           | `Wikipedia` | |
-| [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm)                                                         | `Wikipedia` | |
-| [3D Rendering with Rotation and Projection](https://www.youtube.com/watch?v=p4Iz0XJY-Qk)                                           | `Youtube`   | `The Coding Train` |
-| [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) | `Website`   | |
-| [A Probably Terrible Way to Render Gradients](https://dev.to/freerangepixels/a-probably-terrible-way-to-render-gradients-1p3n)     | `Website`   | |
-| [8.2 - Orthographic Projections — LearnWebGL](http://learnwebgl.brown37.net/08_projections/projections_ortho.html)                 | `Website`   | |
-| [Hexadecimal / Decimal Colors](https://www.mathsisfun.com/hexadecimal-decimal-colors.html)                                         | `Website`   | |
-| [PNG to XPM Converter Online](https://anyconv.com/png-to-xpm-converter)                                                            | `Website`   | |
-| [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)                                                                     | `Website`   | |
+| Resource                                                                                                                           | Source      |
+| :--------------------------------------------------------------------------------------------------------------------------------- | :---------- |
+| [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)                                           | `Wikipedia` |
+| [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm)                                                         | `Wikipedia` |
+| [3D Rendering with Rotation and Projection](https://www.youtube.com/watch?v=p4Iz0XJY-Qk)                                           | `Youtube`   |
+| [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) | `Website`   |
+| [A Probably Terrible Way to Render Gradients](https://dev.to/freerangepixels/a-probably-terrible-way-to-render-gradients-1p3n)     | `Website`   |
+| [8.2 - Orthographic Projections — LearnWebGL](http://learnwebgl.brown37.net/08_projections/projections_ortho.html)                 | `Website`   |
+| [Hexadecimal / Decimal Colors](https://www.mathsisfun.com/hexadecimal-decimal-colors.html)                                         | `Website`   |
+| [PNG to XPM Converter Online](https://anyconv.com/png-to-xpm-converter)                                                            | `Website`   |
+| [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)                                                                     | `Website`   |
 
-
-| Project                                                         | Source   | User |
+| Project/Tester                                                  | Source   | User |
 | :-------------------------------------------------------------- | :------- | :--- |
 | [FdF](https://github.com/VBrazhnik/FdF)                         | `GitHub` | `VBrazhnik` |
 | [42Barcelona-FdF](https://github.com/ailopez-o/42Barcelona-FdF) | `GitHub` | `ailopez-o` |
-
-| Tester                                                       | Source   | User |
-| :----------------------------------------------------------- | :------- | :--- |
-| [42MapGenerator](https://github.com/jgigault/42MapGenerator) | `GitHub` | `jgigault` |
+| [42MapGenerator](https://github.com/jgigault/42MapGenerator)    | `GitHub` | `jgigault` |
 
 #### [02] PUSH_SWAP
 | Resource                                                                                                                                                  |           |
