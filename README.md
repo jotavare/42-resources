@@ -282,6 +282,10 @@ COMMON CORE PROJECTS
 > [!NOTE]  
 > The subjects at 42 undergo regular updates, so the information provided below might not be current. Additionally, as some projects are optional, resources might not be available if I haven't completed them.
 
+<!---
+SUBJECTS
+-->
+
 #### SUBJECTS
 > _Respositories with all 42 subjects and additional files in one place, some are outdated but still useful._
 
@@ -292,6 +296,10 @@ COMMON CORE PROJECTS
 | [42 Subjects and Corrections (outdated)](https://github.com/Binary-Hackers) | `GitHub` | `Binary-Hackers` |
 | [42 Subjects (outdated)](https://github.com/agavrel/42_Subjects)            | `GitHub` | `agavrel` |
 
+<!---
+LIBFT
+-->
+
 #### [00] LIBFT
 | Resource                                                                                                       | Souce     |
 | :------------------------------------------------------------------------------------------------------------- | :-------- |
@@ -301,30 +309,39 @@ COMMON CORE PROJECTS
 | [42's libft with comments](https://github.com/pbie42/libft42commented)                                         | `GitHub`  |
 | [Make-A-Make: Clear the fog around Makefiles](https://github.com/Nuno-Jesus/Make-A-Make)                       | `GitHub`  |
 
-| Project/Tester                                                         | Source    | User |
-| :--------------------------------------------------------------------- | :-------- | :--- |
-| [francinette](https://github.com/xicodomingues/francinette)            | `GitHub`  | `xicodomingues` |
-| [libftTester](https://github.com/Tripouille/libftTester)               | `GitHub`  | `Tripouille` |
-| [libft_file_checker](https://github.com/Nuno-Jesus/libft_file_checker) | `GitHub`  | `Nuno-Jesus` |
-| [libft-unit-test](https://github.com/alelievr/libft-unit-test)         | `GitHub`  | `alelievr` |
-| [Libftest](https://github.com/jtoty/Libftest)                          | `GitHub`  | `jtoty` |
-| [libft-war-machine](https://github.com/0x050f/libft-war-machine)       | `GitHub`  | `0x050f` |
+| Tester                                                                                                         | Source    | User |
+| :------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [francinette](https://github.com/xicodomingues/francinette)                                                    | `GitHub`  | `xicodomingues` |
+| [libftTester](https://github.com/Tripouille/libftTester)                                                       | `GitHub`  | `Tripouille` |
+| [libft_file_checker](https://github.com/Nuno-Jesus/libft_file_checker)                                         | `GitHub`  | `Nuno-Jesus` |
+| [libft-unit-test](https://github.com/alelievr/libft-unit-test)                                                 | `GitHub`  | `alelievr` |
+| [Libftest](https://github.com/jtoty/Libftest)                                                                  | `GitHub`  | `jtoty` |
+| [libft-war-machine](https://github.com/0x050f/libft-war-machine)                                               | `GitHub`  | `0x050f` |
+
+<!---
+BORN2BEROOT
+-->
 
 #### [01] BORN2BEROOT
 | Resource                                                                                  | Souce     |
 | :---------------------------------------------------------------------------------------- | :-------- |
 | [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` |
-| [Debian](https://www.debian.org/)                                                         | `Website` |
-| [Rocky](https://rockylinux.org/)                                                          | `Website` |
 
-| Guide/Tester                                                               | Source    | User |
-| :------------------------------------------------------------------------- | :-------- | :--- |
-| [Born2beroot](https://github.com/lbordonal/01-Born2beroot/wiki)            | `GitHub`  | `lbordonal` |
-| [Born2beroot Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide)    | `GitHub`  | `pasqualerossi` |
-| [Born2beroot Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial) | `GitHub`  | `gemartin99` |
-| [Born2beroot Walkthrough](https://github.com/HEADLIGHTER/Born2BeRoot-42)   | `GitHub`  | `HEADLIGHTER` |
-| [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)          | `GitHub`  | `Pixailz` |
-| [Born2beroot-Tester](https://github.com/gemartin99/Born2beroot-Tester)     | `GitHub`  | `gemartin99` |
+| Guide                                                                                     | Source    | User |
+| :---------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Born2beroot](https://github.com/lbordonal/01-Born2beroot/wiki)                           | `GitHub`  | `lbordonal` |
+| [Born2beroot Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide)                   | `GitHub`  | `pasqualerossi` |
+| [Born2beroot Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial)                | `GitHub`  | `gemartin99` |
+| [Born2beroot Walkthrough](https://github.com/HEADLIGHTER/Born2BeRoot-42)                  | `GitHub`  | `HEADLIGHTER` |
+
+| Tester                                                                                    | Source    | User |
+| :---------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)                         | `GitHub`  | `Pixailz` |
+| [Born2beroot-Tester](https://github.com/gemartin99/Born2beroot-Tester)                    | `GitHub`  | `gemartin99` |
+
+<!---
+FT_PRINTF
+-->
 
 #### [01] FT_PRINTF
 | Resource                                                                                                                                      | Source    |
@@ -338,14 +355,21 @@ COMMON CORE PROJECTS
 | [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)                                                    | `Website` |
 | [Printing Floating-Point Numbers](https://www.ryanjuckett.com/printing-floating-point-numbers)                                                | `Website` |
 | [Printing Floating-Point Numbers Quickly and Accurately with Integers](https://www.cs.tufts.edu/~nr/cs257/archive/florian-loitsch/printf.pdf) | `PDF`     |
+
+| Project                                                                                                                                       | Source    |
+| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [printf / sprintf Implementation for Embedded Systems](https://github.com/mpaland/printf)                                                     | `GitHub`  |
 
-| Project/Tester                                                                                       | Source    | User |
-| :--------------------------------------------------------------------------------------------------- | :-------- | :--- |
-| [Debugging with main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c) | `GitHub`  | `Kuninoto` |
-| [francinette](https://github.com/xicodomingues/francinette)                                          | `GitHub`  | `xicodomingues` |
-| [printfTester](https://github.com/Tripouille/printfTester)                                           | `GitHub`  | `Tripouille` |
-| [ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester)                                | `GitHub`  | `paulo-santana` |
+| Tester                                                                                                                                        | Source    | User |
+| :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Debugging with main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c)                                          | `GitHub`  | `Kuninoto` |
+| [francinette](https://github.com/xicodomingues/francinette)                                                                                   | `GitHub`  | `xicodomingues` |
+| [printfTester](https://github.com/Tripouille/printfTester)                                                                                    | `GitHub`  | `Tripouille` |
+| [ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester)                                                                         | `GitHub`  | `paulo-santana` |
+
+<!---
+GET_NEXT_LINE
+-->
 
 #### [01] GET_NEXT_LINE
 | Resource                                                                                                                        | Source    |
@@ -357,12 +381,15 @@ COMMON CORE PROJECTS
 | [comprendre get_next_line](https://www.youtube.com/watch?v=-Mt2FdJjVno)                                                         | `Youtube` |
 | [get_next_line - 42 Docs](https://harm-smits.github.io/42docs/projects/get_next_line)                                           | `GitHub`  |
 
-| Project/Tester                                                    | Source   | User |
-| :---------------------------------------------------------------- | :------- | :--- |
-| [francinette](https://github.com/xicodomingues/francinette)       | `GitHub` | `xicodomingues` |
-| [gnlTester](https://github.com/Tripouille/gnlTester)              | `GitHub` | `Tripouille` |
-| [gnl-station-tester](https://github.com/kodpe/gnl-station-tester) | `GitHub` | `kodpe` |
+| Tester                                                                                                                          | Source   | User |
+| :------------------------------------------------------------------------------------------------------------------------------ | :------- | :--- |
+| [francinette](https://github.com/xicodomingues/francinette)                                                                     | `GitHub` | `xicodomingues` |
+| [gnlTester](https://github.com/Tripouille/gnlTester)                                                                            | `GitHub` | `Tripouille` |
+| [gnl-station-tester](https://github.com/kodpe/gnl-station-tester)                                                               | `GitHub` | `kodpe` |
 
+<!---
+MINITALK
+-->
 
 #### [02] MINITALK
 | Resource                                                                                                                                           | Source    |
@@ -378,37 +405,53 @@ COMMON CORE PROJECTS
 | [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U)                                                                                    | `Youtube` |
 | [42-Bitwise_Operators](https://github.com/agavrel/42-Bitwise_Operators)                                                                            | `GitHub`  |
 
-| Project/Tester                                                                         | Source    | User |
-| :------------------------------------------------------------------------------------- | :-------- | :--- |
-| [Minitalk](https://github.com/mlanca-c/Minitalk)                                       | `GitHub`  | `mlanca-c` |
-| [minitalk](https://github.com/j4k0m/minitalk)                                          | `GitHub`  | `j4k0m` |
-| [francinette](https://github.com/xicodomingues/francinette)                            | `GitHub`  | `xicodomingues` |
-| [francineminitalk-Testertte](https://github.com/ThibaudM13/minitalk-Tester)            | `GitHub`  | `ThibaudM13` |
-| [Lipsum generator: Lorem Ipsum](https://www.lipsum.com)                                | `Website` | |
-| [Get Emoji](https://getemoji.com)                                                      | `Website` | |
-| [EmojiDB](https://emojidb.org/terminal-emojis)                                         | `Website` | |
+| Project                                                                                                                                            | Source    | User |
+| :------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Minitalk](https://github.com/mlanca-c/Minitalk)                                                                                                   | `GitHub`  | `mlanca-c` |
+| [minitalk](https://github.com/j4k0m/minitalk)                                                                                                      | `GitHub`  | `j4k0m` |
 
+| Tester                                                                                                                                             | Source    | User |
+| :------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [francinette](https://github.com/xicodomingues/francinette)                                                                                        | `GitHub`  | `xicodomingues` |
+| [minitalk-Tester](https://github.com/ThibaudM13/minitalk-Tester)                                                                                   | `GitHub`  | `ThibaudM13` |
+| [Lipsum generator: Lorem Ipsum](https://www.lipsum.com)                                                                                            | `Website` | |
+| [Get Emoji](https://getemoji.com)                                                                                                                  | `Website` | |
+| [EmojiDB](https://emojidb.org/terminal-emojis)                                                                                                     | `Website` | |
+
+<!---
+PIPEX
+-->
 
 #### [02] PIPEX
-| Resource                                                                                                                                     | Source    |
+| Tutorials and Documentation                                                                                                                  | Source    |
 | :------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [SIGTSTP signal not stopping child?](https://stackoverflow.com/questions/41029170/sigtstp-signal-not-stopping-child)                         | `Stack Overflow` |
 | [pipex tutorial — 42 project](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901)                                             | `Website` |
 | [wait(2) — Linux manual page](https://man7.org/linux/man-pages/man2/waitpid.2.html)                                                          | `Website` |
 | [execve(2) — Linux manual page](https://man7.org/linux/man-pages/man2/execve.2.html)                                                         | `Website` |
-| [SIGTSTP signal not stopping child?](https://stackoverflow.com/questions/41029170/sigtstp-signal-not-stopping-child)                         | `Website` |
 | [Consequences of Process Termination](https://pubs.opengroup.org/onlinepubs/9699919799/functions/_Exit.html#tag_16_01_03_01)                 | `Website` |
 | [Creating Pipes in C](https://tldp.org/LDP/lpg/node11.html)                                                                                  | `Website` |
 | [Stanford Lecture 07: Signals](https://web.stanford.edu/class/archive/cs/cs110/cs110.1196/static/lectures/07-Signals/lecture-07-signals.pdf) | `PDF`     |
+
+| Video Resources                                                                                                                              | Source    |
+| :------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)                                              | `Youtube` |
 | [Pipes Explained (Spanish)](https://www.youtube.com/watch?v=8LdQ09Ep9RY)                                                                     | `Youtube` |
-| [pipex.c](https://github.com/malikfassi/42/blob/master/UNIX/PIPEX/src/pipex.c)                                                               | `GitHub`  |
 
-| Project/Tester                                              | Source   | User |
-| :---------------------------------------------------------- | :------- | :--- |
-| [pipexMedic](https://github.com/gmarcha/pipexMedic)         | `GitHub` | `gmarcha` |
-| [pipex-tester](https://github.com/vfurmane/pipex-tester)    | `GitHub` | `vfurmane` |
-| [PIPEX_TESTER](https://github.com/ael-bekk/PIPEX_TESTER)    | `GitHub` | `ael-bekk` |
-| [francinette](https://github.com/xicodomingues/francinette) | `GitHub` | `xicodomingues` |
+| Project                                                                                                                                      | Source   | User |
+| :------------------------------------------------------------------------------------------------------------------------------------------- | :------- | :--- |
+| [pipex.c](https://github.com/malikfassi/42/blob/master/UNIX/PIPEX/src/pipex.c)                                                               | `GitHub` |
+
+| Tester                                                                                                                                       | Source   | User |
+| :------------------------------------------------------------------------------------------------------------------------------------------- | :------- | :--- |
+| [pipexMedic](https://github.com/gmarcha/pipexMedic)                                                                                          | `GitHub` | `gmarcha` |
+| [pipex-tester](https://github.com/vfurmane/pipex-tester)                                                                                     | `GitHub` | `vfurmane` |
+| [PIPEX_TESTER](https://github.com/ael-bekk/PIPEX_TESTER)                                                                                     | `GitHub` | `ael-bekk` |
+| [francinette](https://github.com/xicodomingues/francinette)                                                                                  | `GitHub` | `xicodomingues` |
+
+<!---
+MINILIBX
+-->
 
 #### [02] MINILIBX
 > [!NOTE]
@@ -445,20 +488,23 @@ COMMON CORE PROJECTS
 | [so_long_tester](https://github.com/augustobecker/so_long_tester)            | `GitHub`  | `augustobecker` |
 
 #### [02] FRACT-OL
-| Resource                                                                                                                   | Source    |
-| :------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [Fractal](https://en.wikipedia.org/wiki/Fractal)                                                                           | `Website` |
-| [List of fractals_by_Hausdorff_dimension](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)           | `Website` |
-| [Plotting algorithms for the Mandelbrot set](https://en.wikipedia.org/wiki/Plotting_algorithms_for_the_Mandelbrot_set)     | `Website` |
-| [Tricorn (mathematics)](https://en.wikipedia.org/wiki/Tricorn_(mathematics))                                               | `Website` |
+| Fractals and Mathematics                                                                                                   | Source |
+| :------------------------------------------------------------------------------------------------------------------------- | :----- |
+| [Fractal](https://en.wikipedia.org/wiki/Fractal)                                                                           | `Wikipedia` |
+| [List of fractals by Hausdorff dimension](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)           | `Wikipedia` |
+| [Plotting algorithms for the Mandelbrot set](https://en.wikipedia.org/wiki/Plotting_algorithms_for_the_Mandelbrot_set)     | `Wikipedia` |
+| [Tricorn (mathematics)](https://en.wikipedia.org/wiki/Tricorn_(mathematics))                                               | `Wikipedia` |
 | [The Mandelbrot Set](http://warp.povusers.org/Mandelbrot)                                                                  | `Website` |
 | [Julia and Mandelbrot Sets](https://lodev.org/cgtutor/juliamandelbrot.html)                                                | `Website` |
 | [Recursion Trees](https://lodev.org/cgtutor/recursiontrees.html)                                                           | `Website` |
 | [Sierpinski Fractals](https://lodev.org/cgtutor/sierpinski.html)                                                           | `Website` |
+
+| Guides and Tutorials                                                                                                       | Source |
+| :------------------------------------------------------------------------------------------------------------------------- | :----- |
 | [Managing events with the minilibx](https://aurelienbrabant.fr/blog/events-with-the-minilibx)                              | `Website` |
 | [Pixel drawing with the minilibx](https://aurelienbrabant.fr/blog/pixel-drawing-with-the-minilibx)                         | `Website` |
 | [Getting started with the minilibx](https://aurelienbrabant.fr/blog/getting-started-with-the-minilibx)                     | `Website` |
-| [How to plot the mandelbrot set](https://www.codingame.com/playgrounds/2358/how-to-plot-the-mandelbrot-set/mandelbrot-set) | `Website` |
+| [How to plot the Mandelbrot set](https://www.codingame.com/playgrounds/2358/how-to-plot-the-mandelbrot-set/mandelbrot-set) | `Website` |
 | [Efficiently generating the Mandelbrot and Julia sets](https://theses.liacs.nl/pdf/2018-2019-JonckheereLSde.pdf)           | `Website` |
 | [Fractal Pack 1 Educators’ Guide](https://fractalfoundation.org/fractivities/FractalPacks-EducatorsGuide.pdf)              | `Website` |
 | [How to Plot the Mandelbrot Set By Hand](https://www.wikihow.com/Plot-the-Mandelbrot-Set-By-Hand)                          | `Website` |
@@ -466,6 +512,9 @@ COMMON CORE PROJECTS
 | [Julia Set Mathematics](https://mathworld.wolfram.com/JuliaSet.html)                                                       | `Website` |
 | [Mandelbrot & Julia Sets - Interactive visualization of fractals](https://www.dynamicmath.xyz/mandelbrot-julia)            | `Website` |
 | [Tutorial 3 : Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices)                            | `Website` |
+
+| Video Resources                                                                                                            | Source    |
+| :------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Brute Force Processing](https://www.youtube.com/watch?v=PBvLs88hvJ8)                                                      | `Youtube` |
 | [The dark side of the Mandelbrot set](https://www.youtube.com/watch?v=9gk_8mQuerg)                                         | `Youtube` |
 | [Beyond the Mandelbrot set, an intro to holomorphic dynamics](https://www.youtube.com/watch?v=LqbZpur38nw)                 | `Youtube` |
@@ -477,12 +526,12 @@ COMMON CORE PROJECTS
 | [The Mandelbrot Set](https://www.youtube.com/watch?v=MwjsO6aniig)                                                          | `Youtube` |
 | [This equation will change how you see the world (the logistic map)](https://www.youtube.com/watch?v=ovJcsL7vyrk)          | `Youtube` |
 
-| Project/Tester                                      | Source   | User |
-| :-------------------------------------------------- | :------- | :--- |
-| [fract-ol](https://github.com/mcombeau/fract-ol )   | `GitHub` | `mcombeau` |
-| [fract-ol](https://github.com/inesalves44/fract-ol) | `GitHub` | `inesalves44` |
-| [fract-ol](https://github.com/Xyckens/fract-ol)     | `GitHub` | `Xyckens` |
-| [ft_fractol](https://github.com/librity/ft_fractol) | `GitHub` | `librity` |
+| Project                                                                                                                    | Source   | User       |
+| :------------------------------------------------------------------------------------------------------------------------- | :------- | :--------- |
+| [fract-ol](https://github.com/mcombeau/fract-ol)                                                                           | `GitHub` | `mcombeau`    |
+| [fract-ol](https://github.com/inesalves44/fract-ol)                                                                        | `GitHub` | `inesalves44` |
+| [fract-ol](https://github.com/Xyckens/fract-ol)                                                                            | `GitHub` | `Xyckens`     |
+| [ft_fractol](https://github.com/librity/ft_fractol)                                                                        | `GitHub` | `librity`     |
 
 #### [02] FDF
 | Resource                                                                                                                           | Source    |
@@ -620,7 +669,9 @@ COMMON CORE PROJECTS
 | [42_cub_tester](https://github.com/realisticDonut/42_cub_tester)                                | `GitHub`  | `realisticDonut` |
 
 #### [04] MINIRT
-http://www.sci.utah.edu/~thiago/papers/BSP_RT08.pdf
+| Resources                                                                            | Source |
+| :----------------------------------------------------------------------------------- | :----- |
+| [Ray Tracing with the BSP Tree](http://www.sci.utah.edu/~thiago/papers/BSP_RT08.pdf) | `PDF`  |
 
 #### [04 - 05] CPP MODULE (00-09)
 
