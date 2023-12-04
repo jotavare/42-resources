@@ -457,7 +457,7 @@ MINILIBX
 
 #### [02] MINILIBX
 > [!NOTE]
-> The links in this section are the most useful for `so_long`, `fract-ol`, `fdf`, `cub3d` and `minirt`. Read them before scrolling.
+> The links in this section are the most useful for `so_long`, `fract-ol`, `fdf`, `cub3d` and `minirt`.
 
 | Resource                                                                         | Source   | User |
 | :------------------------------------------------------------------------------- | :------- | :--- |
@@ -567,18 +567,21 @@ MINILIBX
 | Resource                                                                                                                                                       |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [push_swap Resources](https://push_swap.simple.ink)                                                                                                            | `Website` |
-| [Push_Swap Tutorial](https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e)                                                                         | `Website` |
-| [Push_Swap: The least amount of moves with two stacks](https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a) | `Website` |
-| [42 Heilbronn Student Journey with push_swap](https://medium.com/p/c1f5d2d41e97)                                                                               | `Website` |
+| [Push_Swap Tutorial](https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e)                                                                         | `Medium` |
+| [Push_Swap: The least amount of moves with two stacks](https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a) | `Medium` |
+| [42 Heilbronn Student Journey with push_swap](https://medium.com/p/c1f5d2d41e97)                                                                               | `Medium` |
 | [Sorting Algorithms (28 total)](https://www.geeksforgeeks.org/sorting-algorithms/?ref=lbp)                                                                     | `Website` |
 | [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site)                                                                                              | `Website` |
+
+| Video Resource                                                                                                                                                 |           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [Data Structures - Stacks Introduction](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgWh1emltdMOz8O2m5X3YYn)                                              | `Youtube` |
 | [push_swap Project - 42](https://www.youtube.com/watch?v=7KW59UO55TQ)                                                                                          | `Youtube` |
 | [Algorithms Playlist](https://youtube.com/playlist?list=PL3edoBgC7ScV9WPytQ2dtso21YrTuUSBd)                                                                    | `Youtube` |
 
 | Tester                                                                                                                                                    |           |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Push Swap Visualizer (o-reo)](https://github.com/o-reo/push_swap_visualizer)                                                                                  | `GitHub`  |
+| [Push Swap Visualizer](https://github.com/o-reo/push_swap_visualizer)                                                                                          | `GitHub`  |
 | [Push Swap Visualizer (Niimphu)](https://github.com/Niimphu/push_swap_visualiser)                                                                              | `GitHub`  |
 | [Push Swap Tester (gemartin99)](https://github.com/gemartin99/Push-Swap-Tester)                                                                                | `GitHub`  |
 | [Push Swap Tester (laisarena)](https://github.com/laisarena/push_swap_tester)                                                                                  | `GitHub`  |
@@ -587,66 +590,68 @@ MINILIBX
 | [Push Swap Visualizer and Number Generator](https://push-swap-visualizer.vercel.app)                                                                           | `Website` |
 
 #### [03] PHILOSOPHERS
-| Resource                                                                                                                                                  |             |
+| Resource                                                                                                                                                       | Souce       |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)                                                                       | `Wikipedia` |
-| [The Dining Philosopher’s Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)                                                                  | `Wikipedia` |
 | [Deadlock](https://en.wikipedia.org/wiki/Deadlock)                                                                                                             | `Wikipedia` |
-| [Data Race/Race Condition](https://en.wikipedia.org/wiki/Race_condition)                                                                                       | `Wikipedia` |
-| [Medium - The Dining Philosopher’s Problem](https://medium.com/swlh/the-dining-philosophers-problem-bbdb92e6b788)                                              | `Website`   |
-| [Unix Threads in C](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)                                                       | `Youtube`   |
-| [The Dining Philosophers Problem (Neso Academy)](https://www.youtube.com/watch?v=FYUi-u7UWgw)                                                                  | `Youtube`   |
-| [Dining Philosophers Problem Explanation](https://www.youtube.com/watch?v=UGQsvVKwe90)                                                                         | `Youtube`   |
+| [Race condition](https://en.wikipedia.org/wiki/Race_condition)                                                                                                 | `Wikipedia` |
+| [The Dining Philosopher’s Problem](https://medium.com/swlh/the-dining-philosophers-problem-bbdb92e6b788)                                                       | `Medium`    |
 
-| Tester                                                                                                                                                    |             |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Philosophers Visualizer](https://nafuka11.github.io/philosophers-visualizer)                                                                                  | `Website`   |
-| [Socrates](https://github.com/nesvoboda/socrates)                                                                                                              | `GitHub`    |
-| [Philosophers Test](https://github.com/cacharle/philosophers_test)                                                                                             | `GitHub`    |
-| [Philosophers Project Tester](https://github.com/newlinuxbot/Philosphers-42Project-Tester)                                                                     | `GitHub`    |
+| Video Resource                                                                                                                                                 | Source    | User |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Unix Threads in C](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)                                                       | `Youtube` | `CodeVault` |
+| [The Dining Philosophers Problem](https://www.youtube.com/watch?v=FYUi-u7UWgw)                                                                                 | `Youtube` | `Neso Academy` |
+| [Philosophers, 42 School Project](https://www.youtube.com/watch?v=UGQsvVKwe90)                                                                                 | `Youtube` | `Jamshidbek Ergashev` |
+
+| Tester                                                                                                                                                         | Source    | User |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [philosophers-visualizer](https://nafuka11.github.io/philosophers-visualizer)                                                                                  | `Website` | `nafuka11` |
+| [socrates](https://github.com/nesvoboda/socrates)                                                                                                              | `GitHub`  | `nesvoboda` |
+| [philosophers_test](https://github.com/cacharle/philosophers_test)                                                                                             | `GitHub`  | `cacharle` |
+| [Philosphers-42Project-Tester](https://github.com/newlinuxbot/Philosphers-42Project-Tester)                                                                    | `GitHub`  | `newlinuxbot` |
 
 #### [03] MINISHELL
-| Resource                                                                                                                                                  |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [GNU Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual)                                                                                           | `Website` |
-| [42 Docs](https://harm-smits.github.io/42docs/projects/minishell)                                                                                              | `Website` |
+| Resource                                                                                                                                                       | Source    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [GNU Bash manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual)                                                                                      | `Website` |
 | [Explain Shell](https://explainshell.com)                                                                                                                      | `Website` |
 | [Tutorial - Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c)                                                                              | `Website` |
 | [Shell Command Language](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html)                                                            | `Website` |
-| ['Here Documents' in Bash](https://www.howtogeek.com/719058/how-to-use-here-documents-in-bash-on-linux)                                                        | `Website` |
-| [Medium - Minishell](https://achrafbelarif.medium.com/42cursus-minishell-29cd25f972e6)                                                                         | `Website` |
-| [Writing a Unix Shell - Part 1](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1)                                                               | `Website` |
-| [Writing a Unix Shell - Part 2](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2)                                                               | `Website` |
-| [Writing a Unix Shell - Part 3](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3)                                                               | `Website` |
+| [How to Use "Here Documents" in Bash on Linux](https://www.howtogeek.com/719058/how-to-use-here-documents-in-bash-on-linux)                                    | `Website` |
+| [Writing a Unix Shell - Part I](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1)                                                               | `Website` |
+| [Writing a Unix Shell - Part II](https://indradhanush.github.io/blog/writing-a-unix-shell-part-2)                                                              | `Website` |
+| [Writing a Unix Shell - Part III](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3)                                                             | `Website` |
 | [Tiny Shell - Case Study](http://www.cems.uwe.ac.uk/~irjohnso/coursenotes/lrc/system/shell/)                                                                   | `Website` |
+| [42Cursus-Minishell](https://achrafbelarif.medium.com/42cursus-minishell-29cd25f972e6)                                                                         | `Medium`  |
 | [Writing Your Own Shell](https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf)                                     | `PDF`     |
-| [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)                                                                | `Youtube` |
-| [Shell Program - Explained](https://youtu.be/ubt-UjcQUYg)                                                                                                      | `Youtube` |
-| [mysh](https://github.com/Swoorup/mysh)                                                                                                                        | `GitHub`  |
-| [42 Minishell](https://github.com/DimitriDaSilva/42_minishell)                                                                                                 | `GitHub`  |
 
-| Tester                                                                                                                                                    |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [42 Minishell Tester](https://github.com/zstenger93/42_minishell_tester)                                                                                       | `GitHub`  |
-| [Minishell Tester](https://github.com/thallard/minishell_tester)                                                                                               | `GitHub`  |
-| [Minishell Panic](https://github.com/ChewyToast/mpanic)                                                                                                        | `GitHub`  |
+| Video Resource                                                                                                                                                 | Source    | User |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Unix Processes in C](https://youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&si=HT0Zjn8jon9jTXhs)                                                | `Youtube` | `CodeVault` |
+| [Shell Program Explained](https://youtu.be/ubt-UjcQUYg)                                                                                                        | `Youtube` | `hhp3` |
+
+| Project                                                                                                                                                        | Source    | User |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [42_minishell](https://github.com/DimitriDaSilva/42_minishell)                                                                                                 | `GitHub`  | `DimitriDaSilva` |
+| [mysh](https://github.com/Swoorup/mysh)                                                                                                                        | `GitHub`  | `Swoorup` |
+
+| Tester                                                                                                                                                         | Source    | User |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [42_minishell_tester](https://github.com/zstenger93/42_minishell_tester)                                                                                       | `GitHub`  | `zstenger93` |
+| [minishell_tester](https://github.com/thallard/minishell_tester)                                                                                               | `GitHub`  | `thallard` |
+| [mpanic](https://github.com/ChewyToast/mpanic)                                                                                                                 | `GitHub`  | `ChewyToast` |
 
 #### [04] NETPRACTICE
-| **Project Files**                                                                                                                                              |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Subject](https://github.com/jotavare/jotavare/blob/main/42/project_subjects/netpractice.pdf)                                                                  | `PDF`     |
-| [Evaluation Page](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                                                                                                 | `PNG`     |
-
-| Resource                                                                                                                                                  |           |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Resource                                                                                                                                                       | Source    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a)                                                                                                   | `Website` |
 | [ipcalc](https://linuxhint.com/ipcalc-command-linux)                                                                                                           | `Website` |
-| [Guide to NetPractice](https://github.com/lpaube/NetPractice)                                                                                                  | `GitHub`  |
 | [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)                                                                                   | `Website` |
 | [Practical Networking](https://youtu.be/BWZ-MHIhqjM)                                                                                                           | `Youtube` |
 | [Default Gateway Explained](https://youtu.be/pCcJFdYNamc)                                                                                                      | `Youtube` |
 | [Subnet Mask - Explained](https://youtu.be/s_Ntt6eTn94)                                                                                                        | `Youtube` |
 | [CCNA](https://youtu.be/Ct4PU6CyvTQ)                                                                                                                           | `Youtube` |
+| [Guide to NetPractice](https://github.com/lpaube/NetPractice)                                                                                                  | `GitHub`  |
 
 #### [04] CUB3D
 | Game                                              | Source    |
@@ -685,6 +690,91 @@ MINILIBX
 | [Ray Tracing with the BSP Tree](http://www.sci.utah.edu/~thiago/papers/BSP_RT08.pdf) | `PDF`  |
 
 #### [04 - 05] CPP MODULE (00-09)
+
+| Resource                                                                                                                                          | Source |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
+- [(Life) Advice From The Creator of C++ ](https://www.youtube.com/watch?v=-QxI-RP6-HM) `Youtube`
+- [31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w) `Youtube`
+- [TLDR - CPP00 [42] (BR)](https://www.youtube.com/watch?v=TnrQMtxPeEg) `Youtube`
+- [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) `GitHub` `isocpp`
+- [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) `Udemy` `Paid`
+- [cppinsights](https://www.cppinsights.io/) - Check compiler changes. `Website`
+- [godbolt](https://www.godbolt.org/) - Compiler comparisons, assembly inspection, ... `Website`
+- [learncpp](https://www.learncpp.com/) - Covers everything from the absolute basics to advanced topics. It follows modern and best practice guidelines.
+- [cppreference](www.cppreference.com/) - Best language reference out there.
+- [The C++ Conference](https://www.youtube.com/user/CppCon/) `Youtube` `CppCon`
+- [Welcome to C++ (101 videos)](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) `Youtube` `The Cherno`
+- [C++ Weekly With Jason Turner](https://youtube.com/c/lefticus1/) - Weekly videos from Jason Turner. From basics to all the way to cursed code. `Youtube` `lefticus1`
+
+General
+https://www.cplusplus.com/doc/oldtutorial/
+https://github.com/qingqingqingli/CPP/wiki
+https://github.com/yanshengjia/cpp-playground/blob/master/cpp-primer/resource/C%2B%2B%20Primer%20(5th%20Edition).pdf
+https://www.geeksforgeeks.org/c-plus-plus/?ref=ghm
+
+C00
+https://stackoverflow.com/questions/58151350/more-elegant-way-to-get-the-current-year-in-c
+
+C01
+https://www.ibm.com/docs/en/i/7.4?topic=only-pointers-members-c
+https://www.youtube.com/watch?v=p4sDgQ-jao4
+
+C02
+https://www.youtube.com/watch?v=S12qx1DwjVk&
+https://www.youtube.com/watch?v=npQF28g6s_k
+https://www.youtube.com/watch?v=TwW2Nl45FvE
+https://inst.eecs.berkeley.edu/~cs61c/sp06/handout/fixedpt.html
+
+C03
+https://www.geeksforgeeks.org/constructors-c/ 
+https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html
+
+C04
+https://www.geeksforgeeks.org/shallow-copy-and-deep-copy-in-c/
+
+C06
+https://www.youtube.com/watch?v=lglGKxNrLgM
+https://www.geeksforgeeks.org/static_cast-in-c-type-casting-operators/amp/
+
+C07
+https://www.geeksforgeeks.org/passing-a-function-as-a-parameter-in-cpp/
+https://www.geeksforgeeks.org/overloading-subscript-or-array-index-operator-in-c/
+https://www.tutorialspoint.com/cplusplus/subscripting_operator_overloading.htm
+
+CPP 09
+Iterators:
+https://www.cplusplus.com/reference/iterator/iterator/
+https://en.cppreference.com/w/cpp/iterator
+https://www.cplusplus.com/reference/iterator/
+https://en.cppreference.com/w/cpp/iterator/iterator
+https://www.youtube.com/watch?v=SgcHcbQ0RCQ
+https://www.codeproject.com/Articles/36530/An-Introduction-to-Iterator-Traits
+
+ex00
+Map:
+*https://www.cplusplus.com/reference/map/map/
+https://en.cppreference.com/w/cpp/container/map
+https://en.cppreference.com/w/cpp/container/map/value_compare
+https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/
+https://www.cplusplus.com/reference/map/map/operator[]/
+https://www.youtube.com/watch?v=POYRev0zk2k
+
+ex01
+Reverse Polish Notation:
+https://en.wikipedia.org/wiki/Reverse_Polish_notation
+
+Stack:
+*https://www.cplusplus.com/reference/stack/stack/
+https://en.cppreference.com/w/cpp/container/stack
+https://www.geeksforgeeks.org/stack-in-cpp-stl/
+
+ex02
+Merge insertion sort:
+https://en.wikipedia.org/wiki/Merge-insertion_sort
+https://github.com/decidedlyso/merge-insertion-sort
+
+Vector:
+*https://www.cplusplus.com/reference/vector/v
 
 #### [05] WEBSERV
 | HTTP Server Tutorials and Guides                                                                                                                                            | Source |
@@ -786,17 +876,14 @@ MINILIBX
 | [42-inception](https://github.com/waltergcc/42-inception)                 | `GitHub`  |`waltergcc` |
 
 #### [06] FT_TRANSCENDENCE
-| Vue.js                                                                                                                                     | Source    |
-| :----------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [Introduction to Vue.js](https://vuejs.org/guide/introduction.html)                                                                        | `Website` |
-| [Props Versus Data in Vue](https://michaelnthiessen.com/vue-props-vs-data)                                                                 | `Website` |
-| [How to get left, top position of element in Vue.js?](https://thewebdev.info/2022/03/15/how-to-get-left-top-position-of-element-in-vue-js) | `Website` |
-| [Integrating Vue.js and Socket.io](https://www.digitalocean.com/community/tutorials/vuejs-vue-socketio)                                    | `Website` |
-| [Vue JS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)                                                                         | `Youtube` |
-| [Build a Realtime Chat App with VueJS](https://youtu.be/SZlsP5uxYjk)                                                                       | `Youtube` |
-
-| Game Development and WebSockets                                                                                                                                                           | Source    |
+| Resource                                                                                                                                                                                  | Source    |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [Introduction to Vue.js](https://vuejs.org/guide/introduction.html)                                                                                                                       | `Website` |
+| [Props Versus Data in Vue](https://michaelnthiessen.com/vue-props-vs-data)                                                                                                                | `Website` |
+| [How to get left, top position of element in Vue.js?](https://thewebdev.info/2022/03/15/how-to-get-left-top-position-of-element-in-vue-js)                                                | `Website` |
+| [Integrating Vue.js and Socket.io](https://www.digitalocean.com/community/tutorials/vuejs-vue-socketio)                                                                                   | `Website` |
+| [Vue JS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)                                                                                                                        | `Youtube` |
+| [Build a Realtime Chat App with VueJS](https://youtu.be/SZlsP5uxYjk)                                                                                                                      | `Youtube` |
 | [Building a multiplayer game using WebSockets](https://dev.to/sauravmh/building-a-multiplayer-game-using-websockets-1n63)                                                                 | `Website` |
 | [Socket.IO - Get started](https://socket.io/get-started/chat)                                                                                                                             | `Website` |
 | [Build lobby based online multiplayer browser games with React and NodeJS](https://francois-steinel.fr/articles/build-lobby-based-online-multiplayer-browser-games-with-react-and-nodejs) | `Website` |
