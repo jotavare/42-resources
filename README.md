@@ -717,7 +717,7 @@ COMMON CORE PROJECTS
 | [Beginner JavaScript Game Dev Project](https://www.youtube.com/watch?v=PeY6lXPrPaA)                                                                                                       | `Youtube` |
 | [Build a Realtime Chat App with VueJS](https://youtu.be/SZlsP5uxYjk)                                                                                                                      | `Youtube` |
 | [Easiest way to build real-time web apps? WEBSOCKETS with NestJS](https://youtu.be/atbdpX4CViM)                                                                                           | `Youtube` |
-| [NestJS Authentication: JWTs, Sessions, logins, and more! | NestJS PassportJS Tutorial](https://www.youtube.com/watch?v=_L225zpUK0M)                                                      | `Youtube` |
+| [NestJS Authentication: JWTs, Sessions, logins, and more! \| NestJS PassportJS Tutorial](https://www.youtube.com/watch?v=_L225zpUK0M)                                                      | `Youtube` |
 | [js-pong](https://github.com/WebDevSimplified/js-pong)                                                                                                                                    | `GitHub` |
 
 - - - -
