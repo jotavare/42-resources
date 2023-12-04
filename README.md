@@ -685,6 +685,41 @@ COMMON CORE PROJECTS
 | [VirtualBox](https://www.virtualbox.org)                                                                                                                                          | `Website` |
 | [Debian](https://www.debian.org)                                                                                                                                                  | `Website` |
 
+https://en.m.wikipedia.org/wiki/Docker_(software)
+https://docs.docker.com/
+https://docs.docker.com/engine/reference/builder/
+https://docs.docker.com/compose/compose-file/
+https://www.youtube.com/watch?v=31ieHmcTUOk&list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7
+https://medium.com/swlh/wordpress-deployment-with-nginx-php-fpm-and-mariadb-using-docker-compose-55f59e5c1a
+https://medium.com/freestoneinfotech/simplifying-docker-compose-operations-using-makefile-26d451456d63
+https://www.ibm.com/cloud/learn/containers
+https://www.geeksforgeeks.org/docker-concept-of-dockerfile/
+https://docs.docker.com/compose/
+https://docs.docker.com/compose/compose-file/
+https://dev.to/flpslv/using-makefiles-to-build-and-publish-docker-containers-7c8
+https://www.nginx.com/blog/deploying-nginx-nginx-plus-docker/
+https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-debian-10
+https://stackoverflow.com/questions/22111060/what-is-the-difference-between-expose-and-publish-in-docker
+https://www.linode.com/docs/guides/how-to-configure-nginx/
+
+Create SSL Certificate: 
+https://www.openssl.org/docs/man1.0.2/man1/openssl-req.html
+https://comodosslstore.com/resources/what-is-a-sha256-ssl-certificate/
+https://stackoverflow.com/questions/10175812/how-to-generate-a-self-signed-ssl-certificate-using-openssl
+
+Wordpress: 
+https://www.hostinger.com/tutorials/run-docker-wordpress
+https://davidyeiser.com/tutorials/docker-wordpress-theme-setup
+https://www.ionos.com/digitalguide/server/know-how/wordpress-in-docker-containers/
+https://upcloud.com/community/tutorials/wordpress-with-docker/
+https://code.tutsplus.com/articles/download-and-install-wordpress-via-the-shell-over-ssh--wp-24403
+
+| Docker                                                                     | Source    | User |
+| :------------------------------------------------------------------------ | :-------- | :--- |
+| [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)
+| [Docker Compose in 12 Minutes](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)
+| [Docker Crash Course #1 - What is Docker?](https://www.youtube.com/watch?v=31ieHmcTUOk&list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
+
 | Guide                                                                     | Source    | User |
 | :------------------------------------------------------------------------ | :-------- | :--- |
 | [codesshaman](https://github.com/codesshaman/inception)                   | `GitHub`  |`codesshaman` |
