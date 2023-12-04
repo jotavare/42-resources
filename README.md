@@ -336,14 +336,14 @@ COMMON CORE PROJECTS
 #### [01] FT_PRINTF
 | Resource                                                                                                                                      | Source    |
 | :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [printf invocation (GNU Coreutils 9.4)](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#printf-invocation)     | `GNU`     |
-| [Formatted Output (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Formatted-Output.html)                              | `GNU`     |
-| [Table of Output Conversions (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)        | `GNU`     |
-| [printf(3) — Linux manual page](https://man7.org/linux/man-pages/man3/printf.3.html)                                                          | `man7`    |
 | [C Tutorial – printf](https://www.codingunit.com/printf-format-specifiers-format-conversions-and-formatted-output)                            | `Website` |
 | [printf Reference](https://cplusplus.com/reference/cstdio/printf)                                                                             | `Website` |
 | [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)                                                    | `Website` |
 | [Printing Floating-Point Numbers](https://www.ryanjuckett.com/printing-floating-point-numbers)                                                | `Website` |
+| [printf(3) — Linux manual page](https://man7.org/linux/man-pages/man3/printf.3.html)                                                          | `man7`    |
+| [printf invocation (GNU Coreutils 9.4)](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#printf-invocation)     | `GNU`     |
+| [Formatted Output (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Formatted-Output.html)                              | `GNU`     |
+| [Table of Output Conversions (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)        | `GNU`     |
 | [Printing Floating-Point Numbers Quickly and Accurately with Integers](https://www.cs.tufts.edu/~nr/cs257/archive/florian-loitsch/printf.pdf) | `PDF`     |
 
 | Project                                                                                   | Source    | User |
@@ -360,8 +360,8 @@ COMMON CORE PROJECTS
 #### [01] GET_NEXT_LINE
 | Resource                                                                              | Source    |
 | :-------------------------------------------------------------------------------------| :-------- |
-| [Master File I/O Operations](https://medium.com/p/5fb001d1fff5)                       | `Medium`  |
 | [get_next_line: My first complex program](https://yannick.eu/gnl)                     | `Website` |
+| [Master File I/O Operations](https://medium.com/p/5fb001d1fff5)                       | `Medium`  |
 | [get_next_line - 42 Docs](https://harm-smits.github.io/42docs/projects/get_next_line) | `GitHub`  |
 
 | Video Resource                                                                                                            | Source    | User |
@@ -385,43 +385,46 @@ COMMON CORE PROJECTS
 | [Beej's Guide to C Programming - 29 Signal Handling](https://beej.us/guide/bgc/html/split/signal-handling.html)                                    | `Website` |
 | [Beej's Guide to C Programming - Bit-Fields](https://beej.us/guide/bgc/html/split/structs-ii-more-fun-with-structs.html#bit-fields)                | `Website` |
 | [Beej's Guide to C Programming - What is Unicode?](https://beej.us/guide/bgc/html/split/unicode-wide-characters-and-all-that.html#what-is-unicode) | `Website` |
-| [Sending and Handling Signals in C (kill, signal, sigaction)](https://www.youtube.com/watch?v=83M5-NPDeWs)                                         | `Youtube` |
-| [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs)                                                                                 | `Youtube` |
-| [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U)                                                                                    | `Youtube` |
 | [42-Bitwise_Operators](https://github.com/agavrel/42-Bitwise_Operators)                                                                            | `GitHub`  |
 
-| Project                                                                                                                                            | Source    | User |
-| :------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
-| [Minitalk](https://github.com/mlanca-c/Minitalk)                                                                                                   | `GitHub`  | `mlanca-c` |
-| [minitalk](https://github.com/j4k0m/minitalk)                                                                                                      | `GitHub`  | `j4k0m` |
+| Video Resource                                                                                             | Source    | User |
+| :--------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Sending and Handling Signals in C (kill, signal, sigaction)](https://www.youtube.com/watch?v=83M5-NPDeWs) | `Youtube` | `Jacob Sorber` |
+| [Short Introduction to Signals in C](https://youtu.be/5We_HtLlAbs)                                         | `Youtube` | `CodeVault` |
+| [Handling Signals](https://www.youtube.com/watch?v=jF-1eFhyz1U)                                            | `Youtube` | `CodeVault` |
 
-| Tester                                                                                                                                             | Source    | User |
-| :------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
-| [francinette](https://github.com/xicodomingues/francinette)                                                                                        | `GitHub`  | `xicodomingues` |
-| [minitalk-Tester](https://github.com/ThibaudM13/minitalk-Tester)                                                                                   | `GitHub`  | `ThibaudM13` |
-| [Lipsum generator: Lorem Ipsum](https://www.lipsum.com)                                                                                            | `Website` | |
-| [Get Emoji](https://getemoji.com)                                                                                                                  | `Website` | |
-| [EmojiDB](https://emojidb.org/terminal-emojis)                                                                                                     | `Website` | |
+| Project                                          | Source    | User |
+| :----------------------------------------------- | :-------- | :--- |
+| [Minitalk](https://github.com/mlanca-c/Minitalk) | `GitHub`  | `mlanca-c` |
+| [minitalk](https://github.com/j4k0m/minitalk)    | `GitHub`  | `j4k0m` |
+
+| Tester                                                           | Source    | User |
+| :--------------------------------------------------------------- | :-------- | :--- |
+| [francinette](https://github.com/xicodomingues/francinette)      | `GitHub`  | `xicodomingues` |
+| [minitalk-Tester](https://github.com/ThibaudM13/minitalk-Tester) | `GitHub`  | `ThibaudM13` |
+| [Lipsum generator: Lorem Ipsum](https://www.lipsum.com)          | `Website` | |
+| [Get Emoji](https://getemoji.com)                                | `Website` | |
+| [EmojiDB](https://emojidb.org/terminal-emojis)                   | `Website` | |
 
 #### [02] PIPEX
-| Tutorials and Documentation                                                                                                                  | Source    |
+| Resource                                                                                                                                     | Source    |
 | :------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [SIGTSTP signal not stopping child?](https://stackoverflow.com/questions/41029170/sigtstp-signal-not-stopping-child)                         | `Stack Overflow` |
-| [pipex tutorial — 42 project](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901)                                             | `Website` |
-| [wait(2) — Linux manual page](https://man7.org/linux/man-pages/man2/waitpid.2.html)                                                          | `Website` |
-| [execve(2) — Linux manual page](https://man7.org/linux/man-pages/man2/execve.2.html)                                                         | `Website` |
 | [Consequences of Process Termination](https://pubs.opengroup.org/onlinepubs/9699919799/functions/_Exit.html#tag_16_01_03_01)                 | `Website` |
 | [Creating Pipes in C](https://tldp.org/LDP/lpg/node11.html)                                                                                  | `Website` |
+| [SIGTSTP signal not stopping child?](https://stackoverflow.com/questions/41029170/sigtstp-signal-not-stopping-child)                         | `Stack Overflow` |
+| [pipex tutorial — 42 project](https://csnotes.medium.com/pipex-tutorial-42-project-4469f5dd5901)                                             | `Medium`  |
+| [wait(2) — Linux manual page](https://man7.org/linux/man-pages/man2/waitpid.2.html)                                                          | `man7`    |
+| [execve(2) — Linux manual page](https://man7.org/linux/man-pages/man2/execve.2.html)                                                         | `man7`    |
 | [Stanford Lecture 07: Signals](https://web.stanford.edu/class/archive/cs/cs110/cs110.1196/static/lectures/07-Signals/lecture-07-signals.pdf) | `PDF`     |
 
-| Video Resources                                                                                                                              | Source    |
-| :------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)                                              | `Youtube` |
-| [Pipes Explained (Spanish)](https://www.youtube.com/watch?v=8LdQ09Ep9RY)                                                                     | `Youtube` |
+| Video Resource                                                                                                                               | Source    | User |
+| :------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Unix Processes in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)                                              | `Youtube` | `CodeVault` |
+| [Pipes Explained (Spanish)](https://www.youtube.com/watch?v=8LdQ09Ep9RY)                                                                     | `Youtube` | `WhileTrueThenDream` |
 
 | Project                                                                                                                                      | Source   | User |
 | :------------------------------------------------------------------------------------------------------------------------------------------- | :------- | :--- |
-| [pipex.c](https://github.com/malikfassi/42/blob/master/UNIX/PIPEX/src/pipex.c)                                                               | `GitHub` |
+| [pipex.c](https://github.com/malikfassi/42/blob/master/UNIX/PIPEX/src/pipex.c)                                                               | `GitHub` | `malikfassi` |
 
 | Tester                                                                                                                                       | Source   | User |
 | :------------------------------------------------------------------------------------------------------------------------------------------- | :------- | :--- |
@@ -458,17 +461,17 @@ COMMON CORE PROJECTS
 | [8-Bit Dungeon Tileset/Sprites](https://jamiecross.itch.io/8-bit-dungeon-tilesetsprites)             | `Website` |
 | [42: A Comprehensive Guide to So Long](https://reactive.so/post/42-a-comprehensive-guide-to-so_long) | `Website` |
 
-| Project                                                                      | Source    | User |
-| :--------------------------------------------------------------------------- | :-------- | :--- |
-| [so_long](https://github.com/madebypixel02/so_long)                          | `GitHub`  | `madebypixel02` |
+| Project                                             | Source    | User |
+| :-------------------------------------------------- | :-------- | :--- |
+| [so_long](https://github.com/madebypixel02/so_long) | `GitHub`  | `madebypixel02` |
 
-| Tester                                                                       | Source    | User |
-| :--------------------------------------------------------------------------- | :-------- | :--- |
-| [so_long_invalidator](https://github.com/Nuno-Jesus/so_long_invalidator)     | `GitHub`  | `Nuno-Jesus` |
-| [so_long_tester](https://github.com/augustobecker/so_long_tester)            | `GitHub`  | `augustobecker` |
+| Tester                                                                   | Source    | User |
+| :----------------------------------------------------------------------- | :-------- | :--- |
+| [so_long_invalidator](https://github.com/Nuno-Jesus/so_long_invalidator) | `GitHub`  | `Nuno-Jesus` |
+| [so_long_tester](https://github.com/augustobecker/so_long_tester)        | `GitHub`  | `augustobecker` |
 
 #### [02] FRACT-OL
-| Fractals and Mathematics                                                                                                   | Source |
+| Resource                                                                                                                   | Source |
 | :------------------------------------------------------------------------------------------------------------------------- | :----- |
 | [Fractal](https://en.wikipedia.org/wiki/Fractal)                                                                           | `Wikipedia` |
 | [List of fractals by Hausdorff dimension](https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension)           | `Wikipedia` |
@@ -478,9 +481,6 @@ COMMON CORE PROJECTS
 | [Julia and Mandelbrot Sets](https://lodev.org/cgtutor/juliamandelbrot.html)                                                | `Website` |
 | [Recursion Trees](https://lodev.org/cgtutor/recursiontrees.html)                                                           | `Website` |
 | [Sierpinski Fractals](https://lodev.org/cgtutor/sierpinski.html)                                                           | `Website` |
-
-| Guides and Tutorials                                                                                                       | Source |
-| :------------------------------------------------------------------------------------------------------------------------- | :----- |
 | [Managing events with the minilibx](https://aurelienbrabant.fr/blog/events-with-the-minilibx)                              | `Website` |
 | [Pixel drawing with the minilibx](https://aurelienbrabant.fr/blog/pixel-drawing-with-the-minilibx)                         | `Website` |
 | [Getting started with the minilibx](https://aurelienbrabant.fr/blog/getting-started-with-the-minilibx)                     | `Website` |
@@ -493,50 +493,47 @@ COMMON CORE PROJECTS
 | [Mandelbrot & Julia Sets - Interactive visualization of fractals](https://www.dynamicmath.xyz/mandelbrot-julia)            | `Website` |
 | [Tutorial 3 : Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices)                            | `Website` |
 
-| Video Resources                                                                                                            | Source    |
-| :------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [Brute Force Processing](https://www.youtube.com/watch?v=PBvLs88hvJ8)                                                      | `Youtube` |
-| [The dark side of the Mandelbrot set](https://www.youtube.com/watch?v=9gk_8mQuerg)                                         | `Youtube` |
-| [Beyond the Mandelbrot set, an intro to holomorphic dynamics](https://www.youtube.com/watch?v=LqbZpur38nw)                 | `Youtube` |
-| [Marble Marcher - A Fractal Physics Game](https://www.youtube.com/watch?v=9U0XVdvQwAI)                                     | `Youtube` |
-| [Realtime 3D Fractal Renders](https://www.youtube.com/watch?v=N8WWodGk9-g)                                                 | `Youtube` |
-| [Sounds of the Mandelbrot Set](https://www.youtube.com/watch?v=GiAj9WW1OfQ)                                                | `Youtube` |
-| [The Mandelbrot Set](https://www.youtube.com/watch?v=NGMRB4O922I)                                                          | `Youtube` |
-| [What's so special about the Mandelbrot Set?](https://www.youtube.com/watch?v=FFftmWSzgmk)                                 | `Youtube` |
-| [The Mandelbrot Set](https://www.youtube.com/watch?v=MwjsO6aniig)                                                          | `Youtube` |
-| [This equation will change how you see the world (the logistic map)](https://www.youtube.com/watch?v=ovJcsL7vyrk)          | `Youtube` |
+| Video Resources                                                                                                   | Source    |
+| :---------------------------------------------------------------------------------------------------------------- | :-------- |
+| [Brute Force Processing](https://www.youtube.com/watch?v=PBvLs88hvJ8)                                             | `Youtube` |
+| [The dark side of the Mandelbrot set](https://www.youtube.com/watch?v=9gk_8mQuerg)                                | `Youtube` |
+| [Beyond the Mandelbrot set, an intro to holomorphic dynamics](https://www.youtube.com/watch?v=LqbZpur38nw)        | `Youtube` |
+| [Marble Marcher - A Fractal Physics Game](https://www.youtube.com/watch?v=9U0XVdvQwAI)                            | `Youtube` |
+| [Realtime 3D Fractal Renders](https://www.youtube.com/watch?v=N8WWodGk9-g)                                        | `Youtube` |
+| [Sounds of the Mandelbrot Set](https://www.youtube.com/watch?v=GiAj9WW1OfQ)                                       | `Youtube` |
+| [The Mandelbrot Set](https://www.youtube.com/watch?v=NGMRB4O922I)                                                 | `Youtube` |
+| [What's so special about the Mandelbrot Set?](https://www.youtube.com/watch?v=FFftmWSzgmk)                        | `Youtube` |
+| [The Mandelbrot Set](https://www.youtube.com/watch?v=MwjsO6aniig)                                                 | `Youtube` |
+| [This equation will change how you see the world (the logistic map)](https://www.youtube.com/watch?v=ovJcsL7vyrk) | `Youtube` |
 
-| Project                                                                                                                    | Source   | User       |
-| :------------------------------------------------------------------------------------------------------------------------- | :------- | :--------- |
-| [fract-ol](https://github.com/mcombeau/fract-ol)                                                                           | `GitHub` | `mcombeau`    |
-| [fract-ol](https://github.com/inesalves44/fract-ol)                                                                        | `GitHub` | `inesalves44` |
-| [fract-ol](https://github.com/Xyckens/fract-ol)                                                                            | `GitHub` | `Xyckens`     |
-| [ft_fractol](https://github.com/librity/ft_fractol)                                                                        | `GitHub` | `librity`     |
+| Project                                             | Source   | User       |
+| :-------------------------------------------------- | :------- | :--------- |
+| [fract-ol](https://github.com/mcombeau/fract-ol)    | `GitHub` | `mcombeau` |
+| [fract-ol](https://github.com/inesalves44/fract-ol) | `GitHub` | `inesalves44` |
+| [fract-ol](https://github.com/Xyckens/fract-ol)     | `GitHub` | `Xyckens` |
+| [ft_fractol](https://github.com/librity/ft_fractol) | `GitHub` | `librity` |
 
 #### [02] FDF
 | Resource                                                                                                                           | Source    |
 | :--------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)                                           | `Website` |
 | [A* Search Algorithm](https://en.m.wikipedia.org/wiki/A*_search_algorithm)                                                         | `Website` |
-| [3D Rendering with Rotation and Projection](https://www.youtube.com/watch?v=p4Iz0XJY-Qk)                                           | `Youtube` |
 | [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) | `Website` |
 | [A Probably Terrible Way to Render Gradients](https://dev.to/freerangepixels/a-probably-terrible-way-to-render-gradients-1p3n)     | `Website` |
 | [8.2 - Orthographic Projections — LearnWebGL](http://learnwebgl.brown37.net/08_projections/projections_ortho.html)                 | `Website` |
-
-| Tools                                                                                                                              | Source    |
-| :--------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Hexadecimal / Decimal Colors](https://www.mathsisfun.com/hexadecimal-decimal-colors.html)                                         | `Website` |
 | [PNG to XPM Converter Online](https://anyconv.com/png-to-xpm-converter)                                                            | `Website` |
-| [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)                                                                     | `Website` |
+| [3D Rendering with Rotation and Projection](https://www.youtube.com/watch?v=p4Iz0XJY-Qk)                                           | `Youtube` |
 
 | Project                                                         | Source   | User |
 | :-------------------------------------------------------------- | :------- | :--- |
 | [FdF](https://github.com/VBrazhnik/FdF)                         | `GitHub` | `VBrazhnik` |
 | [42Barcelona-FdF](https://github.com/ailopez-o/42Barcelona-FdF) | `GitHub` | `ailopez-o` |
 
-| Tester                                                          | Source   | User |
-| :-------------------------------------------------------------- | :------- | :--- |
-| [42MapGenerator](https://github.com/jgigault/42MapGenerator)    | `GitHub` | `jgigault` |
+| Tester                                                          | Source    | User |
+| :-------------------------------------------------------------- | :-------- | :--- |
+| [42MapGenerator](https://github.com/jgigault/42MapGenerator)    | `GitHub`  | `jgigault` |
+| [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)  | `Website` | |
 
 #### [02] PUSH_SWAP
 | Resource                                                                                                                             | Source    |
@@ -556,9 +553,6 @@ COMMON CORE PROJECTS
 | [Recursion and sorting algorithms](https://staffwww.fullcoll.edu/aclifton/cs133/lecture-9-recursion-sorting.html)                    | `Website` |
 | [Computer Science](https://humanwhocodes.com/blog/tag/computer-science)                                                              | `Website` |
 | [push_swap Resources](https://push_swap.simple.ink)                                                                                  | `Website` |
-
-| Medium Articles                                                                                                                      | Source   |
-| :----------------------------------------------------------------------------------------------------------------------------------- | :------- |
 | [Push_Swap Tutorial](https://medium.com/p/fa746e6aba1e)                                                                              | `Medium` |
 | [The least amount of moves with two stacks](https://medium.com/p/d1e76a71789a)                                                       | `Medium` |
 | [A journey to find most efficient sorting algorithm](https://medium.com/p/c1f5d2d41e97)                                              | `Medium` |
@@ -590,25 +584,25 @@ COMMON CORE PROJECTS
 | [Number Generator](https://numbergenerator.org/randomnumbergenerator)                                              | `Website` | |
 
 #### [03] PHILOSOPHERS
-| Resource                                                                                                                                                       | Souce       |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
-| [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)                                                                       | `Wikipedia` |
-| [Deadlock](https://en.wikipedia.org/wiki/Deadlock)                                                                                                             | `Wikipedia` |
-| [Race condition](https://en.wikipedia.org/wiki/Race_condition)                                                                                                 | `Wikipedia` |
-| [The Dining Philosopher’s Problem](https://medium.com/swlh/the-dining-philosophers-problem-bbdb92e6b788)                                                       | `Medium`    |
+| Resource                                                                                                 | Souce       |
+| :------------------------------------------------------------------------------------------------------- | :---------- |
+| [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)                 | `Wikipedia` |
+| [Deadlock](https://en.wikipedia.org/wiki/Deadlock)                                                       | `Wikipedia` |
+| [Race condition](https://en.wikipedia.org/wiki/Race_condition)                                           | `Wikipedia` |
+| [The Dining Philosopher’s Problem](https://medium.com/swlh/the-dining-philosophers-problem-bbdb92e6b788) | `Medium`    |
 
-| Video Resource                                                                                                                                                 | Source    | User |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
-| [Unix Threads in C](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)                                                       | `Youtube` | `CodeVault` |
-| [The Dining Philosophers Problem](https://www.youtube.com/watch?v=FYUi-u7UWgw)                                                                                 | `Youtube` | `Neso Academy` |
-| [Philosophers, 42 School Project](https://www.youtube.com/watch?v=UGQsvVKwe90)                                                                                 | `Youtube` | `Jamshidbek Ergashev` |
+| Video Resource                                                                                           | Source    | User |
+| :------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Unix Threads in C](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2) | `Youtube` | `CodeVault` |
+| [The Dining Philosophers Problem](https://www.youtube.com/watch?v=FYUi-u7UWgw)                           | `Youtube` | `Neso Academy` |
+| [Philosophers, 42 School Project](https://www.youtube.com/watch?v=UGQsvVKwe90)                           | `Youtube` | `Jamshidbek Ergashev` |
 
-| Tester                                                                                                                                                         | Source    | User |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
-| [philosophers-visualizer](https://nafuka11.github.io/philosophers-visualizer)                                                                                  | `Website` | `nafuka11` |
-| [socrates](https://github.com/nesvoboda/socrates)                                                                                                              | `GitHub`  | `nesvoboda` |
-| [philosophers_test](https://github.com/cacharle/philosophers_test)                                                                                             | `GitHub`  | `cacharle` |
-| [Philosphers-42Project-Tester](https://github.com/newlinuxbot/Philosphers-42Project-Tester)                                                                    | `GitHub`  | `newlinuxbot` |
+| Tester                                                                                      | Source    | User |
+| :------------------------------------------------------------------------------------------ | :-------- | :--- |
+| [philosophers-visualizer](https://nafuka11.github.io/philosophers-visualizer)               | `Website` | `nafuka11` |
+| [socrates](https://github.com/nesvoboda/socrates)                                           | `GitHub`  | `nesvoboda` |
+| [philosophers_test](https://github.com/cacharle/philosophers_test)                          | `GitHub`  | `cacharle` |
+| [Philosphers-42Project-Tester](https://github.com/newlinuxbot/Philosphers-42Project-Tester) | `GitHub`  | `newlinuxbot` |
 
 #### [03] MINISHELL
 | Resource                                                                                                                                                       | Source    |
@@ -644,49 +638,55 @@ COMMON CORE PROJECTS
 #### [04] NETPRACTICE
 | Resource                                                                                                                                                       | Source    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a)                                                                                                   | `Website` |
+| [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a)                                                                                                   | `Medium`  |
 | [ipcalc](https://linuxhint.com/ipcalc-command-linux)                                                                                                           | `Website` |
 | [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)                                                                                   | `Website` |
-| [Practical Networking](https://youtu.be/BWZ-MHIhqjM)                                                                                                           | `Youtube` |
-| [Default Gateway Explained](https://youtu.be/pCcJFdYNamc)                                                                                                      | `Youtube` |
-| [Subnet Mask - Explained](https://youtu.be/s_Ntt6eTn94)                                                                                                        | `Youtube` |
-| [CCNA](https://youtu.be/Ct4PU6CyvTQ)                                                                                                                           | `Youtube` |
-| [Guide to NetPractice](https://github.com/lpaube/NetPractice)                                                                                                  | `GitHub`  |
+
+| Video Resource                                                                                                             | Source    | User |
+| :------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Free CCNA \| Subnetting : Day 3 (PM) \| 200-301 \| Cisco Training 2020](https://youtu.be/Ct4PU6CyvTQ?si=nzX1L8dw5cVbiA3F) | `Youtube` | `NetworKing` |
+| [What is Subnetting? - Subnetting Mastery - Part 1 of 7](https://youtu.be/BWZ-MHIhqjM)                                     | `Youtube` | `Practical Networking` |
+| [Default Gateway Explained](https://youtu.be/pCcJFdYNamc)                                                                  | `Youtube` | `PowerCert Animated Videos` |
+| [Subnet Mask - Explained](https://youtu.be/s_Ntt6eTn94)                                                                    | `Youtube` | `PowerCert Animated Videos` |
+
+| Project                                                 | Source    | User |
+| :------------------------------------------------------ | :-------- | :--- |
+| [NetPractice](https://github.com/ifanzilka/NetPractice) | `GitHub` | `ifanzilka` |
+| [netpractice](https://git.hexanyn.fr/42/netpractice)    | `GitHub` | `hexanyn` |
+| [NetPractice](https://github.com/lpaube/NetPractice)    | `GitHub` | `lpaube` |
 
 #### [04] CUB3D
 | Game                                              | Source    |
 |:--------------------------------------------------|:----------|
 | [Wolfenstein 3D](http://users.atw.hu/wolf3d/)     | `Game`    |
 
-| Guides and Documentation                                                                        | Source    |
-|:------------------------------------------------------------------------------------------------|:----------|
+| Resource                                                                                        | Source    |
+| :---------------------------------------------------------------------------------------------- | :-------- |
 | [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html)                  | `Website` |
 | [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch)    | `Website` |
 | [Ray-Casting Tutorial](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents)      | `Website` |
 | [x.org Documentation](https://www.x.org/wiki)                                                   | `Website` |
 | [libX11 Documentation](https://www.x.org/releases/X11R7.6/doc/libX11/specs/libX11/libX11.html)  | `Website` |
-| [Guide to RayCasting](https://harm-smits.github.io/42docs/projects/cub3d.html)                  | `GitHub`  |
-| [Minilibx Examples](https://github.com/terry-yes/mlx_example)                                   | `GitHub`  |
-| [Minilibx Linux](https://github.com/42Paris/minilibx-linux)                                     | `GitHub`  |
 
-| Youtube Tutorials                                                                               | Source    |
-|:----------------------------------------------------------------------------------------------- |:----------|
-| [Online Computer Graphics II](https://www.youtube.com/watch?v=U0-58hpucp4)                      | `Youtube` |
-| [Binary Space Partitioning](https://www.youtube.com/watch?v=6vrPCkHqWwg)                        | `Youtube` |
-| [Super Fast Ray Casting in Tiled Worlds using DDA](https://www.youtube.com/watch?v=NbSee-XM7WA) | `Youtube` |
-| [Make Your Own Raycaster - Part 1](https://www.youtube.com/watch?v=gYRrGTC7GtA)                 | `Youtube` |
-| [Make Your Own Raycaster - Part 2](https://www.youtube.com/watch?v=PC1RaETIx3Y)                 | `Youtube` |
-| [Make Your Own Raycaster - Part 3](https://www.youtube.com/watch?v=w0Bm4IA-Ii8)                 | `Youtube` |
-| [Introduction to the MinilibX](https://www.youtube.com/watch?v=bYS93r6U0zg)                     | `Youtube` |
+| Video Resource                                                                                  | Source    | User |
+| :---------------------------------------------------------------------------------------------- | :-------- | :--- |
+| [Online Computer Graphics II](https://www.youtube.com/watch?v=U0-58hpucp4)                      | `Youtube` | `raviramamoorthi` |
+| [Binary Space Partitioning](https://www.youtube.com/watch?v=6vrPCkHqWwg)                        | `Youtube` | `Mathematics...` |
+| [Super Fast Ray Casting in Tiled Worlds using DDA](https://www.youtube.com/watch?v=NbSee-XM7WA) | `Youtube` | `javidx9` |
+| [Make Your Own Raycaster - Part 1](https://www.youtube.com/watch?v=gYRrGTC7GtA)                 | `Youtube` | `3DSage` |
+| [Make Your Own Raycaster - Part 2](https://www.youtube.com/watch?v=PC1RaETIx3Y)                 | `Youtube` | `3DSage` |
+| [Make Your Own Raycaster - Part 3](https://www.youtube.com/watch?v=w0Bm4IA-Ii8)                 | `Youtube` | `3DSage` |
+| [Introduction to the MinilibX](https://www.youtube.com/watch?v=bYS93r6U0zg)                     | `Youtube` | `Oceano` |
 
 | Tester                                                                                          | Source    | User |
-|:------------------------------------------------------------------------------------------------|:----------| :--- |
+| :---------------------------------------------------------------------------------------------- | :--------  | :--- |
 | [cub3D_map_tester](https://github.com/humblEgo/cub3D_map_tester)                                | `GitHub`  | `humblEgo` |
 | [42_cub_tester](https://github.com/realisticDonut/42_cub_tester)                                | `GitHub`  | `realisticDonut` |
 
 #### [04] MINIRT
 | Resource                                                                                                                    | Source |
 | :-------------------------------------------------------------------------------------------------------------------------- | :----- |
+| [Bits to Bitmaps: A simple walkthrough of BMP Image Format](https://medium.com/p/765dc6857393)                              | `Medium` |
 | [Ray Tracing And Global Illumination](https://digitalcommons.unf.edu/cgi/viewcontent.cgi?article=1100&context=ojii_volumes) | `Website` |
 | [Ray Tracing in One Weekend — The Book Series](https://raytracing.github.io)                                                | `Website` |
 | [Raytracing shapes](https://hugi.scene.org/online/hugi24/coding%20graphics%20chris%20dragan%20raytracing%20shapes.htm)      | `Website` |
@@ -695,7 +695,6 @@ COMMON CORE PROJECTS
 | [Writing a Raytracer in Rust - Part 1 - First Rays](https://bheisler.github.io/post/writing-raytracer-in-rust-part-1)       | `Website` |
 | [Ray Tracing In A Nutshell ](https://users.csc.calpoly.edu/~zwood/teaching/csc471/final09/nkowshik_webpage)                 | `Website` |
 | [The BMP file format](https://engineering.purdue.edu/ece264/17au/hw/HW15)                                                   | `Website` |
-| [Bits to Bitmaps: A simple walkthrough of BMP Image Format](https://medium.com/p/765dc6857393)                              | `Website` |
 | [Accelerated Ray Tracing in One Weekend in CUDA](https://developer.nvidia.com/blog/accelerated-ray-tracing-cuda)            | `Website` |
 | [Graphics Programming Projects](https://graphicscodex.com/projects/projects)                                                | `Website` |
 | [Ray Tracing Intro - Cornell Computer Science](https://www.cs.cornell.edu/courses/cs4620/2020fa/slides/07.1ray-intro.pdf)   | `PDF`  |
@@ -793,7 +792,7 @@ COMMON CORE PROJECTS
 | [Blocking and Non-Blocking I/0 Tutorial](https://www.linuxtoday.com/blog/blocking-and-non-blocking-i-0)                                                          | `Website` |
 | [I/O Multiplexing (select vs. poll vs. epoll/kqueue)](https://nima101.github.io/io_multiplexing)                                                                 | `Website` |
 
-| Additional Information and Overviews                                                                      | Source |
+| Additional Information and Overview                                                                       | Source |
 | :-------------------------------------------------------------------------------------------------------- | :----- |
 | [CSC309F Lectures](https://www.cs.toronto.edu/~penny/teaching/csc309-01f/lectures)                        | `Website` |
 | [Webserver in a nutshell](https://rostlab.org/owiki/images/3/39/Sebastian_Hollizeck-BiolabExpertTalk.pdf) | `Website` |
@@ -830,7 +829,7 @@ COMMON CORE PROJECTS
 | [Download and Install WordPress Via the Shell Over SSH and With WP-CLI](https://code.tutsplus.com/articles/download-and-install-wordpress-via-the-shell-over-ssh--wp-24403)              | `Website` |
 | [How to Deploy an NGINX Image with Docker](https://www.nginx.com/blog/deploying-nginx-nginx-plus-docker)                                                                                 | `Website` |
 
-| Docker Tutorials                                                                                                                                                                         | Source    |
+| Docker Tutorial                                                                                                                                                                          | Source    |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)                                                                                                                | `Youtube` |
 | [Docker Compose in 12 Minutes](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)                                                                                                              | `Youtube` |
@@ -855,15 +854,18 @@ COMMON CORE PROJECTS
 | [Props Versus Data in Vue](https://michaelnthiessen.com/vue-props-vs-data)                                                                                                                | `Website` |
 | [How to get left, top position of element in Vue.js?](https://thewebdev.info/2022/03/15/how-to-get-left-top-position-of-element-in-vue-js)                                                | `Website` |
 | [Integrating Vue.js and Socket.io](https://www.digitalocean.com/community/tutorials/vuejs-vue-socketio)                                                                                   | `Website` |
-| [Vue JS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)                                                                                                                        | `Youtube` |
-| [Build a Realtime Chat App with VueJS](https://youtu.be/SZlsP5uxYjk)                                                                                                                      | `Youtube` |
 | [Building a multiplayer game using WebSockets](https://dev.to/sauravmh/building-a-multiplayer-game-using-websockets-1n63)                                                                 | `Website` |
 | [Socket.IO - Get started](https://socket.io/get-started/chat)                                                                                                                             | `Website` |
 | [Build lobby based online multiplayer browser games with React and NodeJS](https://francois-steinel.fr/articles/build-lobby-based-online-multiplayer-browser-games-with-react-and-nodejs) | `Website` |
-| [Beginner JavaScript Game Dev Project](https://www.youtube.com/watch?v=PeY6lXPrPaA)                                                                                                       | `Youtube` |
-| [Easiest way to build real-time web apps? WEBSOCKETS with NestJS](https://youtu.be/atbdpX4CViM)                                                                                           | `Youtube` |
-| [NestJS Authentication: JWTs, Sessions, logins, and more!](https://www.youtube.com/watch?v=_L225zpUK0M)                                                                                   | `Youtube` |
 | [js-pong](https://github.com/WebDevSimplified/js-pong)                                                                                                                                    | `GitHub`  |
+
+| Video Resource                                                                                          | Source    | User |
+| :------------------------------------------------------------------------------------------------------ | :-------- | :--- |
+| [Beginner JavaScript Game Dev Project](https://www.youtube.com/watch?v=PeY6lXPrPaA)                     | `Youtube` | `Web Dev Simplified` |
+| [Easiest way to build real-time web apps? WEBSOCKETS with NestJS](https://youtu.be/atbdpX4CViM)         | `Youtube` | `Marius Espejo` |
+| [NestJS Authentication: JWTs, Sessions, logins, and more!](https://www.youtube.com/watch?v=_L225zpUK0M) | `Youtube` | `Marius Espejo` |
+| [Vue JS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)                                      | `Youtube` | `Traversy Media` |
+| [Build a Realtime Chat App with VueJS](https://youtu.be/SZlsP5uxYjk)                                    | `Youtube` | `Scalable Scripts` |
 
 - - - -
 
