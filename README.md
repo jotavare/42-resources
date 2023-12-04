@@ -642,12 +642,12 @@ COMMON CORE PROJECTS
 | [ipcalc](https://linuxhint.com/ipcalc-command-linux)                                                                                                           | `Website` |
 | [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)                                                                                   | `Website` |
 
-| Video Resource                                                                                                             | Source    | User |
-| :------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
-| [Free CCNA \| Subnetting : Day 3 (PM) \| 200-301 \| Cisco Training 2020](https://youtu.be/Ct4PU6CyvTQ?si=nzX1L8dw5cVbiA3F) | `Youtube` | `NetworKing` |
-| [What is Subnetting? - Subnetting Mastery - Part 1 of 7](https://youtu.be/BWZ-MHIhqjM)                                     | `Youtube` | `Practical Networking` |
-| [Default Gateway Explained](https://youtu.be/pCcJFdYNamc)                                                                  | `Youtube` | `PowerCert Animated Videos` |
-| [Subnet Mask - Explained](https://youtu.be/s_Ntt6eTn94)                                                                    | `Youtube` | `PowerCert Animated Videos` |
+| Video Resource                                                              | Source    | User |
+| :-------------------------------------------------------------------------- | :-------- | :--- |
+| [Free CCNA \| Subnetting](https://youtu.be/Ct4PU6CyvTQ?si=nzX1L8dw5cVbiA3F) | `Youtube` | `NetworKing` |
+| [What is Subnetting?](https://youtu.be/BWZ-MHIhqjM)                         | `Youtube` | `Practical Networking` |
+| [Default Gateway Explained](https://youtu.be/pCcJFdYNamc)                   | `Youtube` | `PowerCert Animated Videos` |
+| [Subnet Mask - Explained](https://youtu.be/s_Ntt6eTn94)                     | `Youtube` | `PowerCert Animated Videos` |
 
 | Project                                                 | Source    | User |
 | :------------------------------------------------------ | :-------- | :--- |
@@ -749,7 +749,7 @@ COMMON CORE PROJECTS
 | [C++ Tutorial for Beginners 45 - C++ Map](https://www.youtube.com/watch?v=POYRev0zk2k)                             | `Youtube` | `ProgrammingKnowledge` |
 
 #### [05] WEBSERV
-| HTTP Server Tutorials and Guides                                                                                                                                            | Source |
+| Resource                                                                                                                                                                    | Source |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
 | [Build a simple HTTP server from scratch](https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa) | `Medium` |
 | [Building an HTTP Server From Scratch in C++](https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7)                               | `Website` |
@@ -802,34 +802,31 @@ COMMON CORE PROJECTS
 #### [05] FT_IRC
 
 #### [05] INCEPTION
-| Docker and Infrastructure Deployment                                                                                                                                                     | Source    |
+| Resource                                                                                                                                                                                 | Source    |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [Streamlining Infrastructure Deployment with Docker](https://medium.com/@navoos/streamlining-infrastructure-deployment-with-docker-exploring-the-inception-project-3bb0055686a8)         | `Website` |
-| [Docker (software)](https://en.m.wikipedia.org/wiki/Docker_(software))                                                                                                                   | `Website` |
+| [Docker (software)](https://en.m.wikipedia.org/wiki/Docker_(software))                                                                                                                   | `Wikipedia` |
 | [Docker Docs](https://docs.docker.com)                                                                                                                                                   | `Website` |
 | [Dockerfile reference](https://docs.docker.com/engine/reference/builder)                                                                                                                 | `Website` |
-| [Simplifying docker-compose operations using Makefile](https://medium.com/freestoneinfotech/simplifying-docker-compose-operations-using-makefile-26d451456d63)                           | `Website` |
 | [What are containers?](https://www.ibm.com/cloud/learn/containers)                                                                                                                       | `Website` |
 | [Docker - Concept of Dockerfile](https://www.geeksforgeeks.org/docker-concept-of-dockerfile)                                                                                             | `Website` |
 | [Using Makefiles to build and publish (docker) containers](https://dev.to/flpslv/using-makefiles-to-build-and-publish-docker-containers-7c8)                                             | `Website` |
-| [What is the difference between "expose" and "publish" in Docker?](https://stackoverflow.com/questions/22111060/what-is-the-difference-between-expose-and-publish-in-docker)             | `Website` |
 | [How to Install Nginx on Debian 10](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-debian-10)                                                                  | `Website` |
 | [Complete Guide to NGINX Configuration](https://www.linode.com/docs/guides/how-to-configure-nginx)                                                                                       | `Website` |
 | [Cryptography and SSL/TLS Toolkit](https://www.openssl.org/docs/man1.0.2/man1/openssl-req.html)                                                                                          | `Website` |
 | [Explained: What Is a SHA256 SSL Certificate? ](https://comodosslstore.com/resources/what-is-a-sha256-ssl-certificate)                                                                   | `Website` |
-| [How to generate a self-signed SSL certificate using OpenSSL?](https://stackoverflow.com/questions/10175812/how-to-generate-a-self-signed-ssl-certificate-using-openssl)                 | `Website` |
-
-| WordPress and Docker                                                                                                                                                                     | Source    |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [WordPress Deployment with NGINX, PHP-FPM and MariaDB using Docker Compose](https://medium.com/swlh/wordpress-deployment-with-nginx-php-fpm-and-mariadb-using-docker-compose-55f59e5c1a) | `Website` |
 | [How to Install WordPress on Docker (Windows, macOS, and Linux)](https://www.hostinger.com/tutorials/run-docker-wordpress)                                                               | `Website` |
 | [Docker + WordPress Setup](https://davidyeiser.com/tutorials/docker-wordpress-theme-setup)                                                                                               | `Website` |
 | [Deploying WordPress in Docker containers ](https://www.ionos.com/digitalguide/server/know-how/wordpress-in-docker-containers)                                                           | `Website` |
 | [How to install WordPress with Docker](https://upcloud.com/community/tutorials/wordpress-with-docker)                                                                                    | `Website` |
 | [Download and Install WordPress Via the Shell Over SSH and With WP-CLI](https://code.tutsplus.com/articles/download-and-install-wordpress-via-the-shell-over-ssh--wp-24403)              | `Website` |
 | [How to Deploy an NGINX Image with Docker](https://www.nginx.com/blog/deploying-nginx-nginx-plus-docker)                                                                                 | `Website` |
+| [Streamlining Infrastructure Deployment with Docker](https://medium.com/@navoos/streamlining-infrastructure-deployment-with-docker-exploring-the-inception-project-3bb0055686a8)         | `Medium`  |
+| [WordPress Deployment with NGINX, PHP-FPM and MariaDB using Docker Compose](https://medium.com/swlh/wordpress-deployment-with-nginx-php-fpm-and-mariadb-using-docker-compose-55f59e5c1a) | `Medium`  |
+| [Simplifying docker-compose operations using Makefile](https://medium.com/freestoneinfotech/simplifying-docker-compose-operations-using-makefile-26d451456d63)                           | `Medium`  |
+| [What is the difference between "expose" and "publish" in Docker?](https://stackoverflow.com/questions/22111060/what-is-the-difference-between-expose-and-publish-in-docker)             | `Stack Overflow` |
+| [How to generate a self-signed SSL certificate using OpenSSL?](https://stackoverflow.com/questions/10175812/how-to-generate-a-self-signed-ssl-certificate-using-openssl)                 | `Stack Overflow` |
 
-| Docker Tutorial                                                                                                                                                                          | Source    |
+| Video Resource                                                                                                                                                                           | Source    |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)                                                                                                                | `Youtube` |
 | [Docker Compose in 12 Minutes](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)                                                                                                              | `Youtube` |
