@@ -710,96 +710,69 @@ MINILIBX
 | [42_cub_tester](https://github.com/realisticDonut/42_cub_tester)                                | `GitHub`  | `realisticDonut` |
 
 #### [04] MINIRT
-| Resources                                                                            | Source |
-| :----------------------------------------------------------------------------------- | :----- |
-| [Ray Tracing with the BSP Tree](http://www.sci.utah.edu/~thiago/papers/BSP_RT08.pdf) | `PDF`  |
+| Resource                                                                                                                    | Source |
+| :-------------------------------------------------------------------------------------------------------------------------- | :----- |
+| [Ray Tracing And Global Illumination](https://digitalcommons.unf.edu/cgi/viewcontent.cgi?article=1100&context=ojii_volumes) | `Website` |
+| [Ray Tracing in One Weekend — The Book Series](https://raytracing.github.io)                                                | `Website` |
+| [Raytracing shapes](https://hugi.scene.org/online/hugi24/coding%20graphics%20chris%20dragan%20raytracing%20shapes.htm)      | `Website` |
+| [miniRT Figma](https://www.figma.com/file/uoh4KopiIjG05z811V37We/miniRT?type=whiteboard&node-id=0-1)                        | `Website` |
+| [Unit 15: Rendering](https://www.khanacademy.org/computing/pixar/rendering)                                                 | `Website` |
+| [Writing a Raytracer in Rust - Part 1 - First Rays](https://bheisler.github.io/post/writing-raytracer-in-rust-part-1)       | `Website` |
+| [Ray Tracing In A Nutshell ](https://users.csc.calpoly.edu/~zwood/teaching/csc471/final09/nkowshik_webpage)                 | `Website` |
+| [The BMP file format](https://engineering.purdue.edu/ece264/17au/hw/HW15)                                                   | `Website` |
+| [Bits to Bitmaps: A simple walkthrough of BMP Image Format](https://medium.com/p/765dc6857393)                              | `Website` |
+| [Accelerated Ray Tracing in One Weekend in CUDA](https://developer.nvidia.com/blog/accelerated-ray-tracing-cuda)            | `Website` |
+| [Graphics Programming Projects](https://graphicscodex.com/projects/projects)                                                | `Website` |
+| [Ray Tracing Intro - Cornell Computer Science](https://www.cs.cornell.edu/courses/cs4620/2020fa/slides/07.1ray-intro.pdf)   | `PDF`  |
+| [Ray Tracing with the BSP Tree](http://www.sci.utah.edu/~thiago/papers/BSP_RT08.pdf)                                        | `PDF`  |
 
-#### [04 - 05] CPP MODULE (00-09)
+| Video Resource                                                                                        | Source | User |
+| :---------------------------------------------------------------------------------------------------- | :----- | :--- |
+| [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | `Youtube` | `3Blue1Brown` |
+| [Ray Tracing Essentials, Part 1: Basics of Ray Tracing](https://www.youtube.com/watch?v=gBPNO6ruevk)  | `Youtube` | `NVIDIA Developer` |
 
-| Resource                                                                                                                                          | Source |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
-- [(Life) Advice From The Creator of C++ ](https://www.youtube.com/watch?v=-QxI-RP6-HM) `Youtube`
-- [31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w) `Youtube`
-- [TLDR - CPP00 [42] (BR)](https://www.youtube.com/watch?v=TnrQMtxPeEg) `Youtube`
-- [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) `GitHub` `isocpp`
-- [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) `Udemy` `Paid`
-- [cppinsights](https://www.cppinsights.io/) - Check compiler changes. `Website`
-- [godbolt](https://www.godbolt.org/) - Compiler comparisons, assembly inspection, ... `Website`
-- [learncpp](https://www.learncpp.com/) - Covers everything from the absolute basics to advanced topics. It follows modern and best practice guidelines.
-- [cppreference](www.cppreference.com/) - Best language reference out there.
-- [The C++ Conference](https://www.youtube.com/user/CppCon/) `Youtube` `CppCon`
-- [Welcome to C++ (101 videos)](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) `Youtube` `The Cherno`
-- [C++ Weekly With Jason Turner](https://youtube.com/c/lefticus1/) - Weekly videos from Jason Turner. From basics to all the way to cursed code. `Youtube` `lefticus1`
+| Project                                                          | Source | User |
+| :--------------------------------------------------------------- | :----- | :--- |
+| [miniRT](https://github.com/martingarcialopez/miniRT)            | `GitHub` |`martingarcialopez` |
+| [miniRT-for-Linux](https://github.com/eljommys/miniRT-for-Linux) | `GitHub` |`eljommys` |
+| [raytracer](https://github.com/matboivin/raytracer)              | `GitHub` |`matboivin` |
+| [42_miniRT](https://github.com/Nuno-Jesus/42_miniRT)             | `GitHub` |`Nuno-Jesus` |
 
-General
-https://www.cplusplus.com/doc/oldtutorial/
-https://github.com/qingqingqingli/CPP/wiki
-https://github.com/yanshengjia/cpp-playground/blob/master/cpp-primer/resource/C%2B%2B%20Primer%20(5th%20Edition).pdf
-https://www.geeksforgeeks.org/c-plus-plus/?ref=ghm
+| Tester                                                                      | Source | User |
+| :-------------------------------------------------------------------------- | :----- | :--- |
+| [minirt_mesh_converter](https://github.com/matboivin/minirt_mesh_converter) | `GitHub` | `matboivin` |
 
-C00
-https://stackoverflow.com/questions/58151350/more-elegant-way-to-get-the-current-year-in-c
+#### [04-05] CPP MODULE (00-09)
+| Resource                                                                                                                                         | Source |
+| :----------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
+| [cppinsights](https://www.cppinsights.io)                                                                                                        | `Website` |
+| [godbolt](https://www.godbolt.org)                                                                                                               | `Website` |
+| [learncpp](https://www.learncpp.com)                                                                                                             | `Website` |
+| [cppreference](www.cppreference.com)                                                                                                             | `Website` |
+| [cplusplus](https://www.cplusplus.com)                                                                                                           | `Website` |
+| [cplusplus C++ Language (C++98)](https://www.cplusplus.com/doc/oldtutorial)                                                                      | `Website` |
+| [C++ Programming Language - Guide](https://www.geeksforgeeks.org/c-plus-plus/?ref=ghm)                                                           | `Website` |
+| [Pointers to members (C++ only)](https://www.ibm.com/docs/en/i/7.4?topic=only-pointers-members-c)                                                | `Website` |
+| [Introduction to Fixed Point Number Representation](https://inst.eecs.berkeley.edu/~cs61c/sp06/handout/fixedpt.html)                             | `Website` |
+| [Using the GNU Compiler Collection (GCC)](https://gcc.gnu.org/onlinedocs/gcc)                                                                    | `Website` |
+| [Subscripting [] Operator Overloading in C++](https://www.tutorialspoint.com/cplusplus/subscripting_operator_overloading.htm)                    | `Website` |
+| [An Introduction to "Iterator Traits"](https://www.codeproject.com/Articles/36530/An-Introduction-to-Iterator-Traits)                            | `Website` |
+| [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/tree/master)                                                                   | `GitHub` |
+| [C++ Primer (5th Edition)](https://github.com/yanshengjia/cpp-playground/blob/master/cpp-primer/resource/C%2B%2B%20Primer%20(5th%20Edition).pdf) | `PDF` |
 
-C01
-https://www.ibm.com/docs/en/i/7.4?topic=only-pointers-members-c
-https://www.youtube.com/watch?v=p4sDgQ-jao4
-
-C02
-https://www.youtube.com/watch?v=S12qx1DwjVk&
-https://www.youtube.com/watch?v=npQF28g6s_k
-https://www.youtube.com/watch?v=TwW2Nl45FvE
-https://inst.eecs.berkeley.edu/~cs61c/sp06/handout/fixedpt.html
-
-C03
-https://www.geeksforgeeks.org/constructors-c/ 
-https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html
-
-C04
-https://www.geeksforgeeks.org/shallow-copy-and-deep-copy-in-c/
-
-C06
-https://www.youtube.com/watch?v=lglGKxNrLgM
-https://www.geeksforgeeks.org/static_cast-in-c-type-casting-operators/amp/
-
-C07
-https://www.geeksforgeeks.org/passing-a-function-as-a-parameter-in-cpp/
-https://www.geeksforgeeks.org/overloading-subscript-or-array-index-operator-in-c/
-https://www.tutorialspoint.com/cplusplus/subscripting_operator_overloading.htm
-
-CPP 09
-Iterators:
-https://www.cplusplus.com/reference/iterator/iterator/
-https://en.cppreference.com/w/cpp/iterator
-https://www.cplusplus.com/reference/iterator/
-https://en.cppreference.com/w/cpp/iterator/iterator
-https://www.youtube.com/watch?v=SgcHcbQ0RCQ
-https://www.codeproject.com/Articles/36530/An-Introduction-to-Iterator-Traits
-
-ex00
-Map:
-*https://www.cplusplus.com/reference/map/map/
-https://en.cppreference.com/w/cpp/container/map
-https://en.cppreference.com/w/cpp/container/map/value_compare
-https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/
-https://www.cplusplus.com/reference/map/map/operator[]/
-https://www.youtube.com/watch?v=POYRev0zk2k
-
-ex01
-Reverse Polish Notation:
-https://en.wikipedia.org/wiki/Reverse_Polish_notation
-
-Stack:
-*https://www.cplusplus.com/reference/stack/stack/
-https://en.cppreference.com/w/cpp/container/stack
-https://www.geeksforgeeks.org/stack-in-cpp-stl/
-
-ex02
-Merge insertion sort:
-https://en.wikipedia.org/wiki/Merge-insertion_sort
-https://github.com/decidedlyso/merge-insertion-sort
-
-Vector:
-*https://www.cplusplus.com/reference/vector/v
+| Video Resource                                                                                                     | Source | User |
+| :----------------------------------------------------------------------------------------------------------------- | :----- | :--- |
+| [(Life) Advice From The Creator of C++ ](https://www.youtube.com/watch?v=-QxI-RP6-HM)                              | `Youtube` | `Honeypot` |
+| [31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w)                               | `Youtube` | `mCoding` |
+| [The C++ Conference](https://www.youtube.com/user/CppCon)                                                          | `Youtube` | `CppCon` |
+| [Welcome to C++ (101 videos)](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) | `Youtube` | `The Cherno` |
+| [C++ Weekly With Jason Turner](https://youtube.com/c/lefticus1)                                                    | `Youtube` | `lefticus1` |
+| [TLDR - CPP00 [42]](https://www.youtube.com/watch?v=TnrQMtxPeEg)                                                   | `Youtube` | `Lucas Kuhn` |
+| [Fixed Point Arithmetic 1: Intro to Fixed Point](https://www.youtube.com/watch?v=S12qx1DwjVk)                      | `Youtube` | `Creel` |
+| [Fixed Point Arithmetic 2: Multiplication and Division](https://www.youtube.com/watch?v=npQF28g6s_k)               | `Youtube` | `Creel` |
+| [Overloading C++ Stream Insertion, Extraction Operators](https://www.youtube.com/watch?v=TwW2Nl45FvE)              | `Youtube` | `LearningLad` |
+| [Advanced C++: All Castings Considered - Part I](https://www.youtube.com/watch?v=lglGKxNrLgM)                      | `Youtube` | `Bo Qian` |
+| [C++ Tutorial for Beginners 45 - C++ Map](https://www.youtube.com/watch?v=POYRev0zk2k)                             | `Youtube` | `ProgrammingKnowledge` |
 
 #### [05] WEBSERV
 | HTTP Server Tutorials and Guides                                                                                                                                            | Source |
