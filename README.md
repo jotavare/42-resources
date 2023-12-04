@@ -257,25 +257,26 @@ COMMON CORE PROJECTS
 </h1>
 
 <p align="center">
-	<a href="#old-subjects">Subjects</a> •
+	<a href="#subjects">Subjects</a> •
 	<a href="#00-libft">Libft</a> •
 	<a href="#01-born2beroot">Born2beroot</a> •
 	<a href="#01-ft_printf">Ft_printf</a> •
 	<a href="#01-get_next_line">Get_next_line</a> •
 	<a href="#02-minitalk">Minitalk</a> •
 	<a href="#02-pipex">Pipex</a> •
+	<a href="#02-minilibx">Minilibx</a> •
 	<a href="#02-so_long">So_long</a> •
 	<a href="#02-fract-ol">Fract-ol</a> •
 	<a href="#02-fdf">Fdf</a> •
 	<a href="#02-push_swap">Push_swap</a> •
 	<a href="#03-philosophers">Philosophers</a> •
 	<a href="#03-minishell">Minishell</a> •
+	<a href="#04-netpractice">Netpractice</a> •
 	<a href="#04-cub3d">Cub3d</a> •
 	<a href="#04-minirt">MiniRT</a> •
-	<a href="#04-netpractice">Netpractice</a> •
-	<a href="#04-cpp-module-00-04">CPP Module (00-04)</a> •
-	<a href="#04-cpp-module-05-09">CPP Module (05-09)</a> •
+	<a href="#04-05-cpp-module-00-09">CPP Module (00-09)</a> •
 	<a href="#05-webserv">Webserv</a> •
+	<a href="#05-ft_irc">Ft_irc</a> •
 	<a href="#05-inception">Inception</a> •
 	<a href="#06-ft_transcendence">Ft_transcendence</a> •
 	<a href="#--">Scroll To Top</a>
@@ -283,10 +284,6 @@ COMMON CORE PROJECTS
 
 > [!NOTE]  
 > The subjects at 42 undergo regular updates, so the information provided below might not be current. Additionally, as some projects are optional, resources might not be available if I haven't completed them.
-
-<!---
-SUBJECTS
--->
 
 #### SUBJECTS
 > _Respositories with all 42 subjects and additional files in one place, some are outdated but still useful._
@@ -297,10 +294,6 @@ SUBJECTS
 | [42 Holygraph (outdated)](https://github.com/akaylee/42-holygraph)          | `GitHub` | `akaylee` |
 | [42 Subjects and Corrections (outdated)](https://github.com/Binary-Hackers) | `GitHub` | `Binary-Hackers` |
 | [42 Subjects (outdated)](https://github.com/agavrel/42_Subjects)            | `GitHub` | `agavrel` |
-
-<!---
-LIBFT
--->
 
 #### [00] LIBFT
 | Resource                                                                                                       | Souce     |
@@ -320,10 +313,6 @@ LIBFT
 | [Libftest](https://github.com/jtoty/Libftest)                                                                  | `GitHub`  | `jtoty` |
 | [libft-war-machine](https://github.com/0x050f/libft-war-machine)                                               | `GitHub`  | `0x050f` |
 
-<!---
-BORN2BEROOT
--->
-
 #### [01] BORN2BEROOT
 | Resource                                                                                  | Souce     |
 | :---------------------------------------------------------------------------------------- | :-------- |
@@ -340,10 +329,6 @@ BORN2BEROOT
 | :---------------------------------------------------------------------------------------- | :-------- | :--- |
 | [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)                         | `GitHub`  | `Pixailz` |
 | [Born2beroot-Tester](https://github.com/gemartin99/Born2beroot-Tester)                    | `GitHub`  | `gemartin99` |
-
-<!---
-FT_PRINTF
--->
 
 #### [01] FT_PRINTF
 | Resource                                                                                                                                      | Source    |
@@ -369,10 +354,6 @@ FT_PRINTF
 | [printfTester](https://github.com/Tripouille/printfTester)                                                                                    | `GitHub`  | `Tripouille` |
 | [ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester)                                                                         | `GitHub`  | `paulo-santana` |
 
-<!---
-GET_NEXT_LINE
--->
-
 #### [01] GET_NEXT_LINE
 | Resource                                                                                                                        | Source    |
 | :------------------------------------------------------------------------------------------------------------------------------ | :-------- |
@@ -388,10 +369,6 @@ GET_NEXT_LINE
 | [francinette](https://github.com/xicodomingues/francinette)                                                                     | `GitHub` | `xicodomingues` |
 | [gnlTester](https://github.com/Tripouille/gnlTester)                                                                            | `GitHub` | `Tripouille` |
 | [gnl-station-tester](https://github.com/kodpe/gnl-station-tester)                                                               | `GitHub` | `kodpe` |
-
-<!---
-MINITALK
--->
 
 #### [02] MINITALK
 | Resource                                                                                                                                           | Source    |
@@ -420,10 +397,6 @@ MINITALK
 | [Get Emoji](https://getemoji.com)                                                                                                                  | `Website` | |
 | [EmojiDB](https://emojidb.org/terminal-emojis)                                                                                                     | `Website` | |
 
-<!---
-PIPEX
--->
-
 #### [02] PIPEX
 | Tutorials and Documentation                                                                                                                  | Source    |
 | :------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
@@ -450,10 +423,6 @@ PIPEX
 | [pipex-tester](https://github.com/vfurmane/pipex-tester)                                                                                     | `GitHub` | `vfurmane` |
 | [PIPEX_TESTER](https://github.com/ael-bekk/PIPEX_TESTER)                                                                                     | `GitHub` | `ael-bekk` |
 | [francinette](https://github.com/xicodomingues/francinette)                                                                                  | `GitHub` | `xicodomingues` |
-
-<!---
-MINILIBX
--->
 
 #### [02] MINILIBX
 > [!NOTE]
@@ -688,7 +657,7 @@ MINILIBX
 | [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html)                  | `Website` |
 | [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch)    | `Website` |
 | [Ray-Casting Tutorial](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents)      | `Website` |
-| [x.org Documentation](https://www.x.org/wiki/)                                                  | `Website` |
+| [x.org Documentation](https://www.x.org/wiki)                                                   | `Website` |
 | [libX11 Documentation](https://www.x.org/releases/X11R7.6/doc/libX11/specs/libX11/libX11.html)  | `Website` |
 | [Guide to RayCasting](https://harm-smits.github.io/42docs/projects/cub3d.html)                  | `GitHub`  |
 | [Minilibx Examples](https://github.com/terry-yes/mlx_example)                                   | `GitHub`  |
