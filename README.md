@@ -246,7 +246,7 @@ PISCINE AND COMMON CORE
 | [Let Me Google That For You...](https://letmegooglethat.com)              | Politely ask someone to Google but don't be afraid to ask for help tho!          | `Website` |
 | [Fake Update](https://fakeupdate.net)                                     | Fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`              | `Website` |
 | [Don't Write Comments](https://www.youtube.com/watch?v=Bf7vDBBOBUA)       | Why you shouldn't write comments in your code (write documentation).             | `Youtube` |
-| [no hello](https://nohello.net/en)                                        | Please don't say just hello in chat.                                             | `Website` |
+| [No Hello](https://nohello.net/en)                                        | Please don't say just hello in chat.                                             | `Website` |
 
 - - - -
 
