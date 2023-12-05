@@ -1016,6 +1016,7 @@ CYBER SECURITY AND HACKING
 | [SecurityWeek](https://www.securityweek.com) | Premier hub for cybersecurity news, insights, and expert analysis. | `News` |
 | [The Hacker News](https://thehackernews.com) | Trusted publication for breaking cybersecurity news and insights. | `News` |
 | [Heartbleed](https://www.youtube.com/watch?v=eCGKf1XD-ME) | Insightful review of the 2014 Heartbleed bug that shook the internet. | `Youtube` |
+| [How to Get Someone's Password](https://youtu.be/Qm7k1CPFkIc?si=PvCveV0yvNddO2_m) | Many possible ways they may be able to get your password. | `Youtube` |
 
 #### HACKING GOOGLE
 > _Five elite security teams. Six never-before-told stories._ 
