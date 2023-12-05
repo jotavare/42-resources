@@ -245,6 +245,7 @@ PISCINE AND COMMON CORE
 | [Parrot Live](https://github.com/hugomd/parrot.live)                      | Allow any computer with curl to display an animated party parrot.                | `GitHub`  |
 | [Let Me Google That For You...](https://letmegooglethat.com)              | Politely ask someone to Google but don't be afraid to ask for help tho!          | `Website` |
 | [Fake Update](https://fakeupdate.net)                                     | Fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`              | `Website` |
+| [Don't Write Comments](https://www.youtube.com/watch?v=Bf7vDBBOBUA)       | Why you shouldn't write comments in your code (write documentation).             | `Youtube` |
 
 - - - -
 
