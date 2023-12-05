@@ -928,6 +928,7 @@ CYBER SECURITY AND HACKING
 | [Steganography Toolkit](https://github.com/DominicBreuker/stego-toolkit) | Docker image useful for solving Steganography challenges. | `GitHub` |
 | [Medicat USB](https://github.com/mon5termatt/medicat_installer) | Toolkit to compile the latest computer diagnostic and recovery tools. | `GitHub` |
 | [Wazuh](https://github.com/wazuh/wazuh) | Open source platform used for threat prevention, detection, and response. | `GitHub` |
+| [OpenVAS](https://www.openvas.org) | Open source full-featured vulnerability scanner. | `Website` |
 
 #### DIGITAL FOOTPRINT
 > _Discover the imprint left by your online activities._
