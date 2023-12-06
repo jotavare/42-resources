@@ -120,7 +120,7 @@ PISCINE AND COMMON CORE
 </p>
 
 #### EXAMS
-> _Websites that I found useful for studying 42 exams, some are outdated but still usefull._
+> _Websites that I found useful for studying 42 exams, some are outdated but still useful._
 
 |   |   |
 | - | - |
@@ -172,7 +172,6 @@ PISCINE AND COMMON CORE
 | [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42)                                     | `Website` |
 | [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3) | `Website` |
 
-
 #### LANGUAGE
 > _Tools to have correct communication and documentation._
 
@@ -185,7 +184,7 @@ PISCINE AND COMMON CORE
 | [Wiktionary](https://en.wiktionary.org)             | Online dictionary and language reference.           | `Website` |
 
 #### BROWSER
-> _I recommend installing 'Improved Intra 42', it's an all-in-one extension for both Chrome and Firefox._
+> _I recommend installing 'Improved Intra 42', an all-in-one extension for Chrome and Firefox._
 
 |   |   |
 | - | - |
@@ -205,23 +204,24 @@ PISCINE AND COMMON CORE
 
 |   |   |
 | - | - |
-| [README.md Generator](https://profile-readme-generator.com)                  | Create your GitHub README.md in a simple and fast way. | `Website` |
-| [Badge 42](https://github.com/JaeSeoKim/badge42)                             | Dynamically generated 42 badges for your git readmes.  | `GitHub`  |
-| [42 Project Badges](https://github.com/vinicius-f-pereira/42-project-badges) | Badges designed for 42 curriculum projects.            | `GitHub`  |
-| [1337 Readme](https://github.com/mohouyizme/1337-readme)                     | Share your progress via GitHub README.md.              | `GitHub`  |
+| [README.md Generator](https://profile-readme-generator.com)                  | Create your GitHub README.md simply and quickly.          | `Website` |
+| [Badge 42](https://github.com/JaeSeoKim/badge42)                             | Dynamically generated 42 badges for your git readmes.     | `GitHub`  |
+| [42 Project Badges](https://github.com/vinicius-f-pereira/42-project-badges) | Badges designed for 42 curriculum projects.               | `GitHub`  |
+| [1337 Readme](https://github.com/mohouyizme/1337-readme)                     | Share your progress via GitHub README.md.                 | `GitHub`  |
+| [42 Unlicense](https://github.com/gcamerli/42unlicense)                      | Flavoured version, based on the Unlicense public license. | `GitHub`  |
 
 #### PRODUCTIVITY SOFTWARE
 > _Software designed to simplify tasks, and streamline workflow._
 
 |   |   |
 | - | - |
-| [Obsidian](https://obsidian.md)     | private and flexible writing app that adapts to the way you think.                    | `Website` |
-| [Notion](https://www.notion.so)     | Freemium productivity and a note-taking web application developed by Notion Labs Inc. | `Website` |
-| [Trello](https://trello.com)        | Ultimate project management tool.                                                     | `Website` |
-| [Scribe](https://scribehow.com)     | Turn any process into a step-by-step guide, instantly.                                | `Website` |
-| [Evernote](https://evernote.com)    | Note-taking and task management application.                                          | `Website` |
-| [Motion](https://www.usemotion.com) | Automatically prioritize tasks, schedule meetings, and resolve calendar conflicts.    | `Website` |
-
+| [Obsidian](https://obsidian.md)          | Private and flexible writing app that adapts to how you think.                        | `Website` |
+| [Notion](https://www.notion.so)          | Freemium productivity and a note-taking web application developed by Notion Labs Inc. | `Website` |
+| [Trello](https://trello.com)             | Ultimate project management tool.                                                     | `Website` |
+| [Scribe](https://scribehow.com)          | Turn any process into a step-by-step guide, instantly.                                | `Website` |
+| [Evernote](https://evernote.com)         | Note-taking and task management application.                                          | `Website` |
+| [Motion](https://www.usemotion.com)      | Automatically prioritize tasks, schedule meetings, and resolve calendar conflicts.    | `Website` |
+| [Lucidchart](https://www.lucidchart.com) | Web-based diagramming application.                                                    | `Website` |
 
 #### OTHERS
 > _Resources of no particular order but that I feel you should know. More available [here](#---7)._
@@ -243,10 +243,10 @@ PISCINE AND COMMON CORE
 | [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) | Course on thinking algorithmically and solving problems efficiently.             | `Website` |
 | [Reeborg's World](https://reeborg.ca/reeborg.html)                        | Website designed to help people learn to program through  gaming puzzles.        | `Website` |
 | [Parrot Live](https://github.com/hugomd/parrot.live)                      | Allow any computer with curl to display an animated party parrot.                | `GitHub`  |
-| [Let Me Google That For You...](https://letmegooglethat.com)              | Politely ask someone to Google but don't be afraid to ask for help tho!          | `Website` |
+| [Let Me Google That For You...](https://letmegooglethat.com)              | Politely ask someone to Google but don't be afraid to ask for help!              | `Website` |
 | [Fake Update](https://fakeupdate.net)                                     | Fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`              | `Website` |
 | [Don't Write Comments](https://www.youtube.com/watch?v=Bf7vDBBOBUA)       | Why you shouldn't write comments in your code (write documentation).             | `Youtube` |
-| [No Hello](https://nohello.net/en)                                        | Please don't say just hello in chat.                                             | `Website` |
+| [No Hello](https://nohello.net/en)                                        | Please, don't say just hello in chat.                                            | `Website` |
 
 - - - -
 
@@ -1422,4 +1422,3 @@ MISCELLANEOUS
 | [Discord Plugins](https://betterdiscord.app/plugins) | Community custom-made plugins for Discord. |
 | [Office 365](https://www.microsoft.com/en-us/education/products/office) | Microsoft Teams, Word, Excel, PowerPoint, Outlook, OneDrive, etc. |
 | [JetBrains](https://www.jetbrains.com/community/education)              | Integrated development environment Software (IDE).                |
-| [Lucidchart](https://www.lucidchart.com/pages)                          | Web-based diagramming application.                                |
