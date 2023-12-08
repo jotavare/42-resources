@@ -976,7 +976,7 @@ CYBER SECURITY AND HACKING
 | [FOSSHUB](https://www.fosshub.com) | Platform to download for free many popular and *clean* software titles. | `Website` |
 
 #### OPERATING SYSTEM AND TOOLS
-> _Operating systems for every occasion._
+> _Operating systems for every occasion and tools to enhance them._
 
 |   |   |   |
 | - | - | - |
