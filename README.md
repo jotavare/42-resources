@@ -875,7 +875,7 @@ CYBER SECURITY AND HACKING
 	<a href="#vpn">VPN</a> •
 	<a href="#bootable-usb">Bootable USB</a> •
 	<a href="#package-manager">Package Manager</a> •
-	<a href="#operating-system">Operating System</a> •
+	<a href="#operating-system-and-tools">Operating System and Tools</a> •
 	<a href="#exploits-and-vulnerabilities">Explois and Vulnerabulities</a> •
 	<a href="#guides-and-resources">Guides and Resources</a> •
 	<a href="#podcasts-news-and-videos">Podcasts, News and Videos</a> •
@@ -975,7 +975,7 @@ CYBER SECURITY AND HACKING
 | [Ninite](https://ninite.com) | Package management system that automatically install popular applications | `Website` |
 | [FOSSHUB](https://www.fosshub.com) | Platform to download for free many popular and *clean* software titles. | `Website` |
 
-#### OPERATING SYSTEM
+#### OPERATING SYSTEM AND TOOLS
 > _Operating systems for every occasion._
 
 |   |   |   |
@@ -983,6 +983,7 @@ CYBER SECURITY AND HACKING
 | [Tails](https://tails.boum.org) | Privacy-focused Linux distro connecting exclusively through Tor for anonymity. | `Website` |
 | [Kali](https://www.kali.org) | Linux distro for penetration testing, security research, forensics, and reverse engineering. | `Website` |
 | [Tiny11](https://github.com/ntdevlabs/tiny11builder) | Trimmed-down Windows 11 image available on GitHub. | `GitHub` |
+| [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) | Scripts to debloat Windows 10 and 11. | `GitHub` |
 
 #### EXPLOITS AND VULNERABILITIES
 > _Information and resources on how to learn/use exploits and vulnerabilities._
