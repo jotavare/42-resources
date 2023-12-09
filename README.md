@@ -262,6 +262,7 @@ COMMON CORE PROJECTS
 
 <p align="center">
 	<a href="#subjects">Subjects</a> •
+	<a href="#all-in-one-testers">All-In-One Testers</a> •
 	<a href="#00-libft">Libft</a> •
 	<a href="#01-born2beroot">Born2beroot</a> •
 	<a href="#01-ft_printf">Ft_printf</a> •
@@ -298,6 +299,15 @@ COMMON CORE PROJECTS
 | [42 Holygraph (outdated)](https://github.com/akaylee/42-holygraph)          | `GitHub` | `akaylee` |
 | [42 Subjects and Corrections (outdated)](https://github.com/Binary-Hackers) | `GitHub` | `Binary-Hackers` |
 | [42 Subjects (outdated)](https://github.com/agavrel/42_Subjects)            | `GitHub` | `agavrel` |
+
+#### ALL-IN-ONE TESTERS
+> _Test your code with already made all-in-one testers._
+
+| Resource                                                                    | Source   | User |
+| :-------------------------------------------------------------------------- | :------- | :--- |
+| [42-Tests](https://github.com/Kwevan/42-Tests)                              | `GitHub` | `Kwevan` |
+| [francinette](https://github.com/xicodomingues/francinette)                 | `GitHub` | `xicodomingues` |
+| [42-Cursus-Tester](https://github.com/Abaker-Hype/42-Cursus-Tester)         | `GitHub` | `Abaker-Hype` |
 
 #### [00] LIBFT
 | Resource                                                                                 | Source    |
