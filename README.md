@@ -122,8 +122,8 @@ PISCINE AND COMMON CORE
 #### EXAMS
 > _Websites that I found useful for studying 42 exams, some are outdated but still useful._
 
-|   |   |
-| - | - |
+|   |   |   |
+| - | - | - |
 | [GradeMe](https://grademe.fr)                                     | Simulate piscine and common core exams. | `Website` |
 | [Piscine and Common Core Exams](https://github.com/pasqualerossi) | Questions and solutions.                | `GitHub`  |
 | [Piscine Exams (outdated)](http://nigal.freeshell.org/42)         | Questions and solutions.                | `Website` |
@@ -132,19 +132,20 @@ PISCINE AND COMMON CORE
 #### PEER-TO-PEER
 > _Information about peer-to-peer evaluation, and beginner videos about Shell and Git._
 
-|   |   |
-| - | - |
+|   |   |   |
+| - | - | - |
 | [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) | YouTube playlist covering P2P, Shell, and Git basics.      | `Youtube` |
 | [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE)                                             | What to do before the evaluation? *(as evaluated student)* | `Youtube` |
 | [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY)                                             | What to do before the evaluation? *(as evaluator)*         | `Youtube` |
 | [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ)                                             | What to do during the evaluation?                          | `Youtube` |
 | [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug)                                             | What to do after the evaluation? *(as evaluated student)*  | `Youtube` |
+| [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) | Peer-to-Peer evaluation state of mind and rules you should know. | `42` `PDF` |
 
 #### WEBSITES
 > _Websites that I found useful in my 42 journey._
 
-|   |   |
-| - | - |
+|   |   |   |
+| - | - | - |
 | [42 Evaluators](https://42evaluators.com)   | Calculator, Leaderboard, PeerFinder, Blackhole, Stats, ... | `Website` |
 | [42 XP Calculator](https://42.tbailleu.dev) | Calculate how much exp you need for the next level.        | `Website` |
 | [Find Peers](https://find-peers.codam.nl)   | Find peers working on the same project.                    | `Website` |
@@ -154,18 +155,18 @@ PISCINE AND COMMON CORE
 #### GUIDES
 > _Guides and walkthroughs to navigate 42 Piscine and Common Core._
 
-|   |   |
-| - | - |
+|   |   |   |
+| - | - | - |
 | [42 Cheat Sheet](https://github.com/agavrel/42_CheatSheet) | An awesome cheatsheet for C and 42 in general.                    | `GitHub`  |
 | [Developer Roadmaps](https://roadmap.sh)                   | Roadmaps, guides, and other educational content.                  | `Website` |
 | [tldr-pages](https://github.com/tldr-pages/tldr)           | Community-maintained help pages offering simplified explanations. | `GitHub`  |
-| [rsapkf](https://rsapkf.org)                               | A directory of 5000+ links that rsapkf used in the past to learn programming. | `Website` |
+| [rsapkf](https://rsapkf.org)                               | A directory of 5000+ links that `rsapkf` used in the past to learn programming. | `Website` |
 
 #### VS CODE
 > _Extensions for VS Code for enhancing your development experience._
 
-|   |   |
-| - | - |
+|   |   |   |
+| - | - | - |
 | [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format)                                           | `Website` |
 | [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)                                 | `Website` |
 | [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)                                                 | `Website` |
@@ -176,8 +177,8 @@ PISCINE AND COMMON CORE
 #### LANGUAGE
 > _Tools to have correct communication and documentation._
 
-|   |   |
-| - | - |
+|   |   |   |
+| - | - | - |
 | [Grammarly](https://www.grammarly.com)              | Writing assistant for grammar and punctuation.      | `Website` |
 | [LanguageTool](https://languagetool.org)            | Grammar and style checker for multiple languages.   | `Website` |
 | [QuillBot](https://quillbot.com)                    | Tool for paraphrasing and improving writing.        | `Website` |
@@ -187,24 +188,24 @@ PISCINE AND COMMON CORE
 #### BROWSER
 > _I recommend installing 'Improved Intra 42', an all-in-one extension for Chrome and Firefox._
 
-|   |   |
-| - | - |
+|   |   |   |
+| - | - | - |
 | [Improved Intra 42](https://github.com/FreekBes/improved_intra) | Browser extension for Chrome and Firefox to enhance the Intra 42 experience.   | `GitHub` |
 | [Better Black Hole](https://github.com/jkctech/BetterBlackHole) | Extension available for Chrome and Firefox. Improves Black Hole functionality. | `GitHub` |
 
 #### APPS
 > _Avaialable apps for Android and iOS._
 
-|   |   |
-| - | - |
+|   |   |   |
+| - | - | - |
 | [Intra 42 Mobile App](https://play.google.com/store/apps/details?id=com.linkkader.intra42) | `Android` |
 | [Intra 42 Mobile App](https://apps.apple.com/pt/app/intra-42-mobile-app/id1661283873)      | `iOS`     |
 
 #### README
 > _Insights on crafting effective README files and integrating badges for your projects._
 
-|   |   |
-| - | - |
+|   |   |   |
+| - | - | - |
 | [README.md Generator](https://profile-readme-generator.com)                  | Create your GitHub README.md simply and quickly.          | `Website` |
 | [Badge 42](https://github.com/JaeSeoKim/badge42)                             | Dynamically generated 42 badges for your git readmes.     | `GitHub`  |
 | [42 Project Badges](https://github.com/vinicius-f-pereira/42-project-badges) | Badges designed for 42 curriculum projects.               | `GitHub`  |
@@ -214,8 +215,8 @@ PISCINE AND COMMON CORE
 #### PRODUCTIVITY SOFTWARE
 > _Software designed to simplify tasks, and streamline workflow._
 
-|   |   |
-| - | - |
+|   |   |   |
+| - | - | - |
 | [Obsidian](https://obsidian.md)          | Private and flexible writing app that adapts to how you think.                        | `Website` |
 | [Notion](https://www.notion.so)          | Freemium productivity and a note-taking web application developed by Notion Labs Inc. | `Website` |
 | [Trello](https://trello.com)             | Ultimate project management tool.                                                     | `Website` |
@@ -227,8 +228,8 @@ PISCINE AND COMMON CORE
 #### OTHERS
 > _Resources of no particular order but that I feel you should know. More available [here](#---7)._
 
-|   |   |
-| - | - |
+|   |   |   |
+| - | - | - |
 | [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                     | Open source, community-driven framework.                                         | `GitHub`  |
 | [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)     | List of plugins for Oh My Zsh!                                                   | `GitHub`  |
 | [PowerLevel10k](https://github.com/romkatv/powerlevel10k)                 | A customizable zsh theme focusing on speed, flexibility, and user experience.    | `GitHub`  |
