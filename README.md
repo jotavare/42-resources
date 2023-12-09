@@ -305,9 +305,9 @@ COMMON CORE PROJECTS
 
 | Resource                                                                    | Source   | User |
 | :-------------------------------------------------------------------------- | :------- | :--- |
-| [42-Tests](https://github.com/Kwevan/42-Tests)                              | `GitHub` | `Kwevan` |
 | [francinette](https://github.com/xicodomingues/francinette)                 | `GitHub` | `xicodomingues` |
 | [42-Cursus-Tester](https://github.com/Abaker-Hype/42-Cursus-Tester)         | `GitHub` | `Abaker-Hype` |
+| [42-Tests](https://github.com/Kwevan/42-Tests)                              | `GitHub` | `Kwevan` |
 
 #### [00] LIBFT
 | Resource                                                                                 | Source    |
