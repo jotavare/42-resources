@@ -160,7 +160,7 @@ PISCINE AND COMMON CORE
 | [42 Cheat Sheet](https://github.com/agavrel/42_CheatSheet) | An awesome cheatsheet for C and 42 in general.                    | `GitHub`  |
 | [Developer Roadmaps](https://roadmap.sh)                   | Roadmaps, guides, and other educational content.                  | `Website` |
 | [tldr-pages](https://github.com/tldr-pages/tldr)           | Community-maintained help pages offering simplified explanations. | `GitHub`  |
-| [rsapkf](https://rsapkf.org)                               | A directory of 5000+ links that `rsapkf` used in the past to learn programming. | `Website` |
+| [rsapkf](https://rsapkf.org)                               | 5000+ links that `rsapkf` used in the past to learn programming.  | `Website` |
 
 #### VS CODE
 > _Extensions for VS Code for enhancing your development experience._
