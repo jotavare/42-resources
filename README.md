@@ -235,6 +235,7 @@ PISCINE AND COMMON CORE
 | [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)     | List of plugins for Oh My Zsh!                                                   | `GitHub`  |
 | [PowerLevel10k](https://github.com/romkatv/powerlevel10k)                 | A customizable zsh theme focusing on speed, flexibility, and user experience.    | `GitHub`  |
 | [tmux](https://github.com/tmux/tmux/wiki)                                 | Terminal multiplexer, lets you switch between several programs in one terminal.  | `GitHub`  |
+| [catppuccin](https://github.com/catppuccin/catppuccin)                    | Community-driven pastel theme.                                                   | `GitHub`  |
 | [Neofetch Themes](https://github.com/Chick2D/neofetch-themes)             | Compilation of Neofetch configurations gathered in one location.                 | `GitHub`  |
 | [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)                  | Debugging online tool. *(learn how to use `gdb` or `lldb`)*                      | `Website` |
 | [Python Tutor](https://pythontutor.com)                                   | Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`. | `Website` |
