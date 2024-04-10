@@ -735,7 +735,7 @@ COMMON CORE PROJECTS
 
 #### [04-05] CPP MODULE (00-09)
 > [!NOTE]
-> The 42 intra videos have a bad fame, but in C++ they are actually good, so I recommend watching them first.
+> The 42 intra videos have bad fame, but in C++ they are good, so I recommend watching them first before watching any guides.
 
 | Resource                                                                                                                                         | Source |
 | :----------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
