@@ -734,6 +734,9 @@ COMMON CORE PROJECTS
 | [minirt_mesh_converter](https://github.com/matboivin/minirt_mesh_converter) | `GitHub` | `matboivin` |
 
 #### [04-05] CPP MODULE (00-09)
+> [!NOTE]
+> The 42 intra videos have a bad fame, but in C++ they are actually good, so I recommend watching them first.
+
 | Resource                                                                                                                                         | Source |
 | :----------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
 | [cppinsights](https://www.cppinsights.io)                                                                                                        | `Website` |
@@ -741,6 +744,7 @@ COMMON CORE PROJECTS
 | [learncpp](https://www.learncpp.com)                                                                                                             | `Website` |
 | [cppreference](www.cppreference.com)                                                                                                             | `Website` |
 | [cplusplus](https://www.cplusplus.com)                                                                                                           | `Website` |
+| [cprogramming](https://www.cprogramming.com)                                                                                                     | `Website` |
 | [cplusplus C++ Language (C++98)](https://www.cplusplus.com/doc/oldtutorial)                                                                      | `Website` |
 | [C++ Programming Language - Guide](https://www.geeksforgeeks.org/c-plus-plus/?ref=ghm)                                                           | `Website` |
 | [Pointers to members (C++ only)](https://www.ibm.com/docs/en/i/7.4?topic=only-pointers-members-c)                                                | `Website` |
@@ -748,6 +752,10 @@ COMMON CORE PROJECTS
 | [Using the GNU Compiler Collection (GCC)](https://gcc.gnu.org/onlinedocs/gcc)                                                                    | `Website` |
 | [Subscripting [] Operator Overloading in C++](https://www.tutorialspoint.com/cplusplus/subscripting_operator_overloading.htm)                    | `Website` |
 | [An Introduction to "Iterator Traits"](https://www.codeproject.com/Articles/36530/An-Introduction-to-Iterator-Traits)                            | `Website` |
+| [cppinsights](https://www.cppinsights.io/)                                                                                                       | `Website` |
+| [godbolt](https://www.godbolt.org/)                                                                                                              | `Website` |
+| [learncpp](https://www.learncpp.com/)                                                                                                            | `Website` |
+| [cppreference](www.cppreference.com/)                                                                                                            | `Website` |
 | [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/tree/master)                                                                   | `GitHub` |
 | [C++ Primer (5th Edition)](https://github.com/yanshengjia/cpp-playground/blob/master/cpp-primer/resource/C%2B%2B%20Primer%20(5th%20Edition).pdf) | `PDF` |
 
