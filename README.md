@@ -858,6 +858,10 @@ COMMON CORE PROJECTS
 
 | Video Resource                                                                                                                                                                           | Source    |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
+| [100+ Docker Concepts you Need to Know](https://youtu.be/rIrNIzy6U_g?si=LZZ0_PBYizFaDsf_)                                                                                                | `Youtube` |
+| [You Need to Learn Docker RIGHT NOW!! // Docker Containers 101](https://youtu.be/eGz9DS-aIeY?si=Ce1NJTHIy0k3RHUe)                                                                        | `Youtube` |
+| [Docker Compose will BLOW your MIND!! (a tutorial)](https://www.youtube.com/watch?v=DM65_JyGxCo)                                                                                         | `Youtube` |
+| [Learn Docker in 1 Hour \| Full Docker Course for Beginners](https://youtu.be/GFgJkfScVNU?si=BsNk5coKD8WAYuq1)                                                                           | `Youtube` |
 | [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)                                                                                                                | `Youtube` |
 | [Docker Compose in 12 Minutes](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)                                                                                                              | `Youtube` |
 | [Docker Crash Course #1 - What is Docker?](https://www.youtube.com/watch?v=31ieHmcTUOk&list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)                                                          | `Youtube` |
