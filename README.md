@@ -1226,9 +1226,11 @@ MISCELLANEOUS
 	<a href="#design-tools">Design Tools</a> •
 	<a href="#entertainment">Entertainment</a> •
 	<a href="#development-tools">Development Tools</a> •
-	<a href="#others">Others</a> •
+	<a href="#others-1">Others</a> •
 	<a href="#--">Scroll To Top</a>
 </p>
+
+----
 
 ## **ARTIFICIAL INTELLIGENCE**
 
@@ -1446,7 +1448,7 @@ A comprehensive list of online IDEs, compilers, and debuggers.
 
 ## **OTHERS**
 
-Various online tools, resources, and curiosities.
+Various tools, resources, curiosities, ... of not particular order or importance.
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
