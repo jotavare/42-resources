@@ -42,7 +42,7 @@ Here, you’ll find a set of resources that proved helpful during my time at 42 
 	<a href="#--">Scroll To Top</a>
 </p>
 
-### **TRIVIA**
+### **Trivia**
 
 Facts about 42 schools and the number 42.
 
@@ -54,7 +54,7 @@ Facts about 42 schools and the number 42.
 | [42 and Douglas Adams](https://www.youtube.com/watch?v=D6tINlNluuY) | What is the connection between 42 and Douglas Adams? | `Youtube` |
 | [Epic Gandalf Sax - 42 School Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) | One of the most epic moments in 42 Paris. | `Youtube` | 
 
-### **REWARDS**
+### **Rewards**
 
 Rewards that you have access to as a 42 student.
 
@@ -63,7 +63,7 @@ Rewards that you have access to as a 42 student.
 | [GitHub Student Pack](https://github-portal.42.fr/login) | Portal to activate the GitHub Student Pack with 42 email. | `Website` |
 | [GitHub Student Pack Rewards](https://education.github.com/pack) | List of all the rewards and tools available. | `Website` |
 
-### **NETWORK**
+### **Network**
 
 Main websites of 42 Network.
 
@@ -76,9 +76,9 @@ Main websites of 42 Network.
 | [Slack](https://app.slack.com/client/T039P7U66/C04971HPWQ1) | Official slack channel for 42 students. | `Slack` |
 | [Stack Overflow](https://stackoverflowteams.com/c/42network) | Official 42 forum. | `Website` |
 
-### **SOCIAL**
+### **Social**
 
-For a specific 42 school social media, check the section [Campuses](https://jotavare.github.io/docs/42_resources/information_and_facts/campuses.html) and choose a school.
+For a specific 42 school social media, check the section [Campuses](https://jotavare.github.io/docs/42_resources/campuses.html) and choose a school.
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
