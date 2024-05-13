@@ -754,10 +754,6 @@ COMMON CORE PROJECTS
 | [Using the GNU Compiler Collection (GCC)](https://gcc.gnu.org/onlinedocs/gcc)                                                                    | `Website` |
 | [Subscripting [] Operator Overloading in C++](https://www.tutorialspoint.com/cplusplus/subscripting_operator_overloading.htm)                    | `Website` |
 | [An Introduction to "Iterator Traits"](https://www.codeproject.com/Articles/36530/An-Introduction-to-Iterator-Traits)                            | `Website` |
-| [cppinsights](https://www.cppinsights.io/)                                                                                                       | `Website` |
-| [godbolt](https://www.godbolt.org/)                                                                                                              | `Website` |
-| [learncpp](https://www.learncpp.com/)                                                                                                            | `Website` |
-| [cppreference](www.cppreference.com/)                                                                                                            | `Website` |
 | [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/tree/master)                                                                   | `GitHub` |
 | [C++ Primer (5th Edition)](https://github.com/yanshengjia/cpp-playground/blob/master/cpp-primer/resource/C%2B%2B%20Primer%20(5th%20Edition).pdf) | `PDF` |
 
