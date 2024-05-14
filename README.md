@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-	<a href="#---1">Information</a> •
+	<a href="#---1">Information and Facts</a> •
 	<a href="#---2">Piscine and Common Core</a> •
 	<a href="#---3">Common Core Projects</a> •
-	<a href="#---4">Cyber Security</a> •
+	<a href="#---4">Cybersecurity</a> •
 	<a href="#---5">Wikimedia Foundation</a> •
 	<a href="#---6">Campuses</a> •
  	<a href="#---7">Miscellaneous</a>
@@ -258,7 +258,7 @@ Software designed to simplify tasks, and streamline workflow.
 
 ### **Others**
 
-Resources of no particular order but that I feel you should know. More is available [here](https://jotavare.github.io/42_resources/miscellaneous/miscellaneous.html).
+Resources of no particular order but that I feel you should know.
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -1503,8 +1503,8 @@ A curated collection of tools for creative endeavours.
 
 A diverse array of online entertainment and media resources.
 
-{: .important-title }
-Depending on your 42 school rules, you may or may not play certain games on school computers. Avoid getting **-420** and **community service**.
+> [!NOTE]
+> Depending on your 42 school rules, you may or may not play certain games on school computers. Avoid getting **-420** and **community service**.
 
 ### **Media**
 
