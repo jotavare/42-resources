@@ -54,6 +54,8 @@ Facts about 42 schools and the number 42.
 | [42 and Douglas Adams](https://www.youtube.com/watch?v=D6tINlNluuY) | What is the connection between 42 and Douglas Adams? | `Youtube` |
 | [Epic Gandalf Sax - 42 School Paris](https://www.youtube.com/watch?v=9CE3c0Hp7WM) | One of the most epic moments in 42 Paris. | `Youtube` | 
 
+----
+
 ### **Rewards**
 
 Rewards that you have access to as a 42 student.
@@ -62,6 +64,8 @@ Rewards that you have access to as a 42 student.
 | :------ | :---------- | :----- |
 | [GitHub Student Pack](https://github-portal.42.fr/login) | Portal to activate the GitHub Student Pack with 42 email. | `Website` |
 | [GitHub Student Pack Rewards](https://education.github.com/pack) | List of all the rewards and tools available. | `Website` |
+
+----
 
 ### **Network**
 
@@ -76,9 +80,11 @@ Main websites of 42 Network.
 | [Slack](https://app.slack.com/client/T039P7U66/C04971HPWQ1) | Official slack channel for 42 students. | `Slack` |
 | [Stack Overflow](https://stackoverflowteams.com/c/42network) | Official 42 forum. | `Website` |
 
+----
+
 ### **Social**
 
-For a specific 42 school social media, check the section [Campuses](https://jotavare.github.io/docs/42_resources/campuses.html) and choose a school.
+For a specific 42 school social media, check the section [Campuses](#---6) and choose a school.
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -103,115 +109,143 @@ For a specific 42 school social media, check the section [Campuses](https://jota
 	<a href="#peer-to-peer">Peer-To-Peer</a> •
 	<a href="#websites">Websites</a> •
 	<a href="#guides">Guides</a> •
-	<a href="#vs-code">VS Code</a> •
-	<a href="#language">Language</a> •
+	<a href="#extensions">Extensions</a> •
+	<a href="#grammar">Grammar</a> •
 	<a href="#browser">Broswer</a> •
 	<a href="#apps">Apps</a> •
 	<a href="#readme">Readme</a> •
-	<a href="#productivity-software">Productivity software</a> •
+	<a href="#productivity-software">Productivity</a> •
 	<a href="#others">Others</a> •
 	<a href="#--">Scroll To Top</a>
 </p>
 
-#### EXAMS
-> _Websites that I found useful for studying 42 exams, some are outdated but still useful._
+### **Exams**
 
-|   |   |   |
-| - | - | - |
-| [GradeMe](https://grademe.fr)                                     | Simulate piscine and common core exams. | `Website` |
-| [Piscine and Common Core Exams](https://github.com/pasqualerossi) | Questions and solutions.                | `GitHub`  |
-| [Piscine Exams (outdated)](http://nigal.freeshell.org/42)         | Questions and solutions.                | `Website` |
-| [Piscine Final Exam Exercices (outdated)](https://github.com/alanbarrett2/42-Final-Exam) | Final exam exercices resolution. | `GitHub` |
-| [Common Core Exams (outdated)](http://www.anit.az/?author=1)      | Questions and solutions with mains.     | `Website` |
+Websites that I found useful for studying 42 exams, some are outdated but still useful.
 
-#### PEER-TO-PEER
-> _Information about peer-to-peer evaluation, and beginner videos about Shell and Git._
+| Website | Description | Source |
+| :------ | :---------- | :----- |
+| [GradeMe](https://grademe.fr)                                                            | Simulate piscine and common core exams. | `Website` |
+| [Piscine and Common Core Exams](https://github.com/pasqualerossi)                        | Questions and solutions.                | `GitHub`  |
+| [Piscine Exams (outdated)](http://nigal.freeshell.org/42)                                | Questions and solutions.                | `Website` |
+| [Piscine Final Exam Exercices (outdated)](https://github.com/alanbarrett2/42-Final-Exam) | Final exam exercices resolution.        | `GitHub`  |
+| [Common Core Exams (outdated)](http://www.anit.az/?author=1)                             | Questions and solutions with mains.     | `Website` |
 
-|   |   |   |
-| - | - | - |
-| [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) | YouTube playlist covering P2P, Shell, and Git basics.      | `Youtube` |
-| [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE)                                             | What to do before the evaluation? *(as evaluated student)* | `Youtube` |
-| [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY)                                             | What to do before the evaluation? *(as evaluator)*         | `Youtube` |
-| [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ)                                             | What to do during the evaluation?                          | `Youtube` |
-| [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug)                                             | What to do after the evaluation? *(as evaluated student)*  | `Youtube` |
-| [The Art Of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) | Peer-to-Peer evaluation state of mind and rules you should know. | `42` `PDF` |
+----
 
-#### WEBSITES
-> _Websites that I found useful in my 42 journey._
+### **Peer-To-Peer**
 
-|   |   |   |
-| - | - | - |
+Information about peer-to-peer evaluation, and beginner videos about Shell and Git.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
+| [P2P, Shell and Git Basics](https://youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8)                                                                                           | YouTube playlist covering P2P, Shell, and Git basics.            | `Youtube`  |
+| [P2P - Evaluation - 01](https://youtu.be/CF0lx9o1RCE)                                                                                                                                       | What to do before the evaluation? *(as evaluated student)*       | `Youtube`  |
+| [P2P - Evaluation - 02](https://youtu.be/eTt5NQUO3LY)                                                                                                                                       | What to do before the evaluation? *(as evaluator)*               | `Youtube`  |
+| [P2P - Evaluation - 03](https://youtu.be/_GgfLzcgNvQ)                                                                                                                                       | What to do during the evaluation?                                | `Youtube`  |
+| [P2P - Evaluation - 04](https://youtu.be/hzMe_CDM8ug)                                                                                                                                       | What to do after the evaluation? *(as evaluated student)*        | `Youtube`  |
+| [The Art of Peer-Evaluation](https://elearning.intra.42.fr/notions/c-piscine-the-pedagogy/subnotions/piscine-c-the-pedagogy-document-peer-correcting/pdfs/The%20Art%20Of%20Peer-Evaluation) | Peer-to-Peer evaluation state of mind and rules you should know. | `42` `PDF` |
+
+----
+
+### **Websites**
+
+Websites that I found useful in my 42 journey.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
 | [42 Evaluators](https://42evaluators.com)   | Calculator, Leaderboard, PeerFinder, Blackhole, Stats, ... | `Website` |
 | [42 XP Calculator](https://42.tbailleu.dev) | Calculate how much exp you need for the next level.        | `Website` |
 | [Find Peers](https://find-peers.codam.nl)   | Find peers working on the same project.                    | `Website` |
 | [S42](https://s42.app)                      | Clusters from various 42 schools.                          | `Website` |
 
+----
 
-#### GUIDES
-> _Guides and walkthroughs to navigate 42 Piscine and Common Core._
+### **Guides**
 
-|   |   |   |
-| - | - | - |
+Guides and walkthroughs to navigate 42 Piscine and Common Core.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
 | [42 Cheat Sheet](https://github.com/agavrel/42_CheatSheet) | An awesome cheatsheet for C and 42 in general.                    | `GitHub`  |
 | [Developer Roadmaps](https://roadmap.sh)                   | Roadmaps, guides, and other educational content.                  | `Website` |
 | [tldr-pages](https://github.com/tldr-pages/tldr)           | Community-maintained help pages offering simplified explanations. | `GitHub`  |
 | [rsapkf](https://rsapkf.org)                               | 5000+ links that `rsapkf` used in the past to learn programming.  | `Website` |
 
-#### VS CODE
-> _Extensions for VS Code for enhancing your development experience._
+----
 
-|   |   |   |
-| - | - | - |
-| [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format)                                           | Automaticly formats .c files with norm v3. | `Website` |
-| [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)                                 | Displays how many lines each function as.  | `Website` |
-| [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)                                                 | 42 header integration in VS Code.          | `Website` |
+### **Extensions**
+
+VS Code extensions for enhancing your development experience.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
+| [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format)                                           | Automaticly formats .c files with norm v3.                  | `Website` |
+| [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)                                 | Displays how many lines each function as.                   | `Website` |
+| [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)                                                 | 42 header integration in VS Code.                           | `Website` |
 | [42 Norminette](https://marketplace.visualstudio.com/items?itemName=dalexhd.42-norminette)                                     | This extension is a norminette decorator for 42 in VS Code. | `Website` |
 | [Norminette 42](https://marketplace.visualstudio.com/items?itemName=evilcat.norminette-42)                                     | This extension is a norminette decorator for 42 in VS Code. | `Website` |
 | [Norminette Highlighter v3.x](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3) | This extension is a norminette decorator for 42 in VS Code. | `Website` |
 
-#### LANGUAGE
-> _Tools to have correct communication and documentation._
+----
 
-|   |   |   |
-| - | - | - |
+### **Grammar**
+
+Tools to have correct communication and documentation.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
 | [Grammarly](https://www.grammarly.com)              | Writing assistant for grammar and punctuation.      | `Website` |
 | [LanguageTool](https://languagetool.org)            | Grammar and style checker for multiple languages.   | `Website` |
 | [QuillBot](https://quillbot.com)                    | Tool for paraphrasing and improving writing.        | `Website` |
 | [Urban Dictionary](https://www.urbandictionary.com) | Slang dictionary with user-contributed definitions. | `Website` |
 | [Wiktionary](https://en.wiktionary.org)             | Online dictionary and language reference.           | `Website` |
 
-#### BROWSER
-> _I recommend installing 'Improved Intra 42', an all-in-one extension for Chrome and Firefox._
+----
 
-|   |   |   |
-| - | - | - |
+### **Browser**
+
+I recommend installing `Improved Intra 42`, an all-in-one extension for Chrome and Firefox.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
 | [Improved Intra 42](https://github.com/FreekBes/improved_intra) | Browser extension for Chrome and Firefox to enhance the Intra 42 experience.   | `GitHub` |
 | [Better Black Hole](https://github.com/jkctech/BetterBlackHole) | Extension available for Chrome and Firefox. Improves Black Hole functionality. | `GitHub` |
 
-#### APPS
-> _Avaialable apps for Android and iOS._
+----
 
-|   |   |   |
-| - | - | - |
+### **Apps**
+
+Available apps for Android and iOS.
+
+| Website | Plataform  |
+| :------ | :--------- |
 | [Intra 42 Mobile App](https://play.google.com/store/apps/details?id=com.linkkader.intra42) | `Android` |
 | [Intra 42 Mobile App](https://apps.apple.com/pt/app/intra-42-mobile-app/id1661283873)      | `iOS`     |
 
-#### README
-> _Insights on crafting effective README files and integrating badges for your projects._
+----
 
-|   |   |   |
-| - | - | - |
-| [README.md Generator](https://profile-readme-generator.com)                  | Create your GitHub README.md simply and quickly.          | `Website` |
-| [Badge 42](https://github.com/JaeSeoKim/badge42)                             | Dynamically generated 42 badges for your git readmes.     | `GitHub`  |
-| [42 Project Badges](https://github.com/vinicius-f-pereira/42-project-badges) | Badges designed for 42 curriculum projects.               | `GitHub`  |
-| [1337 Readme](https://github.com/mohouyizme/1337-readme)                     | Share your progress via GitHub README.md.                 | `GitHub`  |
-| [42 Unlicense](https://github.com/gcamerli/42unlicense)                      | Flavoured version, based on the Unlicense public license. | `GitHub`  |
+### **Readme**
 
-#### PRODUCTIVITY SOFTWARE
-> _Software designed to simplify tasks, and streamline workflow._
+Insights on crafting effective README files and integrating badges for your projects.
 
-|   |   |   |
-| - | - | - |
+| Website | Description | Source |
+| :------ | :---------- | :----- |
+| [README.md Generator](https://profile-readme-generator.com)                                    | Create your GitHub README.md simply and quickly.          | `Website` |
+| [Badge 42](https://github.com/JaeSeoKim/badge42)                                               | Dynamically generated 42 badges for your git readmes.     | `GitHub`  |
+| [42 Project Badges](https://github.com/vinicius-f-pereira/42-project-badges)                   | Badges designed for 42 curriculum projects.               | `GitHub`  |
+| [1337 Readme](https://github.com/mohouyizme/1337-readme)                                       | Share your progress via GitHub README.md.                 | `GitHub`  |
+| [42 Unlicense](https://github.com/gcamerli/42unlicense)                                        | Flavoured version, based on the Unlicense public license. | `GitHub`  |
+| [GitHub Social Preview](https://www.bannerbear.com/demos/github-social-preview-generator-tool) | Auto generate a social preview image for your repository. | `Website` |
+
+----
+
+### **Productivity**
+
+Software designed to simplify tasks, and streamline workflow.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
 | [Obsidian](https://obsidian.md)          | Private and flexible writing app that adapts to how you think.                        | `Website` |
 | [Notion](https://www.notion.so)          | Freemium productivity and a note-taking web application developed by Notion Labs Inc. | `Website` |
 | [Trello](https://trello.com)             | Ultimate project management tool.                                                     | `Website` |
@@ -220,38 +254,40 @@ For a specific 42 school social media, check the section [Campuses](https://jota
 | [Motion](https://www.usemotion.com)      | Automatically prioritize tasks, schedule meetings, and resolve calendar conflicts.    | `Website` |
 | [Lucidchart](https://www.lucidchart.com) | Web-based diagramming application.                                                    | `Website` |
 
-#### OTHERS
-> _Resources of no particular order but that I feel you should know. More available [here](#---7)._
+----
 
-|   |   |   |
-| - | - | - |
-| [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                     | Open source, community-driven framework.                                         | `GitHub`  |
-| [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)     | List of plugins for Oh My Zsh!                                                   | `GitHub`  |
-| [PowerLevel10k](https://github.com/romkatv/powerlevel10k)                 | A customizable zsh theme focusing on speed, flexibility, and user experience.    | `GitHub`  |
-| [tmux](https://github.com/tmux/tmux/wiki)                                 | Terminal multiplexer, lets you switch between several programs in one terminal.  | `GitHub`  |
-| [catppuccin](https://github.com/catppuccin/catppuccin)                    | Community-driven pastel theme.                                                   | `GitHub`  |
-| [Neofetch Themes](https://github.com/Chick2D/neofetch-themes)             | Compilation of Neofetch configurations gathered in one location.                 | `GitHub`  |
-| [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)                  | Debugging online tool. *(learn how to use `gdb` or `lldb`)*                      | `Website` |
-| [Python Tutor](https://pythontutor.com)                                   | Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`. | `Website` |
-| [Thonny](https://thonny.org)                                              | Thonny is an IDE for Python designed for beginners.                              | `Website` |
-| [Sublime Text](https://www.sublimetext.com)                               | Sophisticated text editor for code, markup, and prose.                           | `Website` |
-| [Replit](https://replit.com)                                              | IDE, compiler, and interpreter, in +50 languages.                                | `Website` |
-| [RP42](https://github.com/alexandregv/RP42)                               | Discord addon integration for 42 School.                                         | `GitHub`  |
-| [Installette](https://github.com/Kuninoto/installette)                    | Script to install Norminette, Norminette Formatter, Vim, and 42 Header.          | `GitHub`  |
-| [42 Toolbox](https://github.com/alexandregv/42toolbox)                    | A bunch of scripts to improve your life at 42.                                   | `GitHub`  |
-| [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) | Course on thinking algorithmically and solving problems efficiently.             | `Website` |
-| [Reeborg's World](https://reeborg.ca/reeborg.html)                        | Website designed to help people learn to program through  gaming puzzles.        | `Website` |
-| [Parrot Live](https://github.com/hugomd/parrot.live)                      | Allow any computer with curl to display an animated party parrot.                | `GitHub`  |
-| [Let Me Google That For You...](https://letmegooglethat.com)              | Politely ask someone to Google but don't be afraid to ask for help!              | `Website` |
-| [Fake Update](https://fakeupdate.net)                                     | Fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`              | `Website` |
-| [Don't Write Comments](https://www.youtube.com/watch?v=Bf7vDBBOBUA)       | Why you shouldn't write comments in your code (write documentation).             | `Youtube` |
-| [No Hello](https://nohello.net/en)                                        | Please, don't say just hello in chat.                                            | `Website` |
+### **Others**
+
+Resources of no particular order but that I feel you should know. More is available [here](https://jotavare.github.io/42_resources/miscellaneous/miscellaneous.html).
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
+| [Oh My Zsh!](https://github.com/ohmyzsh/ohmyzsh/wiki)                                               | Open source, community-driven framework.                                         | `GitHub`  |
+| [Oh My Zsh! Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)                               | List of plugins for Oh My Zsh!                                                   | `GitHub`  |
+| [PowerLevel10k](https://github.com/romkatv/powerlevel10k)                                           | A customizable zsh theme focusing on speed, flexibility, and user experience.    | `GitHub`  |
+| [tmux](https://github.com/tmux/tmux/wiki)                                                           | Terminal multiplexer, lets you switch between several programs in one terminal.  | `GitHub`  |
+| [catppuccin](https://github.com/catppuccin/catppuccin)                                              | Community-driven pastel theme.                                                   | `GitHub`  |
+| [Neofetch Themes](https://github.com/Chick2D/neofetch-themes)                                       | Compilation of Neofetch configurations gathered in one location.                 | `GitHub`  |
+| [OnlineGDB](https://www.onlinegdb.com/online_c_compiler)                                            | Debugging online tool. *(learn how to use `gdb` or `lldb`)*                      | `Website` |
+| [Python Tutor](https://pythontutor.com)                                                             | Online compiler and debugger for `Python`, `JavaScript`, `C`, `C++`, and `Java`. | `Website` |
+| [Thonny](https://thonny.org)                                                                        | Thonny is an IDE for Python designed for beginners.                              | `Website` |
+| [Sublime Text](https://www.sublimetext.com)                                                         | Sophisticated text editor for code, markup, and prose.                           | `Website` |
+| [Replit](https://replit.com)                                                                        | IDE, compiler, and interpreter, in +50 languages.                                | `Website` |
+| [RP42](https://github.com/alexandregv/RP42)                                                         | Discord addon integration for 42 School.                                         | `GitHub`  |
+| [Installette](https://github.com/Kuninoto/installette)                                              | Script to install Norminette, Norminette Formatter, Vim, and 42 Header.          | `GitHub`  |
+| [42 Toolbox](https://github.com/alexandregv/42toolbox)                                              | A bunch of scripts to improve your life at 42.                                   | `GitHub`  |
+| [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)                           | Course on thinking algorithmically and solving problems efficiently.             | `Website` |
+| [Reeborg's World](https://reeborg.ca/reeborg.html)                                                  | Website designed to help people learn to program through  gaming puzzles.        | `Website` |
+| [Parrot Live](https://github.com/hugomd/parrot.live)                                                | Allow any computer with curl to display an animated party parrot.                | `GitHub`  |
+| [Let Me Google That For You...](https://letmegooglethat.com)                                        | Politely ask someone to Google but don't be afraid to ask for help!              | `Website` |
+| [Fake Update](https://fakeupdate.net)                                                               | Fake update screens! `F11 - Fullscreen` `ESC - Exit` `ENTER - BSOD`              | `Website` |
+| [Don't Write Comments](https://www.youtube.com/watch?v=Bf7vDBBOBUA)                                 | Why you shouldn't write comments in your code (write documentation).             | `Youtube` |
+| [No Hello](https://nohello.net/en)                                                                  | Please, don't say just hello in chat.                                            | `Website` |
+| [Nerd Fonts](https://www.nerdfonts.com/font-downloads)                                              | Iconic font aggregator, collection, and patcher.                                 | `Website` |
+| [Everything I wish I knew when learning C](https://tmewett.com/c-tips/#do-not-use-these-functions)  | Tips and tricks for learning C.                                                  | `Website` |
+| [C Static libraries](https://dev.to/iamkhalil42/all-you-need-to-know-about-c-static-libraries-1o0b) | All you need to know about C static libraries.                                   | `Website` |
 
 - - - -
-
-<!---
-COMMON CORE PROJECTS
--->
 
 <h1 align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_common_core_projects.png">
@@ -260,35 +296,36 @@ COMMON CORE PROJECTS
 <p align="center">
 	<a href="#subjects">Subjects</a> •
 	<a href="#all-in-one-testers">All-In-One Testers</a> •
-	<a href="#00-libft">Libft</a> •
-	<a href="#01-born2beroot">Born2beroot</a> •
-	<a href="#01-ft_printf">Ft_printf</a> •
-	<a href="#01-get_next_line">Get_next_line</a> •
-	<a href="#02-minitalk">Minitalk</a> •
-	<a href="#02-pipex">Pipex</a> •
-	<a href="#02-minilibx">Minilibx</a> •
-	<a href="#02-so_long">So_long</a> •
-	<a href="#02-fract-ol">Fract-ol</a> •
-	<a href="#02-fdf">Fdf</a> •
-	<a href="#02-push_swap">Push_swap</a> •
-	<a href="#03-philosophers">Philosophers</a> •
-	<a href="#03-minishell">Minishell</a> •
-	<a href="#04-netpractice">Netpractice</a> •
-	<a href="#04-cub3d">Cub3d</a> •
-	<a href="#04-minirt">MiniRT</a> •
-	<a href="#04-05-cpp-module-00-09">CPP Module (00-09)</a> •
-	<a href="#05-webserv">Webserv</a> •
-	<a href="#05-ft_irc">Ft_irc</a> •
-	<a href="#05-inception">Inception</a> •
-	<a href="#06-ft_transcendence">Ft_transcendence</a> •
+	<a href="#libft">Libft</a> •
+	<a href="#born2beroot">Born2beroot</a> •
+	<a href="#ft_printf">Ft_printf</a> •
+	<a href="#get_next_line">Get_next_line</a> •
+	<a href="#minitalk">Minitalk</a> •
+	<a href="#pipex">Pipex</a> •
+	<a href="#minilibx">Minilibx</a> •
+	<a href="#so_long">So_long</a> •
+	<a href="#fract-ol">Fract-ol</a> •
+	<a href="#fdf">Fdf</a> •
+	<a href="#push_swap">Push_swap</a> •
+	<a href="#philosophers">Philosophers</a> •
+	<a href="#minishell">Minishell</a> •
+	<a href="#netpractice">Netpractice</a> •
+	<a href="#cub3d">Cub3d</a> •
+	<a href="#minirt">MiniRT</a> •
+	<a href="#05-cpp-module-00-09">CPP Module (00-09)</a> •
+	<a href="#webserv">Webserv</a> •
+	<a href="#ft_irc">Ft_irc</a> •
+	<a href="#inception">Inception</a> •
+	<a href="#ft_transcendence">Ft_transcendence</a> •
 	<a href="#--">Scroll To Top</a>
 </p>
 
 > [!NOTE]  
 > The subjects at 42 undergo regular updates, so the information provided below might not be current. Additionally, as some projects are optional, resources might not be available if I haven't completed them.
 
-#### SUBJECTS
-> _Respositories with all 42 subjects and additional files in one place, some are outdated but still useful._
+### **Subjects**
+
+Repositories with all 42 subjects and additional files in one place, some are outdated but still useful.
 
 | Resource                                                                    | Source   | User |
 | :-------------------------------------------------------------------------- | :------- | :--- |
@@ -297,8 +334,11 @@ COMMON CORE PROJECTS
 | [42 Subjects and Corrections (outdated)](https://github.com/Binary-Hackers) | `GitHub` | `Binary-Hackers` |
 | [42 Subjects (outdated)](https://github.com/agavrel/42_Subjects)            | `GitHub` | `agavrel` |
 
-#### ALL-IN-ONE TESTERS
-> _Test your code with already made all-in-one testers._
+----
+
+### **All-In-One Testers**
+
+Test your code with already-made all-in-one testers.
 
 | Resource                                                                    | Source   | User |
 | :-------------------------------------------------------------------------- | :------- | :--- |
@@ -306,7 +346,10 @@ COMMON CORE PROJECTS
 | [42-Cursus-Tester](https://github.com/Abaker-Hype/42-Cursus-Tester)         | `GitHub` | `Abaker-Hype` |
 | [42-Tests](https://github.com/Kwevan/42-Tests)                              | `GitHub` | `Kwevan` |
 
-#### [00] LIBFT
+----
+
+### **Libft**
+
 | Resource                                                                                 | Source    |
 | :--------------------------------------------------------------------------------------- | :-------- |
 | [Libft - C Standard Library Rewrite](https://www.asidesigned.com/project-libft.html)     | `Website` |
@@ -327,7 +370,10 @@ COMMON CORE PROJECTS
 | [Libftest](https://github.com/jtoty/Libftest)                          | `GitHub`  | `jtoty` |
 | [libft-war-machine](https://github.com/0x050f/libft-war-machine)       | `GitHub`  | `0x050f` |
 
-#### [01] BORN2BEROOT
+----
+
+### **Born2beroot**
+
 | Video Resource                                                                            | Source     | User |
 | :---------------------------------------------------------------------------------------- | :-------- | :--- |
 | [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) | `Youtube` | `Fireship` |
@@ -344,7 +390,10 @@ COMMON CORE PROJECTS
 | [Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester)      | `GitHub`  | `Pixailz` |
 | [Born2beroot-Tester](https://github.com/gemartin99/Born2beroot-Tester) | `GitHub`  | `gemartin99` |
 
-#### [01] FT_PRINTF
+----
+
+### **Ft_printf**
+
 | Resource                                                                                                                                      | Source    |
 | :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [C Tutorial – printf](https://www.codingunit.com/printf-format-specifiers-format-conversions-and-formatted-output)                            | `Website` |
@@ -368,7 +417,10 @@ COMMON CORE PROJECTS
 | [printfTester](https://github.com/Tripouille/printfTester)                                           | `GitHub`  | `Tripouille` |
 | [ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester)                                | `GitHub`  | `paulo-santana` |
 
-#### [01] GET_NEXT_LINE
+----
+
+### **Get_next_line**
+
 | Resource                                                                              | Source    |
 | :-------------------------------------------------------------------------------------| :-------- |
 | [get_next_line: My first complex program](https://yannick.eu/gnl)                     | `Website` |
@@ -387,7 +439,10 @@ COMMON CORE PROJECTS
 | [gnlTester](https://github.com/Tripouille/gnlTester)              | `GitHub` | `Tripouille` |
 | [gnl-station-tester](https://github.com/kodpe/gnl-station-tester) | `GitHub` | `kodpe` |
 
-#### [02] MINITALK
+----
+
+### **Minitalk**
+
 | Resource                                                                                                                                           | Source    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp)                                                             | `Website` |
@@ -417,7 +472,10 @@ COMMON CORE PROJECTS
 | [Get Emoji](https://getemoji.com)                                | `Website` | |
 | [EmojiDB](https://emojidb.org/terminal-emojis)                   | `Website` | |
 
-#### [02] PIPEX
+----
+
+### **Pipex**
+
 | Resource                                                                                                                                     | Source    |
 | :------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Consequences of Process Termination](https://pubs.opengroup.org/onlinepubs/9699919799/functions/_Exit.html#tag_16_01_03_01)                 | `Website` |
@@ -444,8 +502,11 @@ COMMON CORE PROJECTS
 | [PIPEX_TESTER](https://github.com/ael-bekk/PIPEX_TESTER)                                                                                     | `GitHub` | `ael-bekk` |
 | [francinette](https://github.com/xicodomingues/francinette)                                                                                  | `GitHub` | `xicodomingues` |
 
-#### [02] MINILIBX
-> [!NOTE]
+----
+
+### **Minilibx**
+
+> [!NOTE]  
 > The links in this section are the most useful for `so_long`, `fract-ol`, `fdf`, `cub3d` and `minirt`.
 
 | Resource                                                                         | Source   | User |
@@ -463,7 +524,10 @@ COMMON CORE PROJECTS
 | [MiniLibX Tutorial](https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial) | `Blog`   | `pulgamecanica` |
 | [MLX Animations](https://pulgamecanica.herokuapp.com/posts/mlx-animations)       | `Blog`   | `pulgamecanica` |
 
-#### [02] SO_LONG
+----
+
+### **So_long**
+
 | Resource                                                                                             | Source     |
 | :--------------------------------------------------------------------------------------------------- | :-------- |
 | [How to Make Pixel Art in GIMP](https://thegimptutorials.com/how-to-make-pixel-art)                  | `Website` |
@@ -481,7 +545,10 @@ COMMON CORE PROJECTS
 | [so_long_invalidator](https://github.com/Nuno-Jesus/so_long_invalidator) | `GitHub`  | `Nuno-Jesus` |
 | [so_long_tester](https://github.com/augustobecker/so_long_tester)        | `GitHub`  | `augustobecker` |
 
-#### [02] FRACT-OL
+----
+
+### **Fract-ol**
+
 | Resource                                                                                                                   | Source |
 | :------------------------------------------------------------------------------------------------------------------------- | :----- |
 | [Fractal](https://en.wikipedia.org/wiki/Fractal)                                                                           | `Wikipedia` |
@@ -524,7 +591,10 @@ COMMON CORE PROJECTS
 | [fract-ol](https://github.com/Xyckens/fract-ol)     | `GitHub` | `Xyckens` |
 | [ft_fractol](https://github.com/librity/ft_fractol) | `GitHub` | `librity` |
 
-#### [02] FDF
+----
+
+### **Fdf**
+
 | Resource                                                                                                                           | Source    |
 | :--------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)                                           | `Website` |
@@ -546,7 +616,10 @@ COMMON CORE PROJECTS
 | [42MapGenerator](https://github.com/jgigault/42MapGenerator)    | `GitHub`  | `jgigault` |
 | [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)  | `Website` | |
 
-#### [02] PUSH_SWAP
+----
+
+### **Push_swap**
+
 | Resource                                                                                                                             | Source    |
 | :----------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Sorting Algorithms](https://www.geeksforgeeks.org/sorting-algorithms/?ref=lbp)                                                      | `Website` |
@@ -594,7 +667,10 @@ COMMON CORE PROJECTS
 | [Push Swap Visualizer and Number Generator](https://push-swap-visualizer.vercel.app)                               | `Website` | `vercel` |
 | [Number Generator](https://numbergenerator.org/randomnumbergenerator)                                              | `Website` | |
 
-#### [03] PHILOSOPHERS
+----
+
+### **Philosophers**
+
 | Resource                                                                                                 | Source      |
 | :------------------------------------------------------------------------------------------------------- | :---------- |
 | [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)                 | `Wikipedia` |
@@ -615,7 +691,10 @@ COMMON CORE PROJECTS
 | [philosophers_test](https://github.com/cacharle/philosophers_test)                          | `GitHub`  | `cacharle` |
 | [Philosphers-42Project-Tester](https://github.com/newlinuxbot/Philosphers-42Project-Tester) | `GitHub`  | `newlinuxbot` |
 
-#### [03] MINISHELL
+----
+
+### **Minishell**
+
 | Resource                                                                                                                                                       | Source    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [GNU Bash manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual)                                                                                      | `Website` |
@@ -646,12 +725,15 @@ COMMON CORE PROJECTS
 | [minishell_tester](https://github.com/thallard/minishell_tester)                                                                                               | `GitHub`  | `thallard` |
 | [mpanic](https://github.com/ChewyToast/mpanic)                                                                                                                 | `GitHub`  | `ChewyToast` |
 
-#### [04] NETPRACTICE
-| Resource                                                                                                                                                       | Source    |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a)                                                                                                   | `Medium`  |
-| [ipcalc](https://linuxhint.com/ipcalc-command-linux)                                                                                                           | `Website` |
-| [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)                                                                                   | `Website` |
+----
+
+### **Netpractice**
+
+| Resource                                                                     | Source    |
+| :--------------------------------------------------------------------------- | :-------- |
+| [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a)                 | `Medium`  |
+| [ipcalc](https://linuxhint.com/ipcalc-command-linux)                         | `Website` |
+| [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html) | `Website` |
 
 | Video Resource                                                              | Source    | User |
 | :-------------------------------------------------------------------------- | :-------- | :--- |
@@ -666,7 +748,10 @@ COMMON CORE PROJECTS
 | [netpractice](https://git.hexanyn.fr/42/netpractice)    | `GitHub` | `hexanyn` |
 | [NetPractice](https://github.com/lpaube/NetPractice)    | `GitHub` | `lpaube` |
 
-#### [04] CUB3D
+----
+
+### **Cub3d**
+
 | Game                                              | Source    |
 |:--------------------------------------------------|:----------|
 | [Wolfenstein 3D](http://users.atw.hu/wolf3d/)     | `Game`    |
@@ -694,7 +779,10 @@ COMMON CORE PROJECTS
 | [cub3D_map_tester](https://github.com/humblEgo/cub3D_map_tester)                                | `GitHub`  | `humblEgo` |
 | [42_cub_tester](https://github.com/realisticDonut/42_cub_tester)                                | `GitHub`  | `realisticDonut` |
 
-#### [04] MINIRT
+----
+
+### **Minirt**
+
 | Resource                                                                                                                    | Source |
 | :-------------------------------------------------------------------------------------------------------------------------- | :----- |
 | [Bits to Bitmaps: A simple walkthrough of BMP Image Format](https://medium.com/p/765dc6857393)                              | `Medium` |
@@ -727,8 +815,11 @@ COMMON CORE PROJECTS
 | :-------------------------------------------------------------------------- | :----- | :--- |
 | [minirt_mesh_converter](https://github.com/matboivin/minirt_mesh_converter) | `GitHub` | `matboivin` |
 
-#### [04-05] CPP MODULE (00-09)
-> [!NOTE]
+----
+
+### **CPP Modules (00-09)**
+
+> [!NOTE]  
 > The 42 intra videos have bad fame, but in C++ they are good, so I recommend watching them first before watching any guides.
 
 | Resource                                                                                                                                         | Source |
@@ -746,6 +837,10 @@ COMMON CORE PROJECTS
 | [Using the GNU Compiler Collection (GCC)](https://gcc.gnu.org/onlinedocs/gcc)                                                                    | `Website` |
 | [Subscripting [] Operator Overloading in C++](https://www.tutorialspoint.com/cplusplus/subscripting_operator_overloading.htm)                    | `Website` |
 | [An Introduction to "Iterator Traits"](https://www.codeproject.com/Articles/36530/An-Introduction-to-Iterator-Traits)                            | `Website` |
+| [cppinsights](https://www.cppinsights.io/)                                                                                                       | `Website` |
+| [godbolt](https://www.godbolt.org/)                                                                                                              | `Website` |
+| [learncpp](https://www.learncpp.com/)                                                                                                            | `Website` |
+| [cppreference](www.cppreference.com/)                                                                                                            | `Website` |
 | [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/tree/master)                                                                   | `GitHub` |
 | [C++ Primer (5th Edition)](https://github.com/yanshengjia/cpp-playground/blob/master/cpp-primer/resource/C%2B%2B%20Primer%20(5th%20Edition).pdf) | `PDF` |
 
@@ -763,7 +858,10 @@ COMMON CORE PROJECTS
 | [Advanced C++: All Castings Considered - Part I](https://www.youtube.com/watch?v=lglGKxNrLgM)                      | `Youtube` | `Bo Qian` |
 | [C++ Tutorial for Beginners 45 - C++ Map](https://www.youtube.com/watch?v=POYRev0zk2k)                             | `Youtube` | `ProgrammingKnowledge` |
 
-#### [05] WEBSERV
+----
+
+### **Webserv**
+
 | Resource                                                                                                                                                                            | Source |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
 | [HTTP Made Really Easy](https://www.jmarshall.com/easy/http)                                                                                                                        | `Website` |
@@ -805,23 +903,29 @@ COMMON CORE PROJECTS
 | [What Is A Web Server?](https://youtu.be/Yt1nesKi5Ec)                                                                    | `Youtube` | `WinningWP - Winning WordPress` |
 | [Web Server and Application Server \| Explained](https://youtu.be/thJSev60yfg)                                           | `Youtube` | `Knowledge Center` |
 
-#### [05] FT_IRC
-| Resource                                                                                                                                                                                 | Source    |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| [Internet Relay Chat](http://chi.cs.uchicago.edu/chirc/irc.html)                                                                                                                         | `PDF`     |
-| [What is a Socket?](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm)                                                                                                      | `Website` |
-| [Unix Socket - Network Addresses](https://www.tutorialspoint.com/unix_sockets/network_addresses.htm)                                                                                     | `Website` |
-| [Unix Socket - Core Functions](https://www.tutorialspoint.com/unix_sockets/socket_core_functions.htm)                                                                                    | `Website` |
-| [Beej’s Guide to Network Programming](https://beej.us/guide/bgnet/pdf/bgnet_a4_c_1.pdf)                                                                                                  | `Website` |
-| [Modern IRC Client Protocol](https://modern.ircdocs.horse)                                                                                                                               | `Website` |
-| [rawlog](https://irssi.org/documentation/help/rawlog)                                                                                                                                    | `Website` |
-| [RFC1459 - Internet Relay Chat Protocol](https://datatracker.ietf.org/doc/html/rfc1459)                                                                                                  | `Website` |
-| [RFC2810 - Internet Relay Chat: Architecture](https://datatracker.ietf.org/doc/html/rfc2810)                                                                                             | `Website` |
-| [RFC2811 - Internet Relay Chat: Channel Management](https://datatracker.ietf.org/doc/html/rfc2811)                                                                                       | `Website` |
-| [RFC2812 - Internet Relay Chat: Client Protocol](https://datatracker.ietf.org/doc/html/rfc2812)                                                                                          | `Website` |
-| [RFC2813 - Internet Relay Chat: Server Protocol](https://datatracker.ietf.org/doc/html/rfc2813)                                                                                          | `Website` |
+----
 
-#### [05] INCEPTION
+### **Ft_irc**
+
+| Resource                                                                                              | Source    |
+| :---------------------------------------------------------------------------------------------------- | :-------- |
+| [Internet Relay Chat](http://chi.cs.uchicago.edu/chirc/irc.html)                                      | `PDF`     |
+| [What is a Socket?](https://www.tutorialspoint.com/unix_sockets/what_is_socket.htm)                   | `Website` |
+| [Unix Socket - Network Addresses](https://www.tutorialspoint.com/unix_sockets/network_addresses.htm)  | `Website` |
+| [Unix Socket - Core Functions](https://www.tutorialspoint.com/unix_sockets/socket_core_functions.htm) | `Website` |
+| [Beej’s Guide to Network Programming](https://beej.us/guide/bgnet/pdf/bgnet_a4_c_1.pdf)               | `Website` |
+| [Modern IRC Client Protocol](https://modern.ircdocs.horse)                                            | `Website` |
+| [rawlog](https://irssi.org/documentation/help/rawlog)                                                 | `Website` |
+| [RFC1459 - Internet Relay Chat Protocol](https://datatracker.ietf.org/doc/html/rfc1459)               | `Website` |
+| [RFC2810 - Internet Relay Chat: Architecture](https://datatracker.ietf.org/doc/html/rfc2810)          | `Website` |
+| [RFC2811 - Internet Relay Chat: Channel Management](https://datatracker.ietf.org/doc/html/rfc2811)    | `Website` |
+| [RFC2812 - Internet Relay Chat: Client Protocol](https://datatracker.ietf.org/doc/html/rfc2812)       | `Website` |
+| [RFC2813 - Internet Relay Chat: Server Protocol](https://datatracker.ietf.org/doc/html/rfc2813)       | `Website` |
+
+----
+
+### **Inception**
+
 | Resource                                                                                                                                                                                 | Source    |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Docker (software)](https://en.m.wikipedia.org/wiki/Docker_(software))                                                                                                                   | `Wikipedia` |
@@ -868,7 +972,10 @@ COMMON CORE PROJECTS
 | [iimyzf](https://github.com/iimyzf/Inception)                             | `GitHub`  |`iimyzf` |
 | [42-inception](https://github.com/waltergcc/42-inception)                 | `GitHub`  |`waltergcc` |
 
-#### [06] FT_TRANSCENDENCE
+----
+
+### **Ft_transcendence**
+
 | Resource                                                                                                                                                                                  | Source    |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
 | [Introduction to Vue.js](https://vuejs.org/guide/introduction.html)                                                                                                                       | `Website` |
@@ -890,10 +997,6 @@ COMMON CORE PROJECTS
 
 - - - -
 
-<!---
-CYBER SECURITY AND HACKING
--->
-
 <h1 align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_cybersecurity.png">
 </h1>
@@ -913,11 +1016,12 @@ CYBER SECURITY AND HACKING
 	<a href="#--">Scroll To Top</a>
 </p>
 
-#### CRACK THE CODE
-> _Challenges and learning platforms about cyber security and ethical hacking._
+### **Crack the Code**
 
-|   |   |   |
-| - | - | - |
+Challenges and learning platforms about cyber security and ethical hacking.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
 | [CTF 101](https://ctf101.org) | Introduction to CTFs (Capture The Flag). | `Website` |
 | [42 CTF](https://www.42ctf.org/en) | Cybersecurity challenges platform with various challenges from 42. | `Website` |
 | [Root Me](https://www.root-me.org) | Platform for testing and improving knowledge in computer security and hacking. | `Website` |
@@ -938,11 +1042,15 @@ CYBER SECURITY AND HACKING
 | [Cyberseek](https://www.cyberseek.org) | Explore career paths, skills, and certifications in cyber security. | `Website` |
 | [Advent of Code](https://adventofcode.com) | Christmas-themed programming challenges following an Advent calendar. | `Website` |
 
-#### PENTESTING TOOLS
-> _Collection of tools used to perform penetration testing or ethical hacking._
+----
 
-|   |   |   |
-| - | - | - |
+### **Pentesting Tools**
+
+Collection of tools used to perform penetration testing or ethical hacking.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
+| [Cybersecurity Stash](https://cybersecuritystash.com) | Curated list of cybersecurity tools. | `Website` |
 | [Wireshark](https://www.wireshark.org) | Free and open-source packet analyzer. | `Website` |
 | [Responder](https://www.kali.org/tools/responder) | Penetration testing tool for various network protocol poisoning. | `Website` |
 | [Hashcat](https://hashcat.net/hashcat) | Powerful tool for cracking password hashes. | `Website` |
@@ -963,11 +1071,14 @@ CYBER SECURITY AND HACKING
 | [Wazuh](https://github.com/wazuh/wazuh) | Open source platform used for threat prevention, detection, and response. | `GitHub` |
 | [OpenVAS](https://www.openvas.org) | Open source full-featured vulnerability scanner. | `Website` |
 
-#### DIGITAL FOOTPRINT
-> _Discover the imprint left by your online activities._
+----
 
-|   |   |   |
-| - | - | - |
+### **Digital Footprint**
+
+Discover the imprint left by your online activities.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
 | [Firefox Monitor](https://monitor.firefox.com) | Checks if your data has been involved in an online breach. | `Website` |
 | [Have I Been Pwned](https://haveibeenpwned.com) | Scans multiple breaches for your compromised email or phone. | `Website` |
 | [DeHashed](https://www.dehashed.com) | Offers free deep-web scans and guards against credential leaks. | `Website` |
@@ -978,59 +1089,80 @@ CYBER SECURITY AND HACKING
 | [sherlock](https://github.com/sherlock-project/sherlock) | Locates social media accounts via usernames on multiple platforms. | `GitHub` |
 | [Password Game](https://neal.fun/password-game) | Engaging yet challenging password game. | `Website` |
 
-#### VPN
-> _Secure your internet connection with a Virtual Private Network._
+----
 
-|   |   |   |
-| - | - | - |
+### **VPN**
+
+Secure your internet connection with a Virtual Private Network.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
 | [Proton](https://proton.me) | Offers end-to-end encrypted VPN, mail, drive, and calendar services. | `Website` |
 | [OpenVPN](https://openvpn.net) | Enables secure point-to-point, site-to-site connections, and remote access facilities. | `Website` |
 | [Tailscale](https://tailscale.com) | Offers a zero-config VPN for constructing secure networks. | `Website` |
 
-#### BOOTABLE USB
-> _Create portable storage to install or repair operating systems._
+----
 
-|   |   |   |
-| - | - | - |
+### **Bootable USB**
+
+Create portable storage to install or repair operating systems.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
 | [Rufus](https://rufus.ie) | Open-source portable app for Windows, creating bootable USB flash drives or Live USBs. | `Website` |
 | [Ventoy](https://www.ventoy.net) | Open-source tool for creating bootable USB drives supporting various file types. | `Website` |
 | [Etcher](https://www.balena.io/etcher) | Cross-platform tool for safely flashing OS images onto SD cards and USB drives. | `Website` |
 
-#### PACKAGE MANAGER
-> _Software tools that automate the process of installing, upgrading, configuring, and removing programs._
+----
 
-|   |   |   |
-| - | - | - |
+### **Package Manager**
+
+Software tools that automate the process of installing, upgrading, configuring, and removing programs.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
 | [Chocolatey](https://chocolatey.org) | Windows tool that wraps installers, executables, zips, and scripts into compiled packages. | `Website` |
 | [Ninite](https://ninite.com) | Package management system that automatically install popular applications | `Website` |
 | [FOSSHUB](https://www.fosshub.com) | Platform to download for free many popular and *clean* software titles. | `Website` |
+| [NirSoft](https://www.nirsoft.net) | Unique collection of small and useful freeware utilities. | `Website` |
+| [NirLauncher](https://launcher.nirsoft.net) | Package of more than 200 portable freeware utilities for Windows. | `Website` |
 
-#### OPERATING SYSTEM AND TOOLS
-> _Operating systems for every occasion and tools to enhance them._
+----
 
-|   |   |   |
-| - | - | - |
+### **Operating System and Tools**
+
+Operating systems for every occasion and tools to enhance them.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
 | [Tails](https://tails.boum.org) | Privacy-focused Linux distro connecting exclusively through Tor for anonymity. | `Website` |
 | [Kali](https://www.kali.org) | Linux distro for penetration testing, security research, forensics, and reverse engineering. | `Website` |
 | [Tiny11](https://github.com/ntdevlabs/tiny11builder) | Trimmed-down Windows 11 image available on GitHub. | `GitHub` |
 | [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) | Scripts to debloat Windows 10 and 11. | `GitHub` |
 
-#### EXPLOITS AND VULNERABILITIES
-> _Information and resources on how to learn/use exploits and vulnerabilities._
+----
 
-|   |   |   |
-| - | - | - |
+### **Exploits and Vulnerabilities**
+
+Information and resources on how to learn/use exploits and vulnerabilities.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
+| [Bugtraq](https://seclists.org/bugtraq/) | Electronic mailing list dedicated to issues about computer security. | `Website` |
 | [Mimikatz](https://github.com/ParrotSec/mimikatz) | Windows exploit extracting passwords from memory. | `GitHub` |
 | [BloodHound](https://github.com/BloodHoundAD/BloodHound) | Identifies complex attack paths otherwise hard to spot. | `GitHub` |
 | [EternalBlue](https://pt.wikipedia.org/wiki/EternalBlue) | NSA-developed exploit leaked by Shadow Brokers. | `Wikipedia` |
 | [MouseJack](https://www.mousejack.com/mousejack) | Vulnerabilities in wireless, non-Bluetooth keyboards and mice. | `Website` |
 | [Follina](https://www.youtube.com/watch?v=3ytqP1QvhUc) | Exploits the MSDT tool in Microsoft Office. | `Youtube` |
 
-#### GUIDES AND RESOURCES
-> _Guides and resources about important topics that may help with cyber security or ethical hacking._
+----
 
-|   |   |   |
-| - | - | - |
+### **Guides and Resources**
+
+Guides and resources about important topics that may help with cyber security or ethical hacking.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
 | [CVE](https://www.cve.org) | Reference for known information-security vulnerabilities and exposures. | `Website` |
 | [OWASP Top Ten](https://owasp.org/www-project-top-ten) | Developer's guide for web application security. | `Website` |
 | [Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) | Catalog of exploited vulnerabilities in the wild. | `Website` |
@@ -1041,22 +1173,28 @@ CYBER SECURITY AND HACKING
 | [World of Reversing](https://medium.com/@m0ab1d42/reversing-everything-except-love-27fe7a3d9e76) | Article introducing reversing concepts. | `Medium` |
 | [Exploring the Heap](https://medium.com/@m0ab1d42/heap-the-witchcraft-dungeon-ac08e782fb49) | Article exploring the computing concept of the heap. | `Medium` |
 
-#### PODCASTS, NEWS AND VIDEOS
-> _Information intended to capture, preserve, and explain the culture around cyber security and ethical hacking._
+----
 
-|   |   |   |
-| - | - | - |
+### **Podcasts, News and Videos**
+
+Information intended to capture, preserve, and explain the culture around cyber security and ethical hacking.
+
+| Website | Description | Source |
+| :------ | :---------- | :----- |
 | [Jack Rhysider](https://www.youtube.com/@JackRhysider) | Podcast sharing true stories from the internet's darker side. | `Youtube` |
 | [SecurityWeek](https://www.securityweek.com) | Premier hub for cybersecurity news, insights, and expert analysis. | `News` |
 | [The Hacker News](https://thehackernews.com) | Trusted publication for breaking cybersecurity news and insights. | `News` |
 | [Heartbleed](https://www.youtube.com/watch?v=eCGKf1XD-ME) | Insightful review of the 2014 Heartbleed bug that shook the internet. | `Youtube` |
 | [How to Get Someone's Password](https://youtu.be/Qm7k1CPFkIc?si=PvCveV0yvNddO2_m) | Many possible ways they may be able to get your password. | `Youtube` |
 
-#### HACKING GOOGLE
-> _Five elite security teams. Six never-before-told stories._ 
+----
 
-|   |   |
-| - | - |
+### **Hacking Google**
+
+Five elite security teams. Six never-before-told stories.
+
+| Website | Source |
+| :------ | :----- |
 | [EP000: Operation Aurora](https://youtu.be/przDcQe6n5o) | `Youtube` |
 | [EP001: Threat Analysis Group](https://youtu.be/N7N4EC20-cM) | `Youtube` |
 | [EP002: Detection and Response](https://youtu.be/QZ0cpBocl3c) | `Youtube` |
@@ -1065,10 +1203,6 @@ CYBER SECURITY AND HACKING
 | [EP005: Project Zero](https://youtu.be/My_13FXODdU) | `Youtube` |
 
 - - - -
-
-<!---
-WIKIMEDIA FOUNDATION
--->
 
 <h1 align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_wikimedia_foundation.png">
@@ -1102,19 +1236,14 @@ WIKIMEDIA FOUNDATION
 
 - - - -
 
-<!---
-42 CAMPUSES
--->
-
 <h1 align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_campuses.png">
 </h1>
 
 <p align="center">
-	<a href="#world">World</a> •
 	<a href="#europe">Europe</a> •
 	<a href="#asia">Asia</a> •
-	<a href="#america">America</a> •
+	<a href="#americas">Americas</a> •
 	<a href="#africa">Africa</a> •
 	<a href="#oceania">Oceania</a> •
 	<a href="#soon">Soon</a> •
@@ -1122,91 +1251,93 @@ WIKIMEDIA FOUNDATION
 </p>
 
 > [!NOTE]
-> You can check all available 42 schools [here](https://www.42network.org/42-schools).
+> Explore all 42 schools worldwide. For the most up-to-date list, click [here](https://www.42network.org/42-schools).
 
-#### EUROPE
-|   |   |
-| - | - |
-| 🇦🇲 [42 Yerevan](https://42yerevan.am) | Armenia |
-| 🇦🇹 [42 Vienna](https://www.42vienna.com) | Austria |
-| 🇧🇪 [19 Antwerp](https://campus19.be) | Belgium |
-| 🇧🇪 [19 Brussels](https://campus19.be) | Belgium |
-| 🇨🇿 [42 Prague](https://www.42prague.com) | Czech Republic |
-| 🇫🇮 [Hive](https://www.hive.fi/en) | Finland |
-| 🇫🇷 [42 Angoulême](https://42angouleme.fr) | France |
-| 🇫🇷 [42 Le Havre](https://www.42lehavre.fr) | France |
-| 🇫🇷 [42 Lyon](https://42lyon.fr) | France |
-| 🇫🇷 [42 Mulhouse](https://www.42mulhouse.fr) | France |
-| 🇫🇷 [42 Nice](https://www.42nice.fr) | France |
-| 🇫🇷 [42 Paris](https://42.fr) | France |
-| 🇫🇷 [42 Perpignan Occitanie](https://42perpignan.fr) | France |
-| 🇩🇪 [42 Berlin](https://42berlin.de) | Germany |
-| 🇩🇪 [42 Heilbronn](https://www.42heilbronn.de) | Germany |
-| 🇩🇪 [42 Wolfsburg](https://42wolfsburg.de) | Germany |
-| 🇮🇹 [42 Firenze](https://42firenze.it) | Italy |
-| 🇮🇹 [42 Roma](https://42roma.it) | Italy |
-| 🇱🇺 [42 Luxembourg](https://42luxembourg.lu) | Luxembourg |
-| 🇵🇱 [42 Warsaw](https://42warsaw.pl) | Poland |
-| 🇵🇹 [42 Lisboa](https://www.42lisboa.com) | Portugal |
-| 🇵🇹 [42 Porto](https://www.42porto.com) | Portugal |
-| 🇪🇸 [42 Alicante](https://www.42alicante.com) | Spain |
-| 🇪🇸 [42 Barcelona](https://www.42barcelona.com) | Spain |
-| 🇪🇸 [42 Madrid](https://www.42madrid.com) | Spain |
-| 🇪🇸 [42 Málaga](https://www.42malaga.com) | Spain |
-| 🇪🇸 [42 Urduliz](https://www.42urduliz.com) | Spain |
-| 🇨🇭 [42 Lausanne](https://42lausanne.ch) | Switzerland |
-| 🇳🇱 [Codam](https://www.codam.nl) | Netherlands |
-| 🇹🇷 [42 Istanbul](https://42istanbul.com.tr) | Turkey |
-| 🇬🇧 [42 London](https://42london.com) | United Kingdom |
-| 🇷🇺 [School 21 – Kazan](https://21-school.ru) | Russia |
-| 🇷🇺 [School 21 - Moscow](https://21-school.ru) | Russia |
+### **Europe**
 
-#### ASIA
-|   |   |
-| - | - |
-| 🇯🇵 [42 Tokyo](https://42tokyo.jp) | Japan |
-| 🇯🇴 [42 Amman](https://www.42network.org/campuses/42-amman) | Jordan |
-| 🇲🇾 [42 Kuala Lumpur](https://42kl.edu.my) | Malaysia |
-| 🇸🇬 [42 Singapore](https://www.42singapore.sg) | Singapore |
-| 🇰🇷 [42 Gyeongsan](https://42gyeongsan.kr) | South Korea |
-| 🇰🇷 [42 Seoul](https://42seoul.kr) | South Korea |
-| 🇹🇭 [42 Bangkok](https://www.42bangkok.com) | Thailand |
-| 🇹🇷 [42 Kocaeli](https://42kocaeli.com.tr) | Turkey |
-| 🇦🇪 [42 Abu Dhabi](https://42abudhabi.ae) | United Arab Emirates |
+| Flag | Country | School |
+| :--- | :------ | :----- |
+| 🇦🇲 | Armenia | [42 Yerevan](https://42yerevan.am) |
+| 🇦🇹 | Austria | [42 Vienna](https://www.42vienna.com) |
+| 🇧🇪 | Belgium | [19 Antwerp](https://campus19.be) |
+| 🇧🇪 | Belgium | [19 Brussels](https://campus19.be) |
+| 🇨🇿 | Czech Republic | [42 Prague](https://www.42prague.com) |
+| 🇫🇮 | Finland | [Hive](https://www.hive.fi/en) |
+| 🇫🇷 | France | [42 Angoulême](https://42angouleme.fr) |
+| 🇫🇷 | France | [42 Le Havre](https://www.42lehavre.fr) |
+| 🇫🇷 | France | [42 Lyon](https://42lyon.fr) |
+| 🇫🇷 | France | [42 Mulhouse](https://www.42mulhouse.fr) |
+| 🇫🇷 | France | [42 Nice](https://www.42nice.fr) |
+| 🇫🇷 | France | [42 Paris](https://42.fr) |
+| 🇫🇷 | France | [42 Perpignan Occitanie](https://42perpignan.fr) |
+| 🇩🇪 | Germany | [42 Berlin](https://42berlin.de) |
+| 🇩🇪 | Germany | [42 Heilbronn](https://www.42heilbronn.de) |
+| 🇩🇪 | Germany | [42 Wolfsburg](https://42wolfsburg.de) |
+| 🇮🇹 | Italy | [42 Firenze](https://42firenze.it) |
+| 🇮🇹 | Italy | [42 Roma](https://42roma.it) |
+| 🇱🇺 | Luxembourg | [42 Luxembourg](https://42luxembourg.lu) |
+| 🇵🇱 | Poland | [42 Warsaw](https://42warsaw.pl) |
+| 🇵🇹 | Portugal | [42 Lisboa](https://www.42lisboa.com) |
+| 🇵🇹 | Portugal | [42 Porto](https://www.42porto.com) |
+| 🇪🇸 | Spain | [42 Alicante](https://www.42alicante.com) |
+| 🇪🇸 | Spain | [42 Barcelona](https://www.42barcelona.com) |
+| 🇪🇸 | Spain | [42 Madrid](https://www.42madrid.com) |
+| 🇪🇸 | Spain | [42 Málaga](https://www.42malaga.com) |
+| 🇪🇸 | Spain | [42 Urduliz](https://www.42urduliz.com) |
+| 🇨🇭 | Switzerland | [42 Lausanne](https://42lausanne.ch) |
+| 🇳🇱 | Netherlands | [Codam](https://www.codam.nl) |
+| 🇹🇷 | Turkey | [42 Istanbul](https://42istanbul.com.tr) |
+| 🇬🇧 | United Kingdom | [42 London](https://42london.com) |
+| 🇷🇺 | Russia | [School 21 – Kazan](https://21-school.ru) |
+| 🇷🇺 | Russia | [School 21 - Moscow](https://21-school.ru) |
 
-#### AMERICA
-|   |   |
-| - | - |
-| 🇧🇷 [42 Belo Horizonte](https://www.42bh.org.br) | Brazil |
-| 🇧🇷 [42 Rio](https://42.rio) | Brazil |
-| 🇧🇷 [42 São Paulo](https://www.42sp.org.br) | Brazil |
-| 🇨🇦 [42 Québec](https://42quebec.com) | Canada |
+### **Asia**
 
-#### AFRICA
-|   |   |
-| - | - |
-| 🇦🇴 [42 Luanda](www.42luanda.com) | Angola |
-| 🇲🇦 [1337 Ben Guerir](https://1337.ma/en/campuses) | Morocco |
-| 🇲🇦 [1337 Khouribga](https://1337.ma/en/campuses) | Morocco |
-| 🇲🇦 [1337 Med](https://1337.ma/en/campuses) | Morocco |
+| Flag | Country | School |
+| :--- | :------ | :----- |
+| 🇯🇵 | Japan | [42 Tokyo](https://42tokyo.jp) |
+| 🇯🇴 | Jordan | [42 Amman](https://www.42network.org/campuses/42-amman) |
+| 🇲🇾 | Malaysia | [42 Kuala Lumpur](https://42kl.edu.my) |
+| 🇸🇬 | Singapore | [42 Singapore](https://www.42singapore.sg) |
+| 🇰🇷 | South Korea | [42 Gyeongsan](https://42gyeongsan.kr) |
+| 🇰🇷 | South Korea | [42 Seoul](https://42seoul.kr) |
+| 🇹🇭 | Thailand | [42 Bangkok](https://www.42bangkok.com) |
+| 🇹🇷 | Turkey | [42 Kocaeli](https://42kocaeli.com.tr) |
+| 🇦🇪 | United Arab Emirates | [42 Abu Dhabi](https://42abudhabi.ae) |
 
-#### OCEANIA
-|   |   |
-| - | - |
-| 🇦🇺 [42 Adelaide](https://www.42adel.org.au) | Australia |
+### **Americas**
 
-#### SOON
-|   |   |
-| - | - |
-| 🇲🇬 [42 Antananarivo](https://www.42network.org/campuses/42-antananarivo) | Madagascar |
-| 🇱🇧 [42 Beirut](https://www.42network.org/campuses/42-beirut) | Lebanon |
-| 🇵🇸 [42 Nablus](https://www.42network.org/campuses/42-nablus) | Palestine |
+| Flag | Country | School |
+| :--- | :------ | :----- |
+| 🇧🇷 | Brazil | [42 Belo Horizonte](https://www.42bh.org.br) |
+| 🇧🇷 | Brazil | [42 Rio](https://42.rio) |
+| 🇧🇷 | Brazil | [42 São Paulo](https://www.42sp.org.br) |
+| 🇨🇦 | Canada | [42 Québec](https://42quebec.com) |
+
+### **Africa**
+
+| Flag | Country | School |
+| :--- | :------ | :----- |
+| 🇦🇴 | Angola | [42 Luanda](www.42luanda.com) |
+| 🇲🇦 | Morocco | [1337 Ben Guerir](https://1337.ma/en/campuses) |
+| 🇲🇦 | Morocco | [1337 Khouribga](https://1337.ma/en/campuses) |
+| 🇲🇦 | Morocco | [1337 Med](https://1337.ma/en/campuses) |
+
+### **Oceania**
+
+| Flag | Country | School |
+| :--- | :------ | :----- |
+| 🇦🇺 | Australia | [42 Adelaide](https://www.42adel.org.au) |
+
+### **Soon**
+
+| Flag | Country | School |
+| :--- | :------ | :----- |
+| 🇲🇬 | Madagascar | [42 Antananarivo](https://www.42network.org/campuses/42-antananarivo) |
+| 🇱🇧 | Lebanon | [42 Beirut](https://www.42network.org/campuses/42-beirut) |
+| 🇵🇸 | Palestine | [42 Nablus](https://www.42network.org/campuses/42-nablus) |
 
 - - - -
-
-<!---
-MISCELLANEOUS
--->
 
 <h1 align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_miscellaneous.png">
@@ -1222,13 +1353,11 @@ MISCELLANEOUS
 	<a href="#--">Scroll To Top</a>
 </p>
 
-----
-
-## **ARTIFICIAL INTELLIGENCE**
+## **Artificial Intelligence**
 
 A diverse ecosystem of AI-driven solutions.
 
-### **CHATBOT**
+### **Chatbot**
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -1240,7 +1369,7 @@ A diverse ecosystem of AI-driven solutions.
 | [Ollama](https://ollama.com) | Create, run, and manage LLMs in a local environment. | `Website` |
 | [Open WebUI](https://github.com/open-webui/open-webui) | User-friendly WebUI for LLMs (formerly Ollama WebUI). | `GitHub` |
 
-### **TEXT**
+### **Text**
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -1248,7 +1377,7 @@ A diverse ecosystem of AI-driven solutions.
 | [QuillBot](https://quillbot.com) | Spelling/grammar checker. | `Website` |
 | [Writerly](https://writerly.ai/) | Content creation. | `Website` |
 
-### **MEDIA**
+### **Media**
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -1260,7 +1389,7 @@ A diverse ecosystem of AI-driven solutions.
 | [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/) | Turn simple brushstrokes into realistic landscape images. | `Website` |
 | [InvokeAI](https://github.com/invoke-ai/InvokeAI) | Generate and create stunning visual media. | `GitHub` |
 
-### **MISCELLANEOUS**
+### **Miscellaneous**
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -1270,11 +1399,11 @@ A diverse ecosystem of AI-driven solutions.
 
 ----
 
-## **EDUCATIONAL RESOURCES**
+## **Educational Resources**
 
 Insights and handy references for programming and learning.
 
-### **PLATAFORMS**
+### **Platforms**
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -1289,7 +1418,7 @@ Insights and handy references for programming and learning.
 | [Hackr](https://hackr.io) | Hundreds of programming courses and tutorials. | `Website` |
 | [Envato Tuts+](https://tutsplus.com) | Learn creative skills from leading industry experts. | `Website` |
 
-### **QUICK REFERENCES**
+### **Quick References**
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -1306,11 +1435,11 @@ Insights and handy references for programming and learning.
 
 ----
 
-## **DESIGN TOOLS**
+## **Design Tools**
 
 A curated collection of tools for creative endeavours.
 
-### **GENERATORS**
+### **Generators**
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -1322,7 +1451,7 @@ A curated collection of tools for creative endeavours.
 | [Duplicate Word Finder](https://duplicateword.com) | Find duplicate words in a text. | `Website` |
 | [Duplicate Word Finder - CodePen](https://codepen.io/finnhvman/pen/oPwXRa) | Find duplicate words in a text. | `Website` |
 
-### **ILLUSTRATIONS**
+### **Illustrations**
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -1334,7 +1463,7 @@ A curated collection of tools for creative endeavours.
 | [GitHub Emoji Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) | Emoji cheatsheet. | `GitHub` |
 | [GitHub Emoji API](https://api.github.com/emojis) | GitHub emoji API. | `GitHub` |
 
-### **IMAGES**
+### **Images**
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -1343,14 +1472,14 @@ A curated collection of tools for creative endeavours.
 | [TinEye](https://tineye.com) | Reverse image search. | `Website` |
 | [Google Images](https://www.google.com/imghp) | Reverse search the web for images. | `Website` |
 
-### **COLORS**
+### **Colors**
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
 | [Flat UI Colors](https://flatuicolors.com) | A total set of 280 colors for UI. | `Website` |
 | [ColorSpace](https://mycolor.space) | Find the perfect matching color scheme. | `Website` |
 
-### **DESIGN**
+### **Design**
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -1362,7 +1491,7 @@ A curated collection of tools for creative endeavours.
 | [Envato Market](https://themeforest.net) | Website templates and themes. | `Website` |
 | [Elements Envato](https://elements.envato.com) | Unlimited downloads of stock videos, photos, music, and more. | `Website` |
 
-### **VIDEO**
+### **Video**
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -1370,14 +1499,14 @@ A curated collection of tools for creative endeavours.
 
 ----
 
-## **ENTERTAINMENT**
+## **Entertainment**
 
 A diverse array of online entertainment and media resources.
 
-> [!NOTE]
-> Depending on your 42 school rules, you may or may not play certain games on school computers. Avoid getting **-420** and **community service**.
+{: .important-title }
+Depending on your 42 school rules, you may or may not play certain games on school computers. Avoid getting **-420** and **community service**.
 
-### **MEDIA**
+### **Media**
 
 | Website | Description |
 | :---- | :---------- |
@@ -1390,14 +1519,14 @@ A diverse array of online entertainment and media resources.
 | [Random Country Generator](https://random.country) | Learn about all the countries in the world. |
 | [SQL Murder Mystery](https://mystery.knightlab.com) | Learn SQL concepts and commands with a fun game. |
 
-### **RUBIK'S CUBE**
+### **Rubik's Cube**
 
 | Website | Description |
 | :---------- | :---------- |
 | [SpeedSolving](https://www.speedsolving.com/wiki/index.php/Main_Page) | Community focused on speed solving puzzles. |
 | [Ruwix](https://ruwix.com) | Learn about Rubik's Cube and other twisty puzzles. |
 
-### **CHESS**
+### **Chess**
 
 | Website | Description |
 | :---- | :---------- |
@@ -1415,7 +1544,7 @@ A diverse array of online entertainment and media resources.
 
 ----
 
-## **DEVELOPMENT TOOLS**
+## **Development Tools**
 
 A comprehensive list of online IDEs, compilers, and debuggers.
 
@@ -1438,7 +1567,7 @@ A comprehensive list of online IDEs, compilers, and debuggers.
 
 ----
 
-## **OTHERS**
+## **Others**
 
 Various tools, resources, curiosities, ... of not particular order or importance.
 
