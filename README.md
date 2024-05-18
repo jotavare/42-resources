@@ -1573,6 +1573,7 @@ Various tools, resources, curiosities, ... of not particular order or importance
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
+| [Guerrilla Mail](https://www.guerrillamail.com) | Disposable temporary email address. | `Website` |
 | [Explain Shell](https://explainshell.com) | Write down a command line to see the help text that matches each argument. | `Website` |
 | [sha256](https://sha256algorithm.com) | sha256 algorithm explained with visuals and interactive. | `Website` |
 | [Know Your Meme](https://knowyourmeme.com) | Documenting Internet phenomena: viral videos, image macros, catchphrases, web celebs and more. | `Website` |
