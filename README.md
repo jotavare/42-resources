@@ -1024,6 +1024,7 @@ Challenges and learning platforms about cyber security and ethical hacking.
 | :------ | :---------- | :----- |
 | [CTF 101](https://ctf101.org) | Introduction to CTFs (Capture The Flag). | `Website` |
 | [42 CTF](https://www.42ctf.org/en) | Cybersecurity challenges platform with various challenges from 42. | `Website` |
+| [picoCTF](https://picoctf.org) | Challenges beginners and experts alike to solve real-life cybersecurity problems. | `Website` |
 | [Root Me](https://www.root-me.org) | Platform for testing and improving knowledge in computer security and hacking. | `Website` |
 | [Sololearn](https://www.sololearn.com) | Courses designed by experts with real-world practice. | `Website` |
 | [LeetCode](https://leetcode.com) | Auto-tests. Fast lane to practice coding for interviews. | `Website` |
