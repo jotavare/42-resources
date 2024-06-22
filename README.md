@@ -1149,8 +1149,8 @@ Information and tools for managing, recovering, or securely wiping data effectiv
 | [nwipe](https://github.com/martijnvanbrummelen/nwipe) | Erase the entire contents of disks. It can wipe a single drive or multiple disks simultaneously. | `GitHub` |
 | [ShredOS](https://github.com/PartialVolume/shredos.x86_64) | USB bootable (BIOS or UEFI) small linux distribution based on nwipe. | `GitHub` |
 | [Eraser](https://eraser.heidi.ie) | Advanced security tool for complete removal of sensitive data from hard drives. | `Website` |
-| [Disk Erasing Methods](https://diskdeleter.com/diskdeleter-provides-16-types-of-the-most-critical-data-erasing-methods/) | Provides 16 types of critical data erasing methods. | `Website` |
-| [ATA Master Passwords](https://ipv5.wordpress.com/2008/04/14/list-of-hard-disk-ata-master-passwords/) | List of master passwords for various hard disk drives. | `Website` |
+| [Erasing Methods](https://diskdeleter.com/diskdeleter-provides-16-types-of-the-most-critical-data-erasing-methods) | Provides 16 types of critical data erasing methods. | `Website` |
+| [Master Passwords](https://ipv5.wordpress.com/2008/04/14/list-of-hard-disk-ata-master-password/) | List of master passwords for various hard disk drives. | `Website` |
 | [FBI](https://www.fbi.gov/file-repository/disposal-of-media-policy-and-procedures.pdf) | Disposal of media policy and procedures. | `PDF` |
 | [CISA](https://www.cisa.gov/uscert/sites/default/files/publications/DisposeDevicesSafely.pdf) | Disposing of devices safely. | `PDF` |
 | [NIST](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-88r1.pdf) | Guidelines for media sanitization. | `PDF` |
