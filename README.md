@@ -1007,6 +1007,7 @@ Test your code with already-made all-in-one testers.
 	<a href="#digital-footprint">Digital Footprint</a> •
 	<a href="#vpn">VPN</a> •
 	<a href="#bootable-usb">Bootable USB</a> •
+	<a href="#data-forensics">Data Forensics</a> •
 	<a href="#package-manager">Package Manager</a> •
 	<a href="#operating-system-and-tools">Operating System and Tools</a> •
 	<a href="#exploits-and-vulnerabilities">Explois and Vulnerabulities</a> •
@@ -1113,6 +1114,50 @@ Create portable storage to install or repair operating systems.
 | [Rufus](https://rufus.ie) | Open-source portable app for Windows, creating bootable USB flash drives or Live USBs. | `Website` |
 | [Ventoy](https://www.ventoy.net) | Open-source tool for creating bootable USB drives supporting various file types. | `Website` |
 | [Etcher](https://www.balena.io/etcher) | Cross-platform tool for safely flashing OS images onto SD cards and USB drives. | `Website` |
+
+----
+
+### **Data Forensics**
+
+Information and tools for managing, recovering, or securely wiping data effectively.
+
+### **Data Management**
+| Tool | Description | Source |
+| :------ | :---------- | :----- |
+| [hdparm](https://wiki.archlinux.org/title/Hdparm) |  set and view ATA hard disk drive hardware parameters and test performance. | `Website` |
+| [sdparm](https://sg.danny.cz/sg/sdparm.html) | Similar to hdparm but can be used on any device that uses a SCSI command set. | `Website` |
+| [GParted](https://gparted.org/) | Used for creating, deleting, resizing, moving, checking, and copying disk partitions and their file systems. | `Website` |
+| [DiskPart](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/diskpart) | Command-line disk partitioning utility, replacing its predecessor, fdisk. | `Website` |
+
+### **Data Recovery**
+| Tool | Description | Source |
+| :------ | :---------- | :----- |
+| [Disk Drill](https://www.cleverfiles.com/disk-drill.html) | Data recovery utility for Windows and macOS developed by Cleverfiles. | `Website` |
+| [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) | Free and open-source utility software for data recovery with text-based user interface. | `Website` |
+| [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) | Data recovery utility that helps users recover lost partitions or repair corrupted filesystems. | `Website` |
+| [Recuva](https://www.ccleaner.com/recuva) | Undeletion program for Windows, developed by Piriform Software. | `Website` |
+| [R-Studio](https://www.r-studio.com) | Data recovery and file undelete solution for Windows, Mac and Linux OS. | `Website` |
+| [ddrescue](https://www.gnu.org/software/ddrescue) | Data recovery tool for disk drives, DVDs, CDs, and other digital storage media. | `Website` |
+
+### **Data Wiping**
+| Tool | Description | Source |
+| :------ | :---------- | :----- |
+| [DBAN](https://dban.org) | Securely erase a hard disk until its data is permanently removed and no longer recoverable | `Website` |
+| [nwipe](https://github.com/martijnvanbrummelen/nwipe) | Securely erase the entire contents of disks. It can wipe a single drive or multiple disks simultaneously. | `GitHub` |
+| [ShredOS](https://github.com/PartialVolume/shredos.x86_64) | USB bootable (BIOS or UEFI) small linux distribution based on nwipe. | `GitHub` |
+| [Eraser](https://eraser.heidi.ie) | Advanced security tool for complete removal of sensitive data from hard drives. | `Website` |
+| [Disk Erasing Methods](https://diskdeleter.com/diskdeleter-provides-16-types-of-the-most-critical-data-erasing-methods/) | Provides 16 types of critical data erasing methods. | `Website` |
+| [Hard Disk ATA Master Passwords](https://ipv5.wordpress.com/2008/04/14/list-of-hard-disk-ata-master-passwords/) | List of master passwords for various hard disk drives. | `Website` |
+| [FBI - Disposal of Media Policy and Procedures](https://www.fbi.gov/file-repository/disposal-of-media-policy-and-procedures.pdf) | ... | `PDF` |
+| [CISA - Disposing of Devices Safely](https://www.cisa.gov/uscert/sites/default/files/publications/DisposeDevicesSafely.pdf) | ... | `PDF` |
+| [NIST - Guidelines for Media Sanitization](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-88r1.pdf) | ... | `PDF` |
+
+### **Data Utility**
+| Tool | Description | Source |
+| :------ | :---------- | :----- |
+| [Czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images, etc.  | `GitHub` |
+| [BleachBit](https://www.bleachbit.org) | Free and open-source disk space cleaner, privacy manager, and computer system optimizer. | `Website` |
+| [CCleaner](https://www.ccleaner.com) | Clean potentially unwanted files and invalid windows registry entries from a computer. | `Website` |
 
 ----
 
@@ -1354,7 +1399,7 @@ Five elite security teams. Six never-before-told stories.
 	<a href="#--">Scroll To Top</a>
 </p>
 
-## **Artificial Intelligence**
+### **Artificial Intelligence**
 
 A diverse ecosystem of AI-driven solutions.
 
@@ -1400,7 +1445,7 @@ A diverse ecosystem of AI-driven solutions.
 
 ----
 
-## **Educational Resources**
+### **Educational Resources**
 
 Insights and handy references for programming and learning.
 
@@ -1436,7 +1481,7 @@ Insights and handy references for programming and learning.
 
 ----
 
-## **Design Tools**
+### **Design Tools**
 
 A curated collection of tools for creative endeavours.
 
@@ -1500,7 +1545,7 @@ A curated collection of tools for creative endeavours.
 
 ----
 
-## **Entertainment**
+### **Entertainment**
 
 A diverse array of online entertainment and media resources.
 
@@ -1545,7 +1590,7 @@ A diverse array of online entertainment and media resources.
 
 ----
 
-## **Development Tools**
+### **Development Tools**
 
 A comprehensive list of online IDEs, compilers, and debuggers.
 
@@ -1568,7 +1613,7 @@ A comprehensive list of online IDEs, compilers, and debuggers.
 
 ----
 
-## **Others**
+### **Others**
 
 Various tools, resources, curiosities, ... of not particular order or importance.
 
