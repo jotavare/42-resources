@@ -1127,16 +1127,14 @@ Create portable storage to install or repair operating systems.
 
 Information and tools for managing, recovering, or securely wiping data effectively.
 
-### **Data Management**
-| Tool | Description | Source |
+| Management | Description | Source |
 | :------ | :---------- | :----- |
 | [hdparm](https://wiki.archlinux.org/title/Hdparm) |  set and view ATA hard disk drive hardware parameters and test performance. | `Website` |
 | [sdparm](https://sg.danny.cz/sg/sdparm.html) | Similar to hdparm but can be used on any device that uses a SCSI command set. | `Website` |
 | [GParted](https://gparted.org/) | Used for creating, deleting, resizing, moving, checking, and copying disk partitions and their file systems. | `Website` |
 | [DiskPart](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/diskpart) | Command-line disk partitioning utility, replacing its predecessor, fdisk. | `Website` |
 
-### **Data Recovery**
-| Tool | Description | Source |
+| Recovery | Description | Source |
 | :------ | :---------- | :----- |
 | [Disk Drill](https://www.cleverfiles.com/disk-drill.html) | Data recovery utility for Windows and macOS developed by Cleverfiles. | `Website` |
 | [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) | Free and open-source utility software for data recovery with text-based user interface. | `Website` |
@@ -1145,8 +1143,7 @@ Information and tools for managing, recovering, or securely wiping data effectiv
 | [R-Studio](https://www.r-studio.com) | Data recovery and file undelete solution for Windows, Mac and Linux OS. | `Website` |
 | [ddrescue](https://www.gnu.org/software/ddrescue) | Data recovery tool for disk drives, DVDs, CDs, and other digital storage media. | `Website` |
 
-### **Data Wiping**
-| Tool | Description | Source |
+| Wiping | Description | Source |
 | :------ | :---------- | :----- |
 | [DBAN](https://dban.org) | Securely erase a hard disk until its data is permanently removed and no longer recoverable | `Website` |
 | [nwipe](https://github.com/martijnvanbrummelen/nwipe) | Securely erase the entire contents of disks. It can wipe a single drive or multiple disks simultaneously. | `GitHub` |
@@ -1158,8 +1155,7 @@ Information and tools for managing, recovering, or securely wiping data effectiv
 | [CISA - Disposing of Devices Safely](https://www.cisa.gov/uscert/sites/default/files/publications/DisposeDevicesSafely.pdf) | ... | `PDF` |
 | [NIST - Guidelines for Media Sanitization](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-88r1.pdf) | ... | `PDF` |
 
-### **Data Utility**
-| Tool | Description | Source |
+| Utility | Description | Source |
 | :------ | :---------- | :----- |
 | [Czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images, etc.  | `GitHub` |
 | [BleachBit](https://www.bleachbit.org) | Free and open-source disk space cleaner, privacy manager, and computer system optimizer. | `Website` |
