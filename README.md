@@ -1145,19 +1145,19 @@ Information and tools for managing, recovering, or securely wiping data effectiv
 
 | Wiping | Description | Source |
 | :------ | :---------- | :----- |
-| [DBAN](https://dban.org) | Securely erase a hard disk until its data is permanently removed and no longer recoverable | `Website` |
-| [nwipe](https://github.com/martijnvanbrummelen/nwipe) | Securely erase the entire contents of disks. It can wipe a single drive or multiple disks simultaneously. | `GitHub` |
+| [DBAN](https://dban.org) | Erase a hard disk until its data is permanently removed and no longer recoverable. | `Website` |
+| [nwipe](https://github.com/martijnvanbrummelen/nwipe) | Erase the entire contents of disks. It can wipe a single drive or multiple disks simultaneously. | `GitHub` |
 | [ShredOS](https://github.com/PartialVolume/shredos.x86_64) | USB bootable (BIOS or UEFI) small linux distribution based on nwipe. | `GitHub` |
 | [Eraser](https://eraser.heidi.ie) | Advanced security tool for complete removal of sensitive data from hard drives. | `Website` |
 | [Disk Erasing Methods](https://diskdeleter.com/diskdeleter-provides-16-types-of-the-most-critical-data-erasing-methods/) | Provides 16 types of critical data erasing methods. | `Website` |
-| [Hard Disk ATA Master Passwords](https://ipv5.wordpress.com/2008/04/14/list-of-hard-disk-ata-master-passwords/) | List of master passwords for various hard disk drives. | `Website` |
-| [FBI - Disposal of Media Policy and Procedures](https://www.fbi.gov/file-repository/disposal-of-media-policy-and-procedures.pdf) | ... | `PDF` |
-| [CISA - Disposing of Devices Safely](https://www.cisa.gov/uscert/sites/default/files/publications/DisposeDevicesSafely.pdf) | ... | `PDF` |
-| [NIST - Guidelines for Media Sanitization](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-88r1.pdf) | ... | `PDF` |
+| [ATA Master Passwords](https://ipv5.wordpress.com/2008/04/14/list-of-hard-disk-ata-master-passwords/) | List of master passwords for various hard disk drives. | `Website` |
+| [FBI](https://www.fbi.gov/file-repository/disposal-of-media-policy-and-procedures.pdf) | Disposal of media policy and procedures. | `PDF` |
+| [CISA](https://www.cisa.gov/uscert/sites/default/files/publications/DisposeDevicesSafely.pdf) | Disposing of devices safely. | `PDF` |
+| [NIST](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-88r1.pdf) | Guidelines for media sanitization. | `PDF` |
 
 | Utility | Description | Source |
 | :------ | :---------- | :----- |
-| [Czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images, etc.  | `GitHub` |
+| [Czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images, etc. | `GitHub` |
 | [BleachBit](https://www.bleachbit.org) | Free and open-source disk space cleaner, privacy manager, and computer system optimizer. | `Website` |
 | [CCleaner](https://www.ccleaner.com) | Clean potentially unwanted files and invalid windows registry entries from a computer. | `Website` |
 
