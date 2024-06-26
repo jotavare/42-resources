@@ -318,7 +318,7 @@ Resources of no particular order but that I feel you should know.
 	<a href="#netpractice">Netpractice</a> •
 	<a href="#cub3d">Cub3d</a> •
 	<a href="#minirt">MiniRT</a> •
-	<a href="#05-cpp-module-00-09">CPP Module (00-09)</a> •
+	<a href="#cpp-module-00-09">CPP Module (00-09)</a> •
 	<a href="#webserv">Webserv</a> •
 	<a href="#ft_irc">Ft_irc</a> •
 	<a href="#inception">Inception</a> •
