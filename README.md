@@ -28,7 +28,7 @@ Here, you’ll find a set of resources that proved helpful during my time at 42 
 This project is licensed under MIT License. See the [LICENSE](https://github.com/jotavare/42-resources/blob/main/LICENSE) file for details.
 
 > [!NOTE]
-> If you find any issues or have suggestions for improvements, feel free to open an issue, submit a pull request or contact me. Thank you to everyone that contributed!
+> If you find any issues or have suggestions for improvements, feel free to open an issue, submit a pull request or contact me. Thank you to everyone who contributed!
 
 <a href="https://github.com/jotavare/42-resources/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=jotavare/42-resources" />
@@ -1129,8 +1129,8 @@ Information and tools for managing, recovering, or securely wiping data effectiv
 
 | Management | Description | Source |
 | :------ | :---------- | :----- |
-| [hdparm](https://wiki.archlinux.org/title/Hdparm) |  set and view ATA hard disk drive hardware parameters and test performance. | `Website` |
-| [sdparm](https://sg.danny.cz/sg/sdparm.html) | Similar to hdparm but can be used on any device that uses a SCSI command set. | `Website` |
+| [hdparm](https://wiki.archlinux.org/title/Hdparm) | Set and view ATA hard disk drive hardware parameters and test performance. | `Website` |
+| [sdparm](https://sg.danny.cz/sg/sdparm.html) | Similar to `hdparm` but can be used on any device that uses a SCSI command set. | `Website` |
 | [GParted](https://gparted.org/) | Create, delete, resize, move, check, and copy disk partitions and their file systems. | `Website` |
 | [DiskPart](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/diskpart) | Command-line disk partitioning utility, replacing its predecessor, fdisk. | `Website` |
 
@@ -1146,8 +1146,8 @@ Information and tools for managing, recovering, or securely wiping data effectiv
 | Wiping | Description | Source |
 | :------ | :---------- | :----- |
 | [DBAN](https://dban.org) | Erase a hard disk until its data is permanently removed and unrecoverable. | `Website` |
-| [nwipe](https://github.com/martijnvanbrummelen/nwipe) | Erase the entire contents a single drive or multiple disks simultaneously. | `GitHub` |
-| [ShredOS](https://github.com/PartialVolume/shredos.x86_64) | USB bootable (BIOS or UEFI) small linux distribution based on nwipe. | `GitHub` |
+| [nwipe](https://github.com/martijnvanbrummelen/nwipe) | Erase the entire contents of a single drive or multiple disks simultaneously. | `GitHub` |
+| [ShredOS](https://github.com/PartialVolume/shredos.x86_64) | USB bootable (BIOS or UEFI) small Linux distribution based on nwipe. | `GitHub` |
 | [Eraser](https://eraser.heidi.ie) | Security tool for complete removal of sensitive data from hard drives. | `Website` |
 | [Erasing Methods](https://diskdeleter.com/diskdeleter-provides-16-types-of-the-most-critical-data-erasing-methods) | Provides 16 types of critical data erasing methods. | `Website` |
 | [Master Passwords](https://ipv5.wordpress.com/2008/04/14/list-of-hard-disk-ata-master-password/) | List of master passwords for various hard disk drives. | `Website` |
@@ -1157,9 +1157,9 @@ Information and tools for managing, recovering, or securely wiping data effectiv
 
 | Utility | Description | Source |
 | :------ | :---------- | :----- |
-| [Czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images, etc. | `GitHub` |
+| [Czkawka](https://github.com/qarmin/czkawka) | Multi-functional app to find duplicates, empty folders, similar images, etc. | `GitHub` |
 | [BleachBit](https://www.bleachbit.org) | Open-source disk space cleaner, privacy manager, and computer system optimizer. | `Website` |
-| [CCleaner](https://www.ccleaner.com) | Clean potentially unwanted files and invalid windows registry entries from a computer. | `Website` |
+| [CCleaner](https://www.ccleaner.com) | Clean potentially unwanted files and invalid Windows registry entries from a computer. | `Website` |
 
 ----
 
@@ -1174,6 +1174,7 @@ Software tools that automate the process of installing, upgrading, configuring, 
 | [FOSSHUB](https://www.fosshub.com) | Platform to download for free many popular and *clean* software titles. | `Website` |
 | [NirSoft](https://www.nirsoft.net) | Unique collection of small and useful freeware utilities. | `Website` |
 | [NirLauncher](https://launcher.nirsoft.net) | Package of more than 200 portable freeware utilities for Windows. | `Website` |
+| [PackagePicker](https://packagepicker.co) | A quick way to install your favourite software on a new computer. | `Website` |
 
 ----
 
@@ -1187,6 +1188,7 @@ Operating systems for every occasion and tools to enhance them.
 | [Kali](https://www.kali.org) | Linux distro for penetration testing, security research, forensics, and reverse engineering. | `Website` |
 | [Tiny11](https://github.com/ntdevlabs/tiny11builder) | Trimmed-down Windows 11 image available on GitHub. | `GitHub` |
 | [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) | Scripts to debloat Windows 10 and 11. | `GitHub` |
+| [Puter](https://github.com/HeyPuter/puter) Advanced, open-source internet operating system. | `GitHub` |
 
 ----
 
