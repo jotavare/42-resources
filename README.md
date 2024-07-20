@@ -127,7 +127,7 @@ For a specific 42 school social media, check the section [Campuses](#---6) and c
 
 ### **Exams**
 
-Websites that I found useful for studying 42 exams, some are outdated but still useful.
+Websites that I found useful for studying 42 exams. Some are outdated but still useful.
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -182,7 +182,7 @@ Guides and walkthroughs to navigate 42 Piscine and Common Core.
 
 ### **Extensions**
 
-VS Code extensions for enhancing your development experience.
+VS Code extensions to enhance your development experience.
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -237,12 +237,12 @@ Insights on crafting effective README files and integrating badges for your proj
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
-| [README.md Generator](https://profile-readme-generator.com)                                    | Create your GitHub README.md simply and quickly.          | `Website` |
+| [README.md Generator](https://profile-readme-generator.com)                                    | Create your GitHub README.md easily and quickly.          | `Website` |
 | [Badge 42](https://github.com/JaeSeoKim/badge42)                                               | Dynamically generated 42 badges for your git readmes.     | `GitHub`  |
 | [42 Project Badges](https://github.com/vinicius-f-pereira/42-project-badges)                   | Badges designed for 42 curriculum projects.               | `GitHub`  |
 | [1337 Readme](https://github.com/mohouyizme/1337-readme)                                       | Share your progress via GitHub README.md.                 | `GitHub`  |
 | [42 Unlicense](https://github.com/gcamerli/42unlicense)                                        | Flavoured version, based on the Unlicense public license. | `GitHub`  |
-| [GitHub Social Preview](https://www.bannerbear.com/demos/github-social-preview-generator-tool) | Auto generate a social preview image for your repository. | `Website` |
+| [GitHub Social Preview](https://www.bannerbear.com/demos/github-social-preview-generator-tool) | Auto-generate a social preview image for your repository. | `Website` |
 
 ----
 
@@ -264,7 +264,7 @@ Software designed to simplify tasks, and streamline workflow.
 
 ### **Others**
 
-Resources of no particular order but that I feel you should know.
+Resources of no particular order but that you should know.
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -1031,7 +1031,7 @@ Challenges and learning platforms about cyber security and ethical hacking.
 | :------ | :---------- | :----- |
 | [CTF 101](https://ctf101.org) | Introduction to CTFs (Capture The Flag). | `Website` |
 | [42 CTF](https://www.42ctf.org/en) | Cybersecurity challenges platform with various challenges from 42. | `Website` |
-| [picoCTF](https://picoctf.org) | Challenges beginners and experts alike to solve real-life cybersecurity problems. | `Website` |
+| [picoCTF](https://picoctf.org) | Challenges beginners and experts to solve real-life cybersecurity problems. | `Website` |
 | [Root Me](https://www.root-me.org) | Platform for testing and improving knowledge in computer security and hacking. | `Website` |
 | [Sololearn](https://www.sololearn.com) | Courses designed by experts with real-world practice. | `Website` |
 | [LeetCode](https://leetcode.com) | Auto-tests. Fast lane to practice coding for interviews. | `Website` |
@@ -1083,7 +1083,7 @@ Collection of tools used to perform penetration testing or ethical hacking.
 
 ### **Digital Footprint**
 
-Discover the imprint left by your online activities.
+Search the imprint left by your online activities.
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
@@ -1619,7 +1619,7 @@ A comprehensive list of online IDEs, compilers, and debuggers.
 
 ### **Others**
 
-Various tools, resources, curiosities, ... of not particular order or importance.
+Various tools, resources, curiosities, ... of no particular order or importance.
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
