@@ -326,7 +326,7 @@ Resources of no particular order but that you should know.
 	<a href="#--">Scroll To Top</a>
 </p>
 
-> [!NOTE]  
+> [!NOTE]
 > The subjects at 42 undergo regular updates, so the information provided below might not be current. Additionally, as some projects are optional, resources might not be available if I haven't completed them.
 
 ### **Subjects**
@@ -512,7 +512,7 @@ Test your code with already-made all-in-one testers.
 
 ### **Minilibx**
 
-> [!NOTE]  
+> [!NOTE]
 > The links in this section are the most useful for `so_long`, `fract-ol`, `fdf`, `cub3d` and `minirt`.
 
 | Resource                                                                         | Source   | User |
@@ -825,7 +825,7 @@ Test your code with already-made all-in-one testers.
 
 ### **CPP Modules (00-09)**
 
-> [!NOTE]  
+> [!NOTE]
 > The 42 intra videos have bad fame, but in C++ they are good, so I recommend watching them first before watching any guides.
 
 | Resource                                                                                                                                         | Source |
@@ -1096,6 +1096,9 @@ Search the imprint left by your online activities.
 | [OSINT Framework](https://osintframework.com) | Gathers information from various free tools/resources. | `Website` |
 | [sherlock](https://github.com/sherlock-project/sherlock) | Locates social media accounts via usernames on multiple platforms. | `GitHub` |
 | [Password Game](https://neal.fun/password-game) | Engaging yet challenging password game. | `Website` |
+| [StopNCII](https://stopncii.org) | Free tool designed to support victims of Non-Consensual Intimate Image (NCII) abuse. | `Website` |
+| [Mosint](https://github.com/alpkeskin/mosint) | Osint tool written in Go that allows you investigate for target emails. | `GitHub` |
+| [NExfil](https://github.com/thewhiteh4t/nexfil) | OSINT tool written in python for finding profiles by username. | `GitHub` |
 
 ----
 
@@ -1623,6 +1626,7 @@ Various tools, resources, curiosities, ... of no particular order or importance.
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
+| [Easing Functions](https://easings.net) | Make animations more realistic by picking the right easing function. | `Website` |
 | [Guerrilla Mail](https://www.guerrillamail.com) | Disposable temporary email address. | `Website` |
 | [Explain Shell](https://explainshell.com) | Write down a command line to see the help text that matches each argument. | `Website` |
 | [sha256](https://sha256algorithm.com) | sha256 algorithm explained with visuals and interactive. | `Website` |
