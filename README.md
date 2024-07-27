@@ -1225,6 +1225,7 @@ Guides and resources about important topics that may help with cyber security or
 | [What is MD5?](https://www.okta.com/identity-101/md5) | Explanation of MD5, a widely-used cryptographic hash function. | `Website` |
 | [World of Reversing](https://medium.com/@m0ab1d42/reversing-everything-except-love-27fe7a3d9e76) | Article introducing reversing concepts. | `Medium` |
 | [Exploring the Heap](https://medium.com/@m0ab1d42/heap-the-witchcraft-dungeon-ac08e782fb49) | Article exploring the computing concept of the heap. | `Medium` |
+| [Talkback](https://talkback.sh) | Smart infosec resource aggregator. | `Website` |
 
 ----
 
