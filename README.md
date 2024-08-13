@@ -25,7 +25,7 @@
 
 Here, you’ll find a set of resources that proved helpful during my time at 42 School, along with some interesting finds that, while not as useful for 42 specifically, are still worth exploring. Happy coding!
 
-This project is licensed under MIT License. See the [LICENSE](https://github.com/jotavare/42-resources/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/jotavare/42-resources/blob/main/LICENSE) file for details.
 
 > [!NOTE]
 > If you find any issues or have suggestions for improvements, feel free to open an issue, submit a pull request or contact me. Thank you to everyone who contributed!
@@ -252,7 +252,7 @@ Software designed to simplify tasks, and streamline workflow.
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
-| [Obsidian](https://obsidian.md)          | Private and flexible writing app that adapts to how you think.                        | `Website` |
+| [Obsidian](https://obsidian.md)          | Private and flexible writing app that adapts to your thoughts.                        | `Website` |
 | [Notion](https://www.notion.so)          | Freemium productivity and a note-taking web application developed by Notion Labs Inc. | `Website` |
 | [Trello](https://trello.com)             | Ultimate project management tool.                                                     | `Website` |
 | [Scribe](https://scribehow.com)          | Turn any process into a step-by-step guide, instantly.                                | `Website` |
@@ -990,13 +990,13 @@ Test your code with already-made all-in-one testers.
 | [Integrating Vue.js and Socket.io](https://www.digitalocean.com/community/tutorials/vuejs-vue-socketio)                                                                                   | `Website` |
 | [Building a multiplayer game using WebSockets](https://dev.to/sauravmh/building-a-multiplayer-game-using-websockets-1n63)                                                                 | `Website` |
 | [Socket.IO - Get started](https://socket.io/get-started/chat)                                                                                                                             | `Website` |
-| [Build lobby based online multiplayer browser games with React and NodeJS](https://francois-steinel.fr/articles/build-lobby-based-online-multiplayer-browser-games-with-react-and-nodejs) | `Website` |
+| [Build lobby-based online multiplayer browser games with React and NodeJS](https://francois-steinel.fr/articles/build-lobby-based-online-multiplayer-browser-games-with-react-and-nodejs) | `Website` |
 | [js-pong](https://github.com/WebDevSimplified/js-pong)                                                                                                                                    | `GitHub`  |
 
 | Video Resource                                                                                          | Source    | User |
 | :------------------------------------------------------------------------------------------------------ | :-------- | :--- |
 | [Beginner JavaScript Game Dev Project](https://www.youtube.com/watch?v=PeY6lXPrPaA)                     | `Youtube` | `Web Dev Simplified` |
-| [Easiest way to build real-time web apps? WEBSOCKETS with NestJS](https://youtu.be/atbdpX4CViM)         | `Youtube` | `Marius Espejo` |
+| [Easiest way to build real-time web apps? WebSockets with NestJS](https://youtu.be/atbdpX4CViM)         | `Youtube` | `Marius Espejo` |
 | [NestJS Authentication: JWTs, Sessions, logins, and more!](https://www.youtube.com/watch?v=_L225zpUK0M) | `Youtube` | `Marius Espejo` |
 | [Vue JS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)                                      | `Youtube` | `Traversy Media` |
 | [Build a Realtime Chat App with VueJS](https://youtu.be/SZlsP5uxYjk)                                    | `Youtube` | `Scalable Scripts` |
@@ -1032,7 +1032,7 @@ Challenges and learning platforms about cyber security and ethical hacking.
 | [CTF 101](https://ctf101.org) | Introduction to CTFs (Capture The Flag). | `Website` |
 | [42 CTF](https://www.42ctf.org/en) | Cybersecurity challenges platform with various challenges from 42. | `Website` |
 | [picoCTF](https://picoctf.org) | Challenges beginners and experts to solve real-life cybersecurity problems. | `Website` |
-| [Root Me](https://www.root-me.org) | Platform for testing and improving knowledge in computer security and hacking. | `Website` |
+| [Root Me](https://www.root-me.org) | Platform for testing and improving computer security and hacking knowledge. | `Website` |
 | [Sololearn](https://www.sololearn.com) | Courses designed by experts with real-world practice. | `Website` |
 | [LeetCode](https://leetcode.com) | Auto-tests. Fast lane to practice coding for interviews. | `Website` |
 | [GeeksforGeeks](https://www.geeksforgeeks.org) | Explanatory articles for algorithms and techniques. | `Website` |
@@ -1097,8 +1097,8 @@ Search the imprint left by your online activities.
 | [sherlock](https://github.com/sherlock-project/sherlock) | Locates social media accounts via usernames on multiple platforms. | `GitHub` |
 | [Password Game](https://neal.fun/password-game) | Engaging yet challenging password game. | `Website` |
 | [StopNCII](https://stopncii.org) | Free tool designed to support victims of Non-Consensual Intimate Image (NCII) abuse. | `Website` |
-| [Mosint](https://github.com/alpkeskin/mosint) | Osint tool written in Go that allows you investigate for target emails. | `GitHub` |
-| [NExfil](https://github.com/thewhiteh4t/nexfil) | OSINT tool written in python for finding profiles by username. | `GitHub` |
+| [Mosint](https://github.com/alpkeskin/mosint) | Osint tool written in Go that allows you to investigate for target emails. | `GitHub` |
+| [NExfil](https://github.com/thewhiteh4t/nexfil) | OSINT tool written in Python for finding profiles by username. | `GitHub` |
 
 ----
 
