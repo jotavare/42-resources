@@ -802,7 +802,7 @@ Test your code with already-made all-in-one testers.
 | [The BMP file format](https://engineering.purdue.edu/ece264/17au/hw/HW15)                                                   | `Website` |
 | [Accelerated Ray Tracing in One Weekend in CUDA](https://developer.nvidia.com/blog/accelerated-ray-tracing-cuda)            | `Website` |
 | [Graphics Programming Projects](https://graphicscodex.com/projects/projects)                                                | `Website` |
-| [The Ray Tracing Challenge](https://42born2code.slack.com/files/U052QUDRX6G/F06UX555V0V/jamis_buck_-_the_ray_tracer_challenge-pragmatic_bookshelf__2019_.pdf) | `PDF`|
+| [Jamis Buck - The Ray Tracer Challenge](https://github.com/user-attachments/files/16740679/Jamis.Buck.-.The.Ray.Tracer.Challenge-Pragmatic.Bookshelf.2019.pdf) | `PDF`|
 | [Ray Tracing Intro - Cornell Computer Science](https://www.cs.cornell.edu/courses/cs4620/2020fa/slides/07.1ray-intro.pdf)   | `PDF`  |
 | [Ray Tracing with the BSP Tree](http://www.sci.utah.edu/~thiago/papers/BSP_RT08.pdf)                                        | `PDF`  |
 
