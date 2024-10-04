@@ -551,6 +551,10 @@ Test your code with already-made all-in-one testers.
 | [so_long_invalidator](https://github.com/Nuno-Jesus/so_long_invalidator) | `GitHub`  | `Nuno-Jesus` |
 | [so_long_tester](https://github.com/augustobecker/so_long_tester)        | `GitHub`  | `augustobecker` |
 
+| Tool                                                                       | Source  | User           |
+| :------------------------------------------------------------------------- | :------ | :------------- |
+| [so_long Map Creator](https://github.com/bennamrouche/so_long-Map-Creator) | GitHub  | bennamrouche   |
+
 ----
 
 ### **Fract-ol**
@@ -621,6 +625,10 @@ Test your code with already-made all-in-one testers.
 | :-------------------------------------------------------------- | :-------- | :--- |
 | [42MapGenerator](https://github.com/jgigault/42MapGenerator)    | `GitHub`  | `jgigault` |
 | [RANDOM.ORG Integer Sets](https://www.random.org/integer-sets)  | `Website` | |
+
+| Tool                                                            | Source    | User |
+| :-------------------------------------------------------------- | :-------- | :--- |
+| [Png To FDF Map](https://github.com/bennamrouche/pngtofdf-42)   | `GitHub` | `bennamrouche` |
 
 ----
 
@@ -928,6 +936,10 @@ Test your code with already-made all-in-one testers.
 | [RFC2811 - Internet Relay Chat: Channel Management](https://datatracker.ietf.org/doc/html/rfc2811)    | `Website` |
 | [RFC2812 - Internet Relay Chat: Client Protocol](https://datatracker.ietf.org/doc/html/rfc2812)       | `Website` |
 | [RFC2813 - Internet Relay Chat: Server Protocol](https://datatracker.ietf.org/doc/html/rfc2813)       | `Website` |
+
+| Tester                                                                 | Source    | User |
+| :--------------------------------------------------------------------- | :-------- | :--- |
+| [irc-tester](https://github.com/bennamrouche/irc-tester)               | `GitHub`  | `bennamrouche` |
 
 ----
 
