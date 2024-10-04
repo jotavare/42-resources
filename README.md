@@ -553,7 +553,7 @@ Test your code with already-made all-in-one testers.
 
 | Tool                                                                       | Source  | User           |
 | :------------------------------------------------------------------------- | :------ | :------------- |
-| [so_long Map Creator](https://github.com/bennamrouche/so_long-Map-Creator) | GitHub  | bennamrouche   |
+| [so_long Map Creator](https://github.com/bennamrouche/so_long-Map-Creator) | `GitHub`  | `bennamrouche` |
 
 ----
 
