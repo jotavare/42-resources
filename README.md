@@ -83,7 +83,7 @@ Main websites of 42 Network.
 | [Clusters](https://meta.intra.42.fr/clusters) | Check who is online in the 42 school cluster. | `Intra` |
 | [F.A.Q](https://meta.intra.42.fr/articles) | Frequently asked questions about the school. | `Intra` |
 | [42 API](https://api.intra.42.fr/apidoc) | Documentation to build an application with 42 API. | `Intra` |
-| [Slack](https://app.slack.com/client/T039P7U66/C04971HPWQ1) | Official slack channel for 42 students. | `Slack` |
+| [Slack](https://42born2code.slack.com/) | Official slack channel for 42 students. | `Slack` |
 | [Stack Overflow](https://stackoverflowteams.com/c/42network) | Official 42 forum. | `Website` |
 
 ----
