@@ -1062,6 +1062,7 @@ Challenges and learning platforms about cyber security and ethical hacking.
 | [Hack This Site](https://www.hackthissite.org) | Training ground for ethical hacking with challenges, CTFs, and more. | `Website` |
 | [Cyberseek](https://www.cyberseek.org) | Explore career paths, skills, and certifications in cyber security. | `Website` |
 | [Advent of Code](https://adventofcode.com) | Christmas-themed programming challenges following an Advent calendar. | `Website` |
+| [LabEx](https://labex.io/skilltrees/cybersecurity) | Hands-on labs for cyber security, covering tools like Nmap, Wireshark, Kali, and more. | `Website` |
 
 ----
 
