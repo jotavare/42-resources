@@ -83,7 +83,7 @@ Main websites of 42 Network.
 | [Clusters](https://meta.intra.42.fr/clusters) | Check who is online in the 42 school cluster. | `Intra` |
 | [F.A.Q](https://meta.intra.42.fr/articles) | Frequently asked questions about the school. | `Intra` |
 | [42 API](https://api.intra.42.fr/apidoc) | Documentation to build an application with 42 API. | `Intra` |
-| [Slack](https://app.slack.com/client/T039P7U66/C04971HPWQ1) | Official slack channel for 42 students. | `Slack` |
+| [Slack](https://42born2code.slack.com/) | Official slack channel for 42 students. | `Slack` |
 | [Stack Overflow](https://stackoverflowteams.com/c/42network) | Official 42 forum. | `Website` |
 
 ----
@@ -553,7 +553,7 @@ Test your code with already-made all-in-one testers.
 
 | Tool                                                                       | Source  | User           |
 | :------------------------------------------------------------------------- | :------ | :------------- |
-| [so_long Map Creator](https://github.com/bennamrouche/so_long-Map-Creator) | GitHub  | bennamrouche   |
+| [so_long Map Creator](https://github.com/bennamrouche/so_long-Map-Creator) | `GitHub`  | `bennamrouche` |
 
 ----
 
@@ -1204,7 +1204,7 @@ Operating systems for every occasion and tools to enhance them.
 | [Kali](https://www.kali.org) | Linux distro for penetration testing, security research, forensics, and reverse engineering. | `Website` |
 | [Tiny11](https://github.com/ntdevlabs/tiny11builder) | Trimmed-down Windows 11 image available on GitHub. | `GitHub` |
 | [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) | Scripts to debloat Windows 10 and 11. | `GitHub` |
-| [Puter](https://github.com/HeyPuter/puter) Advanced, open-source internet operating system. | `GitHub` |
+| [Puter](https://github.com/HeyPuter/puter) | Advanced, open-source internet operating system. | `GitHub` |
 
 ----
 
