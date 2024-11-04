@@ -1204,7 +1204,7 @@ Operating systems for every occasion and tools to enhance them.
 | [Kali](https://www.kali.org) | Linux distro for penetration testing, security research, forensics, and reverse engineering. | `Website` |
 | [Tiny11](https://github.com/ntdevlabs/tiny11builder) | Trimmed-down Windows 11 image available on GitHub. | `GitHub` |
 | [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) | Scripts to debloat Windows 10 and 11. | `GitHub` |
-| [Puter](https://github.com/HeyPuter/puter) Advanced, open-source internet operating system. | `GitHub` |
+| [Puter](https://github.com/HeyPuter/puter) | Advanced, open-source internet operating system. | `GitHub` |
 
 ----
 
