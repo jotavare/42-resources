@@ -677,6 +677,7 @@ Test your code with already-made all-in-one testers.
 | [push_swap_visualiser](https://github.com/Niimphu/push_swap_visualiser)                                            | `GitHub`  | `Niimphu` |
 | [Push-Swap-Tester](https://github.com/gemartin99/Push-Swap-Tester)                                                 | `GitHub`  | `gemartin99` |
 | [push_swap_tester](https://github.com/laisarena/push_swap_tester)                                                  | `GitHub`  | `laisarena` |
+| [push_swap_tester](https://github.com/SimonCROS/push_swap_tester) (benchmark)                                      | `GitHub`  | `SimonCROS` |
 | [push_swap_leak_tester](https://github.com/IDC87/push_swap_leak_tester)                                            | `GitHub`  | `IDC87` |
 | [Push Swap Visualizer and Number Generator](https://push-swap-visualizer.vercel.app)                               | `Website` | `vercel` |
 | [Number Generator](https://numbergenerator.org/randomnumbergenerator)                                              | `Website` | |
