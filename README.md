@@ -215,6 +215,7 @@ I recommend installing `Improved Intra 42`, an all-in-one extension for Chrome a
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
+| [42Project Compass](https://github.com/Matsadura/42Project_Compass) | Browser extension for Chrome to help navigate projects with clarity and confidence. | `GitHub` |
 | [Improved Intra 42](https://github.com/FreekBes/improved_intra) | Browser extension for Chrome and Firefox to enhance the Intra 42 experience.   | `GitHub` |
 | [Better Black Hole](https://github.com/jkctech/BetterBlackHole) | Extension available for Chrome and Firefox. Improves Black Hole functionality. | `GitHub` |
 
