@@ -7,7 +7,7 @@
 	<img src="https://img.shields.io/badge/score-42%20%2F%2042-success?color=%2312bab9&style=flat-square" />
 	<img src="https://img.shields.io/badge/links-+1150-1150?color=%2312bab9&style=flat-square" />
 	<img src="https://img.shields.io/github/last-commit/jotavare/42-resources?color=%2312bab9&style=flat-square" />
-	<a href='https://www.linkedin.com/in/joaoptoliveira' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+	<a href='https://www.linkedin.com/in/jotavare' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
@@ -25,7 +25,7 @@
 
 Here, you’ll find a set of resources that proved helpful during my time at 42 School, along with some interesting finds that, while not as useful for 42 specifically, are still worth exploring. Happy coding!
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/jotavare/42-resources/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. For details, see the [LICENSE](https://github.com/jotavare/42-resources/blob/main/LICENSE) file.
 
 > [!NOTE]
 > If you find any issues or have suggestions for improvements, feel free to open an issue, submit a pull request or contact me. Thank you to everyone who contributed!
