@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/status-ongoing-success?color=%2312bab9&style=flat-square" />
+	<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square" />
 	<img src="https://img.shields.io/badge/score-42%20%2F%2042-success?color=%2312bab9&style=flat-square" />
 	<img src="https://img.shields.io/badge/links-+1150-1150?color=%2312bab9&style=flat-square" />
 	<img src="https://img.shields.io/github/last-commit/jotavare/42-resources?color=%2312bab9&style=flat-square" />
-	<a href='https://www.linkedin.com/in/joaoptoliveira' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+	<a href='https://www.linkedin.com/in/jotavare' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-blue?style=flat-square'/></a>
 	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
@@ -25,14 +25,8 @@
 
 Here, you’ll find a set of resources that proved helpful during my time at 42 School, along with some interesting finds that, while not as useful for 42 specifically, are still worth exploring. Happy coding!
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/jotavare/42-resources/blob/main/LICENSE) file for details.
-
 > [!NOTE]
-> If you find any issues or have suggestions for improvements, feel free to open an issue, submit a pull request or contact me. Thank you to everyone who contributed!
-
-<a href="https://github.com/jotavare/42-resources/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=jotavare/42-resources" />
-</a>
+> This repository is finished and not open to changes. Thank you to everyone who contributed!
 
 - - - -
 
@@ -117,7 +111,7 @@ For a specific 42 school social media, check the section [Campuses](#---6) and c
 	<a href="#guides">Guides</a> •
 	<a href="#extensions">Extensions</a> •
 	<a href="#grammar">Grammar</a> •
-	<a href="#browser">Broswer</a> •
+	<a href="#browser">Browser</a> •
 	<a href="#apps">Apps</a> •
 	<a href="#readme">Readme</a> •
 	<a href="#productivity-software">Productivity</a> •
@@ -134,7 +128,7 @@ Websites that I found useful for studying 42 exams. Some are outdated but still 
 | [GradeMe](https://grademe.fr)                                                            | Simulate piscine and common core exams. | `Website` |
 | [Piscine and Common Core Exams](https://github.com/pasqualerossi)                        | Questions and solutions.                | `GitHub`  |
 | [Piscine Exams (outdated)](http://nigal.freeshell.org/42)                                | Questions and solutions.                | `Website` |
-| [Piscine Final Exam Exercices (outdated)](https://github.com/alanbarrett2/42-Final-Exam) | Final exam exercices resolution.        | `GitHub`  |
+| [Piscine Final Exam Exercises (outdated)](https://github.com/alanbarrett2/42-Final-Exam) | Final exam exercises resolution.        | `GitHub`  |
 | [Common Core Exams (outdated)](http://www.anit.az/?author=1)                             | Questions and solutions with mains.     | `Website` |
 
 ----
@@ -187,7 +181,7 @@ VS Code extensions to enhance your development experience.
 
 | Website | Description | Source |
 | :------ | :---------- | :----- |
-| [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format)                                           | Automaticly formats .c files with norm v3.                  | `Website` |
+| [42 C-Format](https://marketplace.visualstudio.com/items?itemName=keyhr.42-c-format)                                           | Automatically formats .c files with norm v3.                  | `Website` |
 | [42 ft count line](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line)                                 | Displays how many lines each function as.                   | `Website` |
 | [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)                                                 | 42 header integration in VS Code.                           | `Website` |
 | [42 Norminette](https://marketplace.visualstudio.com/items?itemName=dalexhd.42-norminette)                                     | This extension is a norminette decorator for 42 in VS Code. | `Website` |
@@ -1108,7 +1102,7 @@ Search the imprint left by your online activities.
 | [DeHashed](https://www.dehashed.com) | Offers free deep-web scans and guards against credential leaks. | `Website` |
 | [LeakCheck](https://leakcheck.io) | Engine to search for data breaches. | `Website` |
 | [Intelligence X](https://intelx.io) | Searches across Tor, I2P, data leaks, and the web using diverse parameters. | `Website` |
-| [Password Strenght](https://bitwarden.com/password-strength) | Checks password strength. | `Website` |
+| [Password Strength](https://bitwarden.com/password-strength) | Checks password strength. | `Website` |
 | [OSINT Framework](https://osintframework.com) | Gathers information from various free tools/resources. | `Website` |
 | [sherlock](https://github.com/sherlock-project/sherlock) | Locates social media accounts via usernames on multiple platforms. | `GitHub` |
 | [Password Game](https://neal.fun/password-game) | Engaging yet challenging password game. | `Website` |
