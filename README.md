@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_resources.png">
-</h1>
+</p>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/score-42%20%2F%2042-success?color=%2312bab9&style=flat-square" />
@@ -28,9 +28,9 @@ Here, you’ll find a set of resources that proved helpful during my time at 42 
 
 - - - -
 
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_information.png">
-</h1>
+</p>
 
 <p align="center">
 	<a href="#trivia">Trivia</a> •
@@ -98,9 +98,9 @@ For a specific 42 school social media, check the section [Campuses](#---6) and c
 
 - - - -
 
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_piscine_and_common_core.png">
-</h1>
+</p>
 
 <p align="center">
 	<a href="#exams">Exams</a> •
@@ -289,9 +289,9 @@ Resources of no particular order but that you should know.
 
 - - - -
 
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_common_core_projects.png">
-</h1>
+</p>
 
 <p align="center">
 	<a href="#subjects">Subjects</a> •
@@ -1011,9 +1011,9 @@ Test your code with already-made all-in-one testers.
 
 - - - -
 
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_cybersecurity.png">
-</h1>
+</p>
 
 <p align="center">
 	<a href="#crack-the-code">Crack the Code</a> •
@@ -1266,9 +1266,9 @@ Five elite security teams. Six never-before-told stories.
 
 - - - -
 
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_wikimedia_foundation.png">
-</h1>
+</p>
 
 <p align="center">
 	<a href="#--">Scroll To Top</a>
@@ -1298,9 +1298,9 @@ Five elite security teams. Six never-before-told stories.
 
 - - - -
 
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_campuses.png">
-</h1>
+</p>
 
 <p align="center">
 	<a href="#europe">Europe</a> •
@@ -1401,9 +1401,9 @@ Five elite security teams. Six never-before-told stories.
 
 - - - -
 
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_miscellaneous.png">
-</h1>
+</p>
 
 <p align="center">
 	<a href="#artificial-intelligence">Artificial Intelligence</a> •
